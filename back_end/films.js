@@ -88,10 +88,16 @@ function addMetaData(callback) {
 	var counter = 0, totalFilms = Object.keys(films).length;
 
 	for (var id in films) {
-		getFilmTMDB(id, function() {
+		var success = function() {
 			log('Film done ' + counter + ' / ' + totalFilms);
 			if (++counter === totalFilms) callback();
-		})
+		};
+
+		// Only fetch metadata for films that don't already have it
+		if (films[id].hasOwnProperty('metadata'))
+			success();
+		else
+			getFilmTMDB(id, success);
 	}
 }
 
