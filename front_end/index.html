@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Movies on Freeview</title>
+
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1"/>
+		<meta name="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		<meta name="HandheldFriendly" content="true"/>
+
+		<meta name="description" content=""/>
+
+		<meta property="og:image" content="./facebook.jpg">
+		<link rel="image_src" href="./facebook.jpg">
+
+		<link type="text/css" rel="stylesheet" media="all" href="./css/reset.css"/>
+		<link type="text/css" rel="stylesheet" media="all" href="./css/main.css"/>
+
+		<!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+	</head>
+
+	<body ng-app="myapp">
+		<div ng-controller="MyController">
+			<div id="controls" class="selfClearing" ng-class="{active: controlsActive}">
+				<button ng-click="controlsActive = !controlsActive;">Toggle controls</button>
+
+				<div>
+					<span>Sort:</span>
+					<button ng-click="predicate = 'title'; reverse = false;">Alphabetical</button>
+					<button ng-click="predicate = 'score'; reverse = true;" >Top Rated</button>
+					<button ng-click="predicate = 'year';  reverse = true;" >Newest</button>
+				</div>
+
+				<div>
+					<span>Filter by year:</span>
+					<input type="text" ng-model="minYear"/>
+					<input type="text" ng-model="maxYear"/>
+				</div>
+
+				<div>
+					<span>Filter by score:</span>
+					<input type="text" ng-model="minScore"/>
+					<input type="text" ng-model="maxScore"/>
+				</div>
+
+				<div>
+					<span>Filter by channels:</span>
+					<button ng-click="channelFilter = 'bbc';"  >BBC</button>
+					<button ng-click="channelFilter = 'itv';"  >ITV</button>
+					<button ng-click="channelFilter = 'four';" >Four</button>
+					<button ng-click="channelFilter = 'five';" >Five</button>
+					<button ng-click="channelFilter = 'other';">Other</button>
+				</div>
+
+				<div>
+					<span>Filter by day:</span>
+					<button ng-click="dayFilter = 'today';"   >Today</button>
+					<button ng-click="dayFilter = 'tomorrow';">Tomorrow</button>
+					<button ng-click="dayFilter = '7days';"   >Next 7 Days</button>
+				</div>
+
+				<div>
+					<span>Filter by decade:</span>
+					<button ng-click="decadeFilter = '40_50';">40s 50s</button>
+					<button ng-click="decadeFilter = '60_70';">60s 70s</button>
+					<button ng-click="decadeFilter = '80_90';">80s 90s</button>
+					<button ng-click="decadeFilter = '00_10';">00s 10s</button>
+				</div>
+			</div>
+
+			<div ng-show="!loaded" class="loading">Loading...</div>
+
+			<div id="results" class="selfClearing" ng-show="loaded">
+				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filter:greaterThanOrEqual('score', minScore) | filter:lessThanOrEqual('score', maxScore) | filter:greaterThanOrEqual('year', minYear) | filter:lessThanOrEqual('year', maxYear))" class="film">
+					<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster">
+						<div class="detail">
+							<div class="inner">
+								<h1>{{film.title}}</h1>
+								<p>Score: {{film.score}}</p>
+								<p>Duration: {{film.duration}}</p>
+								<p>Year: {{film.year}}</p>
+								<p><a href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{film.title}}+{{film.year}}+film&fulltext=Search" target="_blank">Wikipedia</a></p>
+								<p><a href="https://www.youtube.com/results?search_query={{film.title}}+{{film.year}}+film+trailer" target="_blank">YouTube</a></p>
+								<ul>
+									<li ng-repeat="showing in film.showings | orderBy:timestamp">
+										{{channels[showing.channel].title}} - {{showing.date}} - {{showing.start}}
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div ng-show="filtered.length === 0" class="noResults">No results!</div>
+			</div>
+		</div>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+
+		<script src="./js/main.js"></script>
+	</body>
+</html>

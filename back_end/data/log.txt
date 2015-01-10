@@ -1,0 +1,77 @@
+05/01/15 20:42:04.66:   Forcing an update now
+05/01/15 20:42:04.66:   Web server running on http://localhost:5000
+05/01/15 20:42:04.67:   Getting day 201501050000
+05/01/15 20:42:04.67:   Getting channel 1626
+05/01/15 20:42:04.67:   Getting channel 2082
+05/01/15 20:42:04.67:   Getting day 201501060000
+05/01/15 20:42:04.67:   Getting channel 1626
+05/01/15 20:42:04.67:   Getting channel 2082
+05/01/15 20:42:04.67:   Getting day 201501070000
+05/01/15 20:42:04.67:   Getting channel 1626
+05/01/15 20:42:04.67:   Getting channel 2082
+05/01/15 20:42:04.67:   Getting day 201501080000
+05/01/15 20:42:04.67:   Getting channel 1626
+05/01/15 20:42:04.68:   Getting channel 2082
+05/01/15 20:42:04.68:   Getting day 201501090000
+05/01/15 20:42:04.68:   Getting channel 1626
+05/01/15 20:42:04.68:   Getting channel 2082
+05/01/15 20:42:04.68:   Getting channel 1626
+05/01/15 20:42:04.68:   Getting day 201501100000
+05/01/15 20:42:04.69:   Getting day 201501110000
+05/01/15 20:42:04.69:   Getting channel 1626
+05/01/15 20:42:04.69:   Getting channel 2082
+05/01/15 20:42:04.69:   Getting channel 2082
+05/01/15 20:42:05.18:   Finished getting channel 0 / 2
+05/01/15 20:42:05.61:   Finished getting channel 1 / 2
+05/01/15 20:42:05.61:   Finished getting day 0 / 7
+05/01/15 20:42:06.05:   Finished getting channel 0 / 2
+05/01/15 20:42:06.50:   Finished getting channel 1 / 2
+05/01/15 20:42:06.50:   Finished getting day 1 / 7
+05/01/15 20:42:06.94:   Finished getting channel 0 / 2
+05/01/15 20:42:07.39:   Finished getting channel 1 / 2
+05/01/15 20:42:07.39:   Finished getting day 2 / 7
+05/01/15 20:42:07.83:   Finished getting channel 0 / 2
+05/01/15 20:42:08.26:   Finished getting channel 1 / 2
+05/01/15 20:42:08.26:   Finished getting day 3 / 7
+05/01/15 20:42:09.00:   Finished getting channel 0 / 2
+05/01/15 20:42:09.44:   Finished getting channel 1 / 2
+05/01/15 20:42:09.44:   Finished getting day 4 / 7
+05/01/15 20:42:09.89:   Finished getting channel 0 / 2
+05/01/15 20:42:10.31:   Finished getting channel 1 / 2
+05/01/15 20:42:10.31:   Finished getting day 5 / 7
+05/01/15 20:42:10.75:   Finished getting channel 0 / 2
+05/01/15 20:42:11.19:   Finished getting channel 1 / 2
+05/01/15 20:42:11.19:   Finished getting day 6 / 7
+05/01/15 20:42:11.19:   Adding metadata
+05/01/15 20:42:11.19:   Getting TMDB metadata for thirst2009
+05/01/15 20:42:11.20:   Getting TMDB metadata for survivingsummer2009
+05/01/15 20:42:11.19:   Got all films from Sky
+05/01/15 20:42:11.20:   Getting TMDB metadata for goodbyebafana2007
+05/01/15 20:42:11.20:   Getting TMDB metadata for ghostdogthewayof1999
+05/01/15 20:42:11.20:   Getting TMDB metadata for dinnerforschmucks2010
+05/01/15 20:42:11.20:   Getting TMDB metadata for awaywego2009
+05/01/15 20:42:11.20:   Getting TMDB metadata for littlefockers2010
+05/01/15 20:42:11.21:   Getting TMDB metadata for ferrisbuellersdayoff1986
+05/01/15 20:42:11.21:   Getting TMDB metadata for badteacher2011
+05/01/15 20:42:11.21:   Getting TMDB metadata for cocktail1988
+05/01/15 20:42:11.21:   Getting TMDB metadata for astroboy2009
+05/01/15 20:42:11.21:   Getting TMDB metadata for theprincessdiaries2001
+05/01/15 20:42:11.21:   Getting TMDB metadata for machinegunpreacher2011
+05/01/15 20:42:11.21:   Getting TMDB metadata for kevinandperrygolarge2000
+05/01/15 20:42:11.21:   Getting TMDB metadata for shrek22004
+05/01/15 20:42:11.83:   Film done 0 / 15
+05/01/15 20:42:11.84:   Film done 1 / 15
+05/01/15 20:42:12.38:   Film done 2 / 15
+05/01/15 20:42:12.41:   Film done 3 / 15
+05/01/15 20:42:12.97:   Film done 4 / 15
+05/01/15 20:42:12.98:   Film done 5 / 15
+05/01/15 20:42:13.52:   Film done 6 / 15
+05/01/15 20:42:13.77:   Film done 7 / 15
+05/01/15 20:42:14.10:   Film done 8 / 15
+05/01/15 20:42:14.34:   Film done 9 / 15
+05/01/15 20:42:14.68:   Film done 10 / 15
+05/01/15 20:42:14.91:   Film done 11 / 15
+05/01/15 20:42:15.26:   Film done 12 / 15
+05/01/15 20:42:15.49:   Film done 13 / 15
+05/01/15 20:42:15.84:   Film done 14 / 15
+05/01/15 20:42:15.84:   All done!

@@ -1,0 +1,254 @@
+{
+    "ferrisbuellersdayoff1986": {
+        "title": "Ferris Bueller's Day Off",
+        "description": "(1986) Classic comedy. Matthew Broderick stars as the truant Ferris, enjoying a day of freedom, along with his buddy (Alan Ruck) and girlfriend (Mia Sara) and his dad's red Ferrari.",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "10/01/15",
+                "timestamp": "1420848600000",
+                "start": "00:10"
+            }
+        ],
+        "year": "1986",
+        "score": 6.8,
+        "tmdb_id": 9377,
+        "poster": "/ulvpwOXKmPvrFPBGbWU1gmW0ms5.jpg",
+        "metadata": true
+    },
+    "badteacher2011": {
+        "title": "Bad Teacher",
+        "description": "(2011) Outrageous comedy. Cameron Diaz plays a teacher who tries to raise money to pay for surgical enhancements so she can seduce a supply teacher (Justin Timberlake). Sex/strong language.",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "10/01/15",
+                "timestamp": "1420923600000",
+                "start": "21:00"
+            }
+        ],
+        "year": "2011",
+        "score": 5.4,
+        "tmdb_id": 52449,
+        "poster": "/ejTcAKe5F3zsvU9GXyl2ODAhkWl.jpg",
+        "metadata": true
+    },
+    "cocktail1988": {
+        "title": "Cocktail",
+        "description": "(1988) Drama. Tom Cruise stars as a red-hot barman who is torn between a rich socialite (Lisa Banes) and his true love (Elisabeth Shue), and consequently risks losing both. Strong language.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "10/01/15",
+                "timestamp": "1420933800000",
+                "start": "23:50"
+            },
+            {
+                "channel": "1626",
+                "date": "10/01/15",
+                "timestamp": "1420933800000",
+                "start": "23:50"
+            }
+        ],
+        "year": "1988",
+        "score": 1,
+        "tmdb_id": 7520,
+        "poster": "/yT5OPWfdZGxxLYYn7qaVgt4GXvy.jpg",
+        "metadata": true
+    },
+    "astroboy2009": {
+        "title": "Astro Boy",
+        "description": "(2009) Family animation about a robot boy with amazing powers. Abandoned by his creator, he first fends for himself and then attempts to save Earth from an evil force.",
+        "duration": 1.75,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "11/01/15",
+                "timestamp": "1420983000000",
+                "start": "13:30"
+            }
+        ],
+        "year": "2009",
+        "score": 6.1,
+        "tmdb_id": 16577,
+        "poster": "/4kQczIhUFTnDWwG6HKsgCxLoi6.jpg",
+        "metadata": true
+    },
+    "theprincessdiaries2001": {
+        "title": "The Princess Diaries",
+        "description": "(2001) Family comedy. Anne Hathaway stars as an ordinary high school girl who suddenly finds out that she is, in fact, a princess. But will she be accepted by the country she now rules?",
+        "duration": 2.25,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "11/01/15",
+                "timestamp": "1420989300000",
+                "start": "15:15"
+            }
+        ],
+        "year": "2001",
+        "score": 5.8,
+        "tmdb_id": 9880,
+        "poster": "/A3MEJcxjr0iOjTMsQSCNTc1B4E2.jpg",
+        "metadata": true
+    },
+    "machinegunpreacher2011": {
+        "title": "Machine Gun Preacher",
+        "description": "(2011) Fact-based, violent drama. Gerard Butler plays a hardened criminal who finds God and relocates to war-ravaged Sudan to dispense his own unique brand of charity. Strong language.",
+        "duration": 2.42,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "11/01/15",
+                "timestamp": "1421017500000",
+                "start": "23:05"
+            },
+            {
+                "channel": "1626",
+                "date": "11/01/15",
+                "timestamp": "1421017500000",
+                "start": "23:05"
+            }
+        ],
+        "year": "2011",
+        "score": 6.6,
+        "tmdb_id": 45610,
+        "poster": "/1gEP9ZC7jpSiuMWNfbOfXTWWF5n.jpg",
+        "metadata": true
+    },
+    "kevinandperrygolarge2000": {
+        "title": "Kevin and Perry Go Large",
+        "description": "TV comedy spin-off. Two teenagers (Harry Enfield and Kathy Burke), desperate for musical fame and to lose their virginities, head off to Ibiza. Contains some strong language.  [HD] [2000] [S]",
+        "duration": 1.25,
+        "showings": [
+            {
+                "channel": "2082",
+                "date": "11/01/15",
+                "timestamp": "1420939200000",
+                "start": "01:20"
+            }
+        ],
+        "year": "2000",
+        "score": 0,
+        "tmdb_id": 10597,
+        "poster": "/67EVaHuT1wvGatdZ7U4Ncfix6tP.jpg",
+        "metadata": true
+    },
+    "shrek22004": {
+        "title": "Shrek 2",
+        "description": "Animated sequel following the grumpy ogre (voiced by Mike Myers) and his bride as they head off to meet her parents. The occasion is marred by a wicked fairy godmother. [HD] [2004] [AD,S]",
+        "duration": 1.33,
+        "showings": [
+            {
+                "channel": "2082",
+                "date": "11/01/15",
+                "timestamp": "1420992600000",
+                "start": "16:10"
+            }
+        ],
+        "year": "2004",
+        "score": 6.3,
+        "tmdb_id": 809,
+        "poster": "/akWDA0BMVYK4OTM92T5i91DYnsT.jpg",
+        "metadata": true
+    },
+    "thehistoryofmrpolly1949": {
+        "title": "The History of Mr. Polly",
+        "description": "(1949) Drama. Anthony Pelissier's adaptation of the HG Wells story stars John Mills as a humble clerk who deserts his wife and goes off to find happiness as the handyman at a country inn.",
+        "duration": 1.67,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "12/01/15",
+                "timestamp": "1421029500000",
+                "start": "02:25"
+            }
+        ],
+        "year": "1949",
+        "score": 0,
+        "tmdb_id": 81679,
+        "poster": "/qP9qXmKouFWHuvne4RusacJoGFe.jpg",
+        "metadata": true
+    },
+    "klute1971": {
+        "title": "Klute",
+        "description": "A small-town private eye's friend disappears and the only clue is his connection with a call girl. Starring Jane Fonda and Donald Sutherland. Contains some strong language.  [1971] [AD,S]",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "2082",
+                "date": "13/01/15",
+                "timestamp": "1421108400000",
+                "start": "00:20"
+            }
+        ],
+        "year": "1971",
+        "score": 0,
+        "tmdb_id": 466,
+        "poster": "/iGDLuobpNav5f279MUY8WGkuGoP.jpg",
+        "metadata": true
+    },
+    "madcity1997": {
+        "title": "Mad City",
+        "description": "Dramatic critique of the modern media. A disgruntled ex-employee attempts to get his job back by taking over a building at gunpoint. Contains some strong language.  [1997] [S]",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "2082",
+                "date": "13/01/15",
+                "timestamp": "1421193000000",
+                "start": "23:50"
+            },
+            {
+                "channel": "2082",
+                "date": "13/01/15",
+                "timestamp": "1421193000000",
+                "start": "23:50"
+            }
+        ],
+        "year": "1997",
+        "score": 0,
+        "tmdb_id": 9770,
+        "poster": "/41MR4pd7qJRZMf3zBTiFCr03d3m.jpg",
+        "metadata": true
+    },
+    "thegirlnextdoor2004": {
+        "title": "The Girl Next Door",
+        "description": "(2004) US teen comedy. Elisha Cuthbert plays a former porn star who turns an ambitious student's (Emile Hirsch) world upside down when she moves in next door. Strong language/sexual scenes. [SL]",
+        "duration": 1.75,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "15/01/15",
+                "timestamp": "1421286600000",
+                "start": "01:50"
+            }
+        ],
+        "year": "2004",
+        "score": 6.1,
+        "tmdb_id": 10591,
+        "poster": "/qKr9OV9F05clqVyPCULwB3KKJzP.jpg",
+        "metadata": true
+    },
+    "keepingupwiththesteins2006": {
+        "title": "Keeping Up with the Steins",
+        "description": "Comedy starring Daryl Sabara. A 13-year-old Jewish boy facing his Bar Mitzvah tries to figure out what it means to be a man. Contains some strong language.  [HD] [2006] [S]",
+        "duration": 1.33,
+        "showings": [
+            {
+                "channel": "2082",
+                "date": "15/01/15",
+                "timestamp": "1421282100000",
+                "start": "00:35"
+            }
+        ],
+        "year": "2006",
+        "score": 0,
+        "tmdb_id": 21014,
+        "poster": "/cfTOe5FnZy6wfKaqbk1AnoSUGm0.jpg",
+        "metadata": true
+    }
+}

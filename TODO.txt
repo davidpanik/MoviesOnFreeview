@@ -1,0 +1,27 @@
+BACK-END
+Only add new days
+Switch to using Promises
+Avoid duplicate showings
+Handle-split showings
+
+
+FRONT-END
+Write custom filter
+Add detail view?
+Add channel filtering
+Add showtime filter
+Add icons
+
+
+
+
+
+USEFUL LINKS
+
+// http://tv.sky.com/tv-guide
+// https://github.com/glynnbird/skyphp/blob/master/includes/Sky.php
+// http://www.gladdy.uk/blog/2013/05/15/skyhd-dnla-skyplay2skyplay-endpoint-update/
+// http://pydoc.net/Python/skypy/1.1/skypy.config/
+// https://github.com/Floppy/tv_grab_uk_sky/blob/master/tv_grab_uk_sky
+// https://tvheadend.org/boards/5/topics/11130
+// http://epgservices.sky.com/tvlistings-proxy/TVListingsProxy/tvlistings.json?detail=2&dur=2880&time=201412280000&channels=2076,2006

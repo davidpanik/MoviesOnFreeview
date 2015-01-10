@@ -1,0 +1,22 @@
+{
+	"name": "movies-on-freeview",
+	"version": "0.1.0-3",
+	"devDependencies": {},
+	"dependencies": {
+		"express": "latest",
+		"request": "latest",
+		"prettyjson": "latest",
+		"moment": "latest",
+		"assert": "latest",
+		"tingodb": "latest",
+		"nedb": "latest",
+		"cron": "latest"
+	},
+	"subdomain": "movies-on-freeview",
+	"scripts": {
+		"start": "node start.js"
+	},
+	"engines": {
+		"node": "0.10.x"
+	}
+}
