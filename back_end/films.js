@@ -10,6 +10,7 @@ var store      = require('./helpers/store');
 var cron       = require('./helpers/cron');
 var log        = require('./helpers/log');
 var moment     = require('moment');
+var Q          = require('q');
 
 var films = {};
 var latestDay;
@@ -26,26 +27,28 @@ module.exports = function(runImmediately) {
 function updateData() {
 	log('reset'); // Reset the log file
 
-	getCurrentData(function() {
-		removeOldData(function() {
-			getFilmsFromSky(function() {
-				addMetaData(function() {
-					done();
-				});
-			});
-		});
-	});
+	getCurrentData()
+	.then(removeOldData)
+	.then(getFilmsFromSky)
+	.then(addMetaData)
+	.then(done);
 }
 
-function getCurrentData(callback) {
+function getCurrentData() {
+	var deferred = Q.defer();
+
 	store.get(function(data) {
 		films = data;
 
-		callback();
+		deferred.resolve();
 	});
+
+	return deferred.promise;
 }
 
-function removeOldData(callback) {	
+function removeOldData() {	
+	var deferred = Q.defer();
+
 	var today = moment(moment().format('YYYYMMDD') + '0000', 'YYYYMMDDHHMM');
 	latestDay = today.clone();
 
@@ -66,10 +69,14 @@ function removeOldData(callback) {
 		}
 	}
 
-	callback();
+	deferred.resolve();
+
+	return deferred.promise;
 }
 
-function getFilmsFromSky(callback) {
+function getFilmsFromSky() {
+	var deferred = Q.defer();
+
 	sky(
 		films,
 		latestDay,
@@ -77,12 +84,16 @@ function getFilmsFromSky(callback) {
 			log('Got all films from Sky')
 			films = skyFilms;
 
-			callback();
+			deferred.resolve();
 		}
 	);
+
+	return deferred.promise;
 }
 
-function addMetaData(callback) {
+function addMetaData() {
+	var deferred = Q.defer();
+
 	log('Adding metadata');
 
 	var counter = 0, totalFilms = Object.keys(films).length;
@@ -90,18 +101,22 @@ function addMetaData(callback) {
 	for (var id in films) {
 		var success = function() {
 			log('Film done ' + counter + ' / ' + totalFilms);
-			if (++counter === totalFilms) callback();
+			if (++counter === totalFilms) deferred.resolve();
 		};
 
 		// Only fetch metadata for films that don't already have it
 		if (films[id].hasOwnProperty('metadata'))
 			success();
 		else
-			getFilmTMDB(id, success);
+			getFilmTMDB(id).then(success);
 	}
+
+	return deferred.promise;
 }
 
 function getFilmRotten(id, callback) {
+	var deferred = Q.defer();
+
 	log('Getting Rotten metadata for ' + id);
 
 	rotten(films[id].title, films[id].year, function(film) {
@@ -110,11 +125,15 @@ function getFilmRotten(id, callback) {
 			films[id][x] = film[x];
 		}
 
-		callback();
+		deferred.resolve();
 	});
+
+	return deferred.promise;
 }
 
 function getFilmTMDB(id, callback) {
+	var deferred = Q.defer();
+
 	log('Getting TMDB metadata for ' + id);
 
 	tmdb(films[id].title, + films[id].year, function(film) {
@@ -123,8 +142,10 @@ function getFilmTMDB(id, callback) {
 			films[id][x] = film[x];
 		}
 
-		callback();
+		deferred.resolve();
 	});
+
+	return deferred.promise;
 }
 
 function done() {

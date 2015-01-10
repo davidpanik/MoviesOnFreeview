@@ -1,6 +1,6 @@
 {
 	"name": "movies-on-freeview",
-	"version": "0.1.0-3",
+	"version": "0.1.0-4",
 	"devDependencies": {},
 	"dependencies": {
 		"express": "latest",
@@ -10,7 +10,8 @@
 		"assert": "latest",
 		"tingodb": "latest",
 		"nedb": "latest",
-		"cron": "latest"
+		"cron": "latest",
+		"q": "latest"
 	},
 	"subdomain": "movies-on-freeview",
 	"scripts": {
