@@ -18,6 +18,8 @@ module.exports = function(existingFilms, latestDay, callback) {
 		channelIds.push(x);
 	}
 
+	films = existingFilms;
+
 	getDays(channelIds, 7);
 
 	function getDays(channels, days) {
@@ -28,10 +30,17 @@ module.exports = function(existingFilms, latestDay, callback) {
 
 		for (var x = 0; x < days; x++) {
 			if (x !== 0) date.add(1, 'day');
-			getDay(channels, date.format('YYYYMMDD') + '0000', function() {
+			var newDay = date.format('YYYYMMDD') + '0000';
+
+			var success = function() {
 				log('Finished getting day ' + counter + ' / ' + days);
 				if (++counter === days) callback(films);
-			});
+			};
+
+			if (newDay > latestDay)
+				getDay(channels, newDay, success);
+			else
+				success();
 		}
 	}
 
