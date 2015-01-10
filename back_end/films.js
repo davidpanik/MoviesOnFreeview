@@ -15,11 +15,11 @@ var films = {};
 var latestDay;
 
 
-module.exports = function() {
+module.exports = function(runImmediately) {
 	cron(
 		'00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
 		updateData,
-		false // Run the job immediately?
+		runImmediately // Run the job immediately?
 	)
 };
 
