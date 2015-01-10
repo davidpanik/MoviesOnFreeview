@@ -1,7 +1,6 @@
 BACK-END
 Only add new days
 Switch to using Promises
-Avoid duplicate showings
 Handle-split showings
 
 

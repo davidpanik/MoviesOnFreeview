@@ -99,13 +99,28 @@ module.exports = function(existingFilms, latestDay, callback) {
 							}
 						}
 
-						// Register this showing time
-						films[id].showings.push({
-							channel:   program.channelid,
-							date:      program.date,
-							timestamp: program.start,
-							start:     moment(parseInt(program.start)).format('HH:mm')
-						});
+						function showingExists(showings, newShowing) {
+							for (var x = 0, length = showings.length; x < length; x++) {
+								if (
+									showings[x].channelid == newShowing.channelid &&
+									showings[x].start     == newShowing.start
+								)
+									return true;
+							}
+
+							return false;
+						}
+
+						// Check this isn't a duplicte showing
+						if (!showingExists(films[id].showings, program)) {
+							// Register this showing time
+							films[id].showings.push({
+								channel:   program.channelid,
+								date:      program.date,
+								timestamp: program.start,
+								start:     moment(parseInt(program.start)).format('HH:mm')
+							});
+						}
 					}
 				}
 			}
