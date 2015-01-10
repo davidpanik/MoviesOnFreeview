@@ -1,5 +1,4 @@
 BACK-END
-Only add new days
 Switch to using Promises
 Handle-split showings
 
