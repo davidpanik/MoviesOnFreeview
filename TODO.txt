@@ -1,6 +1,7 @@
 BACK-END
 Switch to using Promises
 Handle-split showings
+Check daily update is working
 
 
 FRONT-END
