@@ -37,7 +37,7 @@ module.exports = function(existingFilms, latestDay, callback) {
 				if (++counter === days) callback(films);
 			};
 
-			if (newDay > latestDay)
+			if (newDay >= latestDay)
 				getDay(channels, newDay, success);
 			else
 				success();
@@ -82,7 +82,7 @@ module.exports = function(existingFilms, latestDay, callback) {
 					var program = channel.program[y];
 
 					// Is this program a film?
-					if (program.genre == 6) {						
+					if (program.genre == 6) {
 						// Attempt to extract a year from the description
 						var year = '';
 						var position = program.shortDesc.search(/\d{4}/);
