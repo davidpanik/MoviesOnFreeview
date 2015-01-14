@@ -37,6 +37,8 @@ function updateData() {
 function getCurrentData() {
 	var deferred = Q.defer();
 
+	log('Get current data');
+
 	store.get(function(data) {
 		films = data;
 
@@ -49,15 +51,17 @@ function getCurrentData() {
 function removeOldData() {	
 	var deferred = Q.defer();
 
-	var today = moment(moment().format('YYYYMMDD') + '0000', 'YYYYMMDDHHMM');
+	log('Remove old data');
+
+	var today = moment().startOf('day');
 	latestDay = today.clone();
 
 	for (var film in films) {
 		for (var x = 0; x < films[film].showings.length; x++) {
-			var showingTime = moment(films[film].showings[x].date, 'DD/MM/YY');
+			var showingTime = moment(films[film].showings[x].date, 'DD/MM/YY').startOf('day');
 
 			if (showingTime < today) { // Remove past showings
-				films.splice(x, 1);
+				films[film].showings.splice(x, 1);
 			} else if (showingTime > latestDay) {
 				latestDay = showingTime.clone();
 			}
@@ -77,6 +81,8 @@ function removeOldData() {
 function getFilmsFromSky() {
 	var deferred = Q.defer();
 
+	log('Get films from sky');
+
 	sky(
 		films,
 		latestDay,
@@ -94,13 +100,13 @@ function getFilmsFromSky() {
 function addMetaData() {
 	var deferred = Q.defer();
 
-	log('Adding metadata');
+	log('Add metadata');
 
 	var counter = 0, totalFilms = Object.keys(films).length;
 
 	for (var id in films) {
 		var success = function() {
-			log('Film done ' + counter + ' / ' + totalFilms);
+			// log('Film done ' + counter + ' / ' + totalFilms);
 			if (++counter === totalFilms) deferred.resolve();
 		};
 

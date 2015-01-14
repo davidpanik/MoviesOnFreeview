@@ -1,77 +1,433 @@
-05/01/15 20:42:04.66:   Forcing an update now
-05/01/15 20:42:04.66:   Web server running on http://localhost:5000
-05/01/15 20:42:04.67:   Getting day 201501050000
-05/01/15 20:42:04.67:   Getting channel 1626
-05/01/15 20:42:04.67:   Getting channel 2082
-05/01/15 20:42:04.67:   Getting day 201501060000
-05/01/15 20:42:04.67:   Getting channel 1626
-05/01/15 20:42:04.67:   Getting channel 2082
-05/01/15 20:42:04.67:   Getting day 201501070000
-05/01/15 20:42:04.67:   Getting channel 1626
-05/01/15 20:42:04.67:   Getting channel 2082
-05/01/15 20:42:04.67:   Getting day 201501080000
-05/01/15 20:42:04.67:   Getting channel 1626
-05/01/15 20:42:04.68:   Getting channel 2082
-05/01/15 20:42:04.68:   Getting day 201501090000
-05/01/15 20:42:04.68:   Getting channel 1626
-05/01/15 20:42:04.68:   Getting channel 2082
-05/01/15 20:42:04.68:   Getting channel 1626
-05/01/15 20:42:04.68:   Getting day 201501100000
-05/01/15 20:42:04.69:   Getting day 201501110000
-05/01/15 20:42:04.69:   Getting channel 1626
-05/01/15 20:42:04.69:   Getting channel 2082
-05/01/15 20:42:04.69:   Getting channel 2082
-05/01/15 20:42:05.18:   Finished getting channel 0 / 2
-05/01/15 20:42:05.61:   Finished getting channel 1 / 2
-05/01/15 20:42:05.61:   Finished getting day 0 / 7
-05/01/15 20:42:06.05:   Finished getting channel 0 / 2
-05/01/15 20:42:06.50:   Finished getting channel 1 / 2
-05/01/15 20:42:06.50:   Finished getting day 1 / 7
-05/01/15 20:42:06.94:   Finished getting channel 0 / 2
-05/01/15 20:42:07.39:   Finished getting channel 1 / 2
-05/01/15 20:42:07.39:   Finished getting day 2 / 7
-05/01/15 20:42:07.83:   Finished getting channel 0 / 2
-05/01/15 20:42:08.26:   Finished getting channel 1 / 2
-05/01/15 20:42:08.26:   Finished getting day 3 / 7
-05/01/15 20:42:09.00:   Finished getting channel 0 / 2
-05/01/15 20:42:09.44:   Finished getting channel 1 / 2
-05/01/15 20:42:09.44:   Finished getting day 4 / 7
-05/01/15 20:42:09.89:   Finished getting channel 0 / 2
-05/01/15 20:42:10.31:   Finished getting channel 1 / 2
-05/01/15 20:42:10.31:   Finished getting day 5 / 7
-05/01/15 20:42:10.75:   Finished getting channel 0 / 2
-05/01/15 20:42:11.19:   Finished getting channel 1 / 2
-05/01/15 20:42:11.19:   Finished getting day 6 / 7
-05/01/15 20:42:11.19:   Adding metadata
-05/01/15 20:42:11.19:   Getting TMDB metadata for thirst2009
-05/01/15 20:42:11.20:   Getting TMDB metadata for survivingsummer2009
-05/01/15 20:42:11.19:   Got all films from Sky
-05/01/15 20:42:11.20:   Getting TMDB metadata for goodbyebafana2007
-05/01/15 20:42:11.20:   Getting TMDB metadata for ghostdogthewayof1999
-05/01/15 20:42:11.20:   Getting TMDB metadata for dinnerforschmucks2010
-05/01/15 20:42:11.20:   Getting TMDB metadata for awaywego2009
-05/01/15 20:42:11.20:   Getting TMDB metadata for littlefockers2010
-05/01/15 20:42:11.21:   Getting TMDB metadata for ferrisbuellersdayoff1986
-05/01/15 20:42:11.21:   Getting TMDB metadata for badteacher2011
-05/01/15 20:42:11.21:   Getting TMDB metadata for cocktail1988
-05/01/15 20:42:11.21:   Getting TMDB metadata for astroboy2009
-05/01/15 20:42:11.21:   Getting TMDB metadata for theprincessdiaries2001
-05/01/15 20:42:11.21:   Getting TMDB metadata for machinegunpreacher2011
-05/01/15 20:42:11.21:   Getting TMDB metadata for kevinandperrygolarge2000
-05/01/15 20:42:11.21:   Getting TMDB metadata for shrek22004
-05/01/15 20:42:11.83:   Film done 0 / 15
-05/01/15 20:42:11.84:   Film done 1 / 15
-05/01/15 20:42:12.38:   Film done 2 / 15
-05/01/15 20:42:12.41:   Film done 3 / 15
-05/01/15 20:42:12.97:   Film done 4 / 15
-05/01/15 20:42:12.98:   Film done 5 / 15
-05/01/15 20:42:13.52:   Film done 6 / 15
-05/01/15 20:42:13.77:   Film done 7 / 15
-05/01/15 20:42:14.10:   Film done 8 / 15
-05/01/15 20:42:14.34:   Film done 9 / 15
-05/01/15 20:42:14.68:   Film done 10 / 15
-05/01/15 20:42:14.91:   Film done 11 / 15
-05/01/15 20:42:15.26:   Film done 12 / 15
-05/01/15 20:42:15.49:   Film done 13 / 15
-05/01/15 20:42:15.84:   Film done 14 / 15
-05/01/15 20:42:15.84:   All done!
+14/01/15 21:24:29.25:   Forcing an update now
+14/01/15 21:24:29.25:   Get current data
+14/01/15 21:24:29.25:   Web server running on http://localhost:5000
+14/01/15 21:24:29.27:   Remove old data
+14/01/15 21:24:29.33:   Get films from sky
+14/01/15 21:24:29.33:   Already have this day
+14/01/15 21:24:29.33:   Finished getting day 0 / 7
+14/01/15 21:24:29.33:   Finished getting day 1 / 7
+14/01/15 21:24:29.33:   Already have this day
+14/01/15 21:24:29.33:   Finished getting day 2 / 7
+14/01/15 21:24:29.33:   Finished getting day 3 / 7
+14/01/15 21:24:29.33:   Already have this day
+14/01/15 21:24:29.33:   Finished getting day 4 / 7
+14/01/15 21:24:29.33:   Already have this day
+14/01/15 21:24:29.33:   Already have this day
+14/01/15 21:24:29.33:   Getting day 201501190000
+14/01/15 21:24:29.33:   Getting channel 1621
+14/01/15 21:24:29.33:   Getting channel 1627
+14/01/15 21:24:29.33:   Getting channel 1628
+14/01/15 21:24:29.33:   Retrieving new day
+14/01/15 21:24:29.33:   Getting channel 1626
+14/01/15 21:24:29.34:   Getting channel 1675
+14/01/15 21:24:29.33:   Getting channel 1629
+14/01/15 21:24:29.34:   Getting channel 1830
+14/01/15 21:24:29.34:   Getting channel 1839
+14/01/15 21:24:29.34:   Getting channel 1670
+14/01/15 21:24:29.34:   Getting channel 2002
+14/01/15 21:24:29.34:   Getting channel 2005
+14/01/15 21:24:29.34:   Getting channel 2006
+14/01/15 21:24:29.34:   Getting channel 2015
+14/01/15 21:24:29.34:   Getting channel 1832
+14/01/15 21:24:29.34:   Getting channel 1836
+14/01/15 21:24:29.35:   Getting channel 2061
+14/01/15 21:24:29.35:   Getting channel 2074
+14/01/15 21:24:29.35:   Getting channel 2076
+14/01/15 21:24:29.35:   Getting channel 2082
+14/01/15 21:24:29.34:   Getting channel 2017
+14/01/15 21:24:29.35:   Getting channel 2073
+14/01/15 21:24:29.34:   Getting channel 2016
+14/01/15 21:24:29.35:   Getting channel 2102
+14/01/15 21:24:29.35:   Getting channel 2105
+14/01/15 21:24:29.35:   Getting channel 2151
+14/01/15 21:24:29.35:   Getting channel 2101
+14/01/15 21:24:29.35:   Getting channel 2153
+14/01/15 21:24:29.35:   Getting channel 2154
+14/01/15 21:24:29.35:   Getting channel 2156
+14/01/15 21:24:29.35:   Getting channel 2103
+14/01/15 21:24:29.35:   Getting channel 3028
+14/01/15 21:24:29.35:   Getting channel 3220
+14/01/15 21:24:29.35:   Getting channel 3150
+14/01/15 21:24:29.35:   Getting channel 3541
+14/01/15 21:24:29.36:   Getting channel 3605
+14/01/15 21:24:29.35:   Getting channel 2155
+14/01/15 21:24:29.35:   Getting channel 3300
+14/01/15 21:24:29.35:   Getting channel 3310
+14/01/15 21:24:29.35:   Getting channel 3023
+14/01/15 21:24:29.35:   Getting channel 2106
+14/01/15 21:24:29.35:   Getting channel 2104
+14/01/15 21:24:29.35:   Getting channel 3027
+14/01/15 21:24:29.36:   Getting channel 4502
+14/01/15 21:24:29.36:   Getting channel 4610
+14/01/15 21:24:29.36:   Getting channel 3617
+14/01/15 21:24:29.36:   Getting channel 3708
+14/01/15 21:24:29.36:   Getting channel 3643
+14/01/15 21:24:29.34:   Getting channel 2003
+14/01/15 21:24:29.35:   Getting channel 3022
+14/01/15 21:24:29.36:   Getting day 201501200000
+14/01/15 21:24:29.36:   Getting channel 1626
+14/01/15 21:24:29.36:   Getting channel 1621
+14/01/15 21:24:29.36:   Getting channel 5201
+14/01/15 21:24:29.36:   Getting channel 1675
+14/01/15 21:24:29.36:   Getting channel 1839
+14/01/15 21:24:29.36:   Getting channel 1627
+14/01/15 21:24:29.36:   Getting channel 6261
+14/01/15 21:24:29.36:   Getting channel 1832
+14/01/15 21:24:29.36:   Getting channel 2018
+14/01/15 21:24:29.36:   Getting channel 6240
+14/01/15 21:24:29.36:   Getting channel 6272
+14/01/15 21:24:29.36:   Getting channel 6260
+14/01/15 21:24:29.36:   Getting channel 2006
+14/01/15 21:24:29.36:   Getting channel 2074
+14/01/15 21:24:29.36:   Getting channel 2016
+14/01/15 21:24:29.36:   Getting channel 2015
+14/01/15 21:24:29.36:   Getting channel 2102
+14/01/15 21:24:29.36:   Getting channel 2101
+14/01/15 21:24:29.37:   Getting channel 2151
+14/01/15 21:24:29.36:   Getting channel 6274
+14/01/15 21:24:29.36:   Getting channel 2004
+14/01/15 21:24:29.36:   Retrieving new day
+14/01/15 21:24:29.37:   Getting channel 3023
+14/01/15 21:24:29.37:   Getting channel 3027
+14/01/15 21:24:29.37:   Getting channel 2156
+14/01/15 21:24:29.37:   Getting channel 2153
+14/01/15 21:24:29.37:   Getting channel 3605
+14/01/15 21:24:29.37:   Getting channel 2104
+14/01/15 21:24:29.36:   Getting channel 5338
+14/01/15 21:24:29.37:   Getting channel 6241
+14/01/15 21:24:29.37:   Getting channel 3150
+14/01/15 21:24:29.36:   Getting channel 1830
+14/01/15 21:24:29.36:   Getting channel 2002
+14/01/15 21:24:29.37:   Getting channel 4610
+14/01/15 21:24:29.36:   Getting channel 2005
+14/01/15 21:24:29.37:   Getting channel 6260
+14/01/15 21:24:29.37:   Getting channel 3220
+14/01/15 21:24:29.36:   Getting channel 2017
+14/01/15 21:24:29.36:   Getting channel 2061
+14/01/15 21:24:29.37:   Getting channel 5338
+14/01/15 21:24:29.37:   Getting channel 6000
+14/01/15 21:24:29.37:   Getting channel 2105
+14/01/15 21:24:29.36:   Getting channel 1836
+14/01/15 21:24:29.37:   Getting channel 3310
+14/01/15 21:24:29.37:   Getting channel 6274
+14/01/15 21:24:29.37:   Getting channel 3709
+14/01/15 21:24:29.37:   Getting channel 3617
+14/01/15 21:24:29.37:   Getting channel 2154
+14/01/15 21:24:29.37:   Getting channel 3340
+14/01/15 21:24:29.37:   Getting channel 4075
+14/01/15 21:24:29.37:   Getting channel 4266
+14/01/15 21:24:29.35:   Getting channel 2075
+14/01/15 21:24:29.36:   Getting channel 4075
+14/01/15 21:24:29.35:   Getting channel 2086
+14/01/15 21:24:29.37:   Getting channel 3708
+14/01/15 21:24:29.36:   Getting channel 1670
+14/01/15 21:24:29.35:   Getting channel 3340
+14/01/15 21:24:29.37:   Getting channel 5201
+14/01/15 21:24:29.36:   Getting channel 2086
+14/01/15 21:24:29.37:   Getting channel 3022
+14/01/15 21:24:29.37:   Getting channel 6261
+14/01/15 21:24:29.36:   Getting channel 2076
+14/01/15 21:24:29.35:   Getting channel 2077
+14/01/15 21:24:29.36:   Getting channel 3709
+14/01/15 21:24:29.36:   Getting channel 2082
+14/01/15 21:24:29.37:   Getting channel 2152
+14/01/15 21:24:29.36:   Getting channel 2075
+14/01/15 21:24:29.36:   Getting channel 2077
+14/01/15 21:24:29.36:   Getting channel 3721
+14/01/15 21:24:29.36:   Getting channel 4266
+14/01/15 21:24:29.36:   Getting channel 1628
+14/01/15 21:24:29.37:   Getting channel 6240
+14/01/15 21:24:29.34:   Getting channel 2004
+14/01/15 21:24:29.36:   Getting channel 3771
+14/01/15 21:24:29.35:   Getting channel 2152
+14/01/15 21:24:29.37:   Getting channel 3721
+14/01/15 21:24:29.37:   Getting channel 3028
+14/01/15 21:24:29.36:   Getting channel 2073
+14/01/15 21:24:29.37:   Getting channel 2103
+14/01/15 21:24:29.36:   Getting channel 2003
+14/01/15 21:24:29.36:   Getting channel 1629
+14/01/15 21:24:29.37:   Getting channel 3643
+14/01/15 21:24:29.37:   Getting channel 3300
+14/01/15 21:24:29.35:   Getting channel 2018
+14/01/15 21:24:29.37:   Getting channel 5297
+14/01/15 21:24:29.36:   Getting channel 3751
+14/01/15 21:24:29.37:   Getting channel 6272
+14/01/15 21:24:29.36:   Getting channel 6000
+14/01/15 21:24:29.37:   Getting channel 3541
+14/01/15 21:24:29.36:   Getting channel 6241
+14/01/15 21:24:29.36:   Getting channel 5297
+14/01/15 21:24:29.37:   Getting channel 2106
+14/01/15 21:24:29.37:   Getting channel 4502
+14/01/15 21:24:29.37:   Getting channel 2155
+14/01/15 21:24:29.37:   Getting channel 3751
+14/01/15 21:24:29.37:   Getting channel 3771
+14/01/15 21:24:29.89:   Finished getting channel 0 / 72
+14/01/15 21:24:30.45:   Finished getting channel 1 / 72
+14/01/15 21:24:30.98:   Finished getting channel 2 / 72
+14/01/15 21:24:31.60:   Finished getting channel 3 / 72
+14/01/15 21:24:32.10:   Finished getting channel 4 / 72
+14/01/15 21:24:32.64:   Finished getting channel 5 / 72
+14/01/15 21:24:33.22:   Finished getting channel 6 / 72
+14/01/15 21:24:33.83:   Finished getting channel 7 / 72
+14/01/15 21:24:34.38:   Finished getting channel 8 / 72
+14/01/15 21:24:34.99:   Finished getting channel 9 / 72
+14/01/15 21:24:35.58:   Finished getting channel 10 / 72
+14/01/15 21:24:36.24:   Finished getting channel 11 / 72
+14/01/15 21:24:36.81:   Finished getting channel 12 / 72
+14/01/15 21:24:37.35:   Finished getting channel 13 / 72
+14/01/15 21:24:37.89:   Finished getting channel 14 / 72
+14/01/15 21:24:38.46:   Finished getting channel 15 / 72
+14/01/15 21:24:39.28:   Finished getting channel 16 / 72
+14/01/15 21:24:39.84:   Finished getting channel 17 / 72
+14/01/15 21:24:40.45:   Finished getting channel 18 / 72
+14/01/15 21:24:41.01:   Finished getting channel 19 / 72
+14/01/15 21:24:42.65:   Finished getting channel 20 / 72
+14/01/15 21:24:44.14:   Finished getting channel 21 / 72
+14/01/15 21:24:44.76:   Finished getting channel 22 / 72
+14/01/15 21:24:45.35:   Finished getting channel 23 / 72
+14/01/15 21:24:45.95:   Finished getting channel 24 / 72
+14/01/15 21:24:46.47:   Finished getting channel 25 / 72
+14/01/15 21:24:47.11:   Finished getting channel 26 / 72
+14/01/15 21:24:47.64:   Finished getting channel 27 / 72
+14/01/15 21:24:48.24:   Finished getting channel 28 / 72
+14/01/15 21:24:48.81:   Finished getting channel 29 / 72
+14/01/15 21:24:49.35:   Finished getting channel 30 / 72
+14/01/15 21:24:50.21:   Finished getting channel 31 / 72
+14/01/15 21:24:50.85:   Finished getting channel 32 / 72
+14/01/15 21:24:51.39:   Finished getting channel 33 / 72
+14/01/15 21:24:51.92:   Finished getting channel 34 / 72
+14/01/15 21:24:52.60:   Finished getting channel 35 / 72
+14/01/15 21:24:53.19:   Finished getting channel 36 / 72
+14/01/15 21:24:53.81:   Finished getting channel 37 / 72
+14/01/15 21:24:54.45:   Finished getting channel 38 / 72
+14/01/15 21:24:55.37:   Finished getting channel 39 / 72
+14/01/15 21:24:56.19:   Finished getting channel 40 / 72
+14/01/15 21:24:59.62:   Finished getting channel 41 / 72
+14/01/15 21:25:00.48:   Finished getting channel 42 / 72
+14/01/15 21:25:01.13:   Finished getting channel 43 / 72
+14/01/15 21:25:01.98:   Finished getting channel 44 / 72
+14/01/15 21:25:02.82:   Finished getting channel 45 / 72
+14/01/15 21:25:03.90:   Finished getting channel 46 / 72
+14/01/15 21:25:04.69:   Finished getting channel 47 / 72
+14/01/15 21:25:05.66:   Finished getting channel 48 / 72
+14/01/15 21:25:06.59:   Finished getting channel 49 / 72
+14/01/15 21:25:07.66:   Finished getting channel 50 / 72
+14/01/15 21:25:10.59:   Finished getting channel 51 / 72
+14/01/15 21:25:11.27:   Finished getting channel 52 / 72
+14/01/15 21:25:11.97:   Finished getting channel 53 / 72
+14/01/15 21:25:12.53:   Finished getting channel 54 / 72
+14/01/15 21:25:13.14:   Finished getting channel 55 / 72
+14/01/15 21:25:13.75:   Finished getting channel 56 / 72
+14/01/15 21:25:14.36:   Finished getting channel 57 / 72
+14/01/15 21:25:15.23:   Finished getting channel 58 / 72
+14/01/15 21:25:16.03:   Finished getting channel 59 / 72
+14/01/15 21:25:16.90:   Finished getting channel 60 / 72
+14/01/15 21:25:17.63:   Finished getting channel 61 / 72
+14/01/15 21:25:18.39:   Finished getting channel 62 / 72
+14/01/15 21:25:19.01:   Finished getting channel 63 / 72
+14/01/15 21:25:19.67:   Finished getting channel 64 / 72
+14/01/15 21:25:20.43:   Finished getting channel 65 / 72
+14/01/15 21:25:21.16:   Finished getting channel 66 / 72
+14/01/15 21:25:21.92:   Finished getting channel 67 / 72
+14/01/15 21:25:22.60:   Finished getting channel 68 / 72
+14/01/15 21:25:23.70:   Finished getting channel 69 / 72
+14/01/15 21:25:24.50:   Finished getting channel 70 / 72
+14/01/15 21:25:25.38:   Finished getting channel 71 / 72
+14/01/15 21:25:25.39:   Finished getting day 5 / 7
+14/01/15 21:25:26.32:   Finished getting channel 0 / 72
+14/01/15 21:25:27.10:   Finished getting channel 1 / 72
+14/01/15 21:25:28.27:   Finished getting channel 2 / 72
+14/01/15 21:25:29.20:   Finished getting channel 3 / 72
+14/01/15 21:25:30.03:   Finished getting channel 4 / 72
+14/01/15 21:25:30.83:   Finished getting channel 5 / 72
+14/01/15 21:25:31.71:   Finished getting channel 6 / 72
+14/01/15 21:25:33.16:   Finished getting channel 7 / 72
+14/01/15 21:25:34.04:   Finished getting channel 8 / 72
+14/01/15 21:25:34.90:   Finished getting channel 9 / 72
+14/01/15 21:25:37.66:   Finished getting channel 10 / 72
+14/01/15 21:25:38.56:   Finished getting channel 11 / 72
+14/01/15 21:25:39.35:   Finished getting channel 12 / 72
+14/01/15 21:25:40.15:   Finished getting channel 13 / 72
+14/01/15 21:25:40.84:   Finished getting channel 14 / 72
+14/01/15 21:25:41.66:   Finished getting channel 15 / 72
+14/01/15 21:25:42.53:   Finished getting channel 16 / 72
+14/01/15 21:25:43.46:   Finished getting channel 17 / 72
+14/01/15 21:25:44.03:   Finished getting channel 18 / 72
+14/01/15 21:25:44.78:   Finished getting channel 19 / 72
+14/01/15 21:25:45.29:   Finished getting channel 20 / 72
+14/01/15 21:25:45.86:   Finished getting channel 21 / 72
+14/01/15 21:25:46.63:   Finished getting channel 22 / 72
+14/01/15 21:25:47.23:   Finished getting channel 23 / 72
+14/01/15 21:25:47.89:   Finished getting channel 24 / 72
+14/01/15 21:25:48.43:   Finished getting channel 25 / 72
+14/01/15 21:25:49.01:   Finished getting channel 26 / 72
+14/01/15 21:25:49.52:   Finished getting channel 27 / 72
+14/01/15 21:25:50.07:   Finished getting channel 28 / 72
+14/01/15 21:25:50.61:   Finished getting channel 29 / 72
+14/01/15 21:25:51.30:   Finished getting channel 30 / 72
+14/01/15 21:25:51.97:   Finished getting channel 31 / 72
+14/01/15 21:25:52.51:   Finished getting channel 32 / 72
+14/01/15 21:25:53.20:   Finished getting channel 33 / 72
+14/01/15 21:25:53.74:   Finished getting channel 34 / 72
+14/01/15 21:25:54.30:   Finished getting channel 35 / 72
+14/01/15 21:25:54.84:   Finished getting channel 36 / 72
+14/01/15 21:25:55.38:   Finished getting channel 37 / 72
+14/01/15 21:25:55.97:   Finished getting channel 38 / 72
+14/01/15 21:25:56.56:   Finished getting channel 39 / 72
+14/01/15 21:25:57.11:   Finished getting channel 40 / 72
+14/01/15 21:25:57.64:   Finished getting channel 41 / 72
+14/01/15 21:25:58.22:   Finished getting channel 42 / 72
+14/01/15 21:25:58.77:   Finished getting channel 43 / 72
+14/01/15 21:25:59.38:   Finished getting channel 44 / 72
+14/01/15 21:25:59.90:   Finished getting channel 45 / 72
+14/01/15 21:26:00.48:   Finished getting channel 46 / 72
+14/01/15 21:26:01.02:   Finished getting channel 47 / 72
+14/01/15 21:26:01.56:   Finished getting channel 48 / 72
+14/01/15 21:26:02.16:   Finished getting channel 49 / 72
+14/01/15 21:26:02.68:   Finished getting channel 50 / 72
+14/01/15 21:26:03.27:   Finished getting channel 51 / 72
+14/01/15 21:26:03.78:   Finished getting channel 52 / 72
+14/01/15 21:26:04.64:   Finished getting channel 53 / 72
+14/01/15 21:26:05.17:   Finished getting channel 54 / 72
+14/01/15 21:26:05.78:   Finished getting channel 55 / 72
+14/01/15 21:26:06.29:   Finished getting channel 56 / 72
+14/01/15 21:26:06.86:   Finished getting channel 57 / 72
+14/01/15 21:26:07.42:   Finished getting channel 58 / 72
+14/01/15 21:26:07.98:   Finished getting channel 59 / 72
+14/01/15 21:26:08.55:   Finished getting channel 60 / 72
+14/01/15 21:26:09.17:   Finished getting channel 61 / 72
+14/01/15 21:26:09.70:   Finished getting channel 62 / 72
+14/01/15 21:26:10.21:   Finished getting channel 63 / 72
+14/01/15 21:26:11.13:   Finished getting channel 64 / 72
+14/01/15 21:26:11.77:   Finished getting channel 65 / 72
+14/01/15 21:26:12.36:   Finished getting channel 66 / 72
+14/01/15 21:26:13.00:   Finished getting channel 67 / 72
+14/01/15 21:26:13.57:   Finished getting channel 68 / 72
+14/01/15 21:26:14.17:   Finished getting channel 69 / 72
+14/01/15 21:26:14.82:   Finished getting channel 70 / 72
+14/01/15 21:26:15.47:   Finished getting channel 71 / 72
+14/01/15 21:26:15.47:   Finished getting day 6 / 7
+14/01/15 21:26:15.47:   Got all films from Sky
+14/01/15 21:26:15.48:   Getting TMDB metadata for uncleboonmeewhocanrecall2010
+14/01/15 21:26:15.48:   Add metadata
+14/01/15 21:26:15.48:   Getting TMDB metadata for tenaciousdinthepickofdestiny2006
+14/01/15 21:26:15.48:   Getting TMDB metadata for bendoftheriver1952
+14/01/15 21:26:15.48:   Getting TMDB metadata for destinationgobi1953
+14/01/15 21:26:15.48:   Getting TMDB metadata for hitman2007
+14/01/15 21:26:15.48:   Getting TMDB metadata for americassweethearts2001
+14/01/15 21:26:15.48:   Getting TMDB metadata for killingthemsoftly2012
+14/01/15 21:26:15.48:   Getting TMDB metadata for goodmorningkarachi2011
+14/01/15 21:26:15.48:   Getting TMDB metadata for artofwariiiretribution2009
+14/01/15 21:26:15.48:   Getting TMDB metadata for americasprincethe2003
+14/01/15 21:26:15.48:   Getting TMDB metadata for fatalbert2004
+14/01/15 21:26:15.48:   Getting TMDB metadata for crowneddangerous1997
+14/01/15 21:26:15.48:   Getting TMDB metadata for terminationpoint2007
+14/01/15 21:26:15.48:   Getting TMDB metadata for beforedawn2012
+14/01/15 21:26:15.48:   Getting TMDB metadata for theblackwatersofechospond2009
+14/01/15 21:26:15.48:   Getting TMDB metadata for hydra2009
+14/01/15 21:26:15.48:   Getting TMDB metadata for sisters1973
+14/01/15 21:26:15.48:   Getting TMDB metadata for sherlockholmesroyalscandal
+14/01/15 21:26:15.48:   Getting TMDB metadata for sheledtwolives
+14/01/15 21:26:15.48:   Getting TMDB metadata for noplacelikehome
+14/01/15 21:26:15.48:   Getting TMDB metadata for replacingdad
+14/01/15 21:26:15.48:   Getting TMDB metadata for jamesdean
+14/01/15 21:26:15.49:   Getting TMDB metadata for nohigherlove
+14/01/15 21:26:15.49:   Getting TMDB metadata for thebabysittersseduction
+14/01/15 21:26:15.49:   Getting TMDB metadata for lethimhaveit1950
+14/01/15 21:26:15.49:   Getting TMDB metadata for humantrafficking2005
+14/01/15 21:26:15.49:   Getting TMDB metadata for manfromtangier1957
+14/01/15 21:26:15.48:   Getting TMDB metadata for theadventuresof2005
+14/01/15 21:26:15.49:   Getting TMDB metadata for mymotherthespy2002
+14/01/15 21:26:15.49:   Getting TMDB metadata for hightide1979
+14/01/15 21:26:15.49:   Getting TMDB metadata for operationdames1959
+14/01/15 21:26:15.49:   Getting TMDB metadata for tallinthesaddle1944
+14/01/15 21:26:15.49:   Getting TMDB metadata for thegundown2011
+14/01/15 21:26:15.49:   Getting TMDB metadata for giftedhands2009
+14/01/15 21:26:15.49:   Getting TMDB metadata for replicant2001
+14/01/15 21:26:15.49:   Getting TMDB metadata for theartofwariibetrayal2008
+14/01/15 21:26:15.49:   Getting TMDB metadata for runawaycar
+14/01/15 21:26:15.49:   Getting TMDB metadata for derby2007
+14/01/15 21:26:15.49:   Getting TMDB metadata for childrenofthedark
+14/01/15 21:26:15.49:   Getting TMDB metadata for inthearmsofakiller
+14/01/15 21:26:15.49:   Getting TMDB metadata for barbarataylorbradfordsa
+14/01/15 21:26:15.49:   Getting TMDB metadata for achorusofdisapproval
+14/01/15 21:26:15.49:   Getting TMDB metadata for christmasliliesofthefield
+14/01/15 21:26:15.49:   Getting TMDB metadata for twomothersforzachary
+14/01/15 21:26:15.49:   Getting TMDB metadata for thescarletandtheblack
+14/01/15 21:26:15.49:   Getting TMDB metadata for billymadison1995
+14/01/15 21:26:15.49:   Getting TMDB metadata for theamericanfriend1977
+14/01/15 21:26:15.50:   Getting TMDB metadata for doubleindemnity1944
+14/01/15 21:26:15.50:   Getting TMDB metadata for laughterinparadise1951
+14/01/15 21:26:15.50:   Getting TMDB metadata for thelongarm1956
+14/01/15 21:26:15.50:   Getting TMDB metadata for 500daysofsummer2009
+14/01/15 21:26:15.50:   Getting TMDB metadata for safehouse2012
+14/01/15 21:26:15.50:   Getting TMDB metadata for scarymovie2000
+14/01/15 21:26:15.50:   Getting TMDB metadata for asimpleplan1998
+14/01/15 21:26:15.50:   Getting TMDB metadata for thekiterunner1970
+14/01/15 21:26:15.50:   Getting TMDB metadata for badlandsofdakota1941
+14/01/15 21:26:15.50:   Getting TMDB metadata for anzio1944
+14/01/15 21:26:15.50:   Getting TMDB metadata for theweddingdate2005
+14/01/15 21:26:15.50:   Getting TMDB metadata for suspectzero2004
+14/01/15 21:26:15.50:   Getting TMDB metadata for araisininthesun2008
+14/01/15 21:26:15.50:   Getting TMDB metadata for jakobtheliar1999
+14/01/15 21:26:15.50:   Getting TMDB metadata for heidi2005
+14/01/15 21:26:15.50:   Getting TMDB metadata for buglesintheafternoon1952
+14/01/15 21:26:15.50:   Getting TMDB metadata for laidtorest2009
+14/01/15 21:26:15.50:   Getting TMDB metadata for attheearthscore1976
+14/01/15 21:26:15.50:   Getting TMDB metadata for thesineater2002
+14/01/15 21:26:15.50:   Getting TMDB metadata for returnofthelivingdeadiii1993
+14/01/15 21:26:15.50:   Getting TMDB metadata for darknessbeforedawn
+14/01/15 21:26:15.50:   Getting TMDB metadata for torso1946
+14/01/15 21:26:15.50:   Getting TMDB metadata for dc911timeofcrisis2001
+14/01/15 21:26:15.51:   Getting TMDB metadata for judgementdaythejohnliststory
+14/01/15 21:26:15.51:   Getting TMDB metadata for grandnationalnight1953
+14/01/15 21:26:15.51:   Getting TMDB metadata for ourmaninmarrakesh1966
+14/01/15 21:26:15.51:   Getting TMDB metadata for whatkindofmotherareyou
+14/01/15 21:26:15.51:   Getting TMDB metadata for thehellhoundsofalaska1973
+14/01/15 21:26:15.51:   Getting TMDB metadata for facesinthedark1960
+14/01/15 21:26:15.51:   Getting TMDB metadata for buildmygallowshigh1947
+14/01/15 21:26:15.50:   Getting TMDB metadata for andthentherewasone
+14/01/15 21:26:15.50:   Getting TMDB metadata for separatedbymurder
+14/01/15 21:26:15.51:   Getting TMDB metadata for theblackarcher1959
+14/01/15 21:26:15.51:   Getting TMDB metadata for therig2010
+14/01/15 21:26:15.51:   Getting TMDB metadata for passions1984
+14/01/15 21:26:15.51:   Getting TMDB metadata for killerbees2002
+14/01/15 21:26:15.51:   Getting TMDB metadata for tomandthomas2002
+14/01/15 21:26:15.51:   Getting TMDB metadata for tosirwithlove1967
+14/01/15 21:26:15.51:   Getting TMDB metadata for trapped2002
+14/01/15 21:26:15.51:   Getting TMDB metadata for dangerouschild
+14/01/15 21:26:15.51:   Getting TMDB metadata for playingfortime
+14/01/15 21:26:15.51:   Getting TMDB metadata for ordinarymiracles
+14/01/15 21:26:15.51:   Getting TMDB metadata for changeofheart
+14/01/15 21:26:15.51:   Getting TMDB metadata for diamondgirl
+14/01/15 21:26:15.51:   Getting TMDB metadata for mysonisinnocent
+14/01/15 21:26:15.51:   Getting TMDB metadata for houseonhauntedhill
+14/01/15 21:26:15.51:   Getting TMDB metadata for jonathanstonethreatofinnocence
+14/01/15 21:26:15.51:   Getting TMDB metadata for rememberingdiana1997
+14/01/15 21:26:15.51:   Getting TMDB metadata for noordinarybaby
+14/01/15 21:26:15.51:   Getting TMDB metadata for goodfences1970
+14/01/15 21:26:15.51:   Getting TMDB metadata for haveyouseenmyson
+14/01/15 21:26:15.51:   Getting TMDB metadata for 8mile2002
+14/01/15 21:26:18.15:   No results for Good Morning Karachi at 2011
+14/01/15 21:26:18.74:   No results for America's Prince - The... at 2003
+14/01/15 21:26:23.60:   No results for Let Him Have It at 1950
+14/01/15 21:26:24.56:   No results for My Mother the Spy at 2002
+14/01/15 21:26:24.76:   No results for High Tide at 1979
+14/01/15 21:26:25.12:   No results for Operation Dames at 1959
+14/01/15 21:26:27.35:   No results for Derby at 2007
+14/01/15 21:26:28.15:   Error - no matches for: Barbara Taylor Bradford's A...
+14/01/15 21:26:28.71:   Error - no matches for: Christmas Lilies Of The Field
+14/01/15 21:26:32.39:   No results for The Kite Runner at 1970
+14/01/15 21:26:32.96:   No results for Anzio at 1944
+14/01/15 21:26:35.81:   No results for The Sin Eater at 2002
+14/01/15 21:26:37.05:   No results for Torso at 1946
+14/01/15 21:26:37.83:   No results for DC 9/11: Time Of Crisis at 2001
+14/01/15 21:26:38.95:   Error - no matches for: Judgement Day: The John List Story
+14/01/15 21:26:39.44:   Error - no matches for: What Kind Of Mother Are You?
+14/01/15 21:26:41.25:   No results for The Black Archer at 1959
+14/01/15 21:26:47.53:   No results for Remembering Diana... at 1997
+14/01/15 21:26:48.38:   No results for Good Fences at 1970
+14/01/15 21:26:51.30:   Error - no matches for: Operation Dames
+14/01/15 21:26:53.28:   Error - no matches for: The Black Archer
+14/01/15 21:26:53.65:   Error - no matches for: Remembering Diana...
+14/01/15 21:26:53.96:   All done!

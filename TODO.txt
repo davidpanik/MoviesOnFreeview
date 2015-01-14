@@ -1,7 +1,8 @@
 BACK-END
 Switch to using Promises
 Handle-split showings
-Check daily update is working
+Still getting duplicated showing times (Crank ITV4 - 15/01/15 - 22:05 | ITV4+1 - 15/01/15 - 23:05 |ITV4+1 - 15/01/15 - 23:05)
+Handle the same film being shown on different channels (Bad Boys on True Movies and Channel 5)
 
 
 FRONT-END
@@ -10,6 +11,7 @@ Add detail view?
 Add channel filtering
 Add showtime filter
 Add icons
+Select BBC region
 
 
 

@@ -51,7 +51,7 @@ function makeRequest(item) {
 			item.callback(body);
 			nextItem();
 		} else {
-			log('ERROR fetching ' + item.url + '\n' + error + '\n' + response + '\n' + body + '\n' + 'Attempts left: ' + item.retries);
+			log('ERROR fetching ' + item.url + '\n' + JSON.stringify(item.data) + '\n' + error + '\n' + response.statusCode + '\n' + 'Attempts left: ' + item.retries);
 			item.retries--;
 			queue.push(item);
 			nextItem();

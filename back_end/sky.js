@@ -20,27 +20,31 @@ module.exports = function(existingFilms, latestDay, callback) {
 
 	films = existingFilms;
 
+	var newDay = moment().startOf('day');
+
 	getDays(channelIds, 7);
 
 	function getDays(channels, days) {
-		var date = moment();
 		var counter = 0;
 
 		days = days ? days : 7;
 
 		for (var x = 0; x < days; x++) {
-			if (x !== 0) date.add(1, 'day');
-			var newDay = date.format('YYYYMMDD') + '0000';
+			if (x !== 0) newDay.add(1, 'day');
 
 			var success = function() {
 				log('Finished getting day ' + counter + ' / ' + days);
 				if (++counter === days) callback(films);
 			};
 
-			if (newDay >= latestDay)
-				getDay(channels, newDay, success);
-			else
+			if (newDay >= latestDay) {
+				log('Retrieving new day');
+				getDay(channels, newDay.format('YYYYMMDD') + '0000', success);
+			}
+			else {
+				log('Already have this day');
 				success();
+			}
 		}
 	}
 
