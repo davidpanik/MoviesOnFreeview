@@ -71,7 +71,8 @@
 			<div ng-show="!loaded" class="loading">Loading...</div>
 
 			<div id="results" class="selfClearing" ng-show="loaded">
-				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filter:greaterThanOrEqual('score', minScore) | filter:lessThanOrEqual('score', maxScore) | filter:greaterThanOrEqual('year', minYear) | filter:lessThanOrEqual('year', maxYear))" class="film">
+				<!-- <div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filter:greaterThanOrEqual('score', minScore) | filter:lessThanOrEqual('score', maxScore) | filter:greaterThanOrEqual('year', minYear) | filter:lessThanOrEqual('year', maxYear))" class="film"> -->
+				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters)" class="film">
 					<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster">
 						<div class="detail">
 							<div class="inner">

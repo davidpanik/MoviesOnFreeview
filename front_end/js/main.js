@@ -20,7 +20,11 @@
 		$scope.maxYear   = (new Date().getFullYear());
 		
 		$scope.filters = {
-			score: 6,
+			minScore: 6,
+			maxScore: 10,
+
+			minDuration: 0,
+			maxDuration: 5,
 
 			channels: {
 				'bbc'  : true,
@@ -37,7 +41,7 @@
 			decades: {
 				'40_50': false,
 				'60_70': false,
-				'80_90': true,
+				'80_90': false,
 				'00_10': true
 			}
 		};
@@ -87,5 +91,39 @@
 		$scope.lessThanOrEqual = function(prop, val){
 			return function(item) { return (parseFloat(item[prop]) <= parseFloat(val)); }
 		}
-	});
+	})
+	.filter('filmsFilter', function() {
+		return function(films, filters) {
+			var filteredFilms = [];
+
+			for (var x in films) {
+				var film = films[x];
+
+				film.score    = parseInt(film.score);
+				film.year     = parseInt(film.year);
+				film.duration = parseFloat(film.duration);
+
+				if (film.score < filters.minScore) continue;
+				if (film.score > filters.maxScore) continue;
+
+				if (film.duration < filters.minDuration) continue;
+				if (film.duration > filters.maxDuration) continue;
+
+				var yearMatch = false;
+				if (filters.decades['40_50'] && film.year >= 1940 && film.year <= 1959) yearMatch = true;
+				if (filters.decades['60_70'] && film.year >= 1940 && film.year <= 1979) yearMatch = true;
+				if (filters.decades['80_90'] && film.year >= 1940 && film.year <= 1999) yearMatch = true;
+				if (filters.decades['00_10'] && film.year >= 2000) yearMatch = true;
+				if (!yearMatch) continue;
+
+				// Filter by days
+				// Filter by channel family
+
+				filteredFilms.push(film);
+			}
+
+			return filteredFilms;
+		};
+	})
+;
 }())
