@@ -81,15 +81,19 @@
 
 		$scope.greaterThan = function(prop, val){
 			return function(item) { return (parseFloat(item[prop]) >  parseFloat(val)); }
-		}
+		};
 		$scope.greaterThanOrEqual = function(prop, val){
 			return function(item) { return (parseFloat(item[prop]) >= parseFloat(val)); }
-		}
+		};
 		$scope.lessThan = function(prop, val){
 			return function(item) { return (parseFloat(item[prop]) <  parseFloat(val)); }
-		}
+		};
 		$scope.lessThanOrEqual = function(prop, val){
 			return function(item) { return (parseFloat(item[prop]) <= parseFloat(val)); }
+		};
+
+		$scope.toggleFilter = function(alpha, beta) {
+			$scope.filters[alpha][beta] = !$scope.filters[alpha][beta];
 		}
 	})
 	.filter('filmsFilter', function() {

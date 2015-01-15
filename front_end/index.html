@@ -39,32 +39,32 @@
 
 				<div>
 					<span>Filter by score:</span>
-					<input type="text" ng-model="minScore"/>
-					<input type="text" ng-model="maxScore"/>
+					<input type="text" ng-model="filters.minScore"/>
+					<input type="text" ng-model="filters.maxScore"/>
 				</div>
 
 				<div>
 					<span>Filter by channels:</span>
-					<button ng-click="channelFilter = 'bbc';"  >BBC</button>
-					<button ng-click="channelFilter = 'itv';"  >ITV</button>
-					<button ng-click="channelFilter = 'four';" >Four</button>
-					<button ng-click="channelFilter = 'five';" >Five</button>
-					<button ng-click="channelFilter = 'other';">Other</button>
+					<button ng-click="toggleFilter('channels', 'bbc');"  >BBC</button>
+					<button ng-click="toggleFilter('channels', 'itv');"  >ITV</button>
+					<button ng-click="toggleFilter('channels', 'four');" >Four</button>
+					<button ng-click="toggleFilter('channels', 'five');" >Five</button>
+					<button ng-click="toggleFilter('channels', 'other');">Other</button>
 				</div>
 
 				<div>
 					<span>Filter by day:</span>
-					<button ng-click="dayFilter = 'today';"   >Today</button>
-					<button ng-click="dayFilter = 'tomorrow';">Tomorrow</button>
-					<button ng-click="dayFilter = '7days';"   >Next 7 Days</button>
+					<button ng-click="toggleFilter('days', 'today');"   >Today</button>
+					<button ng-click="toggleFilter('days', 'tomorrow');">Tomorrow</button>
+					<button ng-click="toggleFilter('days', '7days');"   >Next 7 Days</button>
 				</div>
 
 				<div>
 					<span>Filter by decade:</span>
-					<button ng-click="decadeFilter = '40_50';">40s 50s</button>
-					<button ng-click="decadeFilter = '60_70';">60s 70s</button>
-					<button ng-click="decadeFilter = '80_90';">80s 90s</button>
-					<button ng-click="decadeFilter = '00_10';">00s 10s</button>
+					<button ng-click="toggleFilter('decades', '40_50');">40s 50s</button>
+					<button ng-click="toggleFilter('decades', '60_70');">60s 70s</button>
+					<button ng-click="toggleFilter('decades', '80_90');">80s 90s</button>
+					<button ng-click="toggleFilter('decades', '00_10');">00s 10s</button>
 				</div>
 			</div>
 
