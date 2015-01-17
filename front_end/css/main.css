@@ -58,6 +58,11 @@ body {
 	margin: 20px 0;
 }
 
+#controls .filter span {
+	display: inline-block;
+	width: 80px;
+}
+
 #results {
 	margin: 5px;
 }
