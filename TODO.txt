@@ -6,13 +6,11 @@ Still getting duplicated showing times (Crank ITV4 - 15/01/15 - 22:05 | ITV4+1 -
 
 
 FRONT-END
-Write custom filter
 Add detail view?
-Add channel filtering
-Add showtime filter
 Add icons
 Select BBC region
-
+Error state (e.g. AJAX failed)
+Change active state on filter buttons
 
 
 
