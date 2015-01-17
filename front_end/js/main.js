@@ -97,7 +97,7 @@
 		}
 	})
 	.filter('filmsFilter', function() {
-		return function(films, filters) {
+		return function(films, filters, channels) {
 			var filteredFilms = [];
 
 			for (var x in films) {
@@ -112,6 +112,23 @@
 
 				if (film.duration < filters.minDuration) continue;
 				if (film.duration > filters.maxDuration) continue;
+
+				var channelMatch = false;
+				for (var z in film.showings) {
+					var channel = parseInt(film.showings[z].channel);
+
+					if (filters.channels[channels[channel].family]) {
+						channelMatch = true;
+					}
+				}
+				if (!channelMatch) continue;
+
+				
+				if (!filters.days['7days']) {
+					var dayMatch = false;
+					if (!dayMatch) continue;	
+				}
+				
 
 				var yearMatch = false;
 				if (filters.decades['40_50'] && film.year >= 1940 && film.year <= 1959) yearMatch = true;
