@@ -131,8 +131,8 @@
 				// Filter against years
 				var yearMatch = false;
 				if (filters.decades['40_50'] && film.year >= 1940 && film.year <= 1959) yearMatch = true;
-				if (filters.decades['60_70'] && film.year >= 1940 && film.year <= 1979) yearMatch = true;
-				if (filters.decades['80_90'] && film.year >= 1940 && film.year <= 1999) yearMatch = true;
+				if (filters.decades['60_70'] && film.year >= 1960 && film.year <= 1979) yearMatch = true;
+				if (filters.decades['80_90'] && film.year >= 1980 && film.year <= 1999) yearMatch = true;
 				if (filters.decades['00_10'] && film.year >= 2000) yearMatch = true;
 				if (!yearMatch) continue;
 
