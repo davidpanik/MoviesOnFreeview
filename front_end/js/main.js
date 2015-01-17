@@ -21,7 +21,7 @@
 			maxScore: 10,
 
 			minDuration: 0,
-			maxDuration: 5,
+			maxDuration: 4,
 
 			channels: {
 				'bbc'  : true,
@@ -96,9 +96,11 @@
 				film.year     = parseInt(film.year);
 				film.duration = parseFloat(film.duration);
 
+				// Filter against score
 				if (film.score < filters.minScore) continue;
 				if (film.score > filters.maxScore) continue;
 
+				// Filter against duration
 				if (film.duration < filters.minDuration) continue;
 				if (film.duration > filters.maxDuration) continue;
 

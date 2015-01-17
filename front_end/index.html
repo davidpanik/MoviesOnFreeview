@@ -26,15 +26,27 @@
 
 				<div>
 					<span>Sort:</span>
-					<button ng-click="predicate = 'title'; reverse = false;">Alphabetical</button>
-					<button ng-click="predicate = 'score'; reverse = true;" >Top Rated</button>
-					<button ng-click="predicate = 'year';  reverse = true;" >Newest</button>
+					<button ng-click="predicate = 'title'; reverse = false;" ng-class="{active: predicate === 'title'}">Alphabetical</button>
+					<button ng-click="predicate = 'score'; reverse = true;"  ng-class="{active: predicate === 'score'}">Top Rated</button>
+					<button ng-click="predicate = 'year';  reverse = true;"  ng-class="{active: predicate === 'year' }">Newest</button>
 				</div>
 
 				<div>
 					<span>Filter by score:</span>
-					<input type="text" ng-model="filters.minScore"/>
-					<input type="text" ng-model="filters.maxScore"/>
+					<button ng-click="filters.minScore = 5;"  ng-class="{active: filters.minScore === 5} ">5</button>
+					<button ng-click="filters.minScore = 6;"  ng-class="{active: filters.minScore === 6} ">6</button>
+					<button ng-click="filters.minScore = 7;"  ng-class="{active: filters.minScore === 7} ">7</button>
+					<button ng-click="filters.minScore = 8;"  ng-class="{active: filters.minScore === 8} ">8</button>
+					<button ng-click="filters.minScore = 9;"  ng-class="{active: filters.minScore === 9} ">9</button>
+					<button ng-click="filters.minScore = 10;" ng-class="{active: filters.minScore === 10}">10</button>
+				</div>
+
+				<div>
+					<span>Filter by duration:</span>
+					<button ng-click="filters.maxDuration = 2;"  ng-class="{active: filters.maxDuration === 2}">&lt;2</button>
+					<button ng-click="filters.maxDuration = 3;"  ng-class="{active: filters.maxDuration === 3}">&lt;3</button>
+					<button ng-click="filters.maxDuration = 4;"  ng-class="{active: filters.maxDuration === 4}">&lt;4</button>
+					<button ng-click="filters.maxDuration = 9;"  ng-class="{active: filters.maxDuration === 9}">4+</button>
 				</div>
 
 				<div>
