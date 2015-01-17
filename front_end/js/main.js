@@ -99,6 +99,8 @@
 	.filter('filmsFilter', function() {
 		return function(films, filters, channels) {
 			var filteredFilms = [];
+			var today    = moment().format('DD/MM/YY'); // '17/01/15';
+			var tomorrow = moment().add(1, 'day').format('DD/MM/YY'); // '18/01/15';
 
 			for (var x in films) {
 				var film = films[x];
@@ -113,6 +115,7 @@
 				if (film.duration < filters.minDuration) continue;
 				if (film.duration > filters.maxDuration) continue;
 
+				// Filter against channels
 				var channelMatch = false;
 				for (var z in film.showings) {
 					var channel = parseInt(film.showings[z].channel);
@@ -123,22 +126,28 @@
 				}
 				if (!channelMatch) continue;
 
-				
+				// Filter against days
 				if (!filters.days['7days']) {
 					var dayMatch = false;
+					for (var z in film.showings) {
+						var date = film.showings[z].date;
+
+						if (filters.days['today'] && date === today) {
+							dayMatch = true;
+						} else if (filters.days['tomorrow'] && date === tomorrow) {
+							dayMatch = true;
+						}
+					}
 					if (!dayMatch) continue;	
 				}
 				
-
+				// Filter against years
 				var yearMatch = false;
 				if (filters.decades['40_50'] && film.year >= 1940 && film.year <= 1959) yearMatch = true;
 				if (filters.decades['60_70'] && film.year >= 1940 && film.year <= 1979) yearMatch = true;
 				if (filters.decades['80_90'] && film.year >= 1940 && film.year <= 1999) yearMatch = true;
 				if (filters.decades['00_10'] && film.year >= 2000) yearMatch = true;
 				if (!yearMatch) continue;
-
-				// Filter by days
-				// Filter by channel family
 
 				filteredFilms.push(film);
 			}
