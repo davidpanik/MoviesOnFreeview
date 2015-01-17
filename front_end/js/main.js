@@ -4,6 +4,8 @@
 	angular.module('myapp', [])
 	.controller('MyController', function($scope, $http) {
 		$scope.loaded    = false;
+		$scope.error     = false;
+		$scope.errorMessage = 'Something has gone wrong';
 
 		$scope.films     = [];
 		$scope.filtered  = [];
@@ -13,11 +15,6 @@
 
 		$scope.predicate = 'title';
 		$scope.reverse   = false;
-
-		$scope.minScore  = 6;
-		$scope.maxScore  = 10;
-		$scope.minYear   = (new Date().getFullYear()) - 10;
-		$scope.maxYear   = (new Date().getFullYear());
 		
 		$scope.filters = {
 			minScore: 6,
@@ -66,41 +63,31 @@
 					$scope.loaded = true;
 				})
 				.error(function(data, status, headers, config) {
-					alert('AJAX failed!');
+					$scope.throwError('Failed loading in films');
 				});
 			})
 			.error(function(data, status, headers, config) {
-				alert('AJAX failed!');
+				$scope.throwError('Failed loading in channels');
 			});
-
-
 		})
 		.error(function(data, status, headers, config) {
-			alert('AJAX failed!');
+			alert('Failed communicating with TMDB');
 		});
 
-		$scope.greaterThan = function(prop, val){
-			return function(item) { return (parseFloat(item[prop]) >  parseFloat(val)); }
-		};
-		$scope.greaterThanOrEqual = function(prop, val){
-			return function(item) { return (parseFloat(item[prop]) >= parseFloat(val)); }
-		};
-		$scope.lessThan = function(prop, val){
-			return function(item) { return (parseFloat(item[prop]) <  parseFloat(val)); }
-		};
-		$scope.lessThanOrEqual = function(prop, val){
-			return function(item) { return (parseFloat(item[prop]) <= parseFloat(val)); }
+		$scope.throwError = function(message) {
+			$scope.error = true;
+			$scope.errorMessage = message;
 		};
 
 		$scope.toggleFilter = function(alpha, beta) {
 			$scope.filters[alpha][beta] = !$scope.filters[alpha][beta];
-		}
+		};
 	})
 	.filter('filmsFilter', function() {
 		return function(films, filters, channels) {
 			var filteredFilms = [];
-			var today    = moment().format('DD/MM/YY'); // '17/01/15';
-			var tomorrow = moment().add(1, 'day').format('DD/MM/YY'); // '18/01/15';
+			var today    = moment().format('DD/MM/YY');
+			var tomorrow = moment().add(1, 'day').format('DD/MM/YY');
 
 			for (var x in films) {
 				var film = films[x];

@@ -9,7 +9,6 @@ FRONT-END
 Add detail view?
 Add icons
 Select BBC region
-Error state (e.g. AJAX failed)
 Change active state on filter buttons
 
 
