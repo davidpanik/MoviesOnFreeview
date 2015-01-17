@@ -71,7 +71,7 @@
 			});
 		})
 		.error(function(data, status, headers, config) {
-			alert('Failed communicating with TMDB');
+			$scope.throwError('Failed communicating with TMDB');
 		});
 
 		$scope.throwError = function(message) {

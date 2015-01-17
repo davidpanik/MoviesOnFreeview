@@ -81,7 +81,6 @@
 			<div ng-show="!loaded && !error" id="loading">Loading...</div>
 
 			<div id="results" class="selfClearing" ng-show="loaded && !error">
-				<!-- <div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filter:greaterThanOrEqual('score', minScore) | filter:lessThanOrEqual('score', maxScore) | filter:greaterThanOrEqual('year', minYear) | filter:lessThanOrEqual('year', maxYear))" class="film"> -->
 				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters:this.channels)" class="film">
 					<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster">
 						<div class="detail">
@@ -107,8 +106,7 @@
 		</div>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
-
-		<script src="./js/main.js"></script>
 		<script src="./js/vendor/moment.js"></script>
+		<script src="./js/main.js"></script>
 	</body>
 </html>
