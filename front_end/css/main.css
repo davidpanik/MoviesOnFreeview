@@ -17,12 +17,28 @@ body {
 #controls {
 	position: fixed;
 	top: 0;
+	bottom: 0;
 	left: 0;
-	width: 100%;
+	width: 400px;
 	background: #000;
 	color: #FFF;
 	z-index: 20;
+	margin-left: -400px;
+	transition: margin-left 0.5s;
+}
+
+#controls .inner {
 	padding: 10px 20px;
+}
+
+#controls.active {
+	margin-left: 0;
+}
+
+#controlsFilter {
+	float: right;
+	position: relative;
+	right: -103px;
 }
 
 #controls input[type='text'] {
@@ -31,25 +47,19 @@ body {
 
 #controls button {
 	border: 1px solid red;
+	cursor: pointer;
 }
 
 #controls button.active {
 	border: 1px solid green;
 }
 
-#controls div {
-	float: left;
-	margin-right: 20px;
-	display: none;
-}
-
-#controls.active div {
-	display: block;
+#controls .filter {
+	margin: 20px 0;
 }
 
 #results {
-	margin-top: 45px;
-	margin-bottom: 10px;
+	margin: 5px;
 }
 
 .film {
