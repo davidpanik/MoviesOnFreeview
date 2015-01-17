@@ -29,6 +29,14 @@ body {
 	width: 50px;
 }
 
+#controls button {
+	border: 1px solid red;
+}
+
+#controls button.active {
+	border: 1px solid green;
+}
+
 #controls div {
 	float: left;
 	margin-right: 20px;
