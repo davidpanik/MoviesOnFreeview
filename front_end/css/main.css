@@ -35,7 +35,7 @@ body {
 	margin-left: 0;
 }
 
-#controlsFilter {
+#controlsToggle {
 	float: right;
 	position: relative;
 	right: -103px;
