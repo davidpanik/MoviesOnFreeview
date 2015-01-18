@@ -1,6 +1,6 @@
 {
 	"name": "movies-on-freeview",
-	"version": "0.1.0-6",
+	"version": "0.1.0-7",
 	"devDependencies": {},
 	"dependencies": {
 		"express": "latest",
