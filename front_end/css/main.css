@@ -1,135 +1,78 @@
-.selfClearing:after {
-	content: " ";
-	display: block;
-	height: 0;
-	clear: both;
-	visibility: hidden;
-}
-
-.selfClearing {
-	*zoom: 1;
-}
-
 body {
-	background: #AD0000;
-}
-
-#controls {
-	position: fixed;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	width: 400px;
-	background: #000;
-	color: #FFF;
-	z-index: 20;
-	margin-left: -400px;
-	transition: margin-left 0.5s;
-}
-
-#controls .inner {
-	padding: 10px 20px;
-}
-
-#controls.active {
-	margin-left: 0;
-}
-
-#controlsToggle {
-	float: right;
-	position: relative;
-	right: -103px;
-}
-
-#controls input[type='text'] {
-	width: 50px;
-}
-
-#controls button {
-	border: 1px solid red;
-	cursor: pointer;
-}
-
-#controls button.active {
-	border: 1px solid green;
-}
-
-#controls .filter {
-	margin: 20px 0;
-}
-
-#controls .filter span {
-	display: inline-block;
-	width: 80px;
-}
-
-#results {
-	margin: 5px;
-}
-
-.film {
-	display: block;
-	float: left;
-	width: 165px; /* 185px */
-	height: 248px;
-	background-color: #CCC;
-	margin: 7px; /* 10px; */
-	-webkit-box-shadow: 0 0 10px 3px rgba(0,0,0,0.5);
-	box-shadow: 0 0 10px 3px rgba(0,0,0,0.5);
-}
-
-.film .poster {
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: #AAA;
-	display: block;
-	width: 100%;
-	height: 100%;
-}
-
-.film .detail {
-	display: none;
-	position: relative;
-	background-color: rgba(0, 0, 0, 0.7);
-	color: #FFF;
-	width: 100%;
-	height: 100%;
-	overflow: hidden;
-}
-
-.film .detail .inner {
-	padding: 10px;
-}
-
-.film:hover .poster {
-	padding-bottom: 0;
-}
-
-.film:hover .detail {
-	display: block;
-}
-
-.film .detail h1 {
-	font-weight: bold;
-}
-
-.film .detail a {
-	color: #FFF;
-}
-
-@media all and (max-width: 500px) {
-
-}
-
-@media all and (min-width: 501px) and (max-width: 768px) {
-
-}
-
-@media all and (min-width: 769px) and (max-width: 2000px) {
-
-}
-
-@media all and (min-width: 2001px){
-
-}
+  background: #AD0000; }
+  body h1, body h2, body h3, body h4, body h5 {
+    font-weight: bold; }
+  body .selfClearing {
+    *zoom: 1; }
+    body .selfClearing:after {
+      content: " ";
+      display: block;
+      height: 0;
+      clear: both;
+      visibility: hidden; }
+  body #controls {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    background: #000;
+    color: #FFF;
+    z-index: 20;
+    margin-left: -400px;
+    transition: margin-left 0.5s; }
+    body #controls.active {
+      margin-left: 0; }
+    body #controls #controlsToggle {
+      float: right;
+      position: relative;
+      right: -103px; }
+    body #controls .inner {
+      padding: 10px 20px; }
+      body #controls .inner .filter {
+        margin: 20px 0; }
+        body #controls .inner .filter span {
+          display: inline-block;
+          width: 80px; }
+        body #controls .inner .filter button {
+          border: 1px solid red;
+          cursor: pointer; }
+          body #controls .inner .filter button.active {
+            border: 1px solid green; }
+  body #results {
+    margin: 5px; }
+    body #results .film {
+      display: block;
+      float: left;
+      width: 165px;
+      /* 185px */
+      height: 248px;
+      background-color: #CCC;
+      margin: 7px;
+      /* 10px; */
+      -webkit-box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.5); }
+      body #results .film:hover .poster {
+        padding-bottom: 0; }
+      body #results .film:hover .detail {
+        display: block; }
+      body #results .film .poster {
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #AAA;
+        display: block;
+        width: 100%;
+        height: 100%; }
+      body #results .film .detail {
+        display: none;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #FFF;
+        width: 100%;
+        height: 100%;
+        overflow: hidden; }
+        body #results .film .detail .inner {
+          padding: 10px; }
+          body #results .film .detail .inner a {
+            color: #FFF; }
