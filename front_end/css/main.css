@@ -15,23 +15,27 @@ body {
   body #controls {
     position: fixed;
     top: 0;
-    bottom: 0;
     left: 0;
-    width: 400px;
+    width: 100%;
     background: #000;
     color: #FFF;
     z-index: 20;
     box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.3);
-    margin-left: -400px;
-    transition: margin-left 0.5s; }
+    height: 400px;
+    margin-top: -400px;
+    transition: all 0.5s; }
     body #controls.active {
-      margin-left: 0; }
+      margin-top: 0; }
     body #controls #controlsToggle {
-      float: right;
+      width: 100px;
       position: relative;
-      right: -103px; }
+      top: 400px;
+      left: 50%;
+      margin-left: -50px; }
     body #controls .inner {
-      padding: 10px 20px; }
+      padding: 10px 20px;
+      max-width: 600px;
+      margin: 0 auto; }
       body #controls .inner .filter {
         margin: 20px 0; }
         body #controls .inner .filter span {
