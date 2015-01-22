@@ -2,6 +2,8 @@ body {
   background: #AD0000; }
   body h1, body h2, body h3, body h4, body h5 {
     font-weight: bold; }
+  body button {
+    cursor: pointer; }
   body .selfClearing {
     *zoom: 1; }
     body .selfClearing:after {
@@ -36,8 +38,7 @@ body {
           display: inline-block;
           width: 80px; }
         body #controls .inner .filter button {
-          border: 1px solid red;
-          cursor: pointer; }
+          border: 1px solid red; }
           body #controls .inner .filter button.active {
             border: 1px solid green; }
   body #results {
