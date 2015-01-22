@@ -41,7 +41,10 @@ body {
           body #controls .inner .filter button.active {
             border: 1px solid green; }
   body #results {
-    margin: 5px; }
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
     body #results .film {
       display: block;
       float: left;
@@ -52,7 +55,8 @@ body {
       margin: 7px;
       /* 10px; */
       -webkit-box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.5);
-      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.5); }
+      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.5);
+      flex: none; }
       body #results .film:hover .poster {
         padding-bottom: 0; }
       body #results .film:hover .detail {

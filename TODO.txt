@@ -9,7 +9,6 @@ FRONT-END
 Add detail view?
 Add icons
 Select BBC region
-Center #results area
 Start thinking about design
 
 
