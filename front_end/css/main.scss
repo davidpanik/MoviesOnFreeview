@@ -5,6 +5,10 @@ body {
 		font-weight: bold;
 	}
 
+	button {
+		cursor: pointer;
+	}
+
 	.selfClearing {
 		*zoom: 1;
 
@@ -53,7 +57,6 @@ body {
 
 				button {
 					border: 1px solid red;
-					cursor: pointer;
 
 					&.active {
 						border: 1px solid green;
