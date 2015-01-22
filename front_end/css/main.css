@@ -1,5 +1,6 @@
 body {
-  background: #AD0000; }
+  background: #AD0000;
+  color: #FFFFFF; }
   body h1, body h2, body h3, body h4, body h5 {
     font-weight: bold; }
   body button {
@@ -78,7 +79,7 @@ body {
         display: none;
         position: relative;
         background-color: rgba(0, 0, 0, 0.7);
-        color: #FFF;
+        color: #FFFFFF;
         width: 100%;
         height: 100%;
         overflow: hidden; }
