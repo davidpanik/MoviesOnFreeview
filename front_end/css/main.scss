@@ -1,6 +1,8 @@
-$backgroundColour: #AD0000;
-$controlsColour: #000000;
-$textColour: #FFFFFF;
+$backgroundColour: #3E454C;
+$controlsColour: #2185C5;
+$activeColour: #7ECEFD;
+$textColour: #FFF6E5;
+$attentionColour: #FF7F66;
 $normalFont: 'Lato', sans-serif;
 $boldFont: 'Oswald', sans-serif;
 
@@ -31,16 +33,15 @@ body {
 	}
 
 	#controls {
-		$controlsHeight: 400px;
+		$controlsHeight: 500px;
 
 		position: fixed;
 		top: 0;
 		left: 0;
 		width: 100%;
-		background: #000;
+		background: $controlsColour;
 		color: #FFF;
 		z-index: 20;
-		box-shadow: 0 0 10px 10px rgba($controlsColour, 0.3);
 		height: $controlsHeight;
 		margin-top: -1 * $controlsHeight;
 		transition: all 0.5s;
@@ -73,10 +74,15 @@ body {
 				}
 
 				button {
-					border: 1px solid red;
+					padding: 10px;
+					background: $controlsColour;
+					color: $textColour;
+					border: none;
+					transition: all 0.3s;
 
-					&.active {
-						border: 1px solid green;
+					&.active, &:hover {
+						background: $activeColour;
+						color: $controlsColour;
 					}
 				}
 			}
@@ -97,8 +103,6 @@ body {
 			height: 248px;
 			background-color: #CCC;
 			margin: 7px; /* 10px; */
-			-webkit-box-shadow: 0 0 10px 3px rgba(0,0,0,0.5);
-			box-shadow: 0 0 10px 3px rgba(0,0,0,0.5);
 			flex: none;
 
 			&:hover .poster {
