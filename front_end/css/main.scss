@@ -1,14 +1,17 @@
 $backgroundColour: #AD0000;
 $controlsColour: #000000;
 $textColour: #FFFFFF;
-
+$normalFont: 'Lato', sans-serif;
+$boldFont: 'Oswald', sans-serif;
 
 body {
 	background: $backgroundColour;
 	color: $textColour;
+	font-family: $normalFont;
 
 	h1, h2, h3, h4, h5 {
 		font-weight: bold;
+		font-family: $boldFont;
 	}
 
 	button {

@@ -1,8 +1,10 @@
 body {
   background: #AD0000;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+  font-family: 'Lato', sans-serif; }
   body h1, body h2, body h3, body h4, body h5 {
-    font-weight: bold; }
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif; }
   body button {
     cursor: pointer; }
   body .selfClearing {
