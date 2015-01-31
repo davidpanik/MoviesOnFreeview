@@ -24,73 +24,79 @@
 
 	<body ng-app="myapp">
 		<div ng-controller="MyController">
-			<div id="controls" class="selfClearing" ng-class="{active: controlsActive}">
-				<button id="controlsToggle" ng-click="controlsActive = !controlsActive;">Toggle controls</button>
+			<div id="controlsArea">
+				<div id="controls" class="selfClearing" ng-class="{active: controlsActive}">
+					<div class="inner">
+						<p>See all movies showing on popular Freeview channels over the next seven days.</p>
+						<p>Use the filters below to narrow down the ones you want to watch.</p>
 
-				<div class="inner">
-					<p>See all movies showing on popular Freeview channels over the next seven days.</p>
-					<p>Use the filters below to narrow down the ones you want to watch.</p>
+						<div class="filter large">
+							<button ng-click="currentFilter = 'sort';"     ng-class="{active: currentFilter === 'sort'}    ">Sort</button>
+							<button ng-click="currentFilter = 'score';"    ng-class="{active: currentFilter === 'score'}   ">Score</button>
+							<button ng-click="currentFilter = 'duration';" ng-class="{active: currentFilter === 'duration'}">Duration</button>
+							<button ng-click="currentFilter = 'channels';" ng-class="{active: currentFilter === 'channels'}">Channels</button>
+							<button ng-click="currentFilter = 'day';"      ng-class="{active: currentFilter === 'day'}     ">Day</button>
+							<button ng-click="currentFilter = 'decade';"   ng-class="{active: currentFilter === 'decade'}  ">Decade</button>
+						</div>
 
-					<div class="filter">
-						<span>Sort:</span>
-						<button ng-click="predicate = 'title'; reverse = false;" ng-class="{active: predicate === 'title'}">Alphabetical</button>
-						<button ng-click="predicate = 'score'; reverse = true;"  ng-class="{active: predicate === 'score'}">Top Rated</button>
-						<button ng-click="predicate = 'year';  reverse = true;"  ng-class="{active: predicate === 'year' }">Newest</button>
+						<div class="filter" ng-show="currentFilter === 'sort';">
+							<button ng-click="predicate = 'title'; reverse = false;" ng-class="{active: predicate === 'title'}">A-Z</button>
+							<button ng-click="predicate = 'score'; reverse = true;"  ng-class="{active: predicate === 'score'}">Score</button>
+							<button ng-click="predicate = 'year';  reverse = true;"  ng-class="{active: predicate === 'year' }">Newest</button>
+						</div>
+
+						<div class="filter" ng-show="currentFilter === 'score';">
+							<button ng-click="filters.minScore = 0;"  ng-class="{active: filters.minScore === 0} ">&lt;3</button>
+							<button ng-click="filters.minScore = 3;"  ng-class="{active: filters.minScore === 3} ">3</button>
+							<button ng-click="filters.minScore = 4;"  ng-class="{active: filters.minScore === 4} ">4</button>
+							<button ng-click="filters.minScore = 5;"  ng-class="{active: filters.minScore === 5} ">5</button>
+							<button ng-click="filters.minScore = 6;"  ng-class="{active: filters.minScore === 6} ">6</button>
+							<button ng-click="filters.minScore = 7;"  ng-class="{active: filters.minScore === 7} ">7</button>
+							<button ng-click="filters.minScore = 8;"  ng-class="{active: filters.minScore === 8} ">8</button>
+							<button ng-click="filters.minScore = 9;"  ng-class="{active: filters.minScore === 9} ">9</button>
+							<button ng-click="filters.minScore = 10;" ng-class="{active: filters.minScore === 10}">10</button>
+						</div class="filter">
+
+						<div class="filter" ng-show="currentFilter === 'duration';">
+							<button ng-click="filters.maxDuration = 2;"  ng-class="{active: filters.maxDuration === 2}">&lt;2</button>
+							<button ng-click="filters.maxDuration = 3;"  ng-class="{active: filters.maxDuration === 3}">&lt;3</button>
+							<button ng-click="filters.maxDuration = 4;"  ng-class="{active: filters.maxDuration === 4}">&lt;4</button>
+							<button ng-click="filters.maxDuration = 9;"  ng-class="{active: filters.maxDuration === 9}">4+</button>
+						</div>
+
+						<div class="filter" ng-show="currentFilter === 'channels';">
+							<button ng-click="toggleFilter('channels', 'bbc');"   ng-class="{active: filters.channels['bbc'  ]}">BBC</button>
+							<button ng-click="toggleFilter('channels', 'itv');"   ng-class="{active: filters.channels['itv'  ]}">ITV</button>
+							<button ng-click="toggleFilter('channels', 'four');"  ng-class="{active: filters.channels['four' ]}">Four</button>
+							<button ng-click="toggleFilter('channels', 'five');"  ng-class="{active: filters.channels['five' ]}">Five</button>
+							<button ng-click="toggleFilter('channels', 'other');" ng-class="{active: filters.channels['other']}">Other</button>
+						</div>
+
+						<div class="filter" ng-show="currentFilter === 'day';">
+							<button ng-click="filters.day = 'today';"    ng-class="{active: filters.day === 'today'   }">Today</button>
+							<button ng-click="filters.day = 'tomorrow';" ng-class="{active: filters.day === 'tomorrow'}">2moro</button>
+							<button ng-click="filters.day = '7days';"    ng-class="{active: filters.day === '7days'   }">7 Days</button>
+						</div>
+
+						<div class="filter" ng-show="currentFilter === 'decade';">
+							<button ng-click="toggleFilter('decades', '40');" ng-class="{active: filters.decades['40']}">40s</button>
+							<button ng-click="toggleFilter('decades', '50');" ng-class="{active: filters.decades['50']}">50s</button>
+							<button ng-click="toggleFilter('decades', '60');" ng-class="{active: filters.decades['60']}">60s</button>
+							<button ng-click="toggleFilter('decades', '70');" ng-class="{active: filters.decades['70']}">70s</button>
+							<button ng-click="toggleFilter('decades', '80');" ng-class="{active: filters.decades['80']}">80s</button>
+							<button ng-click="toggleFilter('decades', '90');" ng-class="{active: filters.decades['90']}">90s</button>
+							<button ng-click="toggleFilter('decades', '00');" ng-class="{active: filters.decades['00']}">00s</button>
+							<button ng-click="toggleFilter('decades', '10');" ng-class="{active: filters.decades['10']}">10s</button>
+						</div>
 					</div>
-
-					<div class="filter">
-						<span>Score:</span>
-						<button ng-click="filters.minScore = 5;"  ng-class="{active: filters.minScore === 5} ">5</button>
-						<button ng-click="filters.minScore = 6;"  ng-class="{active: filters.minScore === 6} ">6</button>
-						<button ng-click="filters.minScore = 7;"  ng-class="{active: filters.minScore === 7} ">7</button>
-						<button ng-click="filters.minScore = 8;"  ng-class="{active: filters.minScore === 8} ">8</button>
-						<button ng-click="filters.minScore = 9;"  ng-class="{active: filters.minScore === 9} ">9</button>
-						<button ng-click="filters.minScore = 10;" ng-class="{active: filters.minScore === 10}">10</button>
-					</div class="filter">
-
-					<div class="filter">
-						<span>Duration:</span>
-						<button ng-click="filters.maxDuration = 2;"  ng-class="{active: filters.maxDuration === 2}">&lt;2</button>
-						<button ng-click="filters.maxDuration = 3;"  ng-class="{active: filters.maxDuration === 3}">&lt;3</button>
-						<button ng-click="filters.maxDuration = 4;"  ng-class="{active: filters.maxDuration === 4}">&lt;4</button>
-						<button ng-click="filters.maxDuration = 9;"  ng-class="{active: filters.maxDuration === 9}">4+</button>
-					</div>
-
-					<div class="filter">
-						<span>Channels:</span>
-						<button ng-click="toggleFilter('channels', 'bbc');"   ng-class="{active: filters.channels['bbc'  ]}">BBC</button>
-						<button ng-click="toggleFilter('channels', 'itv');"   ng-class="{active: filters.channels['itv'  ]}">ITV</button>
-						<button ng-click="toggleFilter('channels', 'four');"  ng-class="{active: filters.channels['four' ]}">Four</button>
-						<button ng-click="toggleFilter('channels', 'five');"  ng-class="{active: filters.channels['five' ]}">Five</button>
-						<button ng-click="toggleFilter('channels', 'other');" ng-class="{active: filters.channels['other']}">Other</button>
-					</div>
-
-					<div class="filter">
-						<span>Day:</span>
-						<button ng-click="toggleFilter('days', 'today');"    ng-class="{active: filters.days['today'   ]}">Today</button>
-						<button ng-click="toggleFilter('days', 'tomorrow');" ng-class="{active: filters.days['tomorrow']}">Tomorrow</button>
-						<button ng-click="toggleFilter('days', '7days');"    ng-class="{active: filters.days['7days'   ]}">Next 7 Days</button>
-					</div>
-
-					<div class="filter">
-						<span>Decade:</span>
-						<button ng-click="toggleFilter('decades', '40_50');" ng-class="{active: filters.decades['40_50']}">40s 50s</button>
-						<button ng-click="toggleFilter('decades', '60_70');" ng-class="{active: filters.decades['60_70']}">60s 70s</button>
-						<button ng-click="toggleFilter('decades', '80_90');" ng-class="{active: filters.decades['80_90']}">80s 90s</button>
-						<button ng-click="toggleFilter('decades', '00_10');" ng-class="{active: filters.decades['00_10']}">00s 10s</button>
-					</div>
-
-					<p>
-						Movie metadata supplied by TMDB<br/>
-						Showing times supplied by Sky<br/>
-						Film reel icon designed by Bob
-					</p>
 				</div>
+
+				<button id="controlsToggle" ng-click="controlsActive = !controlsActive;">Toggle filters</button>
 			</div>
 
-			<div ng-show="error" id="error">{{errorMessage}}</div>
+			<div ng-show="error" id="error" class="fillPage">{{errorMessage}}</div>
 
-			<div ng-show="!loaded && !error" id="loading">Loading...</div>
+			<div ng-show="!loaded && !error" id="loading" class="fillPage">Loading</div>
 
 			<div id="results" class="selfClearing" ng-show="loaded && !error">
 				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters:this.channels)" class="film">
@@ -113,9 +119,16 @@
 					</div>
 				</div>
 
-				<div ng-show="filtered.length === 0" class="noResults">No results!</div>
+				<div ng-show="filtered.length === 0" id="noResults" class="fillPage">No results</div>
 			</div>
 		</div>
+
+		<footer>
+			Built by <a href="http://www.lostincode.co.uk" target="_blank">David</a> |
+			Movie metadata supplied by <a href="#" target="_blank">TMDB</a> |
+			Showing times supplied by <a href="#" target="_blank">Sky</a> |
+			Film reel icon designed by <a href="#" target="_blank">Bob</a>
+		</footer>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
 		<script src="./js/vendor/moment.js"></script>

@@ -15,7 +15,9 @@
 
 		$scope.predicate = 'title';
 		$scope.reverse   = false;
-		
+
+		$scope.currentFilter = 'sort';
+
 		$scope.filters = {
 			minScore: 6,
 			maxScore: 10,
@@ -30,16 +32,16 @@
 				'five' : true,
 				'other': false
 			},
-			days: {
-				'today'   : false,
-				'tomorrow': false,
-				'7days'   : true
-			},
+			day: '7days',
 			decades: {
-				'40_50': false,
-				'60_70': false,
-				'80_90': false,
-				'00_10': true
+				'40': false,
+				'50': false,
+				'60': false,
+				'70': false,
+				'80': false,
+				'90': false,
+				'00': true,
+				'10': true
 			}
 		};
 
@@ -116,26 +118,30 @@
 				if (!channelMatch) continue;
 
 				// Filter against days
-				if (!filters.days['7days']) {
+				if (filters.day !== '7days') {
 					var dayMatch = false;
 					for (var z in film.showings) {
 						var date = film.showings[z].date;
 
-						if (filters.days['today'] && date === today) {
+						if (filters.day === 'today' && date === today) {
 							dayMatch = true;
-						} else if (filters.days['tomorrow'] && date === tomorrow) {
+						} else if (filters.day === 'tomorrow' && date === tomorrow) {
 							dayMatch = true;
 						}
 					}
-					if (!dayMatch) continue;	
+					if (!dayMatch) continue;
 				}
-				
+
 				// Filter against years
 				var yearMatch = false;
-				if (filters.decades['40_50'] && film.year >= 1940 && film.year <= 1959) yearMatch = true;
-				if (filters.decades['60_70'] && film.year >= 1960 && film.year <= 1979) yearMatch = true;
-				if (filters.decades['80_90'] && film.year >= 1980 && film.year <= 1999) yearMatch = true;
-				if (filters.decades['00_10'] && film.year >= 2000) yearMatch = true;
+				if (filters.decades['40'] && film.year >= 1940 && film.year <= 1949) yearMatch = true;
+				if (filters.decades['50'] && film.year >= 1950 && film.year <= 1959) yearMatch = true;
+				if (filters.decades['60'] && film.year >= 1960 && film.year <= 1969) yearMatch = true;
+				if (filters.decades['70'] && film.year >= 1970 && film.year <= 1979) yearMatch = true;
+				if (filters.decades['80'] && film.year >= 1980 && film.year <= 1989) yearMatch = true;
+				if (filters.decades['90'] && film.year >= 1990 && film.year <= 1999) yearMatch = true;
+				if (filters.decades['00'] && film.year >= 2000 && film.year <= 2009) yearMatch = true;
+				if (filters.decades['10'] && film.year >= 2010) yearMatch = true;
 				if (!yearMatch) continue;
 
 				filteredFilms.push(film);
