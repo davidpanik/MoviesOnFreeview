@@ -24,7 +24,7 @@
 
 	<body ng-app="myapp">
 		<div ng-controller="MyController">
-			<div id="controlsArea">
+			<div id="controlsArea" ng-cloak>
 				<div id="controls" class="selfClearing" ng-class="{active: controlsActive}">
 					<div class="inner">
 						<p>See all movies showing on popular Freeview channels over the next seven days.</p>
@@ -94,11 +94,11 @@
 				<button id="controlsToggle" ng-click="controlsActive = !controlsActive;">Toggle filters</button>
 			</div>
 
-			<div ng-show="error" id="error" class="fillPage">{{errorMessage}}</div>
+			<div ng-show="error" id="error" class="fillPage" ng-cloak>{{errorMessage}}</div>
 
 			<div ng-show="!loaded && !error" id="loading" class="fillPage">Loading</div>
 
-			<div id="results" class="selfClearing" ng-show="loaded && !error">
+			<div id="results" class="selfClearing" ng-show="loaded && !error" ng-cloak>
 				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters:this.channels)" class="film">
 					<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster">
 						<div class="detail">

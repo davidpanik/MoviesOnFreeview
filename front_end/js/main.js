@@ -45,6 +45,7 @@
 			}
 		};
 
+		
 
 		$http.get('http://api.themoviedb.org/3/configuration?api_key=' + tmdbKey)
 		.success(function(data, status, headers, config) {
