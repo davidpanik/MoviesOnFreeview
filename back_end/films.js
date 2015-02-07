@@ -31,6 +31,7 @@ function updateData() {
 	.then(removeOldData)
 	.then(getFilmsFromSky)
 	.then(addMetaData)
+	.then(cleanUpShowings)
 	.then(done);
 }
 
@@ -150,6 +151,20 @@ function getFilmTMDB(id, callback) {
 
 		deferred.resolve();
 	});
+
+	return deferred.promise;
+}
+
+function cleanUpShowings() {
+	var deferred = Q.defer();
+
+	log('Cleaning up showings');
+
+	// Loop through each film
+	// Then every showing
+	// Look for showings on the same
+	// Remove duplicates and later showings
+	// Remove empty films
 
 	return deferred.promise;
 }
