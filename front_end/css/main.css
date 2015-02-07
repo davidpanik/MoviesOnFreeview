@@ -119,19 +119,24 @@ body {
             overflow: hidden;
             text-align: center; }
           body #results .film .detail .inner .showings {
-            min-height: 138px; }
-          body #results .film .detail .inner .attribute {
+            height: 138px;
+            overflow: hidden; }
+            body #results .film .detail .inner .showings .showing {
+              margin-bottom: 10px; }
+              body #results .film .detail .inner .showings .showing h2 {
+                margin-bottom: 0.2em; }
+          body #results .film .detail .inner .attributes .attribute {
             display: block;
             float: left;
             text-align: center;
             padding: 10px 0;
             width: 32%; }
-            body #results .film .detail .inner .attribute .fa {
+            body #results .film .detail .inner .attributes .attribute .fa {
               display: block;
               margin-bottom: 5px; }
-          body #results .film .detail .inner a {
+          body #results .film .detail .inner .attributes a {
             color: #FFF; }
-            body #results .film .detail .inner a .attribute {
+            body #results .film .detail .inner .attributes a .attribute {
               width: 50%; }
   body .fillPage {
     position: absolute;

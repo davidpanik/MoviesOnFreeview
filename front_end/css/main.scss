@@ -177,27 +177,37 @@ body {
 					}
 
 					.showings {
-						min-height: 138px;
-					}
+						height: 138px;
+						overflow: hidden;
 
-					.attribute {
-						display: block;
-						float: left;
-						text-align: center;
-						padding: 10px 0;
-						width: 32%;
-
-						.fa {
-							display: block;
-							margin-bottom: 5px;
+						.showing {
+							h2 {
+								margin-bottom: 0.2em;
+							}
+							margin-bottom: 10px;
 						}
 					}
 
-					a {
-						color: #FFF;
-
+					.attributes {
 						.attribute {
-							width: 50%;
+							display: block;
+							float: left;
+							text-align: center;
+							padding: 10px 0;
+							width: 32%;
+
+							.fa {
+								display: block;
+								margin-bottom: 5px;
+							}
+						}
+
+						a {
+							color: #FFF;
+
+							.attribute {
+								width: 50%;
+							}
 						}
 					}
 				}
