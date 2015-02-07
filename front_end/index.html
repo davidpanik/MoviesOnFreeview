@@ -19,11 +19,13 @@
 		<link type="text/css" rel="stylesheet" media="all" href="./css/reset.css"/>
 		<link type="text/css" rel="stylesheet" media="all" href="./css/main.css"/>
 
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
 		<!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 	</head>
 
 	<body ng-app="myapp">
-		<div ng-controller="MyController">
+		<div ng-controller="MyController" class="main">
 			<div id="controlsArea" ng-cloak>
 				<div id="controls" class="selfClearing" ng-class="{active: controlsActive}">
 					<div class="inner">
@@ -31,12 +33,12 @@
 						<p>Use the filters below to narrow down the ones you want to watch.</p>
 
 						<div class="filter large">
-							<button ng-click="currentFilter = 'sort';"     ng-class="{active: currentFilter === 'sort'}    ">Sort</button>
-							<button ng-click="currentFilter = 'score';"    ng-class="{active: currentFilter === 'score'}   ">Score</button>
-							<button ng-click="currentFilter = 'duration';" ng-class="{active: currentFilter === 'duration'}">Duration</button>
-							<button ng-click="currentFilter = 'channels';" ng-class="{active: currentFilter === 'channels'}">Channels</button>
-							<button ng-click="currentFilter = 'day';"      ng-class="{active: currentFilter === 'day'}     ">Day</button>
-							<button ng-click="currentFilter = 'decade';"   ng-class="{active: currentFilter === 'decade'}  ">Decade</button>
+							<button ng-click="currentFilter = 'sort';"     ng-class="{active: currentFilter === 'sort'}    "><span class="fa fa-sort-amount-asc fa-2x"></span>Sort</button>
+							<button ng-click="currentFilter = 'score';"    ng-class="{active: currentFilter === 'score'}   "><span class="fa fa-star-o fa-2x"></span>Score</button>
+							<button ng-click="currentFilter = 'duration';" ng-class="{active: currentFilter === 'duration'}"><span class="fa fa-clock-o fa-2x"></span>Duration</button>
+							<button ng-click="currentFilter = 'channels';" ng-class="{active: currentFilter === 'channels'}"><span class="fa fa-tablet fa-2x"></span>Channels</button>
+							<button ng-click="currentFilter = 'day';"      ng-class="{active: currentFilter === 'day'}     "><span class="fa fa-calendar fa-2x"></span>Day</button>
+							<button ng-click="currentFilter = 'decade';"   ng-class="{active: currentFilter === 'decade'}  "><span class="fa fa-calendar-o fa-2x"></span>Released</button>
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'sort';">
@@ -104,16 +106,21 @@
 						<div class="detail">
 							<div class="inner">
 								<h1>{{film.title}}</h1>
-								<p>Score: {{film.score}}</p>
-								<p>Duration: {{film.duration}}</p>
-								<p>Year: {{film.year}}</p>
-								<p><a href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{film.title}}+{{film.year}}+film&fulltext=Search" target="_blank">Wikipedia</a></p>
-								<p><a href="https://www.youtube.com/results?search_query={{film.title}}+{{film.year}}+film+trailer" target="_blank">YouTube</a></p>
-								<ul>
-									<li ng-repeat="showing in film.showings | orderBy:timestamp">
-										{{channels[showing.channel].title}} - {{showing.date}} - {{showing.start}}
-									</li>
-								</ul>
+
+								<div class="showings">
+									<div ng-repeat="showing in film.showings | orderBy:timestamp">
+										<h2>{{channels[showing.channel].title}}</h2>
+										{{showing.date}} - {{showing.start}}
+									</div>
+								</div>
+
+								<div class="attributes selfClearing">
+									<div class="attribute"><span class="fa fa-star-o" title="Score"></span> {{film.score}}</div>
+									<div class="attribute"><span class="fa fa-clock-o" title="Duration"></span> {{film.duration}}</div>
+									<div class="attribute"><span class="fa fa-calendar-o" title="Released"></span> {{film.year}}</div>
+									<!-- <a href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{film.title}}+{{film.year}}+film&fulltext=Search" target="_blank"><div class="attribute"><span class="fa fa-globe" title="Wikipedia"></span> Summary</div></a> -->
+									<!-- <a href="https://www.youtube.com/results?search_query={{film.title}}+{{film.year}}+film+trailer" target="_blank"><div class="attribute"><span class="fa fa-youtube" title="YouTube"></span> Trailer</div></a> -->
+								</div>
 							</div>
 						</div>
 					</div>
@@ -121,14 +128,15 @@
 
 				<div ng-show="filtered.length === 0" id="noResults" class="fillPage">No results</div>
 			</div>
+
+			<footer>
+				Built by <a href="http://www.lostincode.co.uk" target="_blank">David</a> |
+				Movie metadata supplied by <a href="#" target="_blank">TMDB</a> |
+				Showing times supplied by <a href="#" target="_blank">Sky</a> |
+				Film reel icon designed by <a href="#" target="_blank">Bob</a>
+			</footer>
 		</div>
 
-		<footer>
-			Built by <a href="http://www.lostincode.co.uk" target="_blank">David</a> |
-			Movie metadata supplied by <a href="#" target="_blank">TMDB</a> |
-			Showing times supplied by <a href="#" target="_blank">Sky</a> |
-			Film reel icon designed by <a href="#" target="_blank">Bob</a>
-		</footer>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
 		<script src="./js/vendor/moment.js"></script>

@@ -1,3 +1,6 @@
+html, body {
+  height: 100%; }
+
 body {
   background: #3E454C;
   color: #FFF6E5;
@@ -16,6 +19,9 @@ body {
       height: 0;
       clear: both;
       visibility: hidden; }
+  body .main {
+    display: block;
+    min-height: 100%; }
   body #controlsArea {
     position: fixed;
     top: 0;
@@ -57,6 +63,9 @@ body {
           body #controlsArea #controls .inner .filter.large button {
             width: 80px;
             height: 80px; }
+            body #controlsArea #controls .inner .filter.large button .fa {
+              display: block;
+              margin-bottom: 10px; }
     body #controlsArea #controlsToggle {
       width: 140px;
       height: 45px;
@@ -104,8 +113,26 @@ body {
         overflow: hidden; }
         body #results .film .detail .inner {
           padding: 10px; }
+          body #results .film .detail .inner h1 {
+            height: 2em;
+            margin-bottom: 0.5em;
+            overflow: hidden;
+            text-align: center; }
+          body #results .film .detail .inner .showings {
+            min-height: 138px; }
+          body #results .film .detail .inner .attribute {
+            display: block;
+            float: left;
+            text-align: center;
+            padding: 10px 0;
+            width: 32%; }
+            body #results .film .detail .inner .attribute .fa {
+              display: block;
+              margin-bottom: 5px; }
           body #results .film .detail .inner a {
             color: #FFF; }
+            body #results .film .detail .inner a .attribute {
+              width: 50%; }
   body .fillPage {
     position: absolute;
     top: 0;
@@ -119,7 +146,7 @@ body {
     justify-content: center; }
   body footer {
     background: #2185C5;
-    padding: 20px;
+    padding: 20px 0;
     text-align: center;
     font-size: 0.7em; }
     body footer a:link, body footer a:visited, body footer a:hover, body footer a:active {
