@@ -121,6 +121,18 @@ body {
 			color: $textColour;
 			border: none;
 			transition: all 0.5s;
+
+			.fa {
+				margin-right: 10px;
+				font-size: 1.2em;
+				transition: all 0.3s;
+			}
+
+			&.active {
+				.fa {
+					transform: rotate(180deg);
+				}
+			}
 		}
 	}
 

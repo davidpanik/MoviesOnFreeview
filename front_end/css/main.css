@@ -76,6 +76,12 @@ body {
       color: #FFF6E5;
       border: none;
       transition: all 0.5s; }
+      body #controlsArea #controlsToggle .fa {
+        margin-right: 10px;
+        font-size: 1.2em;
+        transition: all 0.3s; }
+      body #controlsArea #controlsToggle.active .fa {
+        transform: rotate(180deg); }
   body #results {
     margin: 55px 5px 50px;
     display: flex;

@@ -93,7 +93,7 @@
 					</div>
 				</div>
 
-				<button id="controlsToggle" ng-click="controlsActive = !controlsActive;">Toggle filters</button>
+				<button id="controlsToggle" ng-click="controlsActive = !controlsActive;" ng-class="{active: controlsActive}"><span class="fa fa-arrow-down"></span> Toggle filters</button>
 			</div>
 
 			<div ng-show="error" id="error" class="fillPage" ng-cloak>{{errorMessage}}</div>
