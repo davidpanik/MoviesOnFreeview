@@ -62,6 +62,7 @@ function removeOldData() {
 			var showingTime = moment(films[film].showings[x].date, 'DD/MM/YY').startOf('day');
 
 			if (showingTime < today) { // Remove past showings
+				log('Deleted a past showing for ' + film);
 				films[film].showings.splice(x, 1);
 			} else if (showingTime > latestDay) {
 				latestDay = showingTime.clone();
@@ -172,7 +173,7 @@ function cleanUpShowings() {
 					films[film].showings[z].channel === baseChannel &&
 					films[film].showings[z].timestamp >= baseTime
 				) {
-					log('Removed a duplicate/split showing');
+					log('Removed a duplicate/split showing for ' + film);
 					films[film].showings.splice(z, 1);
 				}
 			}
