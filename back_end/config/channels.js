@@ -414,18 +414,18 @@ module.exports = {
 		title:      'ITV',
 		family:     'ITV'
 	},
-	1621: {
-		freview_id: 974,
-		sky_id:     1621,
-		title:      'Channel 4',
-		family:     'four'
-	},
-	1670: {
-		freview_id: 975,
-		sky_id:     1670,
-		title:      'Channel 4 +1',
-		family:     'four'
-	},
+	// 1621: {
+	// 	freview_id: 974,
+	// 	sky_id:     1621,
+	// 	title:      'Channel 4',
+	// 	family:     'four'
+	// },
+	// 1670: {
+	// 	freview_id: 975,
+	// 	sky_id:     1670,
+	// 	title:      'Channel 4 +1',
+	// 	family:     'four'
+	// },
 	2076: {
 		freview_id: 976,
 		sky_id:     2076,

@@ -166,6 +166,32 @@ function cleanUpShowings() {
 	// Remove duplicates and later showings
 	// Remove empty films
 
+	for (var film in films) {
+		for (var x = 0; x < films[film].showings.length; x++) {
+			var baseTime = films[film].showings[x].timestamp;
+			var baseChannel = films[film].showings[x].channel;
+
+			for (var z = 0; z < films[film].showings.length; z++) {
+				if (
+					z !== x &&
+					films[film].showings[z].channel === baseChannel &&
+					films[film].showings[z].timestamp >= baseTime
+				) {
+					log('Removed a duplicate/split showing');
+					films[film].showings.splice(z, 1);
+				}
+			}
+			// channel timestamp
+		}
+
+		// Drop any films that no longer have showings
+		if (films[film].showings.length === 0) {
+			delete films[film];
+		}
+	}
+
+	deferred.resolve();
+
 	return deferred.promise;
 }
 
