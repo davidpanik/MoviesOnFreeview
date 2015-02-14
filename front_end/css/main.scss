@@ -254,5 +254,10 @@ body {
 		a:link, a:visited, a:hover, a:active {
 			color: $attentionColour;
 		}
+
+		.divider {
+			margin: 0 5px;
+			color: $activeColour;
+		}
 	}
 }

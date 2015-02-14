@@ -167,3 +167,6 @@ body {
     width: 100%; }
     body footer a:link, body footer a:visited, body footer a:hover, body footer a:active {
       color: #FF7F66; }
+    body footer .divider {
+      margin: 0 5px;
+      color: #7ECEFD; }
