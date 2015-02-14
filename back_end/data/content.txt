@@ -2447,12 +2447,6 @@
         "duration": 2.08,
         "showings": [
             {
-                "channel": "1670",
-                "date": "08/02/15",
-                "timestamp": "1423354500000",
-                "start": "00:15"
-            },
-            {
                 "channel": "1675",
                 "date": "08/02/15",
                 "timestamp": "1423354500000",
@@ -2993,22 +2987,10 @@
         "duration": 2.08,
         "showings": [
             {
-                "channel": "1621",
-                "date": "08/02/15",
-                "timestamp": "1423358400000",
-                "start": "01:20"
-            },
-            {
                 "channel": "1626",
                 "date": "08/02/15",
                 "timestamp": "1423358400000",
                 "start": "01:20"
-            },
-            {
-                "channel": "1670",
-                "date": "08/02/15",
-                "timestamp": "1423362000000",
-                "start": "02:20"
             },
             {
                 "channel": "1675",
@@ -3035,22 +3017,10 @@
         "duration": 1.75,
         "showings": [
             {
-                "channel": "1621",
-                "date": "08/02/15",
-                "timestamp": "1423409100000",
-                "start": "15:25"
-            },
-            {
                 "channel": "1626",
                 "date": "08/02/15",
                 "timestamp": "1423409100000",
                 "start": "15:25"
-            },
-            {
-                "channel": "1670",
-                "date": "08/02/15",
-                "timestamp": "1423412700000",
-                "start": "16:25"
             },
             {
                 "channel": "1675",
@@ -3077,22 +3047,10 @@
         "duration": 1.5,
         "showings": [
             {
-                "channel": "1621",
-                "date": "08/02/15",
-                "timestamp": "1423416600000",
-                "start": "17:30"
-            },
-            {
                 "channel": "1626",
                 "date": "08/02/15",
                 "timestamp": "1423416600000",
                 "start": "17:30"
-            },
-            {
-                "channel": "1670",
-                "date": "08/02/15",
-                "timestamp": "1423420200000",
-                "start": "18:30"
             },
             {
                 "channel": "1675",
@@ -3119,12 +3077,6 @@
         "duration": 2.08,
         "showings": [
             {
-                "channel": "1621",
-                "date": "08/02/15",
-                "timestamp": "1423436700000",
-                "start": "23:05"
-            },
-            {
                 "channel": "1626",
                 "date": "08/02/15",
                 "timestamp": "1423436700000",
@@ -3135,12 +3087,6 @@
                 "date": "08/02/15",
                 "timestamp": "1423436700000",
                 "start": "23:05"
-            },
-            {
-                "channel": "1670",
-                "date": "09/02/15",
-                "timestamp": "1423440300000",
-                "start": "00:05"
             },
             {
                 "channel": "1675",
@@ -8261,22 +8207,10 @@
         "duration": 1.83,
         "showings": [
             {
-                "channel": "1621",
-                "date": "12/02/15",
-                "timestamp": "1423702500000",
-                "start": "00:55"
-            },
-            {
                 "channel": "1626",
                 "date": "12/02/15",
                 "timestamp": "1423702500000",
                 "start": "00:55"
-            },
-            {
-                "channel": "1670",
-                "date": "12/02/15",
-                "timestamp": "1423706100000",
-                "start": "01:55"
             },
             {
                 "channel": "1675",
@@ -10083,22 +10017,10 @@
         "duration": 1.42,
         "showings": [
             {
-                "channel": "1621",
-                "date": "14/02/15",
-                "timestamp": "1423875300000",
-                "start": "00:55"
-            },
-            {
                 "channel": "1626",
                 "date": "14/02/15",
                 "timestamp": "1423875300000",
                 "start": "00:55"
-            },
-            {
-                "channel": "1670",
-                "date": "14/02/15",
-                "timestamp": "1423878900000",
-                "start": "01:55"
             },
             {
                 "channel": "1675",
@@ -10125,22 +10047,10 @@
         "duration": 2.67,
         "showings": [
             {
-                "channel": "1621",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
                 "channel": "1626",
                 "date": "14/02/15",
                 "timestamp": "1423947600000",
                 "start": "21:00"
-            },
-            {
-                "channel": "1670",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
             },
             {
                 "channel": "1675",
@@ -10166,12 +10076,6 @@
         "description": "(2011) Disaster drama. A storm traps explorers in the world's largest cave system. Can they escape the flooded caverns? With Richard Roxburgh and Ioan Gruffudd. Violence/strong language.",
         "duration": 2,
         "showings": [
-            {
-                "channel": "1621",
-                "date": "14/02/15",
-                "timestamp": "1423957200000",
-                "start": "23:40"
-            },
             {
                 "channel": "1626",
                 "date": "14/02/15",
