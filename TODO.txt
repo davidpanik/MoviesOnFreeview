@@ -12,6 +12,7 @@ Round durations to 1dp (with handling for going over an hour)
 Use flexbox to vertically align showing times
 Add flip-card hover effect
 Matches not coming through (e.g. Donnie Darko)
+Format duration as e.g. 1h30m
 
 
 COLOURS SCHEMES

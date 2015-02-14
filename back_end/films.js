@@ -32,6 +32,7 @@ function updateData() {
 	.then(getFilmsFromSky)
 	.then(addMetaData)
 	.then(cleanUpShowings)
+	.then(removeOldData)
 	.then(done);
 }
 

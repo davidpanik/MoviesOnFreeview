@@ -85,7 +85,7 @@ body {
       body #controlsArea #controlsToggle.active .fa {
         transform: rotate(180deg); }
   body #results {
-    margin: 55px 5px 50px;
+    margin: 55px 5px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center; }
