@@ -88,7 +88,7 @@ body {
       body #controlsArea #controlsToggle.active .fa {
         transform: rotate(180deg); }
   body #results {
-    margin: 55px 5px;
+    margin: 55px 5px 70px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center; }
@@ -125,7 +125,7 @@ body {
         body #results .film .detail .inner {
           padding: 10px; }
           body #results .film .detail .inner h1 {
-            height: 2em;
+            height: 2.1em;
             margin-bottom: 0.5em;
             overflow: hidden;
             text-align: center; }
@@ -165,7 +165,7 @@ body {
     justify-content: center; }
   body footer {
     background: #2185C5;
-    padding: 15px 0;
+    padding: 12px 0;
     text-align: center;
     font-size: 0.7em;
     position: fixed;
@@ -177,3 +177,8 @@ body {
     body footer .divider {
       margin: 0 5px;
       color: #7ECEFD; }
+    @media screen and (max-width: 570px) {
+      body footer .divider {
+        display: none; }
+      body footer .item {
+        display: block; } }

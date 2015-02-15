@@ -187,7 +187,7 @@ body {
 					padding: 10px;
 
 					h1 {
-						height: 2em;
+						height: 2.1em;
 						margin-bottom: 0.5em;
 						overflow: hidden;
 						text-align: center;
@@ -251,7 +251,7 @@ body {
 
 	footer {
 		background: $controlsColour;
-		padding: 15px 0;
+		padding: 12px 0;
 		text-align: center;
 		font-size: 0.7em;
 		position: fixed;
@@ -266,6 +266,16 @@ body {
 		.divider {
 			margin: 0 5px;
 			color: $activeColour;
+		}
+
+		@media screen and (max-width: 570px) {
+			.divider {
+				display: none;
+			}
+
+			.item {
+				display: block;
+			}
 		}
 	}
 }
