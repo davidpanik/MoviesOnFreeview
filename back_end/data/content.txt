@@ -5,18 +5,6 @@
         "duration": 1.83,
         "showings": [
             {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423920900000",
-                "start": "13:35"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423917300000",
-                "start": "12:35"
-            },
-            {
                 "channel": "3709",
                 "date": "20/02/15",
                 "timestamp": "1424422800000",
@@ -69,30 +57,6 @@
         "score": 5.1,
         "tmdb_id": 9954,
         "poster": "/gxpTseXRrHCgL0Igm1CrKD5JQNg.jpg",
-        "metadata": true
-    },
-    "stormcell2008": {
-        "title": "Storm Cell",
-        "description": "A storm chaser battles personal demons while trying to save unsuspecting people from a deadly weather system that's about to destroy the town. Thriller starring Mimi Rogers. (2008)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423897800000",
-                "start": "07:10"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423901400000",
-                "start": "08:10"
-            }
-        ],
-        "year": "2008",
-        "score": 0,
-        "tmdb_id": 16200,
-        "poster": "/9i9cHES118FoJDwE4XDwMG27yJe.jpg",
         "metadata": true
     },
     "thelazarusproject2008": {
@@ -167,12 +131,6 @@
         "duration": 2.67,
         "showings": [
             {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423935000000",
-                "start": "17:30"
-            },
-            {
                 "channel": "3708",
                 "date": "15/02/15",
                 "timestamp": "1424024700000",
@@ -189,6 +147,18 @@
                 "date": "19/02/15",
                 "timestamp": "1424370000000",
                 "start": "18:20"
+            },
+            {
+                "channel": "3220",
+                "date": "21/02/15",
+                "timestamp": "1424491200000",
+                "start": "04:00"
+            },
+            {
+                "channel": "3541",
+                "date": "21/02/15",
+                "timestamp": "1424487600000",
+                "start": "03:00"
             }
         ],
         "year": "1974",
@@ -237,41 +207,11 @@
         "poster": "/ocZ9NzgxvQNFaAKeKJtYr8nc9Al.jpg",
         "metadata": true
     },
-    "descent2005": {
-        "title": "Descent",
-        "description": "When cracks in the Earth's crust appear, big enough to swallow a city block, a team of scientists must go deep into the Earth to find a way to prevent a global catastrophe. (2005)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423904100000",
-                "start": "08:55"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423907700000",
-                "start": "09:55"
-            }
-        ],
-        "year": "2005",
-        "score": 0,
-        "tmdb_id": 200356,
-        "poster": "/dUeApxAMg9HrlTWSpi4AfWtrIRy.jpg",
-        "metadata": true
-    },
     "wickedlove2010": {
         "title": "Wicked Love: The Maria Korp Story",
         "description": "Mysterious thriller in which a bizarre love triangle leads to attempted murder in the outer suburbs of Melbourne. Starring Vince Colosimo (The Great Gatsby), directed by Ian Watson (2010).",
         "duration": 2,
         "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423897200000",
-                "start": "07:00"
-            },
             {
                 "channel": "4266",
                 "date": "18/02/15",
@@ -327,59 +267,11 @@
         "poster": "/a94ZVmLzB1eihiWqLDOa4AGS1rK.jpg",
         "metadata": true
     },
-    "whereeaglesdare1969": {
-        "title": "Where Eagles Dare",
-        "description": "World War II action thriller starring Richard Burton and Clint Eastwood. An elite commando group, behind enemy lines on a dangerous mission, suspect there may be a traitor among them. (1969)",
-        "duration": 3.17,
-        "showings": [
-            {
-                "channel": "3022",
-                "date": "14/02/15",
-                "timestamp": "1423918800000",
-                "start": "13:00"
-            }
-        ],
-        "year": "1968",
-        "score": 1,
-        "tmdb_id": 11046,
-        "poster": "/70lTWYeTtQfQ9HVKE12ZS7r89jM.jpg",
-        "metadata": true
-    },
-    "solarattack2006": {
-        "title": "Solar Attack",
-        "description": "As the largest solar flare ever detected heads toward Earth, scientists must carry out an audacious plan to explode the polar ice caps in an attempt to prevent annihilation. (2006)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423910700000",
-                "start": "10:45"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423914300000",
-                "start": "11:45"
-            }
-        ],
-        "year": "2006",
-        "score": 0,
-        "tmdb_id": 34862,
-        "poster": "/kEQ1yWfiHPozORrZ5xesTWPlpmD.jpg",
-        "metadata": true
-    },
     "sniper22002": {
         "title": "Sniper 2",
         "description": "Ex-Marine sniper Tom Berenger is lured back for a secret mission to take out a Serbian general committing ethnic cleansing. (2002)",
         "duration": 1.75,
         "showings": [
-            {
-                "channel": "3709",
-                "date": "14/02/15",
-                "timestamp": "1423955400000",
-                "start": "23:10"
-            },
             {
                 "channel": "3771",
                 "date": "15/02/15",
@@ -391,48 +283,6 @@
         "score": 0,
         "tmdb_id": 14245,
         "poster": "/2INFJHaFEyJZsyKPeRJubiIUpcB.jpg",
-        "metadata": true
-    },
-    "smallsoldiers1998": {
-        "title": "Small Soldiers",
-        "description": "Computer animated drama starring Kirsten Dunst and Gregory Smith, 1998. A toy company develops action-figure soldiers whose realistic fighting capabilities cause mayhem.",
-        "duration": 2.17,
-        "showings": [
-            {
-                "channel": "6240",
-                "date": "14/02/15",
-                "timestamp": "1423919400000",
-                "start": "13:10"
-            }
-        ],
-        "year": "1998",
-        "score": 6.1,
-        "tmdb_id": 11551,
-        "poster": "/l5laJWvcxgkoqC3nRPs9N5u55jR.jpg",
-        "metadata": true
-    },
-    "highlanderendgame2000": {
-        "title": "Highlander: Endgame",
-        "description": "Futuristic fantasy sequel. Two immortal kinsmen who can be killed only by decapitation face a battle to the death in a tournament. Contains some strong language and some violence.  [2000] [S]",
-        "duration": 1.5,
-        "showings": [
-            {
-                "channel": "2102",
-                "date": "08/02/15",
-                "timestamp": "1423358400000",
-                "start": "01:20"
-            },
-            {
-                "channel": "2154",
-                "date": "08/02/15",
-                "timestamp": "1423358400000",
-                "start": "01:20"
-            }
-        ],
-        "year": "2000",
-        "score": 0,
-        "tmdb_id": 12211,
-        "poster": "/fmDt68Pj9OiR3pfvNL9qkuhKvi2.jpg",
         "metadata": true
     },
     "hiddeninsilence": {
@@ -547,41 +397,11 @@
         "poster": "/YUxN8bxzq31gglUONfB25LBQRc.jpg",
         "metadata": true
     },
-    "thecontractor2007": {
-        "title": "The Contractor",
-        "description": "Top CIA assassin Wesley Snipes becomes the prey after completing a mission to kill a terrorist leader in London. Charles Dance co-stars. (2007)",
-        "duration": 1.92,
-        "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            }
-        ],
-        "year": "2007",
-        "score": 0,
-        "tmdb_id": 15071,
-        "poster": "/9xofA45YxJgJwoI4uWR0yWMGpyI.jpg",
-        "metadata": true
-    },
     "goingforthegold1984": {
         "title": "The Cutting Edge: Going for the Gold",
         "description": "Anthony Edwards and Sarah Jessica Parker star in this compelling biopic of US downhill skier Bill Johnson who, despite a turbulent private life, won gold at the 1984 Winter Olympics in Sarajevo.",
         "duration": 2,
         "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423918800000",
-                "start": "13:00"
-            },
             {
                 "channel": "3751",
                 "date": "19/02/15",
@@ -605,6 +425,12 @@
                 "date": "15/02/15",
                 "timestamp": "1423959300000",
                 "start": "00:15"
+            },
+            {
+                "channel": "6000",
+                "date": "21/02/15",
+                "timestamp": "1424559300000",
+                "start": "22:55"
             }
         ],
         "year": "2007",
@@ -627,54 +453,6 @@
         "score": 5.7,
         "tmdb_id": 11397,
         "poster": "/tBOG4R39TFJ2EPBfwlJFzrgcsix.jpg",
-        "metadata": true
-    },
-    "thedisappearanceofalicecreed2009": {
-        "title": "The Disappearance of Alice Creed",
-        "description": "The daughter of a millionaire is abducted and held against her will by two ex-convicts. Contains very strong language, some sexual content and some violence.  Also in HD. [2009] [AD,S]",
-        "duration": 1.58,
-        "showings": [
-            {
-                "channel": "2101",
-                "date": "10/02/15",
-                "timestamp": "1423528200000",
-                "start": "00:30"
-            },
-            {
-                "channel": "2153",
-                "date": "10/02/15",
-                "timestamp": "1423528200000",
-                "start": "00:30"
-            }
-        ],
-        "year": "2009",
-        "score": 1,
-        "tmdb_id": 38542,
-        "poster": "/dStmUCdvmLJqD69TTJTduTy6VVd.jpg",
-        "metadata": true
-    },
-    "cityhall1996": {
-        "title": "City Hall",
-        "description": "Thriller starring Al Pacino. When a small boy is caught in the crossfire of a gunfight between police and a known mafioso, the New York mayor takes action. Contains strong language.  [1996] [S]",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "2104",
-                "date": "11/02/15",
-                "timestamp": "1423612800000",
-                "start": "00:00"
-            },
-            {
-                "channel": "2156",
-                "date": "11/02/15",
-                "timestamp": "1423612800000",
-                "start": "00:00"
-            }
-        ],
-        "year": "1996",
-        "score": 0,
-        "tmdb_id": 11062,
-        "poster": "/ttdjD9NpxXsTJidPT3o1Gk0oTkG.jpg",
         "metadata": true
     },
     "tallmanriding1955": {
@@ -701,16 +479,16 @@
         "duration": 1.83,
         "showings": [
             {
-                "channel": "3709",
-                "date": "14/02/15",
-                "timestamp": "1423904400000",
-                "start": "09:00"
+                "channel": "3220",
+                "date": "21/02/15",
+                "timestamp": "1424543100000",
+                "start": "18:25"
             },
             {
-                "channel": "3771",
-                "date": "14/02/15",
-                "timestamp": "1423908000000",
-                "start": "10:00"
+                "channel": "3541",
+                "date": "21/02/15",
+                "timestamp": "1424539500000",
+                "start": "17:25"
             }
         ],
         "year": "2013",
@@ -718,22 +496,6 @@
         "tmdb_id": 180787,
         "poster": "/9cm1GD5pKIzj8hzUWgqWTEdjyGM.jpg",
         "metadata": true
-    },
-    "theperfecttribute": {
-        "title": "The Perfect Tribute",
-        "description": "Set in the American Civil War, 12-year-old Benjamin risks his life to save his soldier brother and President Abraham Lincoln, who is struggling to end the devastating war. Stars Jason Robards.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423911600000",
-                "start": "11:00"
-            }
-        ],
-        "year": "",
-        "score": 0,
-        "metadata": false
     },
     "thegreedofwilliamhart1800": {
         "title": "The Greed of William Hart",
@@ -783,24 +545,6 @@
         "poster": "/s4aFpqFoYjZ7VyXXcrnoTID9X9l.jpg",
         "metadata": true
     },
-    "theoutsider": {
-        "title": "The Outsider",
-        "description": "A Western love story starring Naomi Watts. A young widower from a religious sect rejects her strict upbringing when she becomes romantically involved with a cold-blooded gunslinger.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423882800000",
-                "start": "03:00"
-            }
-        ],
-        "year": "2014",
-        "score": 0,
-        "tmdb_id": 241765,
-        "poster": "/413N4Nz79YJVtjDgvftpwkO6ipm.jpg",
-        "metadata": true
-    },
     "arizonaraiders1965": {
         "title": "Arizona Raiders",
         "description": "(1965) Western. Olympic swimming medallist Buster Crabbe stars with real-life war hero Audie Murphy as an army captain and a convict who aim to rid Arizona of a band of renegade outlaws.",
@@ -847,6 +591,12 @@
                 "date": "20/02/15",
                 "timestamp": "1424474100000",
                 "start": "23:15"
+            },
+            {
+                "channel": "1629",
+                "date": "21/02/15",
+                "timestamp": "1424477700000",
+                "start": "00:15"
             }
         ],
         "year": "2013",
@@ -961,24 +711,6 @@
         "poster": "/u5GBwwOwhythX1A2AQ1yalhPXNA.jpg",
         "metadata": true
     },
-    "thekeeper2009": {
-        "title": "The Keeper",
-        "description": "Action adventure starring Stephan Duvall and Steven Seagal, 2009. An ex-LA cop flees to New Mexico to work as a bodyguard for the daughter of a wealthy businessman.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "6272",
-                "date": "14/02/15",
-                "timestamp": "1423955100000",
-                "start": "23:05"
-            }
-        ],
-        "year": "2009",
-        "score": 0,
-        "tmdb_id": 26583,
-        "poster": "/f9vLPo7YwnT60efZ0Ivz9vD1i0e.jpg",
-        "metadata": true
-    },
     "hobsonschoice1954": {
         "title": "Hobson's Choice",
         "description": "(1954) Comedy. A drunkard boot-maker (Charles Laughton) refuses to pay marriage settlements for his daughters. But one of them sets out to get revenge. With John Mills and Prunella Scales.",
@@ -1031,30 +763,6 @@
         "score": 0,
         "tmdb_id": 46875,
         "poster": "/jmBJXJFTpVIvw2NiFAxmhFHyrXf.jpg",
-        "metadata": true
-    },
-    "dawnofthedead1979": {
-        "title": "Dawn of the Dead",
-        "description": "Gruesome, darkly satirical horror sequel. Four people barricaded in a shopping mall struggle to repel the living dead. Contains very strong language and graphic violence.  [1979] [AD,S]",
-        "duration": 2.33,
-        "showings": [
-            {
-                "channel": "2101",
-                "date": "12/02/15",
-                "timestamp": "1423701900000",
-                "start": "00:45"
-            },
-            {
-                "channel": "2153",
-                "date": "12/02/15",
-                "timestamp": "1423701900000",
-                "start": "00:45"
-            }
-        ],
-        "year": "1978",
-        "score": 7.3,
-        "tmdb_id": 923,
-        "poster": "/8D6WEfNZr6JadQrqJr5OOq1QlV0.jpg",
         "metadata": true
     },
     "undertenflags1960": {
@@ -1123,15 +831,15 @@
         "duration": 2,
         "showings": [
             {
-                "channel": "5338",
-                "date": "14/02/15",
-                "timestamp": "1423904400000",
-                "start": "09:00"
-            },
-            {
                 "channel": "3751",
                 "date": "17/02/15",
                 "timestamp": "1424199600000",
+                "start": "19:00"
+            },
+            {
+                "channel": "5338",
+                "date": "20/02/15",
+                "timestamp": "1424458800000",
                 "start": "19:00"
             }
         ],
@@ -1231,24 +939,6 @@
         "poster": "/ivCd3e2ZyMCrGDc3TwVQj3b4uWL.jpg",
         "metadata": true
     },
-    "basicinstinct1992": {
-        "title": "Basic Instinct",
-        "description": "(1992) Love & Sex: Erotic thriller. Sharon Stone plays a bisexual crime writer who could be a serial killer. Michael Douglas plays the cop investigating her. Strong language/sex/violence.",
-        "duration": 2.58,
-        "showings": [
-            {
-                "channel": "1629",
-                "date": "14/02/15",
-                "timestamp": "1423872600000",
-                "start": "00:10"
-            }
-        ],
-        "year": "1992",
-        "score": 6.2,
-        "tmdb_id": 402,
-        "poster": "/vGBtnm9clhAjLp3D3dky7zFTQBA.jpg",
-        "metadata": true
-    },
     "myneighbourskeeper2007": {
         "title": "My Neighbour's Keeper",
         "description": "Thriller starring Laura Harring and Linden Ashby. Kate's best friend Ann is murdered and she must struggle with her suspicions that Ann's husband was involved. (2007)",
@@ -1303,24 +993,6 @@
         "poster": "/sUMogIAJ23VsCyoSk4Rx0i78JcI.jpg",
         "metadata": true
     },
-    "thedeadlylookoflove": {
-        "title": "The Deadly Look of Love",
-        "description": "Life takes a turn for the deadly when a young woman obsessed by romantic novels decides to put her fantasies into practice. With Jordan Ladd (Grindhouse) and Holland Taylor (The Practice).",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "5338",
-                "date": "14/02/15",
-                "timestamp": "1423911600000",
-                "start": "11:00"
-            }
-        ],
-        "year": "2000",
-        "score": 0,
-        "tmdb_id": 254074,
-        "poster": null,
-        "metadata": true
-    },
     "rampart2012": {
         "title": "Rampart",
         "description": "When cop Woody Harrelson is caught on tape beating a suspect, the consequences send him into an emotional downward spiral. Sigourney Weaver and Steve Buscemi co-star. (2012)",
@@ -1350,12 +1022,6 @@
         "description": "An ex-marine special forces commander hunts down a crew of diamond thieves who have abducted his wife. John Cena stars. (2007)",
         "duration": 1.92,
         "showings": [
-            {
-                "channel": "3771",
-                "date": "14/02/15",
-                "timestamp": "1423872300000",
-                "start": "00:05"
-            },
             {
                 "channel": "3709",
                 "date": "17/02/15",
@@ -1387,83 +1053,11 @@
         "poster": "/8XefYka77ypAnPJvaVlfUGBBs4a.jpg",
         "metadata": true
     },
-    "strangewilderness2008": {
-        "title": "Strange Wilderness",
-        "description": "(2008) Comedy. Steve Zahn stars as the stoner presenter of a TV nature show. To combat falling ratings, he sets off to the Andes to catch Bigfoot. Strong language/drugs/sex.",
-        "duration": 1.42,
-        "showings": [
-            {
-                "channel": "1626",
-                "date": "14/02/15",
-                "timestamp": "1423875300000",
-                "start": "00:55"
-            },
-            {
-                "channel": "1675",
-                "date": "14/02/15",
-                "timestamp": "1423878900000",
-                "start": "01:55"
-            },
-            {
-                "channel": "4075",
-                "date": "14/02/15",
-                "timestamp": "1423875300000",
-                "start": "00:55"
-            }
-        ],
-        "year": "2008",
-        "score": 0,
-        "tmdb_id": 14220,
-        "poster": "/iiwrIF8E0Q9lITeo949FuyU8Roe.jpg",
-        "metadata": true
-    },
-    "thebournelegacy2012": {
-        "title": "The Bourne Legacy",
-        "description": "(2012) Spy thriller sequel to The Bourne Ultimatum. Jeremy Renner stars as a genetically enhanced CIA spy fleeing for his life from his employers. With Rachel Weisz and Edward Norton.",
-        "duration": 2.67,
-        "showings": [
-            {
-                "channel": "1626",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "1675",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            },
-            {
-                "channel": "4075",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            }
-        ],
-        "year": "2012",
-        "score": 5.8,
-        "tmdb_id": 49040,
-        "poster": "/66na1ha5ejYGsNXbd5ShzwdCMwr.jpg",
-        "metadata": true
-    },
     "sanctum2011": {
         "title": "Sanctum",
         "description": "(2011) Disaster drama. A storm traps explorers in the world's largest cave system. Can they escape the flooded caverns? With Richard Roxburgh and Ioan Gruffudd. Violence/strong language.",
         "duration": 2,
         "showings": [
-            {
-                "channel": "1626",
-                "date": "14/02/15",
-                "timestamp": "1423957200000",
-                "start": "23:40"
-            },
-            {
-                "channel": "4075",
-                "date": "14/02/15",
-                "timestamp": "1423957200000",
-                "start": "23:40"
-            },
             {
                 "channel": "1675",
                 "date": "15/02/15",
@@ -1477,54 +1071,6 @@
         "poster": "/vnfSwR7J5dI0fq3fqSz5T515jTu.jpg",
         "metadata": true
     },
-    "secretary2002": {
-        "title": "Secretary",
-        "description": "(2002) Love & Sex: Drama. A woman (Maggie Gyllenhaal) working for a lawyer (James Spader) finds they both believe in 'discipline'. Adults only: sex/sadomasochism/self-harm/strong language.",
-        "duration": 2.17,
-        "showings": [
-            {
-                "channel": "1627",
-                "date": "14/02/15",
-                "timestamp": "1423878300000",
-                "start": "01:45"
-            },
-            {
-                "channel": "1629",
-                "date": "14/02/15",
-                "timestamp": "1423881900000",
-                "start": "02:45"
-            }
-        ],
-        "year": "2002",
-        "score": 1,
-        "tmdb_id": 11013,
-        "poster": "/dZaTYgy6sc6Z8ylaKdXw8yq5sRv.jpg",
-        "metadata": true
-    },
-    "sttrinians2007": {
-        "title": "St. Trinian's",
-        "description": "(2007) Anarchic comedy. Talulah Riley stars as the new girl at a boarding school where the rowdy pupils rule the roost. Also starring Gemma Arterton, Rupert Everett and Russell Brand.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "1627",
-                "date": "14/02/15",
-                "timestamp": "1423918800000",
-                "start": "13:00"
-            },
-            {
-                "channel": "1629",
-                "date": "14/02/15",
-                "timestamp": "1423922400000",
-                "start": "14:00"
-            }
-        ],
-        "year": "2007",
-        "score": 1,
-        "tmdb_id": 10748,
-        "poster": "/7WkJDzTqWaw2j57Yx1KvoIb5eWA.jpg",
-        "metadata": true
-    },
     "butchcassidyandthesundancekid1969": {
         "title": "Butch Cassidy and the Sundance Kid",
         "description": "(1969) Western. Robert Redford and Paul Newman star as the infamous wisecracking outlaws whose exploits made them legendary heroes as they fled from the law to their violent end in Bolivia.",
@@ -1532,15 +1078,9 @@
         "showings": [
             {
                 "channel": "1627",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            },
-            {
-                "channel": "1629",
-                "date": "14/02/15",
-                "timestamp": "1423929600000",
-                "start": "16:00"
+                "date": "20/02/15",
+                "timestamp": "1424451000000",
+                "start": "16:50"
             }
         ],
         "year": "1969",
@@ -1549,65 +1089,11 @@
         "poster": "/bIQQm0M2frhkctqR5vPyU1qqcZm.jpg",
         "metadata": true
     },
-    "oneday2011": {
-        "title": "One Day",
-        "description": "(2011) Romantic drama. Jim Sturgess and Anne Hathaway star as friends whose lives intertwine and diverge over the years after meeting as graduates in 1988. Based on David Nicholls' novel.",
-        "duration": 2.08,
-        "showings": [
-            {
-                "channel": "1627",
-                "date": "14/02/15",
-                "timestamp": "1423940100000",
-                "start": "18:55"
-            },
-            {
-                "channel": "1629",
-                "date": "14/02/15",
-                "timestamp": "1423943700000",
-                "start": "19:55"
-            }
-        ],
-        "year": "2011",
-        "score": 6.8,
-        "tmdb_id": 51828,
-        "poster": "/xzOz17yC3K6SZWtWylXimcHUqpD.jpg",
-        "metadata": true
-    },
-    "thebraveone2007": {
-        "title": "The Brave One",
-        "description": "(2007) Thriller. Jodie Foster starts carrying a gun for confidence after she's brutally attacked. But her new self-assurance places her in more danger. Very strong language/brutal violence.",
-        "duration": 2.42,
-        "showings": [
-            {
-                "channel": "1627",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "1629",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            }
-        ],
-        "year": "2007",
-        "score": 1,
-        "tmdb_id": 4413,
-        "poster": "/j2nSeTTFwZeCGzFDuJqebf0Hixb.jpg",
-        "metadata": true
-    },
     "bettyblue1986": {
         "title": "Betty Blue",
         "description": "(1986) Love & Sex: Oscar-nominated drama. A woman's (Beatrice Dalle) love affair with a writer/handyman drifts towards tragedy. In French/subs. Adults only: very strong language/sex scenes.",
         "duration": 3.58,
         "showings": [
-            {
-                "channel": "1627",
-                "date": "14/02/15",
-                "timestamp": "1423956300000",
-                "start": "23:25"
-            },
             {
                 "channel": "1629",
                 "date": "15/02/15",
@@ -1628,14 +1114,14 @@
         "showings": [
             {
                 "channel": "1628",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
+                "date": "20/02/15",
+                "timestamp": "1424466000000",
                 "start": "21:00"
             },
             {
                 "channel": "3300",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
+                "date": "20/02/15",
+                "timestamp": "1424469600000",
                 "start": "22:00"
             }
         ],
@@ -1645,81 +1131,13 @@
         "poster": "/s6ehbUfScpU0408ahsxCzlUwAzG.jpg",
         "metadata": true
     },
-    "columbodoubleshock1973": {
-        "title": "Columbo: Double Shock",
-        "description": "Prolific detective drama starring Peter Falk and Martin Landau. The dishevelled sleuth investigates when a physical fitness enthusiast dies from a supposed heart attack. (1973)",
-        "duration": 1.5,
-        "showings": [
-            {
-                "channel": "1830",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            },
-            {
-                "channel": "1839",
-                "date": "14/02/15",
-                "timestamp": "1423929600000",
-                "start": "16:00"
-            }
-        ],
-        "year": "1973",
-        "score": 0,
-        "metadata": false
-    },
-    "columbogoestotheguillotine1989": {
-        "title": "Columbo Goes To The Guillotine",
-        "description": "Crime drama starring Peter Falk and Anthony Andrews. The dishevelled detective is called upon to investigate the death of a magician. (1989)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "1830",
-                "date": "14/02/15",
-                "timestamp": "1423931400000",
-                "start": "16:30"
-            },
-            {
-                "channel": "1839",
-                "date": "14/02/15",
-                "timestamp": "1423935000000",
-                "start": "17:30"
-            }
-        ],
-        "year": "1989",
-        "score": 0,
-        "metadata": false
-    },
     "theinfidel2010": {
         "title": "The Infidel",
         "description": "Muslim Mahmud discovers that he is adopted - and Jewish. An American Jewish cabbie teaches him how to be a proper Jew, with disastrous results. Contains very strong language.  Also in HD. [2010] [S]",
         "duration": 1.67,
         "showings": [
             {
-                "channel": "2006",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            },
-            {
-                "channel": "2015",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            },
-            {
-                "channel": "2016",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            },
-            {
                 "channel": "2017",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            },
-            {
-                "channel": "2075",
                 "date": "14/02/15",
                 "timestamp": "1423875600000",
                 "start": "01:00"
@@ -1737,31 +1155,7 @@
         "duration": 1.67,
         "showings": [
             {
-                "channel": "2006",
-                "date": "14/02/15",
-                "timestamp": "1423895400000",
-                "start": "06:30"
-            },
-            {
-                "channel": "2015",
-                "date": "14/02/15",
-                "timestamp": "1423895400000",
-                "start": "06:30"
-            },
-            {
-                "channel": "2016",
-                "date": "14/02/15",
-                "timestamp": "1423895400000",
-                "start": "06:30"
-            },
-            {
                 "channel": "2017",
-                "date": "14/02/15",
-                "timestamp": "1423895400000",
-                "start": "06:30"
-            },
-            {
-                "channel": "2075",
                 "date": "14/02/15",
                 "timestamp": "1423895400000",
                 "start": "06:30"
@@ -1778,24 +1172,6 @@
         "description": "Western set during the Mexican Revolution. An American mercenary (Rory Calhoun) joins supporters of a revolutionary leader in trying to transport a stolen gold cargo cross country. [1955] [S]",
         "duration": 1.5,
         "showings": [
-            {
-                "channel": "2006",
-                "date": "14/02/15",
-                "timestamp": "1423920600000",
-                "start": "13:30"
-            },
-            {
-                "channel": "2016",
-                "date": "14/02/15",
-                "timestamp": "1423920600000",
-                "start": "13:30"
-            },
-            {
-                "channel": "2017",
-                "date": "14/02/15",
-                "timestamp": "1423920600000",
-                "start": "13:30"
-            },
             {
                 "channel": "2075",
                 "date": "14/02/15",
@@ -1821,24 +1197,6 @@
         "duration": 1.5,
         "showings": [
             {
-                "channel": "2006",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            },
-            {
-                "channel": "2016",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            },
-            {
-                "channel": "2017",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            },
-            {
                 "channel": "2075",
                 "date": "14/02/15",
                 "timestamp": "1423926000000",
@@ -1857,54 +1215,6 @@
         "poster": "/dFoJajIUrjaEQsRCZZrbUAupSeU.jpg",
         "metadata": true
     },
-    "tropicthunder2008": {
-        "title": "Tropic Thunder",
-        "description": "Comedy. Pampered actors shooting a war film are caught up in a real conflict. Ben Stiller and Robert Downey Jr star. Contains very strong language and some violence.  Also in HD. [2008] [AD,S]",
-        "duration": 1.67,
-        "showings": [
-            {
-                "channel": "2061",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "2077",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            }
-        ],
-        "year": "2008",
-        "score": 6.2,
-        "tmdb_id": 7446,
-        "poster": "/ue9QdvhpcNPvKQyLY5a5Pd0tagS.jpg",
-        "metadata": true
-    },
-    "supermanii1980": {
-        "title": "Superman II",
-        "description": "Special effects-filled sequel starring Christopher Reeve and Margot Kidder. Three villains with powers equal to Superman's arrive from Krypton, intent on conquering the Earth. (1980)",
-        "duration": 2.58,
-        "showings": [
-            {
-                "channel": "3022",
-                "date": "14/02/15",
-                "timestamp": "1423929900000",
-                "start": "16:05"
-            },
-            {
-                "channel": "3027",
-                "date": "14/02/15",
-                "timestamp": "1423933500000",
-                "start": "17:05"
-            }
-        ],
-        "year": "1981",
-        "score": 6.3,
-        "tmdb_id": 8536,
-        "poster": "/d8bydymAcNHwya3pHMyP62TL2re.jpg",
-        "metadata": true
-    },
     "bridgeatremagen1969": {
         "title": "The Bridge at Remagen",
         "description": "World War II drama starring George Segal and Robert Vaughn. A battle breaks out to hold the Ludendorf Bridge at Remagen, the only bridge still standing across the Rhine. (1969)",
@@ -1912,15 +1222,9 @@
         "showings": [
             {
                 "channel": "3022",
-                "date": "14/02/15",
-                "timestamp": "1423939200000",
-                "start": "18:40"
-            },
-            {
-                "channel": "3027",
-                "date": "14/02/15",
-                "timestamp": "1423942800000",
-                "start": "19:40"
+                "date": "20/02/15",
+                "timestamp": "1424434500000",
+                "start": "12:15"
             }
         ],
         "year": "1969",
@@ -1929,89 +1233,11 @@
         "poster": "/uDzJOsGv1KETTDUSznoKK6EzlFv.jpg",
         "metadata": true
     },
-    "pointbreak1991": {
-        "title": "Point Break",
-        "description": "Action adventure starring Patrick Swayze and Keanu Reeves. An undercover cop's pursuit of a gang of bank robbers leads him to the adrenaline-fuelled LA surf scene. (1991)",
-        "duration": 2.58,
-        "showings": [
-            {
-                "channel": "3022",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "3027",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            }
-        ],
-        "year": "1991",
-        "score": 6.5,
-        "tmdb_id": 1089,
-        "poster": "/qzKNI8b8EZZhwGFqPavPO04abf.jpg",
-        "metadata": true
-    },
-    "seespotrun2001": {
-        "title": "See Spot Run",
-        "description": "Canine comedy starring David Arquette and Michael Clarke Duncan. A mailman is plunged into a series of adventures when he unwittingly adopts an FBI sniffer dog. (2001)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3023",
-                "date": "14/02/15",
-                "timestamp": "1423933800000",
-                "start": "17:10"
-            }
-        ],
-        "year": "2001",
-        "score": 0,
-        "tmdb_id": 39180,
-        "poster": "/khhVLZlAPUTMcQWkG6K5Xo4dT6F.jpg",
-        "metadata": true
-    },
-    "thereplacementkillers1998": {
-        "title": "The Replacement Killers",
-        "description": "An assassin encounters death-defying obstacles as he tries to break from his violent past. Mira Sorvino and Chow Yun-Fat star. (1998)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423879200000",
-                "start": "02:00"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            }
-        ],
-        "year": "1998",
-        "score": 1,
-        "tmdb_id": 11702,
-        "poster": "/qVdrbvItfoQWJNk60t7aimUSLfO.jpg",
-        "metadata": true
-    },
     "ivanhoe1982": {
         "title": "Ivanhoe",
         "description": "With his country in turmoil, Saxon knight Ivanhoe (Anthony Andrews) returns to England from the Crusades to find he's been disinherited and abandoned by his longtime love. (1982)",
         "duration": 2.83,
         "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423886400000",
-                "start": "04:00"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423882800000",
-                "start": "03:00"
-            },
             {
                 "channel": "3709",
                 "date": "19/02/15",
@@ -2031,102 +1257,6 @@
         "poster": "/o53Kh5gAK8haLSkb0FtP5qwwLEk.jpg",
         "metadata": true
     },
-    "k9christmas2013": {
-        "title": "K-9 Adventures: A Christmas Tale",
-        "description": "A young girl named Kassie (Ariana Bagley) befriends an ex-police dog in this Christmas-themed children's adventure. (2013)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423908000000",
-                "start": "10:00"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423904400000",
-                "start": "09:00"
-            }
-        ],
-        "year": "2013",
-        "score": 0,
-        "tmdb_id": 231530,
-        "poster": "/42fyajclXotr1gP5KhJ3sCGzGdy.jpg",
-        "metadata": true
-    },
-    "santasdog2012": {
-        "title": "Hercules Saves Christmas",
-        "description": "Santa has a 'naughty list' and 'nice list', but each year, one naughty child can move to the better list, and this child is chosen by Hercules - a dog nominated by Santa. (2012)",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423914600000",
-                "start": "11:50"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423911000000",
-                "start": "10:50"
-            }
-        ],
-        "year": "2011",
-        "score": 0,
-        "tmdb_id": 145037,
-        "poster": "/wytzLU9rq0PAb4wxq3XdCk1zBKN.jpg",
-        "metadata": true
-    },
-    "dragonwars2007": {
-        "title": "D-War",
-        "description": "Dragonlike creatures from an ancient legend appear in Los Angeles, terrorising the city in this fantasy drama. Jason Behr stars. (2007)",
-        "duration": 1.92,
-        "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423944300000",
-                "start": "20:05"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423940700000",
-                "start": "19:05"
-            }
-        ],
-        "year": "2007",
-        "score": 1,
-        "tmdb_id": 10253,
-        "poster": "/lp6AwCvSOioaGnx0tJZfMgRYDp1.jpg",
-        "metadata": true
-    },
-    "hardluck2006": {
-        "title": "Hard Luck",
-        "description": "An ex-drug dealer (Wesley Snipes) tries to go straight but discovers stolen drugs. Meanwhile a middle-aged housewife (Cybill Shepherd) hides a sadistic streak. (2006)",
-        "duration": 2.08,
-        "showings": [
-            {
-                "channel": "3220",
-                "date": "14/02/15",
-                "timestamp": "1423958100000",
-                "start": "23:55"
-            },
-            {
-                "channel": "3541",
-                "date": "14/02/15",
-                "timestamp": "1423954500000",
-                "start": "22:55"
-            }
-        ],
-        "year": "2006",
-        "score": 0,
-        "tmdb_id": 9650,
-        "poster": "/jh332vupgajhVyq1xvPAs6jPoDu.jpg",
-        "metadata": true
-    },
     "toratoratora1970": {
         "title": "Tora! Tora! Tora!",
         "description": "(1970) Oscar-winning drama portraying the bombing of Pearl Harbor, from both American and Japanese perspectives. With Joseph Cotten, Martin Balsam, Jason Robards and So Yamamura.",
@@ -2134,15 +1264,9 @@
         "showings": [
             {
                 "channel": "3310",
-                "date": "14/02/15",
-                "timestamp": "1423914000000",
-                "start": "11:40"
-            },
-            {
-                "channel": "3340",
-                "date": "14/02/15",
-                "timestamp": "1423910400000",
-                "start": "10:40"
+                "date": "20/02/15",
+                "timestamp": "1424432100000",
+                "start": "11:35"
             }
         ],
         "year": "1970",
@@ -2151,65 +1275,11 @@
         "poster": "/njNKZEgVVTk7Q0Fir99fuvEMCf7.jpg",
         "metadata": true
     },
-    "thevictim2011": {
-        "title": "The Victim",
-        "description": "Terrifically trashy terror written, directed by and starring Michael Biehn. A reclusive loner is drawn into a violent stand-off when two good-time girls are attacked by rogue deputies. (2011)",
-        "duration": 1.58,
-        "showings": [
-            {
-                "channel": "3605",
-                "date": "14/02/15",
-                "timestamp": "1423874400000",
-                "start": "00:40"
-            },
-            {
-                "channel": "4502",
-                "date": "14/02/15",
-                "timestamp": "1423878000000",
-                "start": "01:40"
-            }
-        ],
-        "year": "2011",
-        "score": 0,
-        "tmdb_id": 44008,
-        "poster": "/xC1pUFu0H1rqbOFZJHSDEhX6SUJ.jpg",
-        "metadata": true
-    },
-    "andsoonthedarkness1970": {
-        "title": "And Soon the Darkness",
-        "description": "Tense British thriller. Young nurses Jane and Cathy are on a cycling trip in rural France when Cathy's head is turned by a mysterious young man sparking a sinister chain of events. (1970)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3605",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "4502",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            }
-        ],
-        "year": "1970",
-        "score": 0,
-        "tmdb_id": 51992,
-        "poster": "/r2ztVT5hUCM2okTH9CxwKYLvYJr.jpg",
-        "metadata": true
-    },
     "hazardjack2014": {
         "title": "Hazard Jack",
         "description": "Brutal slasher. A group of college kids head to an abandoned hospital for a boozy weekend of war games only to encounter a PTSD-stricken war veteran acting upon his crazed delusions. (2014)",
         "duration": 1.58,
         "showings": [
-            {
-                "channel": "3605",
-                "date": "14/02/15",
-                "timestamp": "1423954800000",
-                "start": "23:00"
-            },
             {
                 "channel": "4502",
                 "date": "15/02/15",
@@ -2217,10 +1287,10 @@
                 "start": "00:00"
             },
             {
-                "channel": "4502",
+                "channel": "3605",
                 "date": "20/02/15",
-                "timestamp": "1424397000000",
-                "start": "01:50"
+                "timestamp": "1424393400000",
+                "start": "00:50"
             }
         ],
         "year": "2014",
@@ -2229,35 +1299,11 @@
         "poster": "/9uwgV3WC9dkA3k5CMWrkAmuLZq4.jpg",
         "metadata": true
     },
-    "candlesonbaystreet": {
-        "title": "Candles on Bay Street",
-        "description": "Emotive drama starring Alicia Silverstone. A single mother desperately searches for someone to take care of her young son after she is diagnosed with Non-Hodgkin's Lymphoma.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3617",
-                "date": "14/02/15",
-                "timestamp": "1423900800000",
-                "start": "08:00"
-            }
-        ],
-        "year": "2006",
-        "score": 0,
-        "tmdb_id": 52311,
-        "poster": "/nqZRgr24QnLRTH3ecTpFZncjgIP.jpg",
-        "metadata": true
-    },
     "gettinggotti1994": {
         "title": "Getting Gotti",
         "description": "Based on a true story. Tony Denison stars in this mob drama about a notorious 'Teflon Don', John Gotti and the prosecutor who vowed to finally bring him to justice. Lorraine Bracco also stars. (1994)",
         "duration": 2,
         "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            },
             {
                 "channel": "3751",
                 "date": "15/02/15",
@@ -2277,12 +1323,6 @@
         "duration": 2,
         "showings": [
             {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423904400000",
-                "start": "09:00"
-            },
-            {
                 "channel": "5338",
                 "date": "20/02/15",
                 "timestamp": "1424437200000",
@@ -2299,51 +1339,11 @@
         "score": 0,
         "metadata": false
     },
-    "msscrooge": {
-        "title": "Ms. Scrooge",
-        "description": "A wealthy, miserly woman learns the meaning of Christmas in this urban update of 'A Christmas Carol'. A story everyone can believe in starring Cicely Tyson. Directed John Korty.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423911600000",
-                "start": "11:00"
-            }
-        ],
-        "year": "1997",
-        "score": 0,
-        "tmdb_id": 149187,
-        "poster": "/wE5bU0jfqnlVYYctaYEBk5TQuFB.jpg",
-        "metadata": true
-    },
-    "inthelineofdutytheprice1992": {
-        "title": "In The Line Of Duty: The Price...",
-        "description": "...Of Vengeance. Crime thriller starring Dean Stockwell. A police detective vows to avenge his partner in the field who was murdered by a ruthless gang leader. Directed by Dick Lowry. (1992)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            }
-        ],
-        "year": "1992",
-        "score": 0,
-        "metadata": false
-    },
     "familysecrets": {
         "title": "Family Secrets",
         "description": "Three generations of women reunite for an emotional weekend as they close up their recently sold family home, offering them all the chance to come to terms with their pasts and each other.",
         "duration": 2,
         "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423933200000",
-                "start": "17:00"
-            },
             {
                 "channel": "3751",
                 "date": "17/02/15",
@@ -2357,24 +1357,6 @@
         "poster": null,
         "metadata": true
     },
-    "daddysgirl2002": {
-        "title": "Daddy's Girl",
-        "description": "Martin Kemp stars in this contemporary psychological thriller about a teenager who suspects the father she adores may have murdered her mother. (2002) Directed by Bill Eagles.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3643",
-                "date": "14/02/15",
-                "timestamp": "1423954800000",
-                "start": "23:00"
-            }
-        ],
-        "year": "2016",
-        "score": 0,
-        "tmdb_id": 310583,
-        "poster": "/tKKLaoDyK18QQG8AEsKxA4v2rtE.jpg",
-        "metadata": true
-    },
     "cerberus2005": {
         "title": "Cerberus",
         "description": "Mercenaries seek to uncover the lost sword of Attila the Hun but in order to do so, they must first face Cerberus, the mythical three-headed dog guarding the Gates of Hell. (2005)",
@@ -2382,15 +1364,9 @@
         "showings": [
             {
                 "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423876800000",
-                "start": "01:20"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423880400000",
-                "start": "02:20"
+                "date": "20/02/15",
+                "timestamp": "1424466000000",
+                "start": "21:00"
             }
         ],
         "year": "2005",
@@ -2399,217 +1375,11 @@
         "poster": "/mXRUEriGDQzGYwjVC42WStzf7Z8.jpg",
         "metadata": true
     },
-    "stormchasersrevengeof1998": {
-        "title": "Storm Chasers: Revenge of the Twister",
-        "description": "...The Twister: When a deadly tornado kills a respected meteorologist, his wife decides to prove that deadly 'twisters' are highly predictable. Stars Kelly McGillis. (1998)",
-        "duration": 1.92,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423917300000",
-                "start": "12:35"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423920900000",
-                "start": "13:35"
-            }
-        ],
-        "year": "1998",
-        "score": 0,
-        "tmdb_id": 80542,
-        "poster": "/2DGyRweyG9qDQ7AID3SieDuWH7.jpg",
-        "metadata": true
-    },
-    "thesecretofthesahara1988": {
-        "title": "The Secret Of The Sahara",
-        "description": "Hidden treasure lies somewhere in the Sahara Desert. An ancient parchment indictates the treasure's whereabouts... but who will get there first? Stars Michael York. (1988)",
-        "duration": 2.58,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423924200000",
-                "start": "14:30"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423927800000",
-                "start": "15:30"
-            }
-        ],
-        "year": "1988",
-        "score": 0,
-        "metadata": false
-    },
-    "thebodystealers1969": {
-        "title": "The Body Stealers",
-        "description": "Two military paratroopers suddenly disappear in mid-air. Who or what is stealing the soldiers? Stars George Sanders and Patrick Allen. (1969)",
-        "duration": 1.83,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423933500000",
-                "start": "17:05"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423937100000",
-                "start": "18:05"
-            }
-        ],
-        "year": "1969",
-        "score": 0,
-        "tmdb_id": 142305,
-        "poster": "/4vYe8pxwYW0pU5QXEnQiQpiRinN.jpg",
-        "metadata": true
-    },
-    "tracker2010": {
-        "title": "Tracker",
-        "description": "A Boer War veteran is hired to track down a murderer in New Zealand. However, the killer proves to be highly elusive. Stars Ray Winstone. (2010)",
-        "duration": 2.08,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423940100000",
-                "start": "18:55"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423943700000",
-                "start": "19:55"
-            }
-        ],
-        "year": "2010",
-        "score": 0,
-        "tmdb_id": 62255,
-        "poster": "/vCrTrfr6A2b0UtIFAR14V0RBklA.jpg",
-        "metadata": true
-    },
-    "deserter2002": {
-        "title": "Deserter",
-        "description": "Unlikely friends in a melting pot of confusion. Simon Murray fights for the French Foreign Legion - Pascal Dupont fights for himself. Stars Tom Hardy. (2002)",
-        "duration": 1.92,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            }
-        ],
-        "year": "2002",
-        "score": 0,
-        "tmdb_id": 63971,
-        "poster": "/5NDod4xPTYzNYnhORgTGrPlEvJf.jpg",
-        "metadata": true
-    },
-    "huntforeagleone2006": {
-        "title": "The Hunt for Eagle One",
-        "description": "A U.S. Marine leads a combat team into the Philippine jungle to rescue a pilot captured by terrorists. Rutger Hauer stars. (2006)",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "14/02/15",
-                "timestamp": "1423954500000",
-                "start": "22:55"
-            },
-            {
-                "channel": "3721",
-                "date": "14/02/15",
-                "timestamp": "1423958100000",
-                "start": "23:55"
-            }
-        ],
-        "year": "2006",
-        "score": 0,
-        "tmdb_id": 18819,
-        "poster": "/kzU7PDMOtHAQOaOTM7Vo6w1ZmNR.jpg",
-        "metadata": true
-    },
-    "thedaytheworldended2001": {
-        "title": "The Day the World Ended",
-        "description": "School psychologist Nastassja Kinski treats a student who believes he's the son of an alien responsible for his mother's death. (2001)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3709",
-                "date": "14/02/15",
-                "timestamp": "1423875600000",
-                "start": "01:00"
-            },
-            {
-                "channel": "3771",
-                "date": "14/02/15",
-                "timestamp": "1423879200000",
-                "start": "02:00"
-            }
-        ],
-        "year": "2001",
-        "score": 0,
-        "tmdb_id": 49804,
-        "poster": "/AmmAc1MxPJfx2zVxI1uKM4zFL3Z.jpg",
-        "metadata": true
-    },
-    "dangerousindiscretions": {
-        "title": "Dangerous Indiscretions",
-        "description": "The public face of the monarchy has certainly changed in the past 2 decades. With 2 divorces, the death of Diana & some bitterly public feuds, can the monarchy survive this period of uncertainty?",
-        "duration": 1,
-        "showings": [
-            {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423879200000",
-                "start": "02:00"
-            }
-        ],
-        "year": "",
-        "score": 0,
-        "metadata": false
-    },
-    "oneagainstthewind": {
-        "title": "One Against the Wind",
-        "description": "Story of British Countess Mary Lindell who, while living in Nazi-occupied Paris, risked her life and organised the escapes of Allied soldiers and pilots - Kate Beckinsale and Sam Neill star.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423882800000",
-                "start": "03:00"
-            }
-        ],
-        "year": "1991",
-        "score": 0,
-        "tmdb_id": 63707,
-        "poster": "/kHCj6Vfn67sLdKkYyXlc5B0PjwX.jpg",
-        "metadata": true
-    },
     "tamingandrew": {
         "title": "When Andrew Came Home",
         "description": "When her abducted son returns home after 5 years, a woman feels as if her prayers have been answered. But when she realizes the trauma the boy has endured, she learns her nightmare is far from over.",
         "duration": 2,
         "showings": [
-            {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423890000000",
-                "start": "05:00"
-            },
             {
                 "channel": "3643",
                 "date": "19/02/15",
@@ -2629,12 +1399,6 @@
         "duration": 2,
         "showings": [
             {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423904400000",
-                "start": "09:00"
-            },
-            {
                 "channel": "3643",
                 "date": "18/02/15",
                 "timestamp": "1424257200000",
@@ -2653,12 +1417,6 @@
         "duration": 2,
         "showings": [
             {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423918800000",
-                "start": "13:00"
-            },
-            {
                 "channel": "3643",
                 "date": "15/02/15",
                 "timestamp": "1424019600000",
@@ -2675,125 +1433,11 @@
         "score": 0,
         "metadata": false
     },
-    "lovecomessoftly2003": {
-        "title": "Love Comes Softly",
-        "description": "Romantic Western starring Katherine Heigl. A woman's dream to forge a new life becomes a test of her pioneering spirit and her undying faith. (2003) Directed by Michael Landon Jr.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "4266",
-                "date": "14/02/15",
-                "timestamp": "1423918800000",
-                "start": "13:00"
-            }
-        ],
-        "year": "2003",
-        "score": 0,
-        "tmdb_id": 16250,
-        "poster": "/3SMRYWV25pqBFjIKWgtHxZFJNyN.jpg",
-        "metadata": true
-    },
-    "lovesenduringpromise2004": {
-        "title": "Love's Enduring Promise",
-        "description": "Western starring Katherine Heigl and Dale Midkiff. A pioneering clan struggles to stay together - for the family, for the land, and for the promise of the future. Directed by Michael Landon Jr. (2004)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "4266",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            }
-        ],
-        "year": "2004",
-        "score": 0,
-        "tmdb_id": 20641,
-        "poster": "/x18DyLmaJNvhRUHVvHUnr40Tjvs.jpg",
-        "metadata": true
-    },
-    "lovesabidingjoy2006": {
-        "title": "Love's Abiding Joy",
-        "description": "Erin Cottrell stars in the continuation of Janette Oke's beloved Western adaptation. One family's unyielding perseverance and abiding faith is tested by a sudden tragedy (2006)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "4266",
-                "date": "14/02/15",
-                "timestamp": "1423933200000",
-                "start": "17:00"
-            }
-        ],
-        "year": "2006",
-        "score": 0,
-        "tmdb_id": 20583,
-        "poster": "/ju2sAoWeXIdh6MSIve8BMFz74VT.jpg",
-        "metadata": true
-    },
-    "lovesunendinglegacy2005": {
-        "title": "Love's Unending Legacy",
-        "description": "Poignant Western starring Erin Cottrell. After the tragic death of her beloved husband, Missie LaHaye moves east to her hometown with her young son. (2005) Directed by Michael Landon Jr.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "4266",
-                "date": "14/02/15",
-                "timestamp": "1423940400000",
-                "start": "19:00"
-            }
-        ],
-        "year": "2007",
-        "score": 0,
-        "tmdb_id": 30975,
-        "poster": "/yHuWeRHTaTBbWEhohQ1X0utVOHl.jpg",
-        "metadata": true
-    },
-    "thewiz": {
-        "title": "The Wiz",
-        "description": "An adaption of \"The Wizard of Oz\" that tries to capture the essence of the African American experience, starring Michael Jackson, Diana Ross, Richard Pryor, Ted Ross and Nipsey Russell.",
-        "duration": 2.5,
-        "showings": [
-            {
-                "channel": "5201",
-                "date": "14/02/15",
-                "timestamp": "1423933200000",
-                "start": "17:00"
-            }
-        ],
-        "year": "1978",
-        "score": 0,
-        "tmdb_id": 24961,
-        "poster": "/oYsVCIiU9ESz16bRnjW9IT8DFSB.jpg",
-        "metadata": true
-    },
-    "gravesecrets": {
-        "title": "Grave Secrets",
-        "description": "Based on a true story. A couple plough their savings into a dream home - only to find that unscrupulous developers have built their house on top of an old graveyard.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "5338",
-                "date": "14/02/15",
-                "timestamp": "1423926000000",
-                "start": "15:00"
-            }
-        ],
-        "year": "1989",
-        "score": 0,
-        "tmdb_id": 124124,
-        "poster": "/vfcAGJdJo7nVuOWTA98IWixPW6K.jpg",
-        "metadata": true
-    },
     "takingbackourtown": {
         "title": "Taking Back Our Town",
         "description": "A group of women join forces against a corporation that plans to build a chemical plant in their town. A compelling film based on true events demonstrating the power of the human spirit.",
         "duration": 2,
         "showings": [
-            {
-                "channel": "5338",
-                "date": "14/02/15",
-                "timestamp": "1423933200000",
-                "start": "17:00"
-            },
             {
                 "channel": "4266",
                 "date": "19/02/15",
@@ -2805,40 +1449,6 @@
         "score": 0,
         "metadata": false
     },
-    "trialbymedia": {
-        "title": "Trial By Media",
-        "description": "A Senator's daughter seems to have a lock on a nomination as the US Surgeon General until a minor indiscretion in her past becomes the focus of a media feeding frenzy.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "5338",
-                "date": "14/02/15",
-                "timestamp": "1423940400000",
-                "start": "19:00"
-            }
-        ],
-        "year": "",
-        "score": 0,
-        "metadata": false
-    },
-    "ballsoffury2007": {
-        "title": "Balls of Fury",
-        "description": "Slapstick comedy starring Dan Fogler and Christopher Walken, 2007. A former table tennis champion is persuaded by the FBI to infiltrate an underground tournament.",
-        "duration": 1.58,
-        "showings": [
-            {
-                "channel": "6000",
-                "date": "14/02/15",
-                "timestamp": "1423956900000",
-                "start": "23:35"
-            }
-        ],
-        "year": "2007",
-        "score": 1,
-        "tmdb_id": 9750,
-        "poster": "/ouNyskL3MjSr1SZe5rIfxmQ1E4M.jpg",
-        "metadata": true
-    },
     "backtothefuture1985": {
         "title": "Back to the Future",
         "description": "Rip-roaring time-travel comedy starring Michael J Fox and Christopher Lloyd, 1985. A teenager who travels back in time to the 1950s has to persuade his parents to fall in love with each other.",
@@ -2846,93 +1456,15 @@
         "showings": [
             {
                 "channel": "6240",
-                "date": "14/02/15",
-                "timestamp": "1423940400000",
-                "start": "19:00"
-            },
-            {
-                "channel": "6241",
-                "date": "14/02/15",
-                "timestamp": "1423944000000",
-                "start": "20:00"
+                "date": "21/02/15",
+                "timestamp": "1424539500000",
+                "start": "17:25"
             }
         ],
         "year": "1985",
         "score": 7.5,
         "tmdb_id": 105,
         "poster": "/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
-        "metadata": true
-    },
-    "holidayonthebuses1974": {
-        "title": "Holiday on the Buses",
-        "description": "Comedy spin-off from TV series starring Reg Varney and Stephen Lewis, 1974. There is mayhem at a Welsh holiday camp when bus crew Stan, Jack and Blakey go to work there over the summer.",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "6260",
-                "date": "14/02/15",
-                "timestamp": "1423923000000",
-                "start": "14:10"
-            },
-            {
-                "channel": "6261",
-                "date": "14/02/15",
-                "timestamp": "1423926600000",
-                "start": "15:10"
-            }
-        ],
-        "year": "1973",
-        "score": 0,
-        "tmdb_id": 19249,
-        "poster": "/zV9XGPBKfaImXYFMycpWRg5IiAA.jpg",
-        "metadata": true
-    },
-    "policeacademy3backintraining1986": {
-        "title": "Police Academy 3: Back in Training",
-        "description": "Slapstick comedy starring Steve Guttenberg and Bubba Smith, 1986. A group of incompetent cops must save their academy from closure, but a rival school plots sabotage.",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "6272",
-                "date": "14/02/15",
-                "timestamp": "1423941300000",
-                "start": "19:15"
-            },
-            {
-                "channel": "6274",
-                "date": "14/02/15",
-                "timestamp": "1423944900000",
-                "start": "20:15"
-            }
-        ],
-        "year": "1986",
-        "score": 1,
-        "tmdb_id": 12118,
-        "poster": "/A0WHx049ty1RJ57XeQwweRxhHbW.jpg",
-        "metadata": true
-    },
-    "gameofdeath2010": {
-        "title": "Game of Death",
-        "description": "Action thriller starring Wesley Snipes and Zoe Bell, 2010. Action film about a Detroit CIA agent Marcus Jones whose mission is to infiltrate an arms deal racket.",
-        "duration": 2.08,
-        "showings": [
-            {
-                "channel": "6272",
-                "date": "14/02/15",
-                "timestamp": "1423947600000",
-                "start": "21:00"
-            },
-            {
-                "channel": "6274",
-                "date": "14/02/15",
-                "timestamp": "1423951200000",
-                "start": "22:00"
-            }
-        ],
-        "year": "2010",
-        "score": 0,
-        "tmdb_id": 46541,
-        "poster": "/z25FvJYpgfgibRYz1IBZHknZxme.jpg",
         "metadata": true
     },
     "cityofember2008": {
@@ -3671,6 +2203,18 @@
                 "date": "20/02/15",
                 "timestamp": "1424443500000",
                 "start": "14:45"
+            },
+            {
+                "channel": "3709",
+                "date": "21/02/15",
+                "timestamp": "1424532300000",
+                "start": "15:25"
+            },
+            {
+                "channel": "3771",
+                "date": "21/02/15",
+                "timestamp": "1424535900000",
+                "start": "16:25"
             }
         ],
         "year": "1995",
@@ -4379,12 +2923,6 @@
         "duration": 2,
         "showings": [
             {
-                "channel": "3751",
-                "date": "14/02/15",
-                "timestamp": "1423954800000",
-                "start": "23:00"
-            },
-            {
                 "channel": "5338",
                 "date": "16/02/15",
                 "timestamp": "1424091600000",
@@ -4475,6 +3013,12 @@
                 "date": "15/02/15",
                 "timestamp": "1424005200000",
                 "start": "13:00"
+            },
+            {
+                "channel": "5338",
+                "date": "21/02/15",
+                "timestamp": "1424509200000",
+                "start": "09:00"
             }
         ],
         "year": "1996",
@@ -4551,24 +3095,6 @@
         "score": 0,
         "tmdb_id": 87267,
         "poster": "/nG4CXo9QpdDXjHkCy1Nw0DH0GHb.jpg",
-        "metadata": true
-    },
-    "sleepingdogslie1919": {
-        "title": "Sleeping Dogs Lie",
-        "description": "Based on a true story. In 1919 theatrical impresario Ambrose Small sold his business and vanished without a trace. But who - if anyone - was responsible for his disappearance? With Art Hindle (E.N.G.)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "4266",
-                "date": "14/02/15",
-                "timestamp": "1423954800000",
-                "start": "23:00"
-            }
-        ],
-        "year": "2006",
-        "score": 0,
-        "tmdb_id": 43673,
-        "poster": "/cxO1mHRHkGKHEVhx9gUtEUzZhmn.jpg",
         "metadata": true
     },
     "darknessbeforedawn": {
@@ -4664,12 +3190,6 @@
         "description": "A mother, recovering from a mental breakdown, becomes involved in an intense relationship with her helper. The directorial debut of Kevin Bacon. Stars Helen Mirren and Kyra Sedgwick. (1996)",
         "duration": 2,
         "showings": [
-            {
-                "channel": "5338",
-                "date": "14/02/15",
-                "timestamp": "1423954800000",
-                "start": "23:00"
-            },
             {
                 "channel": "3643",
                 "date": "16/02/15",
@@ -5911,6 +4431,12 @@
                 "date": "16/02/15",
                 "timestamp": "1424127600000",
                 "start": "23:00"
+            },
+            {
+                "channel": "5338",
+                "date": "21/02/15",
+                "timestamp": "1424545200000",
+                "start": "19:00"
             }
         ],
         "year": "1990",
@@ -6221,6 +4747,18 @@
                 "date": "16/02/15",
                 "timestamp": "1424109000000",
                 "start": "17:50"
+            },
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424503800000",
+                "start": "07:30"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424507400000",
+                "start": "08:30"
             }
         ],
         "year": "2002",
@@ -6305,6 +4843,18 @@
                 "date": "16/02/15",
                 "timestamp": "1424130600000",
                 "start": "23:50"
+            },
+            {
+                "channel": "3220",
+                "date": "21/02/15",
+                "timestamp": "1424562900000",
+                "start": "23:55"
+            },
+            {
+                "channel": "3541",
+                "date": "21/02/15",
+                "timestamp": "1424559300000",
+                "start": "22:55"
             }
         ],
         "year": "2009",
@@ -6467,6 +5017,12 @@
                 "date": "16/02/15",
                 "timestamp": "1424077200000",
                 "start": "09:00"
+            },
+            {
+                "channel": "3751",
+                "date": "21/02/15",
+                "timestamp": "1424494800000",
+                "start": "05:00"
             }
         ],
         "year": "1989",
@@ -7793,6 +6349,12 @@
                 "date": "17/02/15",
                 "timestamp": "1424163600000",
                 "start": "09:00"
+            },
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424545200000",
+                "start": "19:00"
             }
         ],
         "year": "2005",
@@ -8473,6 +7035,12 @@
                 "date": "18/02/15",
                 "timestamp": "1424293200000",
                 "start": "21:00"
+            },
+            {
+                "channel": "3541",
+                "date": "20/02/15",
+                "timestamp": "1424473500000",
+                "start": "23:05"
             }
         ],
         "year": "2013",
@@ -9115,12 +7683,6 @@
                 "date": "20/02/15",
                 "timestamp": "1424437200000",
                 "start": "13:00"
-            },
-            {
-                "channel": "4266",
-                "date": "20/02/15",
-                "timestamp": "1424466000000",
-                "start": "21:00"
             }
         ],
         "year": "1979",
@@ -10707,6 +9269,12 @@
                 "date": "20/02/15",
                 "timestamp": "1424466000000",
                 "start": "21:00"
+            },
+            {
+                "channel": "3023",
+                "date": "21/02/15",
+                "timestamp": "1424535300000",
+                "start": "16:15"
             }
         ],
         "year": "2007",
@@ -10837,6 +9405,12 @@
                 "date": "20/02/15",
                 "timestamp": "1424451000000",
                 "start": "16:50"
+            },
+            {
+                "channel": "4502",
+                "date": "21/02/15",
+                "timestamp": "1424516400000",
+                "start": "11:00"
             }
         ],
         "year": "1997",
@@ -10975,12 +9549,6 @@
                 "date": "20/02/15",
                 "timestamp": "1424437200000",
                 "start": "13:00"
-            },
-            {
-                "channel": "3643",
-                "date": "20/02/15",
-                "timestamp": "1424466000000",
-                "start": "21:00"
             }
         ],
         "year": "2010",
@@ -11035,6 +9603,12 @@
                 "date": "20/02/15",
                 "timestamp": "1424473200000",
                 "start": "23:00"
+            },
+            {
+                "channel": "3751",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
             }
         ],
         "year": "1995",
@@ -11254,9 +9828,9 @@
             },
             {
                 "channel": "3751",
-                "date": "20/02/15",
-                "timestamp": "1424466000000",
-                "start": "21:00"
+                "date": "21/02/15",
+                "timestamp": "1424538000000",
+                "start": "17:00"
             }
         ],
         "year": "",
@@ -11428,5 +10002,1499 @@
         "tmdb_id": 9618,
         "poster": "/iR2lVzGXYsJpksqUswsnZ7LPTfx.jpg",
         "metadata": true
+    },
+    "tenaciousdinthepickofdestiny2006": {
+        "title": "Tenacious D in The Pick of Destiny",
+        "description": "(2006) Comedy. Jack Black and Kyle Gass star as guitarists on a mission to become the greatest rock musicians ever. All they need is a guitar pick made from Satan's tooth. Strong language.",
+        "duration": 1.58,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "21/02/15",
+                "timestamp": "1424480400000",
+                "start": "01:00"
+            },
+            {
+                "channel": "1675",
+                "date": "21/02/15",
+                "timestamp": "1424484000000",
+                "start": "02:00"
+            },
+            {
+                "channel": "4075",
+                "date": "21/02/15",
+                "timestamp": "1424480400000",
+                "start": "01:00"
+            }
+        ],
+        "year": "2006",
+        "score": 6.5,
+        "tmdb_id": 2179,
+        "poster": "/gQThU8AftVJEBug4ToHUbQ3Lg7M.jpg",
+        "metadata": true
+    },
+    "silverliningsplaybook2012": {
+        "title": "Silver Linings Playbook",
+        "description": "(2012) Dark comedy about romance and psychological troubles starring Jennifer Lawrence (who won an Oscar for her role), Bradley Cooper, Jacki Weaver and Robert De Niro. Strong language.",
+        "duration": 2.42,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            },
+            {
+                "channel": "1675",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            },
+            {
+                "channel": "4075",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            }
+        ],
+        "year": "2012",
+        "score": 6.8,
+        "tmdb_id": 82693,
+        "poster": "/ilrZAV2klTB0FLxLb01bOp5pzD9.jpg",
+        "metadata": true
+    },
+    "greenzone2010": {
+        "title": "Green Zone",
+        "description": "(2010) Thriller. Matt Damon plays a US Army officer who is sent to Iraq in 2003 to find weapons of mass destruction, but he stumbles upon a political conspiracy. Violence/strong language.",
+        "duration": 2.17,
+        "showings": [
+            {
+                "channel": "1626",
+                "date": "21/02/15",
+                "timestamp": "1424561100000",
+                "start": "23:25"
+            },
+            {
+                "channel": "4075",
+                "date": "21/02/15",
+                "timestamp": "1424561100000",
+                "start": "23:25"
+            }
+        ],
+        "year": "2010",
+        "score": 6.3,
+        "tmdb_id": 22972,
+        "poster": "/7O3IkeHvp1sq5yMN0O8FsTee1C0.jpg",
+        "metadata": true
+    },
+    "berberiansoundstudio2012": {
+        "title": "Berberian Sound Studio",
+        "description": "(2012) Menacing psychological drama. A sheltered man (Toby Jones) is hired to create sound effects for a horror film studio in 1970s Rome. But the job takes its toll on his mental health.",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "1627",
+                "date": "21/02/15",
+                "timestamp": "1424482500000",
+                "start": "01:35"
+            },
+            {
+                "channel": "1629",
+                "date": "21/02/15",
+                "timestamp": "1424486100000",
+                "start": "02:35"
+            }
+        ],
+        "year": "2012",
+        "score": 0,
+        "tmdb_id": 116811,
+        "poster": "/qCYsa3dCztQYM6tIXMB8ySgLj1B.jpg",
+        "metadata": true
+    },
+    "townontrial1956": {
+        "title": "Town on Trial",
+        "description": "(1956) Thrilling British whodunnit with a sharp twist, starring John Mills as a police superintendent investigating a spate of sexually related murders in a posh suburban community.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "1627",
+                "date": "21/02/15",
+                "timestamp": "1424516400000",
+                "start": "11:00"
+            },
+            {
+                "channel": "1629",
+                "date": "21/02/15",
+                "timestamp": "1424520000000",
+                "start": "12:00"
+            }
+        ],
+        "year": "1957",
+        "score": 0,
+        "tmdb_id": 104451,
+        "poster": "/wJhGdGvgaWKo9kSLrJ6f5Vz5DSH.jpg",
+        "metadata": true
+    },
+    "beaches1988": {
+        "title": "Beaches",
+        "description": "(1988) Bette Midler and Barbara Hershey star as life-long friends from childhood whose stories, told through flashback, come to a dramatic climax in this emotional drama. With John Heard.",
+        "duration": 2.42,
+        "showings": [
+            {
+                "channel": "1627",
+                "date": "21/02/15",
+                "timestamp": "1424523600000",
+                "start": "13:00"
+            },
+            {
+                "channel": "1629",
+                "date": "21/02/15",
+                "timestamp": "1424527200000",
+                "start": "14:00"
+            }
+        ],
+        "year": "1988",
+        "score": 0,
+        "tmdb_id": 15592,
+        "poster": "/4UUHcpwzaY21cl4XWDN3NMfeqc0.jpg",
+        "metadata": true
+    },
+    "vehicle192013": {
+        "title": "Vehicle 19",
+        "description": "(2013) Conspiracy thriller. A US ex-con (Paul Walker) flies to South Africa to try to reconcile with his ex-wife. But the hire car he picks up at the airport lands him in deadly trouble...",
+        "duration": 1.67,
+        "showings": [
+            {
+                "channel": "1627",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            },
+            {
+                "channel": "1629",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            }
+        ],
+        "year": "2013",
+        "score": 5.1,
+        "tmdb_id": 180948,
+        "poster": "/8rh9jEiPmWDcLMPDA3DkUt8JSqG.jpg",
+        "metadata": true
+    },
+    "pusher2012": {
+        "title": "Pusher",
+        "description": "(2012) Thriller. A London drug dealer's (Richard Coyle) plan to make a quick fortune goes badly wrong. With Zlatko Buric and Agyness Deyn. Very strong language and violence/drug use/sex.",
+        "duration": 1.75,
+        "showings": [
+            {
+                "channel": "1627",
+                "date": "21/02/15",
+                "timestamp": "1424558400000",
+                "start": "22:40"
+            },
+            {
+                "channel": "1629",
+                "date": "21/02/15",
+                "timestamp": "1424562000000",
+                "start": "23:40"
+            }
+        ],
+        "year": "2012",
+        "score": 0,
+        "tmdb_id": 115276,
+        "poster": "/eyxU8zelPrDv03AGPYQ3k4TBLg.jpg",
+        "metadata": true
+    },
+    "theinbetweenersmovie2011": {
+        "title": "The Inbetweeners Movie",
+        "description": "(2011) Bawdy comedy with Simon Bird, Joe Thomas, Blake Harrison and James Buckley. Sixth form is over and the lads celebrate on a rowdy holiday in Crete. Very strong language/sexual scenes.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "1628",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            },
+            {
+                "channel": "3300",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            }
+        ],
+        "year": "2011",
+        "score": 6.3,
+        "tmdb_id": 69798,
+        "poster": "/705cX3NvfegQUCPNhSqeIZanYDj.jpg",
+        "metadata": true
+    },
+    "columbohowtodialamurder1978": {
+        "title": "Columbo: How To Dial A Murder",
+        "description": "Detective drama starring Peter Falk and Nicol Williamson. A psychologist uses his special skills to murder his wife's lover by training the man's pet dogs to attack him. (1978)",
+        "duration": 1.5,
+        "showings": [
+            {
+                "channel": "1830",
+                "date": "21/02/15",
+                "timestamp": "1424531100000",
+                "start": "15:05"
+            },
+            {
+                "channel": "1839",
+                "date": "21/02/15",
+                "timestamp": "1424534700000",
+                "start": "16:05"
+            }
+        ],
+        "year": "1978",
+        "score": 0,
+        "metadata": false
+    },
+    "columbomurderaselfportrait1989": {
+        "title": "Columbo: Murder - A Self Portrait",
+        "description": "Detective drama starring Peter Falk and Patrick Bauchau. The dishevelled detective investigates a murder involving a famous painter. (1989)",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "1830",
+                "date": "21/02/15",
+                "timestamp": "1424536500000",
+                "start": "16:35"
+            },
+            {
+                "channel": "1839",
+                "date": "21/02/15",
+                "timestamp": "1424540100000",
+                "start": "17:35"
+            }
+        ],
+        "year": "1989",
+        "score": 0,
+        "metadata": false
+    },
+    "theabominablesnowman1957": {
+        "title": "The Abominable Snowman",
+        "description": "Hammer horror starring Peter Cushing. An American adventurer and a British scientist lead an expedition high into the Himalayas in search of the legendary yeti. Also in HD. [B&W, 1957] [S]",
+        "duration": 1.42,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424481600000",
+                "start": "01:20"
+            },
+            {
+                "channel": "2016",
+                "date": "21/02/15",
+                "timestamp": "1424481600000",
+                "start": "01:20"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424481600000",
+                "start": "01:20"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424481600000",
+                "start": "01:20"
+            }
+        ],
+        "year": "1957",
+        "score": 0,
+        "tmdb_id": 38006,
+        "poster": "/fr3CCAjXst0IujSvWLnv9Uv0ocS.jpg",
+        "metadata": true
+    },
+    "fatherofthebride1950": {
+        "title": "Father of the Bride",
+        "description": "Stanley's life is turned upside down when his beloved daughter announces her engagement. Also in HD. [B&W, 1950] [S]",
+        "duration": 1.5,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424498100000",
+                "start": "05:55"
+            },
+            {
+                "channel": "2015",
+                "date": "21/02/15",
+                "timestamp": "1424498100000",
+                "start": "05:55"
+            },
+            {
+                "channel": "2016",
+                "date": "21/02/15",
+                "timestamp": "1424498100000",
+                "start": "05:55"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424498100000",
+                "start": "05:55"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424498100000",
+                "start": "05:55"
+            }
+        ],
+        "year": "1950",
+        "score": 0,
+        "tmdb_id": 20758,
+        "poster": "/etR0YALJULnrdfCAHrX8CkuleiL.jpg",
+        "metadata": true
+    },
+    "summermagic1963": {
+        "title": "Summer Magic",
+        "description": "Disney comedy. A recently widowed mother can no longer afford her expensive house, takes her children to live in a ramshackle country home. [1963] [S]",
+        "duration": 1.75,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424503500000",
+                "start": "07:25"
+            },
+            {
+                "channel": "2015",
+                "date": "21/02/15",
+                "timestamp": "1424503500000",
+                "start": "07:25"
+            },
+            {
+                "channel": "2016",
+                "date": "21/02/15",
+                "timestamp": "1424503500000",
+                "start": "07:25"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424503500000",
+                "start": "07:25"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424503500000",
+                "start": "07:25"
+            }
+        ],
+        "year": "1963",
+        "score": 0,
+        "tmdb_id": 37204,
+        "poster": "/eHzn3imFP9uNfiT7skucreeEtPu.jpg",
+        "metadata": true
+    },
+    "onthewaterfront1954": {
+        "title": "On the Waterfront",
+        "description": "Multi-Oscar-winning story of an ex-boxer, who learns about responsibility through his love for the sister of a murdered docker. Music by Leonard Bernstein. Also in HD. [B&W, 1954] [S]",
+        "duration": 1.75,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424527200000",
+                "start": "14:00"
+            },
+            {
+                "channel": "2016",
+                "date": "21/02/15",
+                "timestamp": "1424527200000",
+                "start": "14:00"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424527200000",
+                "start": "14:00"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424527200000",
+                "start": "14:00"
+            }
+        ],
+        "year": "1954",
+        "score": 1,
+        "tmdb_id": 654,
+        "poster": "/yUInNNpBUBJmn5TgUehCEOGmZDg.jpg",
+        "metadata": true
+    },
+    "thegobetween1971": {
+        "title": "The Go-Between",
+        "description": "A boy is drawn into being messenger between  an aristocratic woman who hires him to act as a go-between in her affair with a farmer. Starring Julie Christie and Alan Bates. Also in HD. [1971] [S]",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424533500000",
+                "start": "15:45"
+            },
+            {
+                "channel": "2016",
+                "date": "21/02/15",
+                "timestamp": "1424533500000",
+                "start": "15:45"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424533500000",
+                "start": "15:45"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424533500000",
+                "start": "15:45"
+            }
+        ],
+        "year": "1971",
+        "score": 0,
+        "tmdb_id": 36194,
+        "poster": "/jAmM4mnoeAkyRZx6UJBKuGO0Gz1.jpg",
+        "metadata": true
+    },
+    "gambit2012": {
+        "title": "Gambit",
+        "description": "Crime comedy. Art curator Harry Deane plans to seek revenge on his tyrannical boss, so he hatches an elaborate plan to con him into buying a fake Monet. Also in HD. [2012] [S]",
+        "duration": 1.33,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            },
+            {
+                "channel": "2016",
+                "date": "21/02/15",
+                "timestamp": "1424559600000",
+                "start": "23:00"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            }
+        ],
+        "year": "2012",
+        "score": 4.9,
+        "tmdb_id": 97434,
+        "poster": "/5eFWMeUc7C4tpqx7iZP4JBesiUm.jpg",
+        "metadata": true
+    },
+    "spider2002": {
+        "title": "Spider",
+        "description": "Thriller. A man freed from a mental institution (Ralph Fiennes) recalls childhood events involving his father, mother and the woman who replaced her. Contains some strong language.  [2002] [AD,S]",
+        "duration": 1.58,
+        "showings": [
+            {
+                "channel": "2006",
+                "date": "21/02/15",
+                "timestamp": "1424560800000",
+                "start": "23:20"
+            },
+            {
+                "channel": "2017",
+                "date": "21/02/15",
+                "timestamp": "1424560800000",
+                "start": "23:20"
+            },
+            {
+                "channel": "2075",
+                "date": "21/02/15",
+                "timestamp": "1424560800000",
+                "start": "23:20"
+            }
+        ],
+        "year": "2002",
+        "score": 0,
+        "tmdb_id": 9613,
+        "poster": "/ccVKx1T63YKMBcIYkJEoI0od5Nd.jpg",
+        "metadata": true
+    },
+    "supermaniii1983": {
+        "title": "Superman III",
+        "description": "Fantasy adventure starring Christopher Reeve and Richard Pryor. The superhero pits his wits against an evil corporation chief and his computer-tapping protege. (1983)",
+        "duration": 2.42,
+        "showings": [
+            {
+                "channel": "3022",
+                "date": "21/02/15",
+                "timestamp": "1424525100000",
+                "start": "13:25"
+            },
+            {
+                "channel": "3027",
+                "date": "21/02/15",
+                "timestamp": "1424528700000",
+                "start": "14:25"
+            }
+        ],
+        "year": "1983",
+        "score": 4.8,
+        "tmdb_id": 9531,
+        "poster": "/cg0xVuRQbb6QkaH5nvd8lzgr2Yf.jpg",
+        "metadata": true
+    },
+    "thegreenberets1968": {
+        "title": "The Green Berets",
+        "description": "Vietnam guts-and-glory tribute starring John Wayne and David Janssen. A tough colonel and his regiment have the task of holding a hilltop position against the Vietcong. (1968)",
+        "duration": 2.83,
+        "showings": [
+            {
+                "channel": "3022",
+                "date": "21/02/15",
+                "timestamp": "1424533800000",
+                "start": "15:50"
+            },
+            {
+                "channel": "3027",
+                "date": "21/02/15",
+                "timestamp": "1424537400000",
+                "start": "16:50"
+            }
+        ],
+        "year": "1968",
+        "score": 0,
+        "tmdb_id": 22377,
+        "poster": "/hPmZSReLkkYgJ7CIciWU9gOhEp9.jpg",
+        "metadata": true
+    },
+    "u5712000": {
+        "title": "U-571",
+        "description": "WWII submarine adventure starring Matthew McConaughey and Bill Paxton. An American crew are sent to capture a German submarine containing a code-cracking Enigma machine. (2000)",
+        "duration": 2.33,
+        "showings": [
+            {
+                "channel": "3022",
+                "date": "21/02/15",
+                "timestamp": "1424544000000",
+                "start": "18:40"
+            },
+            {
+                "channel": "3027",
+                "date": "21/02/15",
+                "timestamp": "1424547600000",
+                "start": "19:40"
+            }
+        ],
+        "year": "2000",
+        "score": 6.4,
+        "tmdb_id": 3536,
+        "poster": "/6zdPIbSF9vxCBZpntNvishPo5ol.jpg",
+        "metadata": true
+    },
+    "thesiege1998": {
+        "title": "The Siege",
+        "description": "Action thriller starring Denzel Washington and Bruce Willis. An FBI agent has to take on a maverick general as well as the terrorists waging a bombing campaign in New York. (1998)",
+        "duration": 2.33,
+        "showings": [
+            {
+                "channel": "3022",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            },
+            {
+                "channel": "3027",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            }
+        ],
+        "year": "1998",
+        "score": 6.3,
+        "tmdb_id": 9882,
+        "poster": "/A1RE1zw37lfLLkFy7H3TYp239td.jpg",
+        "metadata": true
+    },
+    "dirtyrottenscoundrels1988": {
+        "title": "Dirty Rotten Scoundrels",
+        "description": "Comedy drama starring Michael Caine, Steve Martin and Glenne Headly. Two con men competing for the same patch on the French Riviera make a bet to fleece a glamorous heiress (1988).",
+        "duration": 2.25,
+        "showings": [
+            {
+                "channel": "3023",
+                "date": "21/02/15",
+                "timestamp": "1424527200000",
+                "start": "14:00"
+            }
+        ],
+        "year": "1988",
+        "score": 1,
+        "tmdb_id": 10141,
+        "poster": "/w3XCP8eBCaF567vXCw1nJU86YPc.jpg",
+        "metadata": true
+    },
+    "holywater2009": {
+        "title": "Holy Water",
+        "description": "An Irish village postie concocts a plan to hijack a consignment of Viagra and sell it on the open market. Comedy starring John Lynch and Linda Hamilton. (2009)",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "3220",
+                "date": "21/02/15",
+                "timestamp": "1424484000000",
+                "start": "02:00"
+            },
+            {
+                "channel": "3541",
+                "date": "21/02/15",
+                "timestamp": "1424480400000",
+                "start": "01:00"
+            }
+        ],
+        "year": "2009",
+        "score": 0,
+        "tmdb_id": 38932,
+        "poster": "/fRedwjsYylIFtvOYFjggDxqwBys.jpg",
+        "metadata": true
+    },
+    "nuclearhurricane2007": {
+        "title": "Nuclear Hurricane",
+        "description": "A gigantic hurricane descends on the secure Seaview nuclear power plant. But why is this storm posing such a problem? Stars Jamie Luner. (2007)",
+        "duration": 1.75,
+        "showings": [
+            {
+                "channel": "3220",
+                "date": "21/02/15",
+                "timestamp": "1424549700000",
+                "start": "20:15"
+            },
+            {
+                "channel": "3541",
+                "date": "21/02/15",
+                "timestamp": "1424546100000",
+                "start": "19:15"
+            }
+        ],
+        "year": "2007",
+        "score": 0,
+        "tmdb_id": 77523,
+        "poster": "/rK1oQVYfnvXUjIBv9QHItpuASJh.jpg",
+        "metadata": true
+    },
+    "submerged2005": {
+        "title": "Submerged",
+        "description": "Special agent Steven Seagal is summoned from his military prison cell by the US secret service for an underwater mission. (2005)",
+        "duration": 1.92,
+        "showings": [
+            {
+                "channel": "3220",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            },
+            {
+                "channel": "3541",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            }
+        ],
+        "year": "2005",
+        "score": 0,
+        "tmdb_id": 14180,
+        "poster": "/1oOqNYr0WCyfm4OlNsXiq15YejR.jpg",
+        "metadata": true
+    },
+    "vonryansexpress1965": {
+        "title": "Von Ryan's Express",
+        "description": "(1965) Second World War adventure. Frank Sinatra stars as the leader of Allied prisoners of war attempting to slip the clutches of their Italian captors. Co-starring Trevor Howard.",
+        "duration": 2.33,
+        "showings": [
+            {
+                "channel": "3310",
+                "date": "21/02/15",
+                "timestamp": "1424520300000",
+                "start": "12:05"
+            },
+            {
+                "channel": "3340",
+                "date": "21/02/15",
+                "timestamp": "1424516700000",
+                "start": "11:05"
+            }
+        ],
+        "year": "1965",
+        "score": 0,
+        "tmdb_id": 21876,
+        "poster": "/pzgrq8stRWzLS3yOqIX5MjzEK7q.jpg",
+        "metadata": true
+    },
+    "thewatermen2011": {
+        "title": "The Watermen",
+        "description": "Maritime mayhem with Jason Mewes (Jay and Silent Bob). A boatful of beautiful young folks stranded in the ocean are found by a fishing trawler, but its crew have anything but rescue in mind. (2011)",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "3605",
+                "date": "21/02/15",
+                "timestamp": "1424478900000",
+                "start": "00:35"
+            },
+            {
+                "channel": "4502",
+                "date": "21/02/15",
+                "timestamp": "1424482500000",
+                "start": "01:35"
+            }
+        ],
+        "year": "2011",
+        "score": 0,
+        "tmdb_id": 84942,
+        "poster": "/nSVLElwXgki1PqpVDQ3aOftcr9f.jpg",
+        "metadata": true
+    },
+    "popcorn1991": {
+        "title": "Popcorn",
+        "description": "Movie mayhem featuring Dee Wallace (E.T.). A crazed killer slays film students in an old theatre, could the culprit be a film maker who, legend has it, killed his family on stage years before? (1991)",
+        "duration": 1.92,
+        "showings": [
+            {
+                "channel": "3605",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            },
+            {
+                "channel": "4502",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            }
+        ],
+        "year": "1991",
+        "score": 0,
+        "tmdb_id": 39875,
+        "poster": "/roKsXgwgKLGqqrZoRoPuzsOtczw.jpg",
+        "metadata": true
+    },
+    "primal2010": {
+        "title": "Primal",
+        "description": "Gripping blood-thirsty frights. A group of friends head to the Australian wilds to examine an ancient cave painting, but soon one of their number falls sick and succumbs to a raging blood lust. (2010)",
+        "duration": 1.58,
+        "showings": [
+            {
+                "channel": "3605",
+                "date": "21/02/15",
+                "timestamp": "1424559300000",
+                "start": "22:55"
+            },
+            {
+                "channel": "4502",
+                "date": "21/02/15",
+                "timestamp": "1424562900000",
+                "start": "23:55"
+            }
+        ],
+        "year": "2010",
+        "score": 0,
+        "tmdb_id": 49958,
+        "poster": "/4ZLxPg0mRmmEzR3V4pbJwqEKqov.jpg",
+        "metadata": true
+    },
+    "ongoldenpond": {
+        "title": "On Golden Pond",
+        "description": "Drama starring Julie Andrews and Christopher Plummer, and based on the play by Ernest Thompson. A woman is determined to build a relationship with her cantankerous old father before it's too late.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3617",
+                "date": "21/02/15",
+                "timestamp": "1424505600000",
+                "start": "08:00"
+            }
+        ],
+        "year": "1981",
+        "score": 0,
+        "tmdb_id": 11816,
+        "poster": "/2n3rG6YwJ9b1k42WBs4l7OiiUOo.jpg",
+        "metadata": true
+    },
+    "trialbymedia": {
+        "title": "Trial By Media",
+        "description": "A Senator's daughter seems to have a lock on a nomination as the US Surgeon General until a minor indiscretion in her past becomes the focus of a media feeding frenzy.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424487600000",
+                "start": "03:00"
+            },
+            {
+                "channel": "5338",
+                "date": "21/02/15",
+                "timestamp": "1424502000000",
+                "start": "07:00"
+            }
+        ],
+        "year": "",
+        "score": 0,
+        "metadata": false
+    },
+    "videovoyeurthesusan2002": {
+        "title": "Video Voyeur: The Susan Wilson Story",
+        "description": "...Wilson Story. 'Virtual Stalking', a sleazy act & violation of privacy. But it wasn't a crime until one woman's traumatic experiences made her fight for a change in law. Stars Jamey Sheridan (2002)",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424502000000",
+                "start": "07:00"
+            }
+        ],
+        "year": "2002",
+        "score": 0,
+        "tmdb_id": 179307,
+        "poster": "/dyjK6oU2L3WQpjaqu4axfe1Ken3.jpg",
+        "metadata": true
+    },
+    "homelesstoharvard2003": {
+        "title": "Homeless to Harvard: The Liz Murray Story",
+        "description": "Liz Murray lived in poverty until her mother's death from AIDS forced her to fend for herself on the streets. Not only did she survive, but she strived to eventually attend Harvard University. (2003)",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424509200000",
+                "start": "09:00"
+            }
+        ],
+        "year": "2003",
+        "score": 0,
+        "tmdb_id": 80219,
+        "poster": "/qtlKKBxZovvDDB9IZAjGPHB5BZZ.jpg",
+        "metadata": true
+    },
+    "herdesperatechoice": {
+        "title": "Her Desperate Choice",
+        "description": "Based on a true story. A mother is convinced that her ex husband has molested their daughter - but when a court order gives them joint custody she goes into hiding, taking their daughter with her.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424516400000",
+                "start": "11:00"
+            }
+        ],
+        "year": "1996",
+        "score": 0,
+        "tmdb_id": 221459,
+        "poster": "/xNO3E8TD0SSoJFzNBnBlGWk8h5S.jpg",
+        "metadata": true
+    },
+    "jackreedbadgeofhonor": {
+        "title": "Jack Reed: Badge Of Honor",
+        "description": "Brian Dennehy returns as tough, real-life Chicago cop Jack Reed, here on the trial of a murderous sociopath who enjoys state immunity. With Susan Ruttan, Alice Krige.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424523600000",
+                "start": "13:00"
+            }
+        ],
+        "year": "",
+        "score": 0,
+        "metadata": false
+    },
+    "anybodysnightmare2001": {
+        "title": "Anybody's Nightmare",
+        "description": "Patricia Routledge stars as a teacher who is arrested and convicted for the murder of her 89-year-old aunt. See the events that unfold around this miscarriage of justice in this powerful drama.(2001)",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424530800000",
+                "start": "15:00"
+            }
+        ],
+        "year": "2001",
+        "score": 0,
+        "tmdb_id": 253196,
+        "poster": null,
+        "metadata": true
+    },
+    "jackreedoneofourown": {
+        "title": "Jack Reed: One of Our Own",
+        "description": "Based on a true story. Brian Dennehy stars as the tough Chicago cop who must protect a woman who is marked for murder.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424538000000",
+                "start": "17:00"
+            }
+        ],
+        "year": "1995",
+        "score": 0,
+        "tmdb_id": 266527,
+        "poster": null,
+        "metadata": true
+    },
+    "inthelineofdutythe": {
+        "title": "In the Line of Duty 7: Sea Wolves",
+        "description": "...Twilight Murders. Rod Steiger stars in this true story of a farmer who is sent to prison for not paying taxes. But his time inside makes him more militant in his views with deadly consequences.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            }
+        ],
+        "year": "1991",
+        "score": 0,
+        "tmdb_id": 170812,
+        "poster": "/4FMCbVNO8pHNHAI4Cm04xJFA6tV.jpg",
+        "metadata": true
+    },
+    "childofrage": {
+        "title": "Child of Rage",
+        "description": "2 young children, a girl of 7 & her younger brother, are adopted by a kind and loving minister and his wife. Although the children are quiet at first, the girl becomes consumed by ever-greater rages.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3643",
+                "date": "21/02/15",
+                "timestamp": "1424559600000",
+                "start": "23:00"
+            }
+        ],
+        "year": "1992",
+        "score": 0,
+        "tmdb_id": 86131,
+        "poster": "/qDPeZBXbUYXaGGoDOEksqLW6cYV.jpg",
+        "metadata": true
+    },
+    "berlinexpress1948": {
+        "title": "Berlin Express",
+        "description": "An assassination on an express train leads to a group of passengers overcoming their prejudices to find a missing peace worker. Robert Ryan and Robert Shaw star. (1948)",
+        "duration": 1.67,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424485200000",
+                "start": "02:20"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424488800000",
+                "start": "03:20"
+            }
+        ],
+        "year": "1948",
+        "score": 0,
+        "tmdb_id": 42286,
+        "poster": "/bnkRFtiyvvcjLZZcWJbKPKgZhiB.jpg",
+        "metadata": true
+    },
+    "earthstorm2006": {
+        "title": "Earthstorm",
+        "description": "The moon becomes unstable after it is hit by a gigantic asteroid... and the collision has the potential to devastate planet Earth. Stars Stephen Baldwin. (2006)",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424510700000",
+                "start": "09:25"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424514300000",
+                "start": "10:25"
+            }
+        ],
+        "year": "2006",
+        "score": 0,
+        "tmdb_id": 15858,
+        "poster": "/inrCpF04yDf2FdFre7WxJcLDahV.jpg",
+        "metadata": true
+    },
+    "thefirstrebel1939": {
+        "title": "Allegheny Uprising",
+        "description": "In British colonial America, Jim Smith (John Wayne) stirs up trouble when he sends troopers to intercept traders selling to the Indians under cover of a government permit. (1939)",
+        "duration": 1.42,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424524200000",
+                "start": "13:10"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424527800000",
+                "start": "14:10"
+            }
+        ],
+        "year": "1939",
+        "score": 0,
+        "tmdb_id": 43825,
+        "poster": "/kCM3JxNCKNOOGcsQ3mKCXY3hNFi.jpg",
+        "metadata": true
+    },
+    "sheworeayellowribbon1949": {
+        "title": "She Wore a Yellow Ribbon",
+        "description": "John Wayne stars in one of the greatest westerns, John Ford's Oscar winner about a cavalry officer who is due to retire, only to realise he can't walk away from his duty. (1949)",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424529300000",
+                "start": "14:35"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424532900000",
+                "start": "15:35"
+            }
+        ],
+        "year": "1949",
+        "score": 0,
+        "tmdb_id": 13909,
+        "poster": "/2L5bdDRVqIqW7JqyjDIbFjEZntf.jpg",
+        "metadata": true
+    },
+    "fortapache1948": {
+        "title": "Fort Apache",
+        "description": "John Wayne and Henry Fonda are cavalrymen in a remote outpost where heroism and arrogance clash against an attack on the Apaches in John Ford's classic Western. (1948)",
+        "duration": 2.5,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424536500000",
+                "start": "16:35"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424540100000",
+                "start": "17:35"
+            }
+        ],
+        "year": "1948",
+        "score": 0,
+        "tmdb_id": 37347,
+        "poster": "/bJEertk3SwVBpb8t63bvR2NRlwC.jpg",
+        "metadata": true
+    },
+    "whitecomanche1968": {
+        "title": "White Comanche",
+        "description": "Twin brothers are brought up under different circumstances - one a cowboy, the other a ruthless Comanche Indian. Stars William Shatner and Joseph Cotten. (1968)",
+        "duration": 1.92,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424545500000",
+                "start": "19:05"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424549100000",
+                "start": "20:05"
+            }
+        ],
+        "year": "1968",
+        "score": 0,
+        "tmdb_id": 68095,
+        "poster": "/ksOZcbtXFX07b4rIMSDsKObjHbv.jpg",
+        "metadata": true
+    },
+    "onedamneddayatdawn1970": {
+        "title": "One Damned Day at Dawn... Django Meets Sartana!",
+        "description": "A young man arrives in Black City to assume the vacant Sheriff's position. Complications arise when a famous bounty hunter shows up in town. Stars Jack Betts. (1970)",
+        "duration": 1.67,
+        "showings": [
+            {
+                "channel": "3708",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            },
+            {
+                "channel": "3721",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            }
+        ],
+        "year": "1970",
+        "score": 0,
+        "tmdb_id": 115353,
+        "poster": "/s9vu1amZv7GfUh4BV1law27xX9D.jpg",
+        "metadata": true
+    },
+    "kissofthedragon2001": {
+        "title": "Kiss of the Dragon",
+        "description": "A Chinese government agent arrives in Paris for a secret mission, but things go wrong when the man he has come to help betrays him. Jet Li stars. (2001)",
+        "duration": 1.92,
+        "showings": [
+            {
+                "channel": "3709",
+                "date": "21/02/15",
+                "timestamp": "1424556000000",
+                "start": "22:00"
+            },
+            {
+                "channel": "3771",
+                "date": "21/02/15",
+                "timestamp": "1424559600000",
+                "start": "23:00"
+            }
+        ],
+        "year": "2001",
+        "score": 1,
+        "tmdb_id": 2140,
+        "poster": "/oN94CmzcYiwOmkxLTcTUQAn8buw.jpg",
+        "metadata": true
+    },
+    "scenesofthecrime2002": {
+        "title": "Scenes of the Crime",
+        "description": "A young man earns extra cash by driving a local mobster, but things go badly when the mobster is killed by a rival crime boss. (2002)",
+        "duration": 2.08,
+        "showings": [
+            {
+                "channel": "3709",
+                "date": "21/02/15",
+                "timestamp": "1424562900000",
+                "start": "23:55"
+            }
+        ],
+        "year": "2001",
+        "score": 0,
+        "tmdb_id": 31008,
+        "poster": "/9nLc85xtqsOtKLSBksrdyYz2kiI.jpg",
+        "metadata": true
+    },
+    "whenhesnotastranger": {
+        "title": "When He's Not A Stranger",
+        "description": "Based on a true story. When a young university student is sexually abused by her best friend's boyfriend, the whole university is thrown into turmoil.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3751",
+                "date": "21/02/15",
+                "timestamp": "1424487600000",
+                "start": "03:00"
+            }
+        ],
+        "year": "",
+        "score": 0,
+        "metadata": false
+    },
+    "themanwhocapturedeichmann1960": {
+        "title": "The Man Who Captured Eichmann",
+        "description": "In 1960, the Israeli Secret Service learns that former SS Lieutenant Colonel Eichmann, a key figure in the Jewish holocaust of WWII, is living in Argentina. Explore the effort to capture Eichmann.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3751",
+                "date": "21/02/15",
+                "timestamp": "1424509200000",
+                "start": "09:00"
+            }
+        ],
+        "year": "1996",
+        "score": 0,
+        "tmdb_id": 193212,
+        "poster": "/gS5Gpz9XLVEETvbxO98wXmKnYwA.jpg",
+        "metadata": true
+    },
+    "judgementdaythejohnliststory": {
+        "title": "Judgement Day: The John List Story",
+        "description": "Robert Blake stars as a churchgoing, well respected accountant who murders his wife, children and mother and then evades capture for 17 years in this fascinating story.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "3751",
+                "date": "21/02/15",
+                "timestamp": "1424559600000",
+                "start": "23:00"
+            }
+        ],
+        "year": "",
+        "score": 0,
+        "metadata": false
+    },
+    "marilynandme": {
+        "title": "Marilyn And Me",
+        "description": "Susan Griffiths stars in this insightful and intimate portrait of Marilyn Monroe during her rise to stardom and secret marriage to Bob Slatzer. A previously untold story offering a new perspective.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "4266",
+                "date": "21/02/15",
+                "timestamp": "1424480400000",
+                "start": "01:00"
+            }
+        ],
+        "year": "",
+        "score": 0,
+        "metadata": false
+    },
+    "playingforkeeps": {
+        "title": "Playing for Keeps",
+        "description": "A passionate affair between a young Caucasian woman and a married African-American pro basketball star comes to an abrupt halt when a court battle ensues for custody of their mixed-race son.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "4266",
+                "date": "21/02/15",
+                "timestamp": "1424545200000",
+                "start": "19:00"
+            }
+        ],
+        "year": "2012",
+        "score": 5.6,
+        "tmdb_id": 77875,
+        "poster": "/eOBekVFBGK4TwETQSwfuk22B41o.jpg",
+        "metadata": true
+    },
+    "belonging2004": {
+        "title": "Belonging",
+        "description": "British drama based on the novel by Stevie Davies. Jess Copplestone (Brenda Blethyn) is left to look after the elderly relatives of her husband Jacob and make a new life for herself. (2004)",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "4266",
+                "date": "21/02/15",
+                "timestamp": "1424552400000",
+                "start": "21:00"
+            }
+        ],
+        "year": "2004",
+        "score": 0,
+        "tmdb_id": 41429,
+        "poster": "/cS4L5sxrr0jnjhiJ5jhQfpB3oeI.jpg",
+        "metadata": true
+    },
+    "thewhistleblower2010": {
+        "title": "The Whistleblower",
+        "description": "Biographical drama starring Rachel Weisz, Monica Bellucci and Vanessa Redgrave. A Nebraska cop serves as a peacekeeper in post-war Bosnia and uncovers a sex trafficking ring serving the U.N. (2010)",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "4266",
+                "date": "21/02/15",
+                "timestamp": "1424559600000",
+                "start": "23:00"
+            }
+        ],
+        "year": "2010",
+        "score": 1,
+        "tmdb_id": 65760,
+        "poster": "/4cKQ5h0tfEQo7UkI23bx8ca9OWB.jpg",
+        "metadata": true
+    },
+    "ironthunder": {
+        "title": "I Bought a Vampire Motorcycle",
+        "description": "Danger faces unsuspecting tourists in Las Vegas as Colonel Nelson (Richard Hatch) goes mad when he is accidentally electrocuted by the super-secret U.S. military tank he is testing, Iron Thunder.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "5201",
+                "date": "21/02/15",
+                "timestamp": "1424538000000",
+                "start": "17:00"
+            }
+        ],
+        "year": "1990",
+        "score": 0,
+        "tmdb_id": 41153,
+        "poster": "/vz4JKQeYCGc7gPWRUdnbtmTDx4M.jpg",
+        "metadata": true
+    },
+    "bluevalleysongbird": {
+        "title": "Blue Valley Songbird",
+        "description": "She is one of the world's most famous country music artists, her glamour and flamboyance is unique. It can only be Dolly Parton. This film explores her love life and career.",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "5338",
+                "date": "21/02/15",
+                "timestamp": "1424516400000",
+                "start": "11:00"
+            }
+        ],
+        "year": "1999",
+        "score": 0,
+        "tmdb_id": 132942,
+        "poster": "/lbw04aJzZUqYztaHo05YPYlc5DH.jpg",
+        "metadata": true
+    },
+    "colourmeperfect1968": {
+        "title": "Colour Me Perfect",
+        "description": "A 'female' remake of the 1968 film Charly, in which an afflicted woman experiences a 'miracle cure' when she is picked to test a new drug. With Michele Lee (Knots Landing).",
+        "duration": 2,
+        "showings": [
+            {
+                "channel": "5338",
+                "date": "21/02/15",
+                "timestamp": "1424523600000",
+                "start": "13:00"
+            }
+        ],
+        "year": "1968",
+        "score": 0,
+        "metadata": false
+    },
+    "evanalmighty2007": {
+        "title": "Evan Almighty",
+        "description": "Comedy follow-up starring Steve Carell and Morgan Freeman, 2007. God appears before a congressman to tell him that his destiny is to build an ark to withstand a mighty flood.",
+        "duration": 1.92,
+        "showings": [
+            {
+                "channel": "6240",
+                "date": "21/02/15",
+                "timestamp": "1424547900000",
+                "start": "19:45"
+            },
+            {
+                "channel": "6241",
+                "date": "21/02/15",
+                "timestamp": "1424551500000",
+                "start": "20:45"
+            }
+        ],
+        "year": "2007",
+        "score": 5.4,
+        "tmdb_id": 2698,
+        "poster": "/mtIjd19s4eOSkUm9P9iDVY35TsQ.jpg",
+        "metadata": true
+    },
+    "carryonagaindoctor1969": {
+        "title": "Carry On Again Doctor",
+        "description": "Classic British comedy starring Kenneth Williams and Jim Dale, 1969. A doctor stumbles upon a witch doctor's weight-reducing potion while working at a mission in the South Seas.",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "6260",
+                "date": "21/02/15",
+                "timestamp": "1424531100000",
+                "start": "15:05"
+            },
+            {
+                "channel": "6261",
+                "date": "21/02/15",
+                "timestamp": "1424534700000",
+                "start": "16:05"
+            }
+        ],
+        "year": "1969",
+        "score": 0,
+        "tmdb_id": 19293,
+        "poster": "/7VgfCfnlGm5wogW1YKJyuJr5Idd.jpg",
+        "metadata": true
+    },
+    "fieldofdreams1989": {
+        "title": "Field of Dreams",
+        "description": "Heartwarming fantasy starring Kevin Costner and Amy Madigan, 1989. A farmer is inspired to build a baseball pitch in the hope of bringing legendary baseball stars back to life.",
+        "duration": 2.17,
+        "showings": [
+            {
+                "channel": "6272",
+                "date": "21/02/15",
+                "timestamp": "1424531400000",
+                "start": "15:10"
+            },
+            {
+                "channel": "6274",
+                "date": "21/02/15",
+                "timestamp": "1424535000000",
+                "start": "16:10"
+            }
+        ],
+        "year": "1989",
+        "score": 7.2,
+        "tmdb_id": 2323,
+        "poster": "/ps5B8ZNSFvqLczD5e4Yh3whV66B.jpg",
+        "metadata": true
+    },
+    "policeacademy4citizenson1987": {
+        "title": "Police Academy 4: Citizens on Patrol",
+        "description": "...Patrol. Slapstick comedy sequel starring Steve Guttenberg and Bubba Smith, 1987. The bumbling cops face a new challenge - training a bunch of oddball civilians to help fight community crime.",
+        "duration": 1.83,
+        "showings": [
+            {
+                "channel": "6272",
+                "date": "21/02/15",
+                "timestamp": "1424549400000",
+                "start": "20:10"
+            },
+            {
+                "channel": "6274",
+                "date": "21/02/15",
+                "timestamp": "1424553000000",
+                "start": "21:10"
+            }
+        ],
+        "year": "1987",
+        "score": 1,
+        "tmdb_id": 10587,
+        "poster": "/g7JVqQPOCKQLJDfxTaBpVM21DWY.jpg",
+        "metadata": true
+    },
+    "plunkettandmacleane1740": {
+        "title": "Plunkett and Macleane",
+        "description": "Comic 1740s adventure starring Robert Carlyle and Jonny Lee Miller, 1999. Set in the 1740s, two ex-prisoners from different backgrounds pool their talents and embark on a crime spree.",
+        "duration": 2.08,
+        "showings": [
+            {
+                "channel": "6272",
+                "date": "21/02/15",
+                "timestamp": "1424559600000",
+                "start": "23:00"
+            },
+            {
+                "channel": "6274",
+                "date": "22/02/15",
+                "timestamp": "1424563200000",
+                "start": "00:00"
+            }
+        ],
+        "year": "1740",
+        "score": 0,
+        "metadata": false
     }
 }

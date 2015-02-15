@@ -85,6 +85,15 @@
 		$scope.toggleFilter = function(alpha, beta) {
 			$scope.filters[alpha][beta] = !$scope.filters[alpha][beta];
 		};
+
+		$scope.niceDuration = function(duration) {
+			var hours = Math.floor(duration);
+			var minutes = Math.round((duration - hours) * 60) + '';
+
+			if (minutes.length < 2) minutes += '0';
+
+			return hours + ':' + minutes;
+		}
 	})
 	.filter('filmsFilter', function() {
 		return function(films, filters, channels) {
