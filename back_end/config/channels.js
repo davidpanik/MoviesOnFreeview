@@ -112,13 +112,13 @@ module.exports = {
 		freview_id: 179,
 		sky_id:     6241,
 		title:      'ITV2+1',
-		family:     'ITV'
+		family:     'itv'
 	},
 	6261: {
 		freview_id: 180,
 		sky_id:     6261,
 		title:      'ITV3+1',
-		family:     'ITV'
+		family:     'itv'
 	},
 	5338: {
 		freview_id: 183,
@@ -154,19 +154,19 @@ module.exports = {
 		freview_id: 206,
 		sky_id:     6274,
 		title:      'ITV4+1',
-		family:     'ITV'
+		family:     'itv'
 	},
 	6240: {
 		freview_id: 207,
 		sky_id:     6240,
 		title:      'ITV2',
-		family:     'ITV'
+		family:     'itv'
 	},
 	6260: {
 		freview_id: 208,
 		sky_id:     6260,
 		title:      'ITV3',
-		family:     'ITV'
+		family:     'itv'
 	},
 	2061: {
 		freview_id: 210,
@@ -190,7 +190,7 @@ module.exports = {
 		freview_id: 228,
 		sky_id:     6272,
 		title:      'ITV4',
-		family:     'ITV'
+		family:     'itv'
 	},
 	4075: {
 		freview_id: 230,
@@ -412,7 +412,7 @@ module.exports = {
 		freview_id: 973,
 		sky_id:     6000,
 		title:      'ITV',
-		family:     'ITV'
+		family:     'itv'
 	},
 	// 1621: {
 	// 	freview_id: 974,
