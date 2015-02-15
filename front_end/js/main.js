@@ -22,8 +22,8 @@
 			minScore: 6,
 			maxScore: 10,
 
-			minDuration: 0,
-			maxDuration: 4,
+			minDuration: 1,
+			maxDuration: 10,
 
 			channels: {
 				'bbc'  : true,

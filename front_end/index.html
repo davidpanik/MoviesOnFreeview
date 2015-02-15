@@ -48,8 +48,7 @@
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'score';">
-							<button ng-click="filters.minScore = 0;"  ng-class="{active: filters.minScore === 0} ">&lt;3</button>
-							<button ng-click="filters.minScore = 3;"  ng-class="{active: filters.minScore === 3} ">3</button>
+							<button ng-click="filters.minScore = 0;"  ng-class="{active: filters.minScore === 0} "><span class="fa fa-chevron-left fa-1"></span></button>
 							<button ng-click="filters.minScore = 4;"  ng-class="{active: filters.minScore === 4} ">4</button>
 							<button ng-click="filters.minScore = 5;"  ng-class="{active: filters.minScore === 5} ">5</button>
 							<button ng-click="filters.minScore = 6;"  ng-class="{active: filters.minScore === 6} ">6</button>
@@ -60,10 +59,11 @@
 						</div class="filter">
 
 						<div class="filter" ng-show="currentFilter === 'duration';">
-							<button ng-click="filters.maxDuration = 2;"  ng-class="{active: filters.maxDuration === 2}">&lt;2</button>
-							<button ng-click="filters.maxDuration = 3;"  ng-class="{active: filters.maxDuration === 3}">&lt;3</button>
-							<button ng-click="filters.maxDuration = 4;"  ng-class="{active: filters.maxDuration === 4}">&lt;4</button>
-							<button ng-click="filters.maxDuration = 9;"  ng-class="{active: filters.maxDuration === 9}">4+</button>
+							<button ng-click="filters.minDuration = 0;"  ng-class="{active: filters.minDuration === 0}"><span class="fa fa-chevron-left fa-1"></span></button>
+							<button ng-click="filters.minDuration = 1;"  ng-class="{active: filters.minDuration === 1}">1</button>
+							<button ng-click="filters.minDuration = 2;"  ng-class="{active: filters.minDuration === 2}">2</button>
+							<button ng-click="filters.minDuration = 3;"  ng-class="{active: filters.minDuration === 3}">3</button>
+							<button ng-click="filters.minDuration = 9;"  ng-class="{active: filters.minDuration === 9}"><span class="fa fa-chevron-right fa-1"></span></button>
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'channels';">
@@ -81,8 +81,7 @@
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'decade';">
-							<button ng-click="toggleFilter('decades', '40');" ng-class="{active: filters.decades['40']}">40s</button>
-							<button ng-click="toggleFilter('decades', '50');" ng-class="{active: filters.decades['50']}">50s</button>
+							<button ng-click="toggleFilter('decades', '40'); toggleFilter('decades', '50');" ng-class="{active: filters.decades['40']}"><span class="fa fa-chevron-left fa-1"></span></button>
 							<button ng-click="toggleFilter('decades', '60');" ng-class="{active: filters.decades['60']}">60s</button>
 							<button ng-click="toggleFilter('decades', '70');" ng-class="{active: filters.decades['70']}">70s</button>
 							<button ng-click="toggleFilter('decades', '80');" ng-class="{active: filters.decades['80']}">80s</button>
