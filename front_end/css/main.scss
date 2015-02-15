@@ -4,7 +4,7 @@ $activeColour:       #7ECEFD;
 $textColour:         #FFF6E5;
 $attentionColour:    #FF7F66;
 $normalFont:         'Lato', sans-serif;
-$boldFont:           'Oswald', sans-serif;
+$boldFont:           'Lato', sans-serif;
 
 html, body {
 	height: 100%;
@@ -14,6 +14,7 @@ body {
 	background: $backgroundColour;
 	color: $textColour;
 	font-family: $normalFont;
+	letter-spacing: 0.1em;
 
 	h1, h2, h3, h4, h5 {
 		font-weight: bold;
@@ -23,6 +24,8 @@ body {
 	button {
 		cursor: pointer;
 		padding: 0;
+		font-family: $normalFont;
+		letter-spacing: 0.1em;
 	}
 
 	.selfClearing {
@@ -112,7 +115,7 @@ body {
 		}
 
 		#controlsToggle {
-			$toggleWidth: 140px;
+			$toggleWidth: 150px;
 
 			width: $toggleWidth;
 			height: 45px;
@@ -195,10 +198,13 @@ body {
 						overflow: hidden;
 
 						.showing {
+							margin-bottom: 10px;
+							font-size: 0.8em;
+							letter-spacing: 0.05em;
+
 							h2 {
 								margin-bottom: 0.2em;
 							}
-							margin-bottom: 10px;
 						}
 					}
 
@@ -209,6 +215,7 @@ body {
 							text-align: center;
 							padding: 10px 0;
 							width: 32%;
+							letter-spacing: 0.05em;
 
 							.fa {
 								display: block;
