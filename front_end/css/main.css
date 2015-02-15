@@ -165,12 +165,13 @@ body {
     justify-content: center; }
   body footer {
     background: #2185C5;
-    padding: 20px 0;
+    padding: 15px 0;
     text-align: center;
     font-size: 0.7em;
     position: fixed;
     bottom: 0;
-    width: 100%; }
+    width: 100%;
+    line-height: 1.7em; }
     body footer a:link, body footer a:visited, body footer a:hover, body footer a:active {
       color: #FF7F66; }
     body footer .divider {
