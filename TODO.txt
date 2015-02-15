@@ -9,7 +9,6 @@ Select BBC region
 Start thinking about design
 Use flexbox to vertically align showing times
 Add flip-card hover effect
-Matches not coming through (e.g. Donnie Darko)
 Choose better fonts
 
 
