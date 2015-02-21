@@ -165,6 +165,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center; }
+  body .spin {
+    -webkit-animation: spin 2s infinite ease; }
   body footer {
     background: #2185C5;
     padding: 12px 0;
@@ -184,3 +186,10 @@ body {
         display: none; }
       body footer .item {
         display: block; } }
+
+@-webkit-keyframes spin {
+  0% {
+    transform: rotateY(0deg); }
+
+  100% {
+    transform: rotateY(360deg); } }

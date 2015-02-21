@@ -9,7 +9,6 @@ Select BBC region
 Start thinking about design
 Use flexbox to vertically align showing times
 Add flip-card hover effect
-Add loading animation
 Add brower prefixes
 
 

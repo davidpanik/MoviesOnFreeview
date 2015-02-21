@@ -97,7 +97,7 @@
 
 			<div ng-show="error" id="error" class="fillPage" ng-cloak>{{errorMessage}}</div>
 
-			<div ng-show="!loaded && !error" id="loading" class="fillPage">Loading</div>
+			<div ng-show="!loaded && !error" id="loading" class="fillPage spin">Loading</div>
 
 			<div id="results" class="selfClearing" ng-show="loaded && !error" ng-cloak>
 				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters:this.channels)" class="film">

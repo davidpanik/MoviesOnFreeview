@@ -251,6 +251,10 @@ body {
 		justify-content: center;
 	}
 
+	.spin {
+		-webkit-animation: spin 2s infinite ease;
+	}
+
 	footer {
 		background: $controlsColour;
 		padding: 12px 0;
@@ -280,4 +284,9 @@ body {
 			}
 		}
 	}
+}
+
+@-webkit-keyframes spin {
+	0%   { transform: rotateY(0deg); }
+	100% { transform: rotateY(360deg); }
 }
