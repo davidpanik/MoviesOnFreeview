@@ -90,11 +90,13 @@ body {
 						&:hover {
 							background: $activeColour;
 							color: $controlsColour;
+							box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
 						}
 
 						&.active {
 							background: $attentionColour;
 							color: $textColour;
+							box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
 						}
 
 						&:last-child {
