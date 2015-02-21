@@ -1,6 +1,6 @@
 BACK-END
 Switch to using Promises
-
+Data file isn't updating on Heroku
 
 
 FRONT-END
@@ -9,7 +9,8 @@ Select BBC region
 Start thinking about design
 Use flexbox to vertically align showing times
 Add flip-card hover effect
-Choose better fonts
+Add loading animation
+Add brower prefixes
 
 
 COLOURS SCHEMES
@@ -19,14 +20,6 @@ https://color.adobe.com/Flat-Design-Colors-color-theme-3602874/
 https://color.adobe.com/Salmon-on-Ice-color-theme-2291686/
 
 
-ICONS
-Toggle filters (Up/Down)
-Sort (Bar chart)
-Rating (Star)
-Duration (Clock)
-Channels (Tv)
-Day 
-Decade (Calendar)
 
 
 USEFUL LINKS

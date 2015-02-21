@@ -155,6 +155,7 @@ body {
 			background-color: #CCC;
 			margin: 7px; /* 10px; */
 			flex: none;
+			position: relative;
 
 			&:hover .poster {
 				padding-bottom: 0;
@@ -176,13 +177,14 @@ body {
 
 			.detail {
 				display: none;
-				position: relative;
+				position: absolute;
+				top: 0;
 				background-color: $attentionColour;
 				color: $textColour;
 				width: 100%;
 				height: 100%;
 				overflow: hidden;
-				
+
 				.inner {
 					padding: 10px;
 

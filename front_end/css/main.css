@@ -101,7 +101,8 @@ body {
       background-color: #CCC;
       margin: 7px;
       /* 10px; */
-      flex: none; }
+      flex: none;
+      position: relative; }
       body #results .film:hover .poster {
         padding-bottom: 0; }
       body #results .film:hover .detail {
@@ -116,7 +117,8 @@ body {
         height: 100%; }
       body #results .film .detail {
         display: none;
-        position: relative;
+        position: absolute;
+        top: 0;
         background-color: #FF7F66;
         color: #FFF6E5;
         width: 100%;
