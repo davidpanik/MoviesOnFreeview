@@ -8,7 +8,6 @@ Add detail view?
 Select BBC region
 Start thinking about design
 Use flexbox to vertically align showing times
-Add flip-card hover effect
 Add brower prefixes
 
 

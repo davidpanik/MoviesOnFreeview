@@ -93,22 +93,22 @@ body {
     flex-wrap: wrap;
     justify-content: center; }
     body #results .film {
+      /* 185px */
       display: block;
       float: left;
       width: 165px;
-      /* 185px */
       height: 248px;
-      background-color: #CCC;
       margin: 7px;
       /* 10px; */
-      flex: none;
-      position: relative;
-      transition: all 0.5s;
-      transform-style: preserve-3d;
-      position: relative; }
-      body #results .film:hover .poster {
-        padding-bottom: 0; }
-      body #results .film:hover {
+      flex: none; }
+      body #results .film .flipper {
+        display: block;
+        width: 165px;
+        height: 248px;
+        position: relative;
+        transition: all 0.5s;
+        transform-style: preserve-3d; }
+      body #results .film:hover .flipper {
         transform: rotateY(180deg); }
       body #results .film .poster {
         background-position: center center;

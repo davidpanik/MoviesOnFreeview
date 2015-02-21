@@ -148,27 +148,26 @@ body {
 		justify-content: center;
 
 		.film {
+			$filmWidth: 165px; /* 185px */
+			$filmHeight: 248px;
+
 			display: block;
 			float: left;
-			width: 165px; /* 185px */
-			height: 248px;
-			background-color: #CCC;
+			width: $filmWidth;
+			height: $filmHeight;
 			margin: 7px; /* 10px; */
 			flex: none;
-			position: relative;
-			transition: all 0.5s;
-			transform-style: preserve-3d;
-			position: relative;
-			
-			&:hover .poster {
-				padding-bottom: 0;
+
+			.flipper {
+				display: block;
+				width: $filmWidth;
+				height: $filmHeight;
+				position: relative;
+				transition: all 0.5s;
+				transform-style: preserve-3d;
 			}
 
-			&:hover .detail {
-				// display: block;
-			}
-
-			&:hover {
+			&:hover .flipper {
 				transform: rotateY(180deg);
 			}
 
@@ -186,7 +185,6 @@ body {
 			}
 
 			.detail {
-				// display: none;
 				position: absolute;
 				top: 0;
 				background-color: $attentionColour;

@@ -101,25 +101,27 @@
 
 			<div id="results" class="selfClearing" ng-show="loaded && !error" ng-cloak>
 				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters:this.channels)" class="film">
-					<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster"></div>
+					<div class="flipper">
+						<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster"></div>
 
-					<div class="detail">
-						<div class="inner">
-							<h1>{{film.title}}</h1>
+						<div class="detail">
+							<div class="inner">
+								<h1>{{film.title}}</h1>
 
-							<div class="showings">
-								<div ng-repeat="showing in film.showings | orderBy:timestamp" class="showing">
-									<h2>{{channels[showing.channel].title}}</h2>
-									{{showing.date}} - {{showing.start}}
+								<div class="showings">
+									<div ng-repeat="showing in film.showings | orderBy:timestamp" class="showing">
+										<h2>{{channels[showing.channel].title}}</h2>
+										{{showing.date}} - {{showing.start}}
+									</div>
 								</div>
-							</div>
 
-							<div class="attributes selfClearing">
-								<div class="attribute"><span class="fa fa-star-o" title="Score"></span> {{film.score}}</div>
-								<div class="attribute"><span class="fa fa-clock-o" title="Duration"></span> {{niceDuration(film.duration)}}</div>
-								<div class="attribute"><span class="fa fa-calendar-o" title="Released"></span> {{film.year}}</div>
-								<!-- <a href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{film.title}}+{{film.year}}+film&fulltext=Search" target="_blank"><div class="attribute"><span class="fa fa-globe" title="Wikipedia"></span> Summary</div></a> -->
-								<!-- <a href="https://www.youtube.com/results?search_query={{film.title}}+{{film.year}}+film+trailer" target="_blank"><div class="attribute"><span class="fa fa-youtube" title="YouTube"></span> Trailer</div></a> -->
+								<div class="attributes selfClearing">
+									<div class="attribute"><span class="fa fa-star-o" title="Score"></span> {{film.score}}</div>
+									<div class="attribute"><span class="fa fa-clock-o" title="Duration"></span> {{niceDuration(film.duration)}}</div>
+									<div class="attribute"><span class="fa fa-calendar-o" title="Released"></span> {{film.year}}</div>
+									<!-- <a href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{film.title}}+{{film.year}}+film&fulltext=Search" target="_blank"><div class="attribute"><span class="fa fa-globe" title="Wikipedia"></span> Summary</div></a> -->
+									<!-- <a href="https://www.youtube.com/results?search_query={{film.title}}+{{film.year}}+film+trailer" target="_blank"><div class="attribute"><span class="fa fa-youtube" title="YouTube"></span> Trailer</div></a> -->
+								</div>
 							</div>
 						</div>
 					</div>
