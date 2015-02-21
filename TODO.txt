@@ -4,9 +4,8 @@ Data file isn't updating on Heroku
 
 
 FRONT-END
-Add detail view?
+Add detail view? - Description, trailer link
 Select BBC region
-Start thinking about design
 Use flexbox to vertically align showing times
 Add brower prefixes
 
