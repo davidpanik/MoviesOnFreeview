@@ -188,7 +188,11 @@ body {
     line-height: 1.7em;
     box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25); }
     body footer a:link, body footer a:visited, body footer a:hover, body footer a:active {
-      color: #FF7F66; }
+      color: #FF7F66;
+      text-decoration: none;
+      font-weight: bold; }
+    body footer a:hover, body footer a:active {
+      text-decoration: underline; }
     body footer .divider {
       margin: 0 5px;
       color: #7ECEFD; }

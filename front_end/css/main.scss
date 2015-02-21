@@ -281,6 +281,12 @@ body {
 
 		a:link, a:visited, a:hover, a:active {
 			color: $attentionColour;
+			text-decoration: none;
+			font-weight: bold;
+		}
+
+		a:hover, a:active {
+			text-decoration: underline;
 		}
 
 		.divider {
