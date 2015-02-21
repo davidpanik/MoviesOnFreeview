@@ -8,6 +8,8 @@ Add detail view? - Description, trailer link
 Select BBC region
 Use flexbox to vertically align showing times
 Add brower prefixes
+Mobile styling
+Remember filter settings
 
 
 COLOURS SCHEMES
