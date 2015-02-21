@@ -102,11 +102,14 @@ body {
       margin: 7px;
       /* 10px; */
       flex: none;
+      position: relative;
+      transition: all 0.5s;
+      transform-style: preserve-3d;
       position: relative; }
       body #results .film:hover .poster {
         padding-bottom: 0; }
-      body #results .film:hover .detail {
-        display: block; }
+      body #results .film:hover {
+        transform: rotateY(180deg); }
       body #results .film .poster {
         background-position: center center;
         background-repeat: no-repeat;
@@ -114,16 +117,20 @@ body {
         background-color: #AAA;
         display: block;
         width: 100%;
-        height: 100%; }
+        height: 100%;
+        position: absolute;
+        z-index: 1;
+        backface-visibility: hidden; }
       body #results .film .detail {
-        display: none;
         position: absolute;
         top: 0;
         background-color: #FF7F66;
         color: #FFF6E5;
         width: 100%;
         height: 100%;
-        overflow: hidden; }
+        overflow: hidden;
+        transform: rotateY(180deg);
+        backface-visibility: hidden; }
         body #results .film .detail .inner {
           padding: 10px; }
           body #results .film .detail .inner h1 {
