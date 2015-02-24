@@ -32,7 +32,6 @@ function updateData() {
 	.then(getFilmsFromSky)
 	.then(addMetaData)
 	.then(cleanUpShowings)
-	.then(removeOldData)
 	.then(done);
 }
 
@@ -59,7 +58,7 @@ function removeOldData() {
 	latestDay = today.clone();
 
 	for (var film in films) {
-		for (var x = 0; x < films[film].showings.length; x++) {
+		for (var x = films[film].showings.length - 1; x >= 0; x--) {
 			var showingTime = moment(films[film].showings[x].date, 'DD/MM/YY').startOf('day');
 
 			if (showingTime < today) { // Remove past showings
@@ -168,7 +167,7 @@ function cleanUpShowings() {
 			var baseChannel = films[film].showings[x].channel;
 
 			// Look for duplicated/split showings
-			for (var z = 0; z < films[film].showings.length; z++) {
+			for (var z = films[film].showings.length - 1; z >= 0; z--) {
 				if (
 					z !== x &&
 					films[film].showings[z].channel === baseChannel &&
