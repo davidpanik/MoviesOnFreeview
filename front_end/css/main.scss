@@ -44,7 +44,7 @@ body {
 		display: block;
 		min-height: 100%;
 		width: 100%;
-		position: absolute;
+		// position: absolute;
 	}
 
 	#controlsArea {
@@ -151,6 +151,10 @@ body {
 		flex-wrap: wrap;
 		justify-content: center;
 
+		@media screen and (max-width: 570px) {
+			margin-bottom: 15px;
+		}
+
 		.film {
 			$filmWidth: 165px; /* 185px */
 			$filmHeight: 248px;
@@ -159,8 +163,11 @@ body {
 			float: left;
 			width: $filmWidth;
 			height: $filmHeight;
-			margin: 7px; /* 10px; */
 			flex: none;
+			margin: 7px; /* 10px; */
+			@media screen and (max-width: 570px) {
+				margin: 4px;
+			}
 
 			.flipper {
 				display: block;
@@ -296,7 +303,14 @@ body {
 			color: $activeColour;
 		}
 
+		.tmdb {
+			display: block;
+			padding: 0 20px;
+		}
+
 		@media screen and (max-width: 570px) {
+			position: static;
+
 			.divider {
 				display: none;
 			}

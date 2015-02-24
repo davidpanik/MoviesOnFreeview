@@ -25,8 +25,7 @@ body {
   body .main {
     display: block;
     min-height: 100%;
-    width: 100%;
-    position: absolute; }
+    width: 100%; }
   body #controlsArea {
     position: fixed;
     top: 0;
@@ -96,15 +95,21 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center; }
+    @media screen and (max-width: 570px) {
+      body #results {
+        margin-bottom: 15px; } }
     body #results .film {
       /* 185px */
       display: block;
       float: left;
       width: 165px;
       height: 248px;
+      flex: none;
       margin: 7px;
-      /* 10px; */
-      flex: none; }
+      /* 10px; */ }
+      @media screen and (max-width: 570px) {
+        body #results .film {
+          margin: 4px; } }
       body #results .film .flipper {
         display: block;
         width: 165px;
@@ -198,11 +203,16 @@ body {
     body footer .divider {
       margin: 0 5px;
       color: #7ECEFD; }
+    body footer .tmdb {
+      display: block;
+      padding: 0 20px; }
     @media screen and (max-width: 570px) {
-      body footer .divider {
-        display: none; }
-      body footer .item {
-        display: block; } }
+      body footer {
+        position: static; }
+        body footer .divider {
+          display: none; }
+        body footer .item {
+          display: block; } }
 
 @-webkit-keyframes spin {
   0% {
