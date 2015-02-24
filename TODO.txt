@@ -1,14 +1,14 @@
 BACK-END
 Switch to using Promises
 Data file isn't updating on Heroku
+Old films not getting removed correctly on first pass?
 
 
 FRONT-END
 Add detail view? - Description, trailer link
 Select BBC region
-Use flexbox to vertically align showing times
 Add brower prefixes
-Mobile styling
+Center filters on mobile
 Remember filter settings
 
 

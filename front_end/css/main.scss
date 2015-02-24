@@ -210,22 +210,28 @@ body {
 
 				.inner {
 					padding: 10px;
+					display: flex;
+					flex-wrap: wrap;
+					height: 100%;
 
 					h1 {
 						height: 2.1em;
-						margin-bottom: 0.5em;
 						overflow: hidden;
 						text-align: center;
+						align-self: flex-start;
+						width: 100%;
 					}
 
 					.showings {
-						height: 138px;
-						overflow: hidden;
+						// height: 138px;
+						// overflow: hidden;
+						align-self: center;
+						width: 100%;
 
 						.showing {
 							margin-bottom: 10px;
 							font-size: 0.8em;
-							letter-spacing: 0.05em;
+							letter-spacing: 0.1em;
 
 							h2 {
 								margin-bottom: 0.2em;
@@ -234,6 +240,10 @@ body {
 					}
 
 					.attributes {
+						align-self: flex-end;
+						width: 100%;
+						padding-bottom: 10px;
+
 						.attribute {
 							display: block;
 							float: left;
