@@ -42,10 +42,11 @@
 				'90': false,
 				'00': true,
 				'10': true
-			}
+			},
+			region: 'england'
 		};
 
-		
+
 
 		$http.get('http://api.themoviedb.org/3/configuration?api_key=' + tmdbKey)
 		.success(function(data, status, headers, config) {

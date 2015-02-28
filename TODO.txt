@@ -7,8 +7,6 @@ Old films not getting removed correctly on first pass?
 FRONT-END
 Add detail view? - Description, trailer link
 Select BBC region
-Add brower prefixes
-Center filters on mobile
 Remember filter settings
 
 

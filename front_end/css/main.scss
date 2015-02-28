@@ -1,10 +1,107 @@
+// ================ VARIABLES ======================
+
 $backgroundColour:   #3E454C;
 $controlsColour:     #2185C5;
 $activeColour:       #7ECEFD;
 $textColour:         #FFF6E5;
 $attentionColour:    #FF7F66;
+$shadowColour:       rgba(0, 0, 0, 0.25);
+
 $normalFont:         'Lato', sans-serif;
 $boldFont:           'Lato', sans-serif;
+
+$letterSpacing:     0.1em;
+
+$innerWidth:         600px;
+
+$smallButtonSize:    60px;
+$largeButtonSize:    80px;
+
+$defaultPadding:     10px;
+
+
+
+// ================ MIXINS ======================
+
+@mixin mobileBreakpoint {
+	@media screen and (max-width: 570px) {
+		@content;
+	}
+}
+
+@mixin keyframes($animation-name) {
+	@-webkit-keyframes $animation-name {
+		@content;
+	}
+
+	@-moz-keyframes $animation-name {
+		@content;
+	}
+
+	@-ms-keyframes $animation-name {
+		@content;
+	}
+
+	@-o-keyframes $animation-name {
+		@content;
+	}
+
+	@keyframes $animation-name {
+		@content;
+	}
+}
+
+@mixin animation($str) {
+	-webkit-animation: #{$str};
+	-moz-animation:    #{$str};
+	-ms-animation:     #{$str};
+	-o-animation:      #{$str};
+	animation:         #{$str};
+}
+
+@mixin transition($args...) {
+	-webkit-transition: $args;
+	-moz-transition:    $args;
+	-ms-transition:     $args;
+	-o-transition:      $args;
+	transition:         $args;
+}
+
+@mixin box-shadow($args...) {
+	-webkit-box-shadow: $args;
+	-moz-box-shadow:    $args;
+	-ms-box-shadow:     $args;
+	-o-box-shadow:      $args;
+	box-shadow:         $args;
+}
+
+@mixin transform($transforms) {
+	-webkit-transform: $transforms;
+	-moz-transform:    $transforms;
+	-ms-transform:     $transforms;
+	-o-transform:      $transforms;
+	transform:         $transforms;
+}
+
+@mixin flexbox() {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+}
+
+@mixin flex($values) {
+	-webkit-box-flex: $values;
+	-moz-box-flex:    $values;
+	-webkit-flex:     $values;
+	-ms-flex:         $values;
+	flex:             $values;
+}
+
+
+
+// ================ MAIN ======================
 
 html, body {
 	height: 100%;
@@ -14,7 +111,7 @@ body {
 	background: $backgroundColour;
 	color: $textColour;
 	font-family: $normalFont;
-	letter-spacing: 0.1em;
+	letter-spacing: $letterSpacing;
 
 	h1, h2, h3, h4, h5 {
 		font-weight: bold;
@@ -25,7 +122,7 @@ body {
 		cursor: pointer;
 		padding: 0;
 		font-family: $normalFont;
-		letter-spacing: 0.1em;
+		letter-spacing: $letterSpacing;
 	}
 
 	.selfClearing {
@@ -44,7 +141,6 @@ body {
 		display: block;
 		min-height: 100%;
 		width: 100%;
-		// position: absolute;
 	}
 
 	#controlsArea {
@@ -55,49 +151,59 @@ body {
 		z-index: 20;
 
 		#controls {
-			color: #FFF;
+			color: $textColour;
 			background: $controlsColour;
 			max-height: 0;
 			overflow: hidden;
-			transition: all 1s;
-			box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+			@include transition(all 1s);
+			@include box-shadow(0px 5px 10px 0px $shadowColour);
 
 			&.active {
-				max-height: 500px;
+				max-height: 800px;
 			}
 
 			.inner {
-				padding: 20px 20px 40px;
-				max-width: 600px;
+				padding: ($defaultPadding * 2) ($defaultPadding * 2) ($defaultPadding * 4);
+				max-width: $innerWidth;
 				margin: 0 auto;
 
 				p {
-					margin-bottom: 15px;
+					margin-bottom: ($defaultPadding * 1.5);
 					line-height: 1.4em;
 				}
 
 				.filter {
-					margin-top: 30px;
+					margin-top: ($defaultPadding * 3);
+
+					@include mobileBreakpoint {
+						@include flexbox();
+						justify-content: center;
+						flex-flow: row wrap;
+
+						button {
+							margin-bottom: $defaultPadding;
+						}
+					}
 
 					button {
-						width: 60px;
-						height: 60px;
+						width: $smallButtonSize;
+						height: $smallButtonSize;
 						background: $controlsColour;
 						color: $textColour;
 						border: none;
-						transition: all 0.5s;
-						margin-right: 10px;
+						@include transition(all 0.5s);
+						margin-right: $defaultPadding;
 
 						&:hover {
 							background: $activeColour;
 							color: $controlsColour;
-							box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+							@include box-shadow( 0px 3px 10px 0px $shadowColour);
 						}
 
 						&.active {
 							background: $attentionColour;
 							color: $textColour;
-							box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+							@include box-shadow(0px 3px 10px 0px $shadowColour);
 						}
 
 						&:last-child {
@@ -106,13 +212,17 @@ body {
 					}
 
 					&.large button {
-						width: 80px;
-						height: 80px;
+						width: $largeButtonSize;
+						height: $largeButtonSize;
 
 						.fa {
 							display: block;
-							margin-bottom: 10px;
+							margin-bottom: $defaultPadding;
 						}
+					}
+
+					&.small button {
+						font-size: 0.7em;
 					}
 				}
 			}
@@ -120,27 +230,28 @@ body {
 
 		#controlsToggle {
 			$toggleWidth: 150px;
+			$toggleHeight: 45px;
 
 			width: $toggleWidth;
-			height: 45px;
+			height: $toggleHeight;
 			position: relative;
 			left: 50%;
 			margin-left: -0.5 * $toggleWidth;
 			background: $controlsColour;
 			color: $textColour;
 			border: none;
-			transition: all 0.5s;
-			box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+			@include transition(all 0.5s);
+			@include box-shadow(0px 5px 10px 0px $shadowColour);
 
 			.fa {
-				margin-right: 10px;
+				margin-right: $defaultPadding;
 				font-size: 1.2em;
-				transition: all 0.3s;
+				@include transition(all 0.3s);
 			}
 
 			&.active {
 				.fa {
-					transform: rotate(180deg);
+					@include transform(rotate(180deg));
 				}
 			}
 		}
@@ -148,11 +259,11 @@ body {
 
 	#results {
 		margin: 55px 5px 70px;
-		display: flex;
+		@include flexbox();
 		flex-wrap: wrap;
 		justify-content: center;
 
-		@media screen and (max-width: 570px) {
+		@include mobileBreakpoint {
 			margin-bottom: 15px;
 		}
 
@@ -164,9 +275,9 @@ body {
 			float: left;
 			width: $filmWidth;
 			height: $filmHeight;
-			flex: none;
-			margin: 7px; /* 10px; */
-			@media screen and (max-width: 570px) {
+			@include flex(none);
+			margin: 7px; /* $defaultPadding; */
+			@include mobileBreakpoint {
 				margin: 4px;
 			}
 
@@ -175,20 +286,20 @@ body {
 				width: $filmWidth;
 				height: $filmHeight;
 				position: relative;
-				transition: all 0.5s;
+				@include transition(all 0.5s);
 				transform-style: preserve-3d;
-				box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+				@include box-shadow(0px 5px 10px 0px $shadowColour);
 			}
 
 			&:hover .flipper {
-				transform: rotateY(180deg);
+				@include transform(rotateY(180deg));
 			}
 
 			.poster {
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;
-				background-color: #AAA;
+				background-color: $textColour;
 				display: block;
 				width: 100%;
 				height: 100%;
@@ -205,12 +316,12 @@ body {
 				width: 100%;
 				height: 100%;
 				overflow: hidden;
-				transform: rotateY(180deg);
+				@include transform(rotateY(180deg));
 				backface-visibility: hidden;
 
 				.inner {
-					padding: 10px;
-					display: flex;
+					padding: $defaultPadding;
+					@include flexbox();
 					flex-wrap: wrap;
 					height: 100%;
 
@@ -223,18 +334,17 @@ body {
 					}
 
 					.showings {
-						// height: 138px;
-						// overflow: hidden;
+						max-height: 138px;
 						align-self: center;
 						width: 100%;
 
 						.showing {
-							margin-bottom: 10px;
+							margin-bottom: $defaultPadding;
 							font-size: 0.8em;
-							letter-spacing: 0.1em;
+							letter-spacing: $letterSpacing;
 
 							h2 {
-								margin-bottom: 0.2em;
+								margin-bottom: ($letterSpacing * 2);
 							}
 						}
 					}
@@ -242,19 +352,19 @@ body {
 					.attributes {
 						align-self: flex-end;
 						width: 100%;
-						padding-bottom: 10px;
+						padding-bottom: $defaultPadding;
 
 						.attribute {
 							display: block;
 							float: left;
 							text-align: center;
-							padding: 10px 0;
+							padding: $defaultPadding 0;
 							width: 32%;
-							letter-spacing: 0.05em;
+							letter-spacing: ($letterSpacing / 2);
 
 							.fa {
 								display: block;
-								margin-bottom: 5px;
+								margin-bottom: ($defaultPadding / 2);
 							}
 						}
 
@@ -279,26 +389,26 @@ body {
 		bottom: 0;
 		text-align: center;
 		font-size: 3em;
-		display: flex;
+		@include flexbox();
 		align-items: center;
 		justify-content: center;
-		text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+		text-shadow: 0px 5px 10px $shadowColour;
 	}
 
 	.spin {
-		-webkit-animation: spin 2s infinite ease;
+		@include animation(spin 5s infinite ease);
 	}
 
 	footer {
 		background: $controlsColour;
-		padding: 12px 0;
+		padding: $defaultPadding 0;
 		text-align: center;
 		font-size: 0.7em;
 		position: fixed;
 		bottom: 0;
 		width: 100%;
 		line-height: 1.7em;
-		box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25);
+		@include box-shadow(0px -5px 10px 0px $shadowColour);
 
 		a:link, a:visited, a:hover, a:active {
 			color: $attentionColour;
@@ -311,16 +421,16 @@ body {
 		}
 
 		.divider {
-			margin: 0 5px;
+			margin: 0 ($defaultPadding / 2);
 			color: $activeColour;
 		}
 
 		.tmdb {
 			display: block;
-			padding: 0 20px;
+			padding: 0 ($defaultPadding * 2);
 		}
 
-		@media screen and (max-width: 570px) {
+		@include mobileBreakpoint {
 			position: static;
 
 			.divider {
@@ -334,7 +444,7 @@ body {
 	}
 }
 
-@-webkit-keyframes spin {
-	0%   { transform: rotateY(0deg); }
-	100% { transform: rotateY(360deg); }
+@include keyframes(spin) {
+	0%   { @include transform(rotateY(0deg)); }
+	100% { @include transform(rotateY(360deg)); }
 }

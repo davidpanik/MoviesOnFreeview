@@ -33,14 +33,22 @@ body {
     width: 100%;
     z-index: 20; }
     body #controlsArea #controls {
-      color: #FFF;
+      color: #FFF6E5;
       background: #2185C5;
       max-height: 0;
       overflow: hidden;
+      -webkit-transition: all 1s;
+      -moz-transition: all 1s;
+      -ms-transition: all 1s;
+      -o-transition: all 1s;
       transition: all 1s;
+      -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+      -moz-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+      -ms-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+      -o-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
       box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25); }
       body #controlsArea #controls.active {
-        max-height: 500px; }
+        max-height: 800px; }
       body #controlsArea #controls .inner {
         padding: 20px 20px 40px;
         max-width: 600px;
@@ -50,21 +58,44 @@ body {
           line-height: 1.4em; }
         body #controlsArea #controls .inner .filter {
           margin-top: 30px; }
+          @media screen and (max-width: 570px) {
+            body #controlsArea #controls .inner .filter {
+              display: -webkit-box;
+              display: -moz-box;
+              display: -ms-flexbox;
+              display: -webkit-flex;
+              display: flex;
+              justify-content: center;
+              flex-flow: row wrap; }
+              body #controlsArea #controls .inner .filter button {
+                margin-bottom: 10px; } }
           body #controlsArea #controls .inner .filter button {
             width: 60px;
             height: 60px;
             background: #2185C5;
             color: #FFF6E5;
             border: none;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            -ms-transition: all 0.5s;
+            -o-transition: all 0.5s;
             transition: all 0.5s;
             margin-right: 10px; }
             body #controlsArea #controls .inner .filter button:hover {
               background: #7ECEFD;
               color: #2185C5;
+              -webkit-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+              -moz-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+              -ms-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+              -o-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
               box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25); }
             body #controlsArea #controls .inner .filter button.active {
               background: #FF7F66;
               color: #FFF6E5;
+              -webkit-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+              -moz-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+              -ms-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
+              -o-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
               box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25); }
             body #controlsArea #controls .inner .filter button:last-child {
               margin-right: none; }
@@ -74,6 +105,8 @@ body {
             body #controlsArea #controls .inner .filter.large button .fa {
               display: block;
               margin-bottom: 10px; }
+          body #controlsArea #controls .inner .filter.small button {
+            font-size: 0.7em; }
     body #controlsArea #controlsToggle {
       width: 150px;
       height: 45px;
@@ -83,16 +116,36 @@ body {
       background: #2185C5;
       color: #FFF6E5;
       border: none;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
+      -ms-transition: all 0.5s;
+      -o-transition: all 0.5s;
       transition: all 0.5s;
+      -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+      -moz-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+      -ms-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+      -o-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
       box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25); }
       body #controlsArea #controlsToggle .fa {
         margin-right: 10px;
         font-size: 1.2em;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        -o-transition: all 0.3s;
         transition: all 0.3s; }
       body #controlsArea #controlsToggle.active .fa {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
         transform: rotate(180deg); }
   body #results {
     margin: 55px 5px 70px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
     flex-wrap: wrap;
     justify-content: center; }
@@ -105,9 +158,13 @@ body {
       float: left;
       width: 165px;
       height: 248px;
+      -webkit-box-flex: none;
+      -moz-box-flex: none;
+      -webkit-flex: none;
+      -ms-flex: none;
       flex: none;
       margin: 7px;
-      /* 10px; */ }
+      /* $defaultPadding; */ }
       @media screen and (max-width: 570px) {
         body #results .film {
           margin: 4px; } }
@@ -116,16 +173,28 @@ body {
         width: 165px;
         height: 248px;
         position: relative;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        -o-transition: all 0.5s;
         transition: all 0.5s;
         transform-style: preserve-3d;
+        -webkit-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+        -moz-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+        -ms-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+        -o-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
         box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25); }
       body #results .film:hover .flipper {
+        -webkit-transform: rotateY(180deg);
+        -moz-transform: rotateY(180deg);
+        -ms-transform: rotateY(180deg);
+        -o-transform: rotateY(180deg);
         transform: rotateY(180deg); }
       body #results .film .poster {
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
-        background-color: #AAA;
+        background-color: #FFF6E5;
         display: block;
         width: 100%;
         height: 100%;
@@ -140,10 +209,18 @@ body {
         width: 100%;
         height: 100%;
         overflow: hidden;
+        -webkit-transform: rotateY(180deg);
+        -moz-transform: rotateY(180deg);
+        -ms-transform: rotateY(180deg);
+        -o-transform: rotateY(180deg);
         transform: rotateY(180deg);
         backface-visibility: hidden; }
         body #results .film .detail .inner {
           padding: 10px;
+          display: -webkit-box;
+          display: -moz-box;
+          display: -ms-flexbox;
+          display: -webkit-flex;
           display: flex;
           flex-wrap: wrap;
           height: 100%; }
@@ -154,6 +231,7 @@ body {
             align-self: flex-start;
             width: 100%; }
           body #results .film .detail .inner .showings {
+            max-height: 138px;
             align-self: center;
             width: 100%; }
             body #results .film .detail .inner .showings .showing {
@@ -188,21 +266,33 @@ body {
     bottom: 0;
     text-align: center;
     font-size: 3em;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
     align-items: center;
     justify-content: center;
     text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25); }
   body .spin {
-    -webkit-animation: spin 2s infinite ease; }
+    -webkit-animation: spin 5s infinite ease;
+    -moz-animation: spin 5s infinite ease;
+    -ms-animation: spin 5s infinite ease;
+    -o-animation: spin 5s infinite ease;
+    animation: spin 5s infinite ease; }
   body footer {
     background: #2185C5;
-    padding: 12px 0;
+    padding: 10px 0;
     text-align: center;
     font-size: 0.7em;
     position: fixed;
     bottom: 0;
     width: 100%;
     line-height: 1.7em;
+    -webkit-box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25);
+    -ms-box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25);
+    -o-box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25);
     box-shadow: 0px -5px 10px 0px rgba(0, 0, 0, 0.25); }
     body footer a:link, body footer a:visited, body footer a:hover, body footer a:active {
       color: #FF7F66;
@@ -226,7 +316,75 @@ body {
 
 @-webkit-keyframes spin {
   0% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
     transform: rotateY(0deg); }
 
   100% {
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    transform: rotateY(360deg); } }
+
+@-moz-keyframes spin {
+  0% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    transform: rotateY(0deg); }
+
+  100% {
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    transform: rotateY(360deg); } }
+
+@-ms-keyframes spin {
+  0% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    transform: rotateY(0deg); }
+
+  100% {
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    transform: rotateY(360deg); } }
+
+@-o-keyframes spin {
+  0% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    transform: rotateY(0deg); }
+
+  100% {
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    transform: rotateY(360deg); } }
+
+@keyframes spin {
+  0% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    transform: rotateY(0deg); }
+
+  100% {
+    -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
     transform: rotateY(360deg); } }

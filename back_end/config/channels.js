@@ -3,7 +3,8 @@ module.exports = {
 		freview_id: 101,
 		sky_id:     2082,
 		title:      'BBC One ScotHD',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'scotland'
 	},
 	1626: {
 		freview_id: 104,
@@ -280,25 +281,29 @@ module.exports = {
 		freview_id: 951,
 		sky_id:     2004,
 		title:      'BBC One Scot',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'scotland'
 	},
 	2003: {
 		freview_id: 952,
 		sky_id:     2003,
 		title:      'BBC One Wales',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'wales'
 	},
 	2005: {
 		freview_id: 953,
 		sky_id:     2005,
 		title:      'BBC One NI',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'nireland'
 	},
 	2002: {
 		freview_id: 954,
 		sky_id:     2002,
 		title:      'BBC One Lon',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'england'
 	},
 	2155: {
 		freview_id: 955,
@@ -388,25 +393,29 @@ module.exports = {
 		freview_id: 969,
 		sky_id:     2006,
 		title:      'BBC Two Eng',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'england'
 	},
 	2016: {
 		freview_id: 970,
 		sky_id:     2016,
 		title:      'BBC Two Scot',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'scotland'
 	},
 	2015: {
 		freview_id: 971,
 		sky_id:     2015,
 		title:      'BBC Two Wales',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'wales'
 	},
 	2017: {
 		freview_id: 972,
 		sky_id:     2017,
 		title:      'BBC Two NI',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'nireland'
 	},
 	6000: {
 		freview_id: 973,
@@ -430,6 +439,7 @@ module.exports = {
 		freview_id: 976,
 		sky_id:     2076,
 		title:      'BBC One HD',
-		family:     'bbc'
+		family:     'bbc',
+		region:     'england'
 	}
 };

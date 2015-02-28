@@ -21,7 +21,7 @@ module.exports = function(runImmediately) {
 		'00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
 		updateData,
 		runImmediately // Run the job immediately?
-	)
+	);
 };
 
 function updateData() {
@@ -49,7 +49,7 @@ function getCurrentData() {
 	return deferred.promise;
 }
 
-function removeOldData() {	
+function removeOldData() {
 	var deferred = Q.defer();
 
 	log('Remove old data');

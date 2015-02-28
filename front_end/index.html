@@ -33,12 +33,13 @@
 						<p>Use the filters below to narrow down the ones you want to watch.</p>
 
 						<div class="filter large">
-							<button ng-click="currentFilter = 'sort';"     ng-class="{active: currentFilter === 'sort'}    "><span class="fa fa-sort-amount-asc fa-2x"></span>Sort</button>
-							<button ng-click="currentFilter = 'score';"    ng-class="{active: currentFilter === 'score'}   "><span class="fa fa-star-o fa-2x"></span>Score</button>
-							<button ng-click="currentFilter = 'duration';" ng-class="{active: currentFilter === 'duration'}"><span class="fa fa-clock-o fa-2x"></span>Duration</button>
-							<button ng-click="currentFilter = 'channels';" ng-class="{active: currentFilter === 'channels'}"><span class="fa fa-film fa-2x"></span>Channels</button>
-							<button ng-click="currentFilter = 'day';"      ng-class="{active: currentFilter === 'day'}     "><span class="fa fa-calendar fa-2x"></span>Day</button>
-							<button ng-click="currentFilter = 'decade';"   ng-class="{active: currentFilter === 'decade'}  "><span class="fa fa-calendar-o fa-2x"></span>Released</button>
+							<button ng-click="currentFilter = 'sort';"     ng-class="{active: currentFilter === 'sort'}    " title="Order that films appear on the page"><span class="fa fa-sort-amount-asc fa-2x"></span>Sort</button>
+							<button ng-click="currentFilter = 'score';"    ng-class="{active: currentFilter === 'score'}   " title="Minimum average user score"><span class="fa fa-star-o fa-2x"></span>Score</button>
+							<!-- <button ng-click="currentFilter = 'duration';" ng-class="{active: currentFilter === 'duration'}" title="Minimum duration in hours"><span class="fa fa-clock-o fa-2x"></span>Duration</button> -->
+							<button ng-click="currentFilter = 'channels';" ng-class="{active: currentFilter === 'channels'}" title="Which channel families to include"><span class="fa fa-film fa-2x"></span>Channels</button>
+							<button ng-click="currentFilter = 'day';"      ng-class="{active: currentFilter === 'day'}     " title="When the film is on TV"><span class="fa fa-calendar fa-2x"></span>Day</button>
+							<button ng-click="currentFilter = 'decade';"   ng-class="{active: currentFilter === 'decade'}  " title="Decade that the film was released"><span class="fa fa-calendar-o fa-2x"></span>Released</button>
+							<button ng-click="currentFilter = 'region';"   ng-class="{active: currentFilter === 'region'}  " title="Your viewing region"><span class="fa fa-map-marker fa-2x"></span>Region</button>
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'sort';">
@@ -58,13 +59,13 @@
 							<button ng-click="filters.minScore = 10;" ng-class="{active: filters.minScore === 10}">10</button>
 						</div class="filter">
 
-						<div class="filter" ng-show="currentFilter === 'duration';">
+<!-- 						<div class="filter" ng-show="currentFilter === 'duration';">
 							<button ng-click="filters.minDuration = 0;"  ng-class="{active: filters.minDuration === 0}"><span class="fa fa-chevron-left fa-1"></span></button>
 							<button ng-click="filters.minDuration = 1;"  ng-class="{active: filters.minDuration === 1}">1</button>
 							<button ng-click="filters.minDuration = 2;"  ng-class="{active: filters.minDuration === 2}">2</button>
 							<button ng-click="filters.minDuration = 3;"  ng-class="{active: filters.minDuration === 3}">3</button>
 							<button ng-click="filters.minDuration = 9;"  ng-class="{active: filters.minDuration === 9}"><span class="fa fa-chevron-right fa-1"></span></button>
-						</div>
+						</div> -->
 
 						<div class="filter" ng-show="currentFilter === 'channels';">
 							<button ng-click="toggleFilter('channels', 'bbc');"   ng-class="{active: filters.channels['bbc'  ]}">BBC</button>
@@ -88,6 +89,13 @@
 							<button ng-click="toggleFilter('decades', '90');" ng-class="{active: filters.decades['90']}">90s</button>
 							<button ng-click="toggleFilter('decades', '00');" ng-class="{active: filters.decades['00']}">00s</button>
 							<button ng-click="toggleFilter('decades', '10');" ng-class="{active: filters.decades['10']}">10s</button>
+						</div>
+
+						<div class="filter small" ng-show="currentFilter === 'region';">
+							<button ng-click="filters.region = 'england' ;" ng-class="{active: filters.region === 'england' }">England</button>
+							<button ng-click="filters.region = 'nireland';" ng-class="{active: filters.region === 'nireland'}">N.Ireland</button>
+							<button ng-click="filters.region = 'scotland';" ng-class="{active: filters.region === 'scotland'}">Scotland</button>
+							<button ng-click="filters.region = 'wales'   ;" ng-class="{active: filters.region === 'wales'   }">Wales</button>
 						</div>
 					</div>
 				</div>
