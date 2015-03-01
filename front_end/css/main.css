@@ -280,6 +280,12 @@ body {
     -ms-animation: spin 5s infinite ease;
     -o-animation: spin 5s infinite ease;
     animation: spin 5s infinite ease; }
+  body .fade {
+    -webkit-animation: fade 2s 1 ease;
+    -moz-animation: fade 2s 1 ease;
+    -ms-animation: fade 2s 1 ease;
+    -o-animation: fade 2s 1 ease;
+    animation: fade 2s 1 ease; }
   body footer {
     background: #2185C5;
     padding: 10px 0;
@@ -388,3 +394,38 @@ body {
     -ms-transform: rotateY(360deg);
     -o-transform: rotateY(360deg);
     transform: rotateY(360deg); } }
+
+@-webkit-keyframes fade {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@-moz-keyframes fade {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@-ms-keyframes fade {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@-o-keyframes fade {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@keyframes fade {
+  0% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }

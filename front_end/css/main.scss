@@ -399,6 +399,10 @@ body {
 		@include animation(spin 5s infinite ease);
 	}
 
+	.fade {
+		@include animation(fade 2s 1 ease);
+	}
+
 	footer {
 		background: $controlsColour;
 		padding: $defaultPadding 0;
@@ -447,4 +451,9 @@ body {
 @include keyframes(spin) {
 	0%   { @include transform(rotateY(0deg)); }
 	100% { @include transform(rotateY(360deg)); }
+}
+
+@include keyframes(fade) {
+	0%   { opacity: 0; }
+	100% { opacity: 1; }
 }
