@@ -117,7 +117,7 @@
 								<h1>{{film.title}}</h1>
 
 								<div class="showings">
-									<div ng-repeat="showing in film.showings | orderBy:timestamp" class="showing">
+									<div ng-repeat="showing in film.filteredShowings | orderBy:timestamp" class="showing">
 										<h2>{{channels[showing.channel].title}}</h2>
 										{{showing.date}} - {{showing.start}}
 									</div>

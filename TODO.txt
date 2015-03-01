@@ -6,8 +6,6 @@ Delete some of the shittier channels
 FRONT-END
 Add detail view? - Description, trailer link
 Initial instructions?
-Add filter function for BBC region
-Get a fresh data file build
 Remember filter settings
 Add fade-in effect for movies
 Add ARIA tags and accessibility stuff

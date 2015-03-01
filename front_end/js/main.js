@@ -129,10 +129,25 @@
 				if (filters.decades['10'] && film.year >= 2010) yearMatch = true;
 				if (!yearMatch) continue;
 
-				// Filter against channels
-				var channelMatch = false;
+				// Filter by region
+				film.filteredShowings = [];
 				for (var z = 0, length = film.showings.length; z < length; z++) {
 					var channel = channels[parseInt(film.showings[z].channel)];
+
+					if (
+						(!channel.exclude && !channel.include) ||
+						(channel.exclude && channel.exclude !== filters.region) ||
+						(channel.include && channel.include === filters.region)
+					) {
+						film.filteredShowings.push(film.showings[z]);
+					}
+				}
+				if (film.filteredShowings.length < 1) continue;
+
+				// Filter against channels
+				var channelMatch = false;
+				for (var z = 0, length = film.filteredShowings.length; z < length; z++) {
+					var channel = channels[parseInt(film.filteredShowings[z].channel)];
 
 					if (filters.channels[channel.family]) {
 						channelMatch = true;
@@ -143,8 +158,8 @@
 				// Filter against days
 				if (filters.day !== '7days') {
 					var dayMatch = false;
-					for (var z = 0, length = film.showings.length; z < length; z++) {
-						var date = film.showings[z].date;
+					for (var z = 0, length = film.filteredShowings.length; z < length; z++) {
+						var date = film.filteredShowings[z].date;
 
 						if (filters.day === 'today' && date === today) {
 							dayMatch = true;
