@@ -42,9 +42,9 @@
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'sort';">
-							<button ng-click="predicate = 'title'; reverse = false;" ng-class="{active: predicate === 'title'}">A-Z</button>
-							<button ng-click="predicate = 'score'; reverse = true;"  ng-class="{active: predicate === 'score'}">Score</button>
-							<button ng-click="predicate = 'year';  reverse = true;"  ng-class="{active: predicate === 'year' }">Newest</button>
+							<button ng-click="sort.predicate = 'title'; sort.reverse = false;" ng-class="{active: sort.predicate === 'title'}">A-Z</button>
+							<button ng-click="sort.predicate = 'score'; sort.reverse = true;"  ng-class="{active: sort.predicate === 'score'}">Score</button>
+							<button ng-click="sort.predicate = 'year';  sort.reverse = true;"  ng-class="{active: sort.predicate === 'year' }">Newest</button>
 						</div>
 
 						<div class="filter" ng-show="currentFilter === 'score';">
@@ -107,7 +107,7 @@
 			<div ng-show="!loaded && !error" id="loading" class="fillPage spin">Loading</div>
 
 			<div id="results" class="selfClearing" ng-show="loaded && !error" ng-cloak>
-				<div ng-repeat="film in filtered = (films | orderBy:predicate:reverse | filmsFilter:this.filters:this.channels)" class="film">
+				<div ng-repeat="film in filtered = (films | orderBy:sort.predicate:sort.reverse | filmsFilter:this.filters:this.channels)" class="film">
 					<div class="flipper">
 						<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster"></div>
 
@@ -150,7 +150,8 @@
 			<span class="tmdb">This product uses the <a href="https://www.themoviedb.org/documentation/api" target="_blank">TMDb API</a> but is not endorsed or certified by TMDb</span>
 		</footer>
 
-		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular-cookies.js"></script>
 		<script src="./js/vendor/moment.js"></script>
 		<script src="./js/main.js"></script>
 	</body>

@@ -1,8 +1,8 @@
 (function(){
 	var tmdbKey = '4ee6a6462853a06d1df79d91c177dfea';
 
-	angular.module('myapp', [])
-	.controller('MyController', function($scope, $http) {
+	angular.module('myapp', ['ngCookies'])
+	.controller('MyController', function($scope, $http, $cookieStore) {
 		$scope.loaded    = false;
 		$scope.error     = false;
 		$scope.errorMessage = 'Something has gone wrong';
@@ -13,40 +13,56 @@
 
 		$scope.baseUrl   = '';
 
-		$scope.predicate = 'title';
-		$scope.reverse   = false;
-
 		$scope.currentFilter = 'sort';
 
-		$scope.filters = {
-			minScore: 6,
-			maxScore: 10,
+		if ($cookieStore.get('userSortPreference')) {
+			$scope.sort = $cookieStore.get('userSortPreference');
+		} else {		
+			$scope.sort = {
+				predicate:  'title',
+				reverse:    false
+			};
+		}
 
-			minDuration: 1,
-			maxDuration: 10,
+		if ($cookieStore.get('userFilterPreferences')) {
+			$scope.filters = $cookieStore.get('userFilterPreferences');
+		} else {
+			$scope.filters = {
+				minScore: 6,
+				maxScore: 10,
 
-			channels: {
-				'bbc'  : true,
-				'itv'  : true,
-				'four' : true,
-				'five' : true,
-				'other': false
-			},
-			day: '7days',
-			decades: {
-				'40': false,
-				'50': false,
-				'60': false,
-				'70': false,
-				'80': false,
-				'90': false,
-				'00': true,
-				'10': true
-			},
-			region: 'england'
-		};
+				minDuration: 1,
+				maxDuration: 10,
 
+				channels: {
+					'bbc'  : true,
+					'itv'  : true,
+					'four' : true,
+					'five' : true,
+					'other': false
+				},
+				day: '7days',
+				decades: {
+					'40': false,
+					'50': false,
+					'60': false,
+					'70': false,
+					'80': false,
+					'90': false,
+					'00': true,
+					'10': true
+				},
+				region: 'england'
+			};
+		}
 
+		$scope.$watch('sort', function() {
+			$cookieStore.put('userSortPreference', $scope.sort)
+		}, true);
+
+		$scope.$watch('filters', function() {
+			$cookieStore.put('userFilterPreferences', $scope.filters)
+		}, true);
 
 		$http.get('http://api.themoviedb.org/3/configuration?api_key=' + tmdbKey)
 		.success(function(data, status, headers, config) {
