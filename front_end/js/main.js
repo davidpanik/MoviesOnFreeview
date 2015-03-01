@@ -117,32 +117,6 @@
 				if (film.duration < filters.minDuration) continue;
 				if (film.duration > filters.maxDuration) continue;
 
-				// Filter against channels
-				var channelMatch = false;
-				for (var z in film.showings) {
-					var channel = parseInt(film.showings[z].channel);
-
-					if (filters.channels[channels[channel].family]) {
-						channelMatch = true;
-					}
-				}
-				if (!channelMatch) continue;
-
-				// Filter against days
-				if (filters.day !== '7days') {
-					var dayMatch = false;
-					for (var z in film.showings) {
-						var date = film.showings[z].date;
-
-						if (filters.day === 'today' && date === today) {
-							dayMatch = true;
-						} else if (filters.day === 'tomorrow' && date === tomorrow) {
-							dayMatch = true;
-						}
-					}
-					if (!dayMatch) continue;
-				}
-
 				// Filter against years
 				var yearMatch = false;
 				if (filters.decades['40'] && film.year >= 1940 && film.year <= 1949) yearMatch = true;
@@ -154,6 +128,32 @@
 				if (filters.decades['00'] && film.year >= 2000 && film.year <= 2009) yearMatch = true;
 				if (filters.decades['10'] && film.year >= 2010) yearMatch = true;
 				if (!yearMatch) continue;
+
+				// Filter against channels
+				var channelMatch = false;
+				for (var z = 0, length = film.showings.length; z < length; z++) {
+					var channel = channels[parseInt(film.showings[z].channel)];
+
+					if (filters.channels[channel.family]) {
+						channelMatch = true;
+					}
+				}
+				if (!channelMatch) continue;
+
+				// Filter against days
+				if (filters.day !== '7days') {
+					var dayMatch = false;
+					for (var z = 0, length = film.showings.length; z < length; z++) {
+						var date = film.showings[z].date;
+
+						if (filters.day === 'today' && date === today) {
+							dayMatch = true;
+						} else if (filters.day === 'tomorrow' && date === tomorrow) {
+							dayMatch = true;
+						}
+					}
+					if (!dayMatch) continue;
+				}
 
 				filteredFilms.push(film);
 			}
