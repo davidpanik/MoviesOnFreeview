@@ -1,34 +1,4 @@
 {
-    "runawayjury2003": {
-        "title": "Runaway Jury",
-        "description": "(2003) Gripping legal thriller. Gene Hackman, John Cusack, Dustin Hoffman and Rachel Weisz star in this adaptation of a John Grisham novel about a woman's attempt to sue a gun company.",
-        "duration": 2.5,
-        "showings": [
-            {
-                "channel": "1626",
-                "date": "28/02/15",
-                "timestamp": "1425164100000",
-                "start": "22:55"
-            },
-            {
-                "channel": "1675",
-                "date": "28/02/15",
-                "timestamp": "1425167700000",
-                "start": "23:55"
-            },
-            {
-                "channel": "4075",
-                "date": "28/02/15",
-                "timestamp": "1425164100000",
-                "start": "22:55"
-            }
-        ],
-        "year": "2003",
-        "score": 6.6,
-        "tmdb_id": 11329,
-        "poster": "/dWq7p5HmfZAphAMikFARr1cJ6IN.jpg",
-        "metadata": true
-    },
     "thewizardofoz1939": {
         "title": "The Wizard of Oz",
         "description": "(1939) Classic musical adventure. Judy Garland stars as Dorothy, the girl transported from Kansas to the magical realm of Oz. But can she evade the Wicked Witch and get back home?",
@@ -94,12 +64,6 @@
         "description": "(2013) Violent horror. Nell (Ashley Bell), the teen seemingly subject to satanic possession, is recovering from her previous ordeal. But some demons simply don't know when to stop...",
         "duration": 1.75,
         "showings": [
-            {
-                "channel": "1627",
-                "date": "28/02/15",
-                "timestamp": "1425165900000",
-                "start": "23:25"
-            },
             {
                 "channel": "1629",
                 "date": "01/03/15",
@@ -329,24 +293,6 @@
         "poster": "/bgSHbGEA1OM6qDs3Qba4VlSZsNG.jpg",
         "metadata": true
     },
-    "thebestexoticmarigoldhotel2011": {
-        "title": "The Best Exotic Marigold Hotel",
-        "description": "(2011) Comedy-drama. A varied group of Brits aim to retire in luxury in India. But things don't go to plan. With Judi Dench, Bill Nighy and Maggie Smith. Contains some offensive language.",
-        "duration": 2.42,
-        "showings": [
-            {
-                "channel": "1629",
-                "date": "28/02/15",
-                "timestamp": "1425160800000",
-                "start": "22:00"
-            }
-        ],
-        "year": "2011",
-        "score": 6.7,
-        "tmdb_id": 74534,
-        "poster": "/wLrzectexYKzo7dei1eubla5FW5.jpg",
-        "metadata": true
-    },
     "thunderbirds2004": {
         "title": "Thunderbirds",
         "description": "Action adventure tale starring Bill Paxton and Ben Kingsley. International Rescue's Tracy brothers face a new threat when they are lured away from their base. (2004)",
@@ -551,34 +497,10 @@
         "duration": 2.08,
         "showings": [
             {
-                "channel": "2006",
-                "date": "28/02/15",
-                "timestamp": "1425167700000",
-                "start": "23:55"
-            },
-            {
-                "channel": "2015",
-                "date": "28/02/15",
-                "timestamp": "1425167700000",
-                "start": "23:55"
-            },
-            {
                 "channel": "2016",
                 "date": "01/03/15",
                 "timestamp": "1425171000000",
                 "start": "00:50"
-            },
-            {
-                "channel": "2017",
-                "date": "28/02/15",
-                "timestamp": "1425167700000",
-                "start": "23:55"
-            },
-            {
-                "channel": "2075",
-                "date": "28/02/15",
-                "timestamp": "1425167700000",
-                "start": "23:55"
             }
         ],
         "year": "2009",
@@ -791,35 +713,11 @@
         "poster": "/AliSeCLFB6ZAkQIxosr8RAkFf6R.jpg",
         "metadata": true
     },
-    "spacecowboys1950": {
-        "title": "Space Cowboys",
-        "description": "Comedy drama starring Clint Eastwood and Tommy Lee Jones. A team of astronauts rejected by NASA in the 1950s find themselves in demand years later. (2000)",
-        "duration": 2.67,
-        "showings": [
-            {
-                "channel": "3027",
-                "date": "28/02/15",
-                "timestamp": "1425160800000",
-                "start": "22:00"
-            }
-        ],
-        "year": "2000",
-        "score": 6.6,
-        "tmdb_id": 5551,
-        "poster": "/3nXVQ0eHRML8xqnB2Mtz6zszYqP.jpg",
-        "metadata": true
-    },
     "brokenarrow1996": {
         "title": "Broken Arrow",
         "description": "Renegade pilot John Travolta steals nuclear warheads from the US military but doesn't count on his co-pilot Christian Slater spoiling his plan. (1996)",
         "duration": 2.17,
         "showings": [
-            {
-                "channel": "3220",
-                "date": "28/02/15",
-                "timestamp": "1425160800000",
-                "start": "22:00"
-            },
             {
                 "channel": "3541",
                 "date": "03/03/15",
@@ -843,12 +741,6 @@
                 "date": "01/03/15",
                 "timestamp": "1425168600000",
                 "start": "00:10"
-            },
-            {
-                "channel": "3541",
-                "date": "28/02/15",
-                "timestamp": "1425165000000",
-                "start": "23:10"
             }
         ],
         "year": "2014",
@@ -1097,24 +989,6 @@
         "poster": "/1UlrMyCza2xINltCyYgmAwQAx07.jpg",
         "metadata": true
     },
-    "hesjustnotthatintoyou2009": {
-        "title": "He's Just Not That Into You",
-        "description": "(2009) Kevin Kwapis's romcom about the relationships of a variety of Baltimore residents. Featuring Ginnifer Goodwin, Ben Affleck, Scarlett Johansson and Drew Barrymore. Strong language.",
-        "duration": 2.58,
-        "showings": [
-            {
-                "channel": "3300",
-                "date": "28/02/15",
-                "timestamp": "1425160800000",
-                "start": "22:00"
-            }
-        ],
-        "year": "2009",
-        "score": 5.9,
-        "tmdb_id": 10184,
-        "poster": "/edhRz4ESv4ElTA6wWfBMurwrQwJ.jpg",
-        "metadata": true
-    },
     "broadcastnews1988": {
         "title": "Broadcast News",
         "description": "Sparks fly between a female TV news channel boss and two male reporters (William Hurt and Albert Brooks) in this comedy. (1988)",
@@ -1137,30 +1011,6 @@
         "score": 0,
         "tmdb_id": 12626,
         "poster": "/lbuBF2FbPqFoMSIY8BsXNMMhctR.jpg",
-        "metadata": true
-    },
-    "harpoonreykjavikwhale2009": {
-        "title": "Reykjavik Whale Watching Massacre",
-        "description": "...Watching Massacre. Bleak, chilling terror. Tourists escape a whale watching trip that's taken a dark turn by hopping aboard an old whaling vessel, but soon discover further horrors. (2009)",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "3605",
-                "date": "28/02/15",
-                "timestamp": "1425163800000",
-                "start": "22:50"
-            },
-            {
-                "channel": "4502",
-                "date": "28/02/15",
-                "timestamp": "1425167400000",
-                "start": "23:50"
-            }
-        ],
-        "year": "2009",
-        "score": 0,
-        "tmdb_id": 30388,
-        "poster": "/rCZlRc8H4ngU1hGtRL45sDglPkQ.jpg",
         "metadata": true
     },
     "survivalofthedead2010": {
@@ -1332,12 +1182,6 @@
         "description": "The true story of three Americans hired to convince the Russian people to denounce Communism by stopping Boris Yeltsin's bid for Russian presidency. Stars Jeff Goldblum and Liev Schreiber. (2003)",
         "duration": 2,
         "showings": [
-            {
-                "channel": "3643",
-                "date": "28/02/15",
-                "timestamp": "1425164400000",
-                "start": "23:00"
-            },
             {
                 "channel": "3751",
                 "date": "03/03/15",
@@ -1562,30 +1406,6 @@
         "year": "1931",
         "score": 0,
         "metadata": false
-    },
-    "sniper32004": {
-        "title": "Sniper 3",
-        "description": "The US Marine Corps' deadliest sniper, Tom Berenger, must face the ultimate enemy, his best friend. (2004)",
-        "duration": 1.75,
-        "showings": [
-            {
-                "channel": "3708",
-                "date": "28/02/15",
-                "timestamp": "1425163200000",
-                "start": "22:40"
-            },
-            {
-                "channel": "3721",
-                "date": "28/02/15",
-                "timestamp": "1425166800000",
-                "start": "23:40"
-            }
-        ],
-        "year": "2004",
-        "score": 0,
-        "tmdb_id": 14247,
-        "poster": "/bEyOr4hVWVanjbYSLbGOWdRUCa0.jpg",
-        "metadata": true
     },
     "dirtymarycrazylarry1974": {
         "title": "Dirty Mary Crazy Larry",
@@ -1853,12 +1673,6 @@
         "duration": 1.92,
         "showings": [
             {
-                "channel": "3709",
-                "date": "28/02/15",
-                "timestamp": "1425165900000",
-                "start": "23:25"
-            },
-            {
                 "channel": "3771",
                 "date": "01/03/15",
                 "timestamp": "1425169500000",
@@ -2073,24 +1887,6 @@
         "poster": "/ngSlADVrKChhYJHURGCtUTiDUAS.jpg",
         "metadata": true
     },
-    "theoutsider": {
-        "title": "The Outsider",
-        "description": "A Western love story starring Naomi Watts. A young widower from a religious sect rejects her strict upbringing when she becomes romantically involved with a cold-blooded gunslinger.",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "3751",
-                "date": "28/02/15",
-                "timestamp": "1425164400000",
-                "start": "23:00"
-            }
-        ],
-        "year": "2014",
-        "score": 0,
-        "tmdb_id": 241765,
-        "poster": "/413N4Nz79YJVtjDgvftpwkO6ipm.jpg",
-        "metadata": true
-    },
     "bumpinthenight": {
         "title": "Bump In The Night",
         "description": "Christopher Reeve and Meredith Baxter star in this chilling drama. A former New York reporter must use her skills and resources when her son is kidnapped by a predatory child abuser.",
@@ -2237,40 +2033,6 @@
         "score": 0,
         "metadata": false
     },
-    "murderinthefirst1930": {
-        "title": "Murder in the First",
-        "description": "Based on a true story, this 1930s-set film follows the extraordinary relationship between an Alcatraz convict (Kevin Bacon) and a principled young lawyer (Christian Slater). (1995)",
-        "duration": 2.42,
-        "showings": [
-            {
-                "channel": "3771",
-                "date": "28/02/15",
-                "timestamp": "1425160800000",
-                "start": "22:00"
-            }
-        ],
-        "year": "1995",
-        "score": 1,
-        "tmdb_id": 8438,
-        "poster": "/iwtbXojI52FYbHjrIErDmvYPja5.jpg",
-        "metadata": true
-    },
-    "daniellesteelsaperfect1994": {
-        "title": "Danielle Steel's A Perfect...",
-        "description": "...Stranger. Raphaella had always been sheltered from the world. Married to a terminally ill millionaire, she is kept in the privacy of luxury until a lawyer notices her alone one misty evening (1994)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "4266",
-                "date": "28/02/15",
-                "timestamp": "1425164400000",
-                "start": "23:00"
-            }
-        ],
-        "year": "1994",
-        "score": 0,
-        "metadata": false
-    },
     "prisonofsecrets": {
         "title": "Prison of Secrets",
         "description": "The true story of a young mother who is sent to jail and forced into prostitution by the unscrupulous prison guards. With Stephanie Zimbalist (Remington Steele).",
@@ -2338,24 +2100,6 @@
         "year": "",
         "score": 0,
         "metadata": false
-    },
-    "noonecouldprotecther": {
-        "title": "No One Could Protect Her",
-        "description": "Based on a true story. Jessica Raynor's life is brutally shattered when she is raped in her own home. A riveting tale of one woman's fight to catch a killer. With Joanna Kerns (Growing Pains)",
-        "duration": 2,
-        "showings": [
-            {
-                "channel": "5338",
-                "date": "28/02/15",
-                "timestamp": "1425164400000",
-                "start": "23:00"
-            }
-        ],
-        "year": "1996",
-        "score": 0,
-        "tmdb_id": 245355,
-        "poster": null,
-        "metadata": true
     },
     "mayflowermadam1984": {
         "title": "Mayflower Madam",
@@ -2564,12 +2308,6 @@
         "description": "Adventure thriller starring Michael Caine and David Warner, 1980. A reporter is captured by a lost tribe of pirates who have been looting and pillaging since the 18th century.",
         "duration": 2.33,
         "showings": [
-            {
-                "channel": "6272",
-                "date": "28/02/15",
-                "timestamp": "1425167400000",
-                "start": "23:50"
-            },
             {
                 "channel": "6274",
                 "date": "01/03/15",
