@@ -1,15 +1,10 @@
 BACK-END
-Data file isn't updating on Heroku
-Delete some of the shittier channels
 
 
 FRONT-END
-Add detail view? - Description, trailer link
+Add Grunt
+Remove commented stuff
 Initial instructions?
-Add ARIA tags and accessibility stuff
-Add seo and meta tags
-Add social sharing stuff
-Add favicons
 
 
 COLOURS SCHEMES

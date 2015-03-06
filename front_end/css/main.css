@@ -1,6 +1,14 @@
 html, body {
   height: 100%; }
 
+.hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden; }
+
 body {
   background: #3E454C;
   color: #FFF6E5;
@@ -26,6 +34,10 @@ body {
     display: block;
     min-height: 100%;
     width: 100%; }
+  body #intro {
+    background: #2185C5;
+    padding: 10px;
+    text-align: center; }
   body #controlsArea {
     position: fixed;
     top: 0;
@@ -58,7 +70,7 @@ body {
           line-height: 1.4em; }
         body #controlsArea #controls .inner .filter {
           margin-top: 30px; }
-          @media screen and (max-width: 570px) {
+          @media screen and (max-width: 620px) {
             body #controlsArea #controls .inner .filter {
               display: -webkit-box;
               display: -moz-box;
@@ -81,7 +93,7 @@ body {
             -o-transition: all 0.5s;
             transition: all 0.5s;
             margin-right: 10px; }
-            body #controlsArea #controls .inner .filter button:hover {
+            body #controlsArea #controls .inner .filter button:hover, body #controlsArea #controls .inner .filter button:focus {
               background: #7ECEFD;
               color: #2185C5;
               -webkit-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.25);
@@ -141,7 +153,9 @@ body {
         -o-transform: rotate(180deg);
         transform: rotate(180deg); }
   body #results {
-    margin: 55px 5px 70px;
+    padding-top: 55px;
+    margin: 0 5px;
+    padding-bottom: 70px;
     display: -webkit-box;
     display: -moz-box;
     display: -ms-flexbox;
@@ -149,9 +163,9 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center; }
-    @media screen and (max-width: 570px) {
+    @media screen and (max-width: 620px) {
       body #results {
-        margin-bottom: 15px; } }
+        padding-bottom: 15px; } }
     body #results .film {
       /* 185px */
       display: block;
@@ -165,7 +179,7 @@ body {
       flex: none;
       margin: 7px;
       /* $defaultPadding; */ }
-      @media screen and (max-width: 570px) {
+      @media screen and (max-width: 620px) {
         body #results .film {
           margin: 4px; } }
       body #results .film .flipper {
@@ -184,7 +198,7 @@ body {
         -ms-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
         -o-box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
         box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25); }
-      body #results .film:hover .flipper {
+      body #results .film:hover .flipper, body #results .film:focus .flipper {
         -webkit-transform: rotateY(180deg);
         -moz-transform: rotateY(180deg);
         -ms-transform: rotateY(180deg);
@@ -225,8 +239,6 @@ body {
           flex-wrap: wrap;
           height: 100%; }
           body #results .film .detail .inner h1 {
-            height: 2.1em;
-            overflow: hidden;
             text-align: center;
             align-self: flex-start;
             width: 100%; }
@@ -304,7 +316,7 @@ body {
       color: #FF7F66;
       text-decoration: none;
       font-weight: bold; }
-    body footer a:hover, body footer a:active {
+    body footer a:hover, body footer a:active, body footer a:focus {
       text-decoration: underline; }
     body footer .divider {
       margin: 0 5px;
@@ -312,7 +324,7 @@ body {
     body footer .tmdb {
       display: block;
       padding: 0 20px; }
-    @media screen and (max-width: 570px) {
+    @media screen and (max-width: 620px) {
       body footer {
         position: static; }
         body footer .divider {

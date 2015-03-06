@@ -24,7 +24,7 @@ $defaultPadding:     10px;
 // ================ MIXINS ======================
 
 @mixin mobileBreakpoint {
-	@media screen and (max-width: 570px) {
+	@media screen and (max-width: 620px) {
 		@content;
 	}
 }
@@ -107,6 +107,15 @@ html, body {
 	height: 100%;
 }
 
+.hidden {
+	position:absolute;
+	left:-10000px;
+	top:auto;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+
 body {
 	background: $backgroundColour;
 	color: $textColour;
@@ -141,6 +150,12 @@ body {
 		display: block;
 		min-height: 100%;
 		width: 100%;
+	}
+
+	#intro {
+		background: $controlsColour;
+		padding: $defaultPadding;
+		text-align: center;
 	}
 
 	#controlsArea {
@@ -194,7 +209,7 @@ body {
 						@include transition(all 0.5s);
 						margin-right: $defaultPadding;
 
-						&:hover {
+						&:hover, &:focus {
 							background: $activeColour;
 							color: $controlsColour;
 							@include box-shadow( 0px 3px 10px 0px $shadowColour);
@@ -258,13 +273,15 @@ body {
 	}
 
 	#results {
-		margin: 55px 5px 70px;
+		padding-top: 55px;
+		margin: 0 5px;
+		padding-bottom: 70px;
 		@include flexbox();
 		flex-wrap: wrap;
 		justify-content: center;
 
 		@include mobileBreakpoint {
-			margin-bottom: 15px;
+			padding-bottom: 15px;
 		}
 
 		.film {
@@ -291,7 +308,7 @@ body {
 				@include box-shadow(0px 5px 10px 0px $shadowColour);
 			}
 
-			&:hover .flipper {
+			&:hover .flipper, &:focus .flipper {
 				@include transform(rotateY(180deg));
 			}
 
@@ -326,8 +343,6 @@ body {
 					height: 100%;
 
 					h1 {
-						height: 2.1em;
-						overflow: hidden;
 						text-align: center;
 						align-self: flex-start;
 						width: 100%;
@@ -420,7 +435,7 @@ body {
 			font-weight: bold;
 		}
 
-		a:hover, a:active {
+		a:hover, a:active, a:focus {
 			text-decoration: underline;
 		}
 

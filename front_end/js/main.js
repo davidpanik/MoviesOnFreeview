@@ -6,6 +6,7 @@
 		$scope.loaded    = false;
 		$scope.error     = false;
 		$scope.errorMessage = 'Something has gone wrong';
+		$scope.controlsActive = false;
 
 		$scope.films     = [];
 		$scope.filtered  = [];
@@ -17,7 +18,7 @@
 
 		if ($cookieStore.get('userSortPreference')) {
 			$scope.sort = $cookieStore.get('userSortPreference');
-		} else {		
+		} else {
 			$scope.sort = {
 				predicate:  'title',
 				reverse:    false
