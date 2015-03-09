@@ -5,7 +5,6 @@ Movies not updating on Heroku
 FRONT-END
 Add Grunt
 Remove commented stuff
-Register @moviesonfreeview Twitter account
 Work out hover/touch interaction on mobile
 
 
