@@ -7,6 +7,9 @@
 		$scope.error     = false;
 		$scope.errorMessage = 'Something has gone wrong';
 		$scope.controlsActive = false;
+		$scope.introVisible = $cookieStore.get('introDisplayed') === undefined;
+
+		$cookieStore.put('introDisplayed', 'true'); // Only show the intro message once
 
 		$scope.films     = [];
 		$scope.filtered  = [];

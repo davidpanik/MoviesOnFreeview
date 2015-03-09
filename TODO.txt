@@ -1,10 +1,12 @@
 BACK-END
+Movies not updating on Heroku
 
 
 FRONT-END
 Add Grunt
 Remove commented stuff
-Initial instructions?
+Register @moviesonfreeview Twitter account
+Work out hover/touch interaction on mobile
 
 
 COLOURS SCHEMES
