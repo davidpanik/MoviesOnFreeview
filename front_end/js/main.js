@@ -114,7 +114,26 @@
 			if (minutes.length < 2) minutes += '0';
 
 			return hours + ':' + minutes;
-		}
+		};
+
+		// $scope.touched = function() {
+		// 	alert('touched');
+		// };
+	})
+	.directive('blockTouch', function() {
+		return {
+			restrict: 'A',
+			link: function(scope, elm, attrs) {
+				// var ontouchFn = scope.$eval(attrs.onTouch);
+
+				elm.bind('touchend', function(evt) {
+					scope.$apply(function() {
+						// ontouchFn.call();
+						evt.preventDefault();
+					});
+				});
+			}
+		};
 	})
 	.filter('filmsFilter', function() {
 		return function(films, filters, channels) {
@@ -197,4 +216,4 @@
 		};
 	})
 ;
-}())
+}());

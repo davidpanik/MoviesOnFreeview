@@ -130,7 +130,7 @@
 			<div ng-show="!loaded && !error" id="loading" class="fillPage spin">Loading</div>
 
 			<div id="results" class="selfClearing" ng-show="loaded && !error" ng-cloak role="main">
-				<a ng-repeat="film in filtered = (films | orderBy:sort.predicate:sort.reverse | filmsFilter:this.filters:this.channels)" class="film fade" href="https://www.themoviedb.org/movie/{{film.tmdb_id}}" target="_blank">
+				<a ng-repeat="film in filtered = (films | orderBy:sort.predicate:sort.reverse | filmsFilter:this.filters:this.channels)" class="film fade" href="https://www.themoviedb.org/movie/{{film.tmdb_id}}" target="_blank" block-touch>
 					<div class="flipper">
 						<div style="background-image: url({{baseUrl}}w185{{film.poster}});" class="poster"></div>
 
