@@ -2,14 +2,14 @@
 	var tmdbKey = '4ee6a6462853a06d1df79d91c177dfea';
 
 	angular.module('myapp', ['ngCookies'])
-	.controller('MyController', function($scope, $http, $cookieStore) {
+	.controller('MyController', function($scope, $http, $cookies, $cookieStore) {
 		$scope.loaded    = false;
 		$scope.error     = false;
 		$scope.errorMessage = 'Something has gone wrong';
 		$scope.controlsActive = false;
-		$scope.introVisible = $cookieStore.get('introDisplayed') === undefined;
+		$scope.introVisible = $cookies.introDisplayed === undefined;
 
-		$cookieStore.put('introDisplayed', 'true'); // Only show the intro message once
+		$cookies.introDisplayed = true; // Only show the intro message once
 
 		$scope.films     = [];
 		$scope.filtered  = [];
@@ -19,8 +19,8 @@
 
 		$scope.currentFilter = 'sort';
 
-		if ($cookieStore.get('userSortPreference')) {
-			$scope.sort = $cookieStore.get('userSortPreference');
+		if ($cookies.userSortPreference !== undefined) {
+			$scope.sort = angular.fromJson($cookies.userSortPreference);
 		} else {
 			$scope.sort = {
 				predicate:  'title',
@@ -28,8 +28,8 @@
 			};
 		}
 
-		if ($cookieStore.get('userFilterPreferences')) {
-			$scope.filters = $cookieStore.get('userFilterPreferences');
+		if ($cookies.userFilterPreferences) {
+			$scope.filters = angular.fromJson($cookies.userFilterPreferences);
 		} else {
 			$scope.filters = {
 				minScore: 6,
@@ -61,11 +61,11 @@
 		}
 
 		$scope.$watch('sort', function() {
-			$cookieStore.put('userSortPreference', $scope.sort)
+			$cookies.userSortPreference = angular.toJson($scope.sort);
 		}, true);
 
 		$scope.$watch('filters', function() {
-			$cookieStore.put('userFilterPreferences', $scope.filters)
+			$cookies.userFilterPreferences = angular.toJson($scope.filters);
 		}, true);
 
 		$http.get('http://api.themoviedb.org/3/configuration?api_key=' + tmdbKey)

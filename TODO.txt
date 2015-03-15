@@ -6,7 +6,6 @@ FRONT-END
 Add Grunt
 Remove commented stuff
 Work out hover/touch interaction on mobile
-Cookies only lasting for session?
 
 
 COLOURS SCHEMES
