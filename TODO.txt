@@ -1,20 +1,11 @@
 BACK-END
-Movies not updating on Heroku
+Movies sometimes not updating on Heroku?
 
 
 FRONT-END
-Add Grunt
 Remove commented stuff
-Work out hover/touch interaction on mobile
-
-
-COLOURS SCHEMES
-https://color.adobe.com/Dream-color-theme-2233623/
-https://color.adobe.com/anggo-djago-color-theme-2691053/
-https://color.adobe.com/Flat-Design-Colors-color-theme-3602874/
-https://color.adobe.com/Salmon-on-Ice-color-theme-2291686/
-
-
+Look at improving hover/touch interaction on mobile
+Add more analytics
 
 
 USEFUL LINKS
