@@ -6,6 +6,8 @@ FRONT-END
 Remove commented stuff
 Look at improving hover/touch interaction on mobile
 Add more analytics
+TMDB scores sometimes not right - e.g. Carolina Moon and Last Night
+Touch interaction on iPhone are wrong
 
 
 USEFUL LINKS
