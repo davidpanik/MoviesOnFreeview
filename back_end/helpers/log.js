@@ -1,6 +1,6 @@
 var fileName   = 'back_end/data/log.txt';
 var verbose    = true;
-var writeFile  = false;
+var writeFile  = true;
 
 var file       = require('./file')(fileName);
 var moment     = require('moment');

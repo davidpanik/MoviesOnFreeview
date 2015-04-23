@@ -7,6 +7,7 @@ var log     = require('./helpers/log');
 var port = process.env.PORT || 5000;
 var frontEndDir  = 'front_end';
 var dataFile     = 'data/content.txt';
+var logFile      = 'data/log.txt';
 
 var channels = require('./config/channels');
 
@@ -14,6 +15,11 @@ module.exports = function(rootPath) {
 	// Serve up the main data file
 	express.get('/films.json', function(req, res){
 		res.sendFile(__dirname + '/' + dataFile);
+	});
+
+	// Serve up log file
+	express.get('/log.txt', function(req, res){
+		res.sendFile(__dirname + '/' + logFile);
 	});
 
 	// Serve up channels info
