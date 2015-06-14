@@ -1,523 +1,2672 @@
-08/02/15 11:44:53.29:   Forcing an update now
-08/02/15 11:44:53.29:   Get current data
-08/02/15 11:44:53.29:   Web server running on http://localhost:5000
-08/02/15 11:44:53.30:   Remove old data
-08/02/15 11:44:53.30:   A
-08/02/15 11:44:53.30:   B
-08/02/15 11:44:53.30:   C
-08/02/15 11:44:53.30:   Deleting this showing
-08/02/15 11:44:53.30:   1423180800000 | 1423353600000 | true
-08/02/15 11:44:53.30:   1
-08/02/15 11:44:53.30:   0
-08/02/15 11:44:53.30:   B
-08/02/15 11:44:53.30:   C
-08/02/15 11:44:53.30:   1422835200000 | 1423353600000 | true
-08/02/15 11:44:53.30:   Deleting this showing
-08/02/15 11:44:53.30:   1
-08/02/15 11:44:53.30:   Get films from sky
-08/02/15 11:44:53.30:   Retrieving new day
-08/02/15 11:44:53.30:   Getting day 201502080000
-08/02/15 11:44:53.30:   Getting channel 1626
-08/02/15 11:44:53.30:   0
-08/02/15 11:44:53.30:   Getting channel 1627
-08/02/15 11:44:53.30:   Getting channel 1628
-08/02/15 11:44:53.30:   Getting channel 1629
-08/02/15 11:44:53.30:   Getting channel 1675
-08/02/15 11:44:53.30:   Getting channel 1830
-08/02/15 11:44:53.30:   Getting channel 1832
-08/02/15 11:44:53.30:   Getting channel 1836
-08/02/15 11:44:53.30:   Getting channel 1839
-08/02/15 11:44:53.31:   Getting channel 2002
-08/02/15 11:44:53.31:   Getting channel 2003
-08/02/15 11:44:53.31:   Getting channel 2004
-08/02/15 11:44:53.31:   Getting channel 2005
-08/02/15 11:44:53.31:   Getting channel 2006
-08/02/15 11:44:53.31:   Getting channel 2015
-08/02/15 11:44:53.31:   Getting channel 2016
-08/02/15 11:44:53.31:   Getting channel 2017
-08/02/15 11:44:53.31:   Getting channel 2018
-08/02/15 11:44:53.31:   Getting channel 2061
-08/02/15 11:44:53.31:   Getting channel 2073
-08/02/15 11:44:53.31:   Getting channel 2074
-08/02/15 11:44:53.31:   Getting channel 2075
-08/02/15 11:44:53.31:   Getting channel 2076
-08/02/15 11:44:53.31:   Getting channel 2077
-08/02/15 11:44:53.31:   Getting channel 2082
-08/02/15 11:44:53.31:   Getting channel 2086
-08/02/15 11:44:53.31:   Getting channel 2101
-08/02/15 11:44:53.31:   Getting channel 2102
-08/02/15 11:44:53.31:   Getting channel 2103
-08/02/15 11:44:53.31:   Getting channel 2104
-08/02/15 11:44:53.31:   Getting channel 2105
-08/02/15 11:44:53.31:   Getting channel 2106
-08/02/15 11:44:53.31:   Getting channel 2151
-08/02/15 11:44:53.31:   Getting channel 2152
-08/02/15 11:44:53.31:   Getting channel 2153
-08/02/15 11:44:53.31:   Getting channel 2154
-08/02/15 11:44:53.31:   Getting channel 2155
-08/02/15 11:44:53.31:   Getting channel 2156
-08/02/15 11:44:53.31:   Getting channel 3022
-08/02/15 11:44:53.32:   Getting channel 3023
-08/02/15 11:44:53.32:   Getting channel 3027
-08/02/15 11:44:53.32:   Getting channel 3028
-08/02/15 11:44:53.32:   Getting channel 3150
-08/02/15 11:44:53.32:   Getting channel 3220
-08/02/15 11:44:53.32:   Getting channel 3300
-08/02/15 11:44:53.32:   Getting channel 3310
-08/02/15 11:44:53.32:   Getting channel 3340
-08/02/15 11:44:53.32:   Getting channel 3541
-08/02/15 11:44:53.32:   Getting channel 3605
-08/02/15 11:44:53.32:   Getting channel 3617
-08/02/15 11:44:53.32:   Getting channel 3643
-08/02/15 11:44:53.32:   Getting channel 3708
-08/02/15 11:44:53.32:   Getting channel 3709
-08/02/15 11:44:53.32:   Getting channel 3721
-08/02/15 11:44:53.32:   Getting channel 3751
-08/02/15 11:44:53.32:   Getting channel 3771
-08/02/15 11:44:53.32:   Getting channel 4075
-08/02/15 11:44:53.32:   Getting channel 4266
-08/02/15 11:44:53.32:   Getting channel 4502
-08/02/15 11:44:53.32:   Getting channel 4610
-08/02/15 11:44:53.32:   Getting channel 5201
-08/02/15 11:44:53.32:   Getting channel 5297
-08/02/15 11:44:53.32:   Getting channel 5338
-08/02/15 11:44:53.32:   Getting channel 6000
-08/02/15 11:44:53.32:   Getting channel 6240
-08/02/15 11:44:53.32:   Getting channel 6241
-08/02/15 11:44:53.32:   Getting channel 6260
-08/02/15 11:44:53.32:   Getting channel 6261
-08/02/15 11:44:53.32:   Getting channel 6272
-08/02/15 11:44:53.32:   Getting channel 6274
-08/02/15 11:44:53.32:   Retrieving new day
-08/02/15 11:44:53.33:   Getting day 201502090000
-08/02/15 11:44:53.33:   Getting channel 1626
-08/02/15 11:44:53.33:   Getting channel 1627
-08/02/15 11:44:53.33:   Getting channel 1628
-08/02/15 11:44:53.33:   Getting channel 1830
-08/02/15 11:44:53.33:   Getting channel 1832
-08/02/15 11:44:53.33:   Getting channel 1836
-08/02/15 11:44:53.33:   Getting channel 1675
-08/02/15 11:44:53.33:   Getting channel 1839
-08/02/15 11:44:53.33:   Getting channel 2004
-08/02/15 11:44:53.33:   Getting channel 2005
-08/02/15 11:44:53.33:   Getting channel 2015
-08/02/15 11:44:53.33:   Getting channel 2002
-08/02/15 11:44:53.33:   Getting channel 2017
-08/02/15 11:44:53.33:   Getting channel 2061
-08/02/15 11:44:53.33:   Getting channel 2073
-08/02/15 11:44:53.33:   Getting channel 2074
-08/02/15 11:44:53.33:   Getting channel 2018
-08/02/15 11:44:53.33:   Getting channel 2003
-08/02/15 11:44:53.33:   Getting channel 2075
-08/02/15 11:44:53.33:   Getting channel 1629
-08/02/15 11:44:53.33:   Getting channel 2006
-08/02/15 11:44:53.33:   Getting channel 2016
-08/02/15 11:44:53.33:   Getting channel 2104
-08/02/15 11:44:53.33:   Getting channel 2076
-08/02/15 11:44:53.33:   Getting channel 2105
-08/02/15 11:44:53.33:   Getting channel 2082
-08/02/15 11:44:53.33:   Getting channel 2106
-08/02/15 11:44:53.33:   Getting channel 2077
-08/02/15 11:44:53.33:   Getting channel 2086
-08/02/15 11:44:53.33:   Getting channel 2101
-08/02/15 11:44:53.33:   Getting channel 2102
-08/02/15 11:44:53.34:   Getting channel 3027
-08/02/15 11:44:53.33:   Getting channel 3023
-08/02/15 11:44:53.33:   Getting channel 2156
-08/02/15 11:44:53.33:   Getting channel 2151
-08/02/15 11:44:53.34:   Getting channel 3541
-08/02/15 11:44:53.34:   Getting channel 3605
-08/02/15 11:44:53.33:   Getting channel 3022
-08/02/15 11:44:53.33:   Getting channel 2155
-08/02/15 11:44:53.33:   Getting channel 2103
-08/02/15 11:44:53.34:   Getting channel 4075
-08/02/15 11:44:53.34:   Getting channel 3340
-08/02/15 11:44:53.33:   Getting channel 2152
-08/02/15 11:44:53.34:   Getting channel 3617
-08/02/15 11:44:53.34:   Getting channel 3220
-08/02/15 11:44:53.34:   Getting channel 6000
-08/02/15 11:44:53.34:   Getting channel 4266
-08/02/15 11:44:53.34:   Getting channel 6260
-08/02/15 11:44:53.34:   Getting channel 6272
-08/02/15 11:44:53.34:   Getting day 201502100000
-08/02/15 11:44:53.34:   Getting channel 3643
-08/02/15 11:44:53.34:   Getting channel 1629
-08/02/15 11:44:53.34:   Getting channel 1830
-08/02/15 11:44:53.34:   Getting channel 1836
-08/02/15 11:44:53.34:   Getting channel 2002
-08/02/15 11:44:53.34:   Getting channel 3709
-08/02/15 11:44:53.34:   Getting channel 5338
-08/02/15 11:44:53.34:   Getting channel 5201
-08/02/15 11:44:53.34:   Getting channel 3310
-08/02/15 11:44:53.34:   Getting channel 1628
-08/02/15 11:44:53.34:   Getting channel 1675
-08/02/15 11:44:53.34:   Getting channel 2076
-08/02/15 11:44:53.34:   Getting channel 4610
-08/02/15 11:44:53.34:   Getting channel 2003
-08/02/15 11:44:53.34:   Getting channel 2074
-08/02/15 11:44:53.34:   Getting channel 1832
-08/02/15 11:44:53.34:   Getting channel 2077
-08/02/15 11:44:53.34:   Getting channel 2154
-08/02/15 11:44:53.34:   Getting channel 1839
-08/02/15 11:44:53.34:   Getting channel 2086
-08/02/15 11:44:53.34:   Getting channel 3310
-08/02/15 11:44:53.34:   Getting channel 2102
-08/02/15 11:44:53.34:   Getting channel 2155
-08/02/15 11:44:53.34:   Getting channel 3751
-08/02/15 11:44:53.35:   Getting channel 4075
-08/02/15 11:44:53.35:   Getting channel 4610
-08/02/15 11:44:53.34:   Getting channel 3340
-08/02/15 11:44:53.35:   Getting channel 6241
-08/02/15 11:44:53.35:   Getting channel 5201
-08/02/15 11:44:53.34:   Getting channel 2075
-08/02/15 11:44:53.35:   Getting day 201502110000
-08/02/15 11:44:53.34:   Getting channel 2005
-08/02/15 11:44:53.34:   Getting channel 3022
-08/02/15 11:44:53.34:   Getting channel 3617
-08/02/15 11:44:53.35:   Getting channel 1626
-08/02/15 11:44:53.34:   Getting channel 3605
-08/02/15 11:44:53.35:   Getting channel 1675
-08/02/15 11:44:53.35:   Getting channel 6260
-08/02/15 11:44:53.35:   Getting channel 1836
-08/02/15 11:44:53.34:   Getting channel 2015
-08/02/15 11:44:53.35:   Getting channel 1839
-08/02/15 11:44:53.35:   Getting channel 6274
-08/02/15 11:44:53.35:   Getting channel 2082
-08/02/15 11:44:53.35:   Getting channel 2004
-08/02/15 11:44:53.34:   Getting channel 2106
-08/02/15 11:44:53.35:   Getting channel 4502
-08/02/15 11:44:53.35:   Getting channel 6240
-08/02/15 11:44:53.35:   Getting channel 3751
-08/02/15 11:44:53.35:   Getting day 201502120000
-08/02/15 11:44:53.35:   Getting channel 1629
-08/02/15 11:44:53.35:   Retrieving new day
-08/02/15 11:44:53.35:   Getting channel 1675
-08/02/15 11:44:53.35:   Getting channel 3541
-08/02/15 11:44:53.35:   Getting channel 3023
-08/02/15 11:44:53.35:   Getting channel 2074
-08/02/15 11:44:53.35:   Getting channel 2106
-08/02/15 11:44:53.36:   Getting channel 2003
-08/02/15 11:44:53.36:   Getting channel 3310
-08/02/15 11:44:53.36:   Getting channel 2016
-08/02/15 11:44:53.35:   Getting channel 2016
-08/02/15 11:44:53.35:   Getting channel 4075
-08/02/15 11:44:53.36:   Getting day 201502130000
-08/02/15 11:44:53.36:   Getting channel 6240
-08/02/15 11:44:53.34:   Getting channel 2004
-08/02/15 11:44:53.34:   Getting channel 3150
-08/02/15 11:44:53.36:   Getting channel 4266
-08/02/15 11:44:53.36:   Getting channel 2101
-08/02/15 11:44:53.35:   Getting channel 5338
-08/02/15 11:44:53.34:   Getting channel 2006
-08/02/15 11:44:53.36:   Getting channel 2006
-08/02/15 11:44:53.38:   Getting day 201502140000
-08/02/15 11:44:53.34:   Retrieving new day
-08/02/15 11:44:53.36:   Getting channel 6000
-08/02/15 11:44:53.38:   Getting channel 2074
-08/02/15 11:44:53.34:   Getting channel 6274
-08/02/15 11:44:53.34:   Getting channel 2156
-08/02/15 11:44:53.35:   Getting channel 6272
-08/02/15 11:44:53.38:   Getting channel 2002
-08/02/15 11:44:53.34:   Getting channel 2101
-08/02/15 11:44:53.34:   Getting channel 1626
-08/02/15 11:44:53.37:   Getting channel 3310
-08/02/15 11:44:53.38:   Getting channel 6261
-08/02/15 11:44:53.34:   Getting channel 6261
-08/02/15 11:44:53.35:   Getting channel 3028
-08/02/15 11:44:53.38:   Getting channel 3541
-08/02/15 11:44:53.35:   Getting channel 2006
-08/02/15 11:44:53.38:   Getting channel 3340
-08/02/15 11:44:53.38:   Getting channel 6272
-08/02/15 11:44:53.35:   Getting channel 3310
-08/02/15 11:44:53.38:   Getting channel 2156
-08/02/15 11:44:53.34:   Getting channel 3771
-08/02/15 11:44:53.37:   Getting channel 2075
-08/02/15 11:44:53.37:   Getting channel 3751
-08/02/15 11:44:53.34:   Getting channel 3541
-08/02/15 11:44:53.36:   Getting channel 3220
-08/02/15 11:44:53.37:   Getting channel 6000
-08/02/15 11:44:53.38:   Getting channel 2003
-08/02/15 11:44:53.38:   Getting channel 2103
-08/02/15 11:44:53.36:   Getting channel 2106
-08/02/15 11:44:53.38:   Getting channel 2102
-08/02/15 11:44:53.36:   Getting channel 2074
-08/02/15 11:44:53.38:   Getting channel 4266
-08/02/15 11:44:53.34:   Getting channel 2082
-08/02/15 11:44:53.35:   Getting channel 1832
-08/02/15 11:44:53.38:   Getting channel 1626
-08/02/15 11:44:53.37:   Getting channel 2156
-08/02/15 11:44:53.34:   Getting channel 3643
-08/02/15 11:44:53.36:   Getting channel 1832
-08/02/15 11:44:53.38:   Getting channel 4502
-08/02/15 11:44:53.35:   Getting channel 2101
-08/02/15 11:44:53.36:   Getting channel 2156
-08/02/15 11:44:53.37:   Getting channel 2104
-08/02/15 11:44:53.37:   Getting channel 2015
-08/02/15 11:44:53.35:   Getting channel 2073
-08/02/15 11:44:53.36:   Getting channel 3643
-08/02/15 11:44:53.38:   Getting channel 3022
-08/02/15 11:44:53.38:   Getting channel 6274
-08/02/15 11:44:53.37:   Getting channel 3340
-08/02/15 11:44:53.37:   Getting channel 3771
-08/02/15 11:44:53.34:   Getting channel 1627
-08/02/15 11:44:53.34:   Getting channel 3721
-08/02/15 11:44:53.35:   Getting channel 1628
-08/02/15 11:44:53.37:   Getting channel 6240
-08/02/15 11:44:53.35:   Getting channel 2077
-08/02/15 11:44:53.38:   Getting channel 3605
-08/02/15 11:44:53.35:   Getting channel 6000
-08/02/15 11:44:53.37:   Getting channel 2016
-08/02/15 11:44:53.37:   Getting channel 3541
-08/02/15 11:44:53.36:   Getting channel 1839
-08/02/15 11:44:53.38:   Getting channel 6241
-08/02/15 11:44:53.35:   Getting channel 3721
-08/02/15 11:44:53.34:   Getting channel 6240
-08/02/15 11:44:53.38:   Getting channel 2004
-08/02/15 11:44:53.37:   Getting channel 4075
-08/02/15 11:44:53.37:   Getting channel 2076
-08/02/15 11:44:53.35:   Getting channel 6274
-08/02/15 11:44:53.37:   Getting channel 2077
-08/02/15 11:44:53.38:   Getting channel 1627
-08/02/15 11:44:53.35:   Getting channel 2003
-08/02/15 11:44:53.38:   Getting channel 4610
-08/02/15 11:44:53.37:   Getting channel 1836
-08/02/15 11:44:53.38:   Getting channel 2104
-08/02/15 11:44:53.37:   Getting channel 3022
-08/02/15 11:44:53.38:   Getting channel 3023
-08/02/15 11:44:53.37:   Getting channel 2106
-08/02/15 11:44:53.38:   Getting channel 1628
-08/02/15 11:44:53.37:   Getting channel 2105
-08/02/15 11:44:53.34:   Getting channel 2016
-08/02/15 11:44:53.37:   Getting channel 3023
-08/02/15 11:44:53.35:   Getting channel 2105
-08/02/15 11:44:53.35:   Getting channel 2153
-08/02/15 11:44:53.34:   Getting channel 2103
-08/02/15 11:44:53.37:   Getting channel 1839
-08/02/15 11:44:53.36:   Getting channel 2151
-08/02/15 11:44:53.36:   Getting channel 3300
-08/02/15 11:44:53.38:   Getting channel 2075
-08/02/15 11:44:53.36:   Getting channel 1626
-08/02/15 11:44:53.38:   Getting channel 3617
-08/02/15 11:44:53.34:   Getting channel 2152
-08/02/15 11:44:53.37:   Getting channel 3605
-08/02/15 11:44:53.37:   Getting channel 2017
-08/02/15 11:44:53.34:   Getting channel 3027
-08/02/15 11:44:53.36:   Getting channel 6241
-08/02/15 11:44:53.37:   Getting channel 4266
-08/02/15 11:44:53.38:   Getting channel 2005
-08/02/15 11:44:53.35:   Getting channel 6272
-08/02/15 11:44:53.38:   Getting channel 5201
-08/02/15 11:44:53.35:   Getting channel 3022
-08/02/15 11:44:53.38:   Getting channel 6260
-08/02/15 11:44:53.36:   Getting channel 3022
-08/02/15 11:44:53.35:   Getting channel 3150
-08/02/15 11:44:53.38:   Getting channel 2105
-08/02/15 11:44:53.36:   Getting channel 3708
-08/02/15 11:44:53.36:   Getting channel 2075
-08/02/15 11:44:53.35:   Getting channel 3340
-08/02/15 11:44:53.35:   Getting channel 1628
-08/02/15 11:44:53.38:   Getting channel 1629
-08/02/15 11:44:53.36:   Getting channel 4502
-08/02/15 11:44:53.35:   Getting channel 4610
-08/02/15 11:44:53.37:   Getting channel 2082
-08/02/15 11:44:53.35:   Getting channel 1629
-08/02/15 11:44:53.38:   Getting channel 3643
-08/02/15 11:44:53.36:   Getting channel 2015
-08/02/15 11:44:53.37:   Getting channel 3027
-08/02/15 11:44:53.35:   Getting channel 3771
-08/02/15 11:44:53.35:   Getting channel 2102
-08/02/15 11:44:53.34:   Getting channel 5297
-08/02/15 11:44:53.36:   Getting channel 2102
-08/02/15 11:44:53.37:   Getting channel 2151
-08/02/15 11:44:53.35:   Getting channel 2154
-08/02/15 11:44:53.35:   Getting channel 2103
-08/02/15 11:44:53.37:   Getting channel 3617
-08/02/15 11:44:53.35:   Getting channel 4266
-08/02/15 11:44:53.37:   Getting channel 4502
-08/02/15 11:44:53.35:   Getting channel 3605
-08/02/15 11:44:53.37:   Getting channel 2002
-08/02/15 11:44:53.38:   Getting channel 2076
-08/02/15 11:44:53.38:   Getting channel 3027
-08/02/15 11:44:53.38:   Getting channel 2006
-08/02/15 11:44:53.35:   Getting channel 3220
-08/02/15 11:44:53.36:   Getting channel 1627
-08/02/15 11:44:53.36:   Getting channel 3709
-08/02/15 11:44:53.36:   Getting channel 3023
-08/02/15 11:44:53.36:   Getting channel 6260
-08/02/15 11:44:53.36:   Getting channel 2017
-08/02/15 11:44:53.38:   Getting channel 3708
-08/02/15 11:44:53.36:   Getting channel 2152
-08/02/15 11:44:53.36:   Getting channel 2002
-08/02/15 11:44:53.36:   Getting channel 5201
-08/02/15 11:44:53.38:   Getting channel 5297
-08/02/15 11:44:53.38:   Getting channel 6261
-08/02/15 11:44:53.36:   Getting channel 3721
-08/02/15 11:44:53.36:   Getting channel 1628
-08/02/15 11:44:53.36:   Getting channel 3027
-08/02/15 11:44:53.36:   Getting channel 2018
-08/02/15 11:44:53.38:   Getting channel 1675
-08/02/15 11:44:53.36:   Getting channel 3340
-08/02/15 11:44:53.37:   Getting channel 2018
-08/02/15 11:44:53.38:   Getting channel 2106
-08/02/15 11:44:53.36:   Getting channel 2153
-08/02/15 11:44:53.36:   Getting channel 2076
-08/02/15 11:44:53.35:   Getting channel 6000
-08/02/15 11:44:53.36:   Getting channel 6261
-08/02/15 11:44:53.36:   Getting channel 1830
-08/02/15 11:44:53.37:   Getting channel 2086
-08/02/15 11:44:53.38:   Getting channel 5338
-08/02/15 11:44:53.36:   Getting channel 4610
-08/02/15 11:44:53.38:   Getting channel 3028
-08/02/15 11:44:53.37:   Getting channel 3643
-08/02/15 11:44:53.35:   Getting channel 2151
-08/02/15 11:44:53.37:   Getting channel 3028
-08/02/15 11:44:53.34:   Getting channel 3220
-08/02/15 11:44:53.36:   Getting channel 2077
-08/02/15 11:44:53.37:   Getting channel 4610
-08/02/15 11:44:53.38:   Getting channel 2077
-08/02/15 11:44:53.34:   Getting channel 3028
-08/02/15 11:44:53.35:   Getting channel 5201
-08/02/15 11:44:53.37:   Getting channel 2152
-08/02/15 11:44:53.38:   Getting channel 2015
-08/02/15 11:44:53.34:   Getting channel 2151
-08/02/15 11:44:53.35:   Getting channel 6241
-08/02/15 11:44:53.34:   Getting channel 3708
-08/02/15 11:44:53.36:   Getting channel 2103
-08/02/15 11:44:53.35:   Getting channel 2015
-08/02/15 11:44:53.35:   Getting channel 2075
-08/02/15 11:44:53.34:   Getting channel 3028
-08/02/15 11:44:53.38:   Getting channel 6272
-08/02/15 11:44:53.38:   Getting channel 3709
-08/02/15 11:44:53.34:   Getting channel 3023
-08/02/15 11:44:53.37:   Getting channel 2003
-08/02/15 11:44:53.35:   Getting channel 1830
-08/02/15 11:44:53.34:   Getting channel 2104
-08/02/15 11:44:53.36:   Getting channel 3541
-08/02/15 11:44:53.38:   Getting channel 2151
-08/02/15 11:44:53.35:   Getting channel 5297
-08/02/15 11:44:53.38:   Getting channel 1830
-08/02/15 11:44:53.35:   Getting channel 2005
-08/02/15 11:44:53.34:   Getting channel 3709
-08/02/15 11:44:53.36:   Getting channel 1629
-08/02/15 11:44:53.36:   Getting channel 3751
-08/02/15 11:44:53.38:   Getting channel 3150
-08/02/15 11:44:53.37:   Getting channel 2101
-08/02/15 11:44:53.38:   Getting channel 6000
-08/02/15 11:44:53.35:   Getting channel 3300
-08/02/15 11:44:53.37:   Getting channel 3708
-08/02/15 11:44:53.37:   Getting channel 2061
-08/02/15 11:44:53.36:   Getting channel 5297
-08/02/15 11:44:53.36:   Getting channel 2104
-08/02/15 11:44:53.35:   Getting channel 3617
-08/02/15 11:44:53.38:   Getting channel 2016
-08/02/15 11:44:53.34:   Getting channel 3300
-08/02/15 11:44:53.36:   Getting channel 6272
-08/02/15 11:44:53.34:   Getting channel 2153
-08/02/15 11:44:53.35:   Getting channel 1626
-08/02/15 11:44:53.36:   Getting channel 2004
-08/02/15 11:44:53.38:   Getting channel 3721
-08/02/15 11:44:53.37:   Getting channel 2153
-08/02/15 11:44:53.37:   Getting channel 3150
-08/02/15 11:44:53.35:   Getting channel 2002
-08/02/15 11:44:53.36:   Getting channel 3028
-08/02/15 11:44:53.35:   Getting channel 6260
-08/02/15 11:44:53.35:   Getting channel 3027
-08/02/15 11:44:53.36:   Getting channel 2154
-08/02/15 11:44:53.37:   Getting channel 5201
-08/02/15 11:44:53.35:   Getting channel 2155
-08/02/15 11:44:53.36:   Getting channel 2061
-08/02/15 11:44:53.37:   Getting channel 2004
-08/02/15 11:44:53.34:   Getting channel 2061
-08/02/15 11:44:53.38:   Getting channel 2082
-08/02/15 11:44:53.38:   Getting channel 3220
-08/02/15 11:44:53.34:   Getting channel 3708
-08/02/15 11:44:53.38:   Getting channel 1832
-08/02/15 11:44:53.34:   Getting channel 3771
-08/02/15 11:44:53.38:   Getting channel 6240
-08/02/15 11:44:53.38:   Getting channel 2152
-08/02/15 11:44:53.38:   Getting channel 6274
-08/02/15 11:44:53.36:   Getting channel 2082
-08/02/15 11:44:53.35:   Getting channel 5297
-08/02/15 11:44:53.34:   Getting channel 3721
-08/02/15 11:44:53.36:   Getting channel 1832
-08/02/15 11:44:53.35:   Getting channel 3643
-08/02/15 11:44:53.37:   Getting channel 2102
-08/02/15 11:44:53.38:   Getting channel 2017
-08/02/15 11:44:53.37:   Getting channel 3709
-08/02/15 11:44:53.35:   Getting channel 3708
-08/02/15 11:44:53.35:   Getting channel 2018
-08/02/15 11:44:53.37:   Getting channel 2073
-08/02/15 11:44:53.34:   Getting channel 3150
-08/02/15 11:44:53.36:   Getting channel 3605
-08/02/15 11:44:53.37:   Getting channel 3220
-08/02/15 11:44:53.35:   Getting channel 2086
-08/02/15 11:44:53.38:   Getting channel 3751
-08/02/15 11:44:53.36:   Getting channel 1675
-08/02/15 11:44:53.36:   Getting channel 5338
-08/02/15 11:44:53.34:   Getting channel 2073
-08/02/15 11:44:53.35:   Getting channel 2061
-08/02/15 11:44:53.33:   Getting channel 2154
-08/02/15 11:44:53.37:   Getting channel 5297
-08/02/15 11:44:53.34:   Getting channel 3751
-08/02/15 11:44:53.36:   Getting channel 6274
-08/02/15 11:44:53.37:   Getting channel 2154
-08/02/15 11:44:53.34:   Getting channel 2017
-08/02/15 11:44:53.38:   Getting channel 6241
-08/02/15 11:44:53.38:   Getting channel 3300
-08/02/15 11:44:53.38:   Getting channel 2153
-08/02/15 11:44:53.33:   Getting channel 2153
-08/02/15 11:44:53.36:   Getting channel 3771
-08/02/15 11:44:53.35:   Getting channel 2104
-08/02/15 11:44:53.35:   Getting channel 6261
-08/02/15 11:44:53.35:   Getting channel 3709
-08/02/15 11:44:53.38:   Getting channel 2086
-08/02/15 11:44:53.35:   Getting channel 1627
-08/02/15 11:44:53.38:   Getting channel 1836
-08/02/15 11:44:53.38:   Retrieving new day
-08/02/15 11:44:53.37:   Getting channel 2005
-08/02/15 11:44:53.36:   Getting channel 2005
-08/02/15 11:44:53.36:   Getting channel 2105
-08/02/15 11:44:53.36:   Getting channel 2155
-08/02/15 11:44:53.35:   Getting channel 6261
-08/02/15 11:44:53.36:   Getting channel 3150
-08/02/15 11:44:53.35:   Getting channel 2152
-08/02/15 11:44:53.35:   Getting channel 6240
-08/02/15 11:44:53.38:   Getting channel 3771
-08/02/15 11:44:53.34:   Getting channel 4502
-08/02/15 11:44:53.37:   Getting channel 3721
-08/02/15 11:44:53.34:   Getting channel 3300
-08/02/15 11:44:53.36:   Getting channel 2073
-08/02/15 11:44:53.37:   Getting channel 2074
-08/02/15 11:44:53.36:   Getting channel 1830
-08/02/15 11:44:53.35:   Getting channel 4502
-08/02/15 11:44:53.35:   Retrieving new day
-08/02/15 11:44:53.34:   Getting channel 2105
-08/02/15 11:44:53.38:   Getting channel 2154
-08/02/15 11:44:53.38:   Getting channel 6260
-08/02/15 11:44:53.38:   Getting channel 2018
-08/02/15 11:44:53.36:   Getting channel 2086
-08/02/15 11:44:53.34:   Getting channel 2018
-08/02/15 11:44:53.35:   Getting channel 2076
-08/02/15 11:44:53.37:   Getting channel 5338
-08/02/15 11:44:53.37:   Getting channel 3300
-08/02/15 11:44:53.38:   Getting channel 2101
-08/02/15 11:44:53.35:   Getting channel 5338
-08/02/15 11:44:53.37:   Getting channel 2103
-08/02/15 11:44:53.34:   Getting channel 6241
-08/02/15 11:44:53.36:   Getting channel 3617
-08/02/15 11:44:53.35:   Getting channel 4266
-08/02/15 11:44:53.38:   Getting channel 3310
-08/02/15 11:44:53.36:   Retrieving new day
-08/02/15 11:44:53.36:   Getting channel 1836
-08/02/15 11:44:53.35:   Getting channel 2156
-08/02/15 11:44:53.36:   Getting channel 4075
-08/02/15 11:44:53.38:   Getting channel 4075
-08/02/15 11:44:53.37:   Getting channel 2155
-08/02/15 11:44:53.35:   Getting channel 2017
-08/02/15 11:44:53.37:   Getting channel 2006
-08/02/15 11:44:53.35:   Getting channel 1627
-08/02/15 11:44:53.38:   Getting channel 1839
-08/02/15 11:44:53.38:   Getting channel 2061
-08/02/15 11:44:53.38:   Getting channel 2073
-08/02/15 11:44:53.38:   Getting channel 2155
-08/02/15 11:44:53.93:   Finished getting channel 0 / 70
+14/06/15 10:56:30.73:   Forcing an update now
+14/06/15 10:56:30.73:   Get current data
+14/06/15 10:56:30.73:   Web server running on http://localhost:5000
+14/06/15 10:56:30.78:   Remove old data
+14/06/15 10:56:30.78:   Deleted a past showing for infear2013
+14/06/15 10:56:30.78:   Deleted a past showing for infear2013
+14/06/15 10:56:30.78:   Deleted a past showing for iceagecontinentaldrift2012
+14/06/15 10:56:30.78:   Deleted a past showing for iceagecontinentaldrift2012
+14/06/15 10:56:30.78:   Deleted a past showing for theraven2012
+14/06/15 10:56:30.78:   Deleted a past showing for iceagecontinentaldrift2012
+14/06/15 10:56:30.78:   Deleted a past showing for chinatown1974
+14/06/15 10:56:30.78:   Deleted a past showing for themistressofspices2005
+14/06/15 10:56:30.78:   Deleted a past showing for themistressofspices2005
+14/06/15 10:56:30.78:   Deleted a past showing for meetdave2008
+14/06/15 10:56:30.78:   Deleted a past showing for chinatown1974
+14/06/15 10:56:30.78:   Deleted a past showing for carryonbehind1975
+14/06/15 10:56:30.78:   Deleted a past showing for cocoonthereturn1988
+14/06/15 10:56:30.78:   Deleted a past showing for carryonbehind1975
+14/06/15 10:56:30.78:   Deleted a past showing for cocoonthereturn1988
+14/06/15 10:56:30.78:   Deleted a past showing for theperksofbeingawallflower2012
+14/06/15 10:56:30.78:   Deleted a past showing for brokencity2013
+14/06/15 10:56:30.78:   Deleted a past showing for theperksofbeingawallflower2012
+14/06/15 10:56:30.79:   Deleted a past showing for theiceman2012
+14/06/15 10:56:30.78:   Deleted a past showing for brokencity2013
+14/06/15 10:56:30.79:   Deleted a past showing for startrekinsurrection1998
+14/06/15 10:56:30.79:   Deleted a past showing for startrekinsurrection1998
+14/06/15 10:56:30.79:   Deleted a past showing for stepmom1998
+14/06/15 10:56:30.79:   Deleted a past showing for xmenfirstclass2011
+14/06/15 10:56:30.79:   Deleted a past showing for hairspray2007
+14/06/15 10:56:30.79:   Deleted a past showing for alvinthechipmunks2007
+14/06/15 10:56:30.79:   Deleted a past showing for aceventurapetdetective1994
+14/06/15 10:56:30.79:   Deleted a past showing for driveangry2010
+14/06/15 10:56:30.79:   Deleted a past showing for aceventurapetdetective1994
+14/06/15 10:56:30.79:   Deleted a past showing for theuninvited2009
+14/06/15 10:56:30.79:   Deleted a past showing for aceventurapetdetective1994
+14/06/15 10:56:30.79:   Deleted a past showing for hairspray2007
+14/06/15 10:56:30.79:   Deleted a past showing for driveangry2010
+14/06/15 10:56:30.79:   Deleted a past showing for theuninvited2009
+14/06/15 10:56:30.79:   Deleted a past showing for thefatherofmychildren2009
+14/06/15 10:56:30.78:   Deleted a past showing for theraven2012
+14/06/15 10:56:30.79:   Deleted a past showing for alvinthechipmunks2007
+14/06/15 10:56:30.79:   Deleted a past showing for carnage2011
+14/06/15 10:56:30.78:   Deleted a past showing for meetdave2008
+14/06/15 10:56:30.79:   Deleted a past showing for carnage2011
+14/06/15 10:56:30.79:   Deleted a past showing for disneyspocahontas1995
+14/06/15 10:56:30.79:   Deleted a past showing for grandprix1966
+14/06/15 10:56:30.79:   Deleted a past showing for indianajonesandthetempleof1984
+14/06/15 10:56:30.81:   Deleted a past showing for outofreach20132013
+14/06/15 10:56:30.79:   Deleted a past showing for disneyspocahontas1995
+14/06/15 10:56:30.81:   Deleted a past showing for columbogranddeceptions1989
+14/06/15 10:56:30.79:   Deleted a past showing for indianajonesandthetempleof1984
+14/06/15 10:56:30.81:   Deleted a past showing for verticallimit2000
+14/06/15 10:56:30.81:   Deleted a past showing for outofreach20132013
+14/06/15 10:56:30.81:   Deleted a past showing for missionaryman2008
+14/06/15 10:56:30.81:   Deleted a past showing for columbogranddeceptions1989
+14/06/15 10:56:30.79:   Deleted a past showing for carnage2011
+14/06/15 10:56:30.81:   Deleted a past showing for thunderbirds2004
+14/06/15 10:56:30.79:   Deleted a past showing for theuninvited2009
+14/06/15 10:56:30.79:   Deleted a past showing for thefatherofmychildren2009
+14/06/15 10:56:30.83:   Deleted a past showing for krull1983
+14/06/15 10:56:30.83:   Deleted a past showing for thelegendofbaggervance2000
+14/06/15 10:56:30.79:   Deleted a past showing for thefatherofmychildren2009
+14/06/15 10:56:30.83:   Deleted a past showing for thelegendofbaggervance2000
+14/06/15 10:56:30.83:   Deleted a past showing for sleepyhollow2000
+14/06/15 10:56:30.79:   Deleted a past showing for thefatherofmychildren2009
+14/06/15 10:56:30.79:   Deleted a past showing for theuninvited2009
+14/06/15 10:56:30.81:   Deleted a past showing for verticallimit2000
+14/06/15 10:56:30.83:   Deleted a past showing for twinsofevil1971
+14/06/15 10:56:30.81:   Deleted a past showing for theshadowriders1982
+14/06/15 10:56:30.83:   Deleted a past showing for escapefrommars1999
+14/06/15 10:56:30.81:   Deleted a past showing for theshadowriders1982
+14/06/15 10:56:30.83:   Deleted a past showing for thedarwinconspiracy1999
+14/06/15 10:56:30.79:   Deleted a past showing for thefatherofmychildren2009
+14/06/15 10:56:30.83:   Deleted a past showing for sleepyhollow2000
+14/06/15 10:56:30.81:   Deleted a past showing for aleagueoftheirown1943
+14/06/15 10:56:30.83:   Deleted a past showing for deathincanaan
+14/06/15 10:56:30.84:   Deleted a past showing for thechristmaspageant2011
+14/06/15 10:56:30.83:   Deleted a past showing for thetoy1982
+14/06/15 10:56:30.83:   Deleted a past showing for thedead2010
+14/06/15 10:56:30.83:   Deleted a past showing for theforgotten2004
+14/06/15 10:56:30.81:   Deleted a past showing for theshadowriders1982
+14/06/15 10:56:30.84:   Deleted a past showing for complexoffear
+14/06/15 10:56:30.84:   Deleted a past showing for championsalovestory
+14/06/15 10:56:30.84:   Deleted a past showing for akillinginasmalltown
+14/06/15 10:56:30.84:   Deleted a past showing for dianalastdaysofaprincess1997
+14/06/15 10:56:30.86:   Deleted a past showing for thegreedofwilliamhart1800
+14/06/15 10:56:30.84:   Deleted a past showing for dianalastdaysofaprincess1997
+14/06/15 10:56:30.83:   Deleted a past showing for thewatermen2011
+14/06/15 10:56:30.79:   Deleted a past showing for theuninvited2009
+14/06/15 10:56:30.83:   Deleted a past showing for thewatermen2011
+14/06/15 10:56:30.86:   Deleted a past showing for fivebloodygraves1970
+14/06/15 10:56:30.86:   Deleted a past showing for fivebloodygraves1970
+14/06/15 10:56:30.81:   Deleted a past showing for aleagueoftheirown1943
+14/06/15 10:56:30.86:   Deleted a past showing for sheworeayellowribbon1949
+14/06/15 10:56:30.86:   Deleted a past showing for fightingmanoftheplains1949
+14/06/15 10:56:30.86:   Deleted a past showing for dawnrider2012
+14/06/15 10:56:30.86:   Deleted a past showing for bestofthebadmen1951
+14/06/15 10:56:30.86:   Deleted a past showing for bodydouble1984
+14/06/15 10:56:30.79:   Deleted a past showing for theuninvited2009
+14/06/15 10:56:30.86:   Deleted a past showing for bodydouble1984
+14/06/15 10:56:30.86:   Deleted a past showing for smokescreen1964
+14/06/15 10:56:30.86:   Deleted a past showing for thegreatest1977
+14/06/15 10:56:30.86:   Deleted a past showing for population4362006
+14/06/15 10:56:30.87:   Deleted a past showing for theswanprincess1994
+14/06/15 10:56:30.86:   Deleted a past showing for thegreedofwilliamhart1800
+14/06/15 10:56:30.83:   Deleted a past showing for escapefrommars1999
+14/06/15 10:56:30.87:   Deleted a past showing for thelostmedallion2013
+14/06/15 10:56:30.83:   Deleted a past showing for planetterror
+14/06/15 10:56:30.83:   Deleted a past showing for summeroffear1978
+14/06/15 10:56:30.87:   Deleted a past showing for onlyyou1994
+14/06/15 10:56:30.83:   Deleted a past showing for freedomland2006
+14/06/15 10:56:30.87:   Deleted a past showing for thelostmedallion2013
+14/06/15 10:56:30.87:   Deleted a past showing for illalwaysknowwhatyoudid2006
+14/06/15 10:56:30.78:   Deleted a past showing for infear2013
+14/06/15 10:56:30.84:   Deleted a past showing for backtoyouandme2005
+14/06/15 10:56:30.86:   Deleted a past showing for sheworeayellowribbon1949
+14/06/15 10:56:30.86:   Deleted a past showing for fightingmanoftheplains1949
+14/06/15 10:56:30.87:   Deleted a past showing for akindofloving
+14/06/15 10:56:30.86:   Deleted a past showing for bodydouble1984
+14/06/15 10:56:30.89:   Deleted a past showing for roxannetheprizepulitzer
+14/06/15 10:56:30.87:   Deleted a past showing for illalwaysknowwhatyoudid2006
+14/06/15 10:56:30.89:   Deleted a past showing for alliwantforchristmas
+14/06/15 10:56:30.87:   Deleted a past showing for birthofthebeatles1960
+14/06/15 10:56:30.89:   Deleted a past showing for horridhenrythemovie2011
+14/06/15 10:56:30.89:   Deleted a past showing for lovecomessoftly2003
+14/06/15 10:56:30.89:   Deleted a past showing for angelinthefamily2004
+14/06/15 10:56:30.81:   Deleted a past showing for missionaryman2008
+14/06/15 10:56:30.87:   Deleted a past showing for kingandcountry1964
+14/06/15 10:56:30.89:   Deleted a past showing for ray2004
+14/06/15 10:56:30.83:   Deleted a past showing for summeroffear1978
+14/06/15 10:56:30.89:   Deleted a past showing for highplainsdrifter1973
+14/06/15 10:56:30.83:   Deleted a past showing for thedarwinconspiracy1999
+14/06/15 10:56:30.89:   Deleted a past showing for bornonthefourthofjuly1989
+14/06/15 10:56:30.87:   Deleted a past showing for thecovenant2006
+14/06/15 10:56:30.89:   Deleted a past showing for highplainsdrifter1973
+14/06/15 10:56:30.90:   Deleted a past showing for geordie1955
+14/06/15 10:56:30.87:   Deleted a past showing for birthofthebeatles1960
+14/06/15 10:56:30.90:   Deleted a past showing for lemonysnicketsaseriesof2004
+14/06/15 10:56:30.90:   Deleted a past showing for thepaperboy2012
+14/06/15 10:56:30.90:   Deleted a past showing for nextstopmurder2010
+14/06/15 10:56:30.90:   Deleted a past showing for lemonysnicketsaseriesof2004
+14/06/15 10:56:30.90:   Deleted a past showing for indianajonesandthelastcrusade1989
+14/06/15 10:56:30.86:   Deleted a past showing for panhandle1948
+14/06/15 10:56:30.83:   Deleted a past showing for twinsofevil1971
+14/06/15 10:56:30.92:   Deleted a past showing for adoctorsstory1984
+14/06/15 10:56:30.92:   Deleted a past showing for cannonballfever1989
+14/06/15 10:56:30.92:   Deleted a past showing for whitelion2010
+14/06/15 10:56:30.90:   Deleted a past showing for faceofterror2005
+14/06/15 10:56:30.92:   Deleted a past showing for ourwildhearts2013
+14/06/15 10:56:30.87:   Deleted a past showing for womanwithapast1992
+14/06/15 10:56:30.92:   Deleted a past showing for themissing2003
+14/06/15 10:56:30.86:   Deleted a past showing for thegreatest1977
+14/06/15 10:56:30.92:   Deleted a past showing for thefightingkentuckian1949
+14/06/15 10:56:30.92:   Deleted a past showing for journeytothecenteroftheearth1993
+14/06/15 10:56:30.92:   Deleted a past showing for journeytothecenteroftheearth1993
+14/06/15 10:56:30.90:   Deleted a past showing for indianajonesandthelastcrusade1989
+14/06/15 10:56:30.90:   Deleted a past showing for nevada1944
+14/06/15 10:56:30.92:   Deleted a past showing for sexykiller2008
+14/06/15 10:56:30.90:   Deleted a past showing for thehumanfactor1979
+14/06/15 10:56:30.87:   Deleted a past showing for gorevidalsbillythekid
+14/06/15 10:56:30.92:   Deleted a past showing for sherlockholmesthesignoffour1983
+14/06/15 10:56:30.92:   Deleted a past showing for mayflowerthepilgrimsadventure1620
+14/06/15 10:56:30.79:   Deleted a past showing for theiceman2012
+14/06/15 10:56:30.92:   Deleted a past showing for thebrotherhood3youngdemons2003
+14/06/15 10:56:30.92:   Deleted a past showing for mayflowerthepilgrimsadventure1620
+14/06/15 10:56:30.92:   Deleted a past showing for harttohartcrimesofthehart1994
+14/06/15 10:56:30.92:   Deleted a past showing for sherlockholmesthesignoffour1983
+14/06/15 10:56:30.90:   Deleted a past showing for alamar2009
+14/06/15 10:56:30.87:   Deleted a past showing for prisonofsecrets
+14/06/15 10:56:30.92:   Deleted a past showing for adayinoctober1992
+14/06/15 10:56:30.84:   Deleted a past showing for secondincommand2006
+14/06/15 10:56:30.90:   Deleted a past showing for mirchmasala1987
+14/06/15 10:56:30.94:   Deleted a past showing for girlinterrupted1960
+14/06/15 10:56:30.87:   Deleted a past showing for birthofthebeatles1960
+14/06/15 10:56:30.92:   Deleted a past showing for reunionatfairborough1985
+14/06/15 10:56:30.92:   Deleted a past showing for todayitsmetomorrowitsyou1968
+14/06/15 10:56:30.94:   Deleted a past showing for themanwhocapturedeichmann1960
+14/06/15 10:56:30.94:   Deleted a past showing for destinationgobi1953
+14/06/15 10:56:30.87:   Deleted a past showing for thewhistleblower2010
+14/06/15 10:56:30.90:   Deleted a past showing for theleagueofgentlemen1960
+14/06/15 10:56:30.94:   Deleted a past showing for therescueofjessicamcclure
+14/06/15 10:56:30.94:   Deleted a past showing for therustlers1919
+14/06/15 10:56:30.92:   Deleted a past showing for ourwildhearts2013
+14/06/15 10:56:30.79:   Deleted a past showing for carnage2011
+14/06/15 10:56:30.94:   Deleted a past showing for intheelectricmist2009
+14/06/15 10:56:30.92:   Deleted a past showing for thefightingkentuckian1949
+14/06/15 10:56:30.94:   Deleted a past showing for beforethedevilknowsyouredead2007
+14/06/15 10:56:30.95:   Deleted a past showing for ashineofrainbows2009
+14/06/15 10:56:30.90:   Deleted a past showing for eccentricitiesofa2009
+14/06/15 10:56:30.95:   Deleted a past showing for juliax2011
+14/06/15 10:56:30.95:   Deleted a past showing for enemymine1986
+14/06/15 10:56:30.95:   Deleted a past showing for everymothersworstfear
+14/06/15 10:56:30.95:   Deleted a past showing for universalsoldier3unfinished1999
+14/06/15 10:56:30.95:   Deleted a past showing for hightide1979
+14/06/15 10:56:30.87:   Deleted a past showing for theswanprincess1998
+14/06/15 10:56:30.95:   Deleted a past showing for vampirebats2005
+14/06/15 10:56:30.92:   Deleted a past showing for cannonballfever1989
+14/06/15 10:56:30.83:   Deleted a past showing for planetterror
+14/06/15 10:56:30.89:   Deleted a past showing for evilunderthesun1982
+14/06/15 10:56:30.97:   Deleted a past showing for thestepfather2009
+14/06/15 10:56:30.87:   Deleted a past showing for theangrysilence1960
+14/06/15 10:56:30.97:   Deleted a past showing for maryhigginsclarkyoubelong
+14/06/15 10:56:30.97:   Deleted a past showing for harttoharthartsinhighseason1996
+14/06/15 10:56:30.94:   Deleted a past showing for thejackierobinsonstory
+14/06/15 10:56:30.92:   Deleted a past showing for thebrotherhood3youngdemons2003
+14/06/15 10:56:30.92:   Deleted a past showing for annakarenina1985
+14/06/15 10:56:30.95:   Deleted a past showing for conquestofmycene1963
+14/06/15 10:56:30.97:   Deleted a past showing for killerjoe2011
+14/06/15 10:56:30.92:   Deleted a past showing for theabandoned2006
+14/06/15 10:56:30.95:   Deleted a past showing for asylum1972
+14/06/15 10:56:30.92:   Deleted a past showing for burythemdeep1968
+14/06/15 10:56:30.97:   Deleted a past showing for viceversa1988
+14/06/15 10:56:30.87:   Deleted a past showing for thecovenant2006
+14/06/15 10:56:30.98:   Deleted a past showing for satansschoolforgirls2000
+14/06/15 10:56:30.97:   Deleted a past showing for maryhigginsclarkyoubelong
+14/06/15 10:56:30.97:   Deleted a past showing for almostfamous2000
+14/06/15 10:56:30.94:   Deleted a past showing for nocountryforoldmen2007
+14/06/15 10:56:30.98:   Deleted a past showing for decoys2alienseduction2007
+14/06/15 10:56:30.98:   Deleted a past showing for mrblandingsbuildshisdream1948
+14/06/15 10:56:30.98:   Deleted a past showing for roseofcimarron1952
+14/06/15 10:56:30.94:   Deleted a past showing for girlinterrupted1960
+14/06/15 10:56:30.98:   Deleted a past showing for maryhigginsclarkbeforei
+14/06/15 10:56:30.89:   Deleted a past showing for bornonthefourthofjuly1989
+14/06/15 10:56:30.90:   Deleted a past showing for faceofterror2005
+14/06/15 10:56:30.98:   Deleted a past showing for fallinginlovewiththegirl2006
+14/06/15 10:56:31.00:   Deleted a past showing for heat1995
+14/06/15 10:56:30.98:   Deleted a past showing for rushhour1998
+14/06/15 10:56:31.00:   Deleted a past showing for jakobtheliar1999
+14/06/15 10:56:30.98:   Deleted a past showing for thebridgesattokori1954
+14/06/15 10:56:31.00:   Deleted a past showing for terrorpeak2003
+14/06/15 10:56:30.98:   Deleted a past showing for thebridgesattokori1954
+14/06/15 10:56:31.00:   Deleted a past showing for crossfire1947
+14/06/15 10:56:30.97:   Deleted a past showing for littlewomen1994
+14/06/15 10:56:31.01:   Deleted a past showing for cavedin2006
+14/06/15 10:56:30.87:   Deleted a past showing for thewaywewere1973
+14/06/15 10:56:31.01:   Deleted a past showing for whennoonewouldlisten
+14/06/15 10:56:31.01:   Deleted a past showing for daniellesteelsaperfect1994
+14/06/15 10:56:31.01:   Deleted a past showing for quadrophenia1979
+14/06/15 10:56:30.98:   Deleted a past showing for roseofcimarron1952
+14/06/15 10:56:30.89:   Deleted a past showing for insideman2006
+14/06/15 10:56:30.97:   Deleted a past showing for thechangeup2011
+14/06/15 10:56:31.01:   Deleted a past showing for thegreatestshowonearth1952
+14/06/15 10:56:30.95:   Deleted a past showing for universalsoldier3unfinished1999
+14/06/15 10:56:30.98:   Deleted a past showing for stormandsorrow
+14/06/15 10:56:30.94:   Deleted a past showing for daniellesteelsdaddy
+14/06/15 10:56:31.03:   Deleted a past showing for bluethunder1983
+14/06/15 10:56:30.94:   Deleted a past showing for beforethedevilknowsyouredead2007
+14/06/15 10:56:31.03:   Deleted a past showing for identity2003
+14/06/15 10:56:31.03:   Deleted a past showing for joydivision2006
+14/06/15 10:56:31.03:   Deleted a past showing for silentnight1944
+14/06/15 10:56:31.01:   Deleted a past showing for thegreatestshowonearth1952
+14/06/15 10:56:31.03:   Deleted a past showing for youlightupmylife1977
+14/06/15 10:56:30.97:   Deleted a past showing for harttoharthartsinhighseason1996
+14/06/15 10:56:31.00:   Deleted a past showing for lillimarlene1951
+14/06/15 10:56:31.00:   Deleted a past showing for spacewarriors2013
+14/06/15 10:56:31.03:   Deleted a past showing for aholidayheist2011
+14/06/15 10:56:30.94:   Deleted a past showing for girlinterrupted1960
+14/06/15 10:56:30.92:   Deleted a past showing for childofrage
+14/06/15 10:56:31.03:   Deleted a past showing for aholidayheist2011
+14/06/15 10:56:31.03:   Deleted a past showing for porkys1950
+14/06/15 10:56:30.95:   Deleted a past showing for ultimatebetrayal
+14/06/15 10:56:31.03:   Deleted a past showing for thedeadlylookoflove
+14/06/15 10:56:30.92:   Deleted a past showing for youcantwinthemall1920
+14/06/15 10:56:31.03:   Deleted a past showing for daniellesteelskaleidoscope
+14/06/15 10:56:30.92:   Deleted a past showing for harttohartcrimesofthehart1994
+14/06/15 10:56:30.92:   Deleted a past showing for annakarenina1985
+14/06/15 10:56:30.95:   Deleted a past showing for thehousenextdoor2006
+14/06/15 10:56:31.03:   Deleted a past showing for daniellesteelsstar9021
+14/06/15 10:56:30.98:   Deleted a past showing for fallinginlovewiththegirl2006
+14/06/15 10:56:31.03:   Deleted a past showing for dangerousintentions
+14/06/15 10:56:30.94:   Deleted a past showing for thebabysittersseduction
+14/06/15 10:56:31.03:   Deleted a past showing for unforgivable
+14/06/15 10:56:30.98:   Deleted a past showing for almostfamous2000
+14/06/15 10:56:30.98:   Deleted a past showing for runaway1984
+14/06/15 10:56:31.03:   Deleted a past showing for custodyoftheheart
+14/06/15 10:56:31.03:   Deleted a past showing for jamesdean
+14/06/15 10:56:30.98:   Deleted a past showing for hellgate1952
+14/06/15 10:56:30.97:   Deleted a past showing for insomnia2002
+14/06/15 10:56:31.03:   Deleted a past showing for thebournesupremacy2004
+14/06/15 10:56:31.01:   Deleted a past showing for underthepiano1940
+14/06/15 10:56:31.03:   Deleted a past showing for daniellesteelsstar9021
+14/06/15 10:56:31.03:   Deleted a past showing for thebournesupremacy2004
+14/06/15 10:56:31.03:   Deleted a past showing for twomulesforsistersara1970
+14/06/15 10:56:31.03:   Deleted a past showing for withnaili1987
+14/06/15 10:56:31.03:   Deleted a past showing for maryhigginsclarkacryin
+14/06/15 10:56:31.03:   Deleted a past showing for paul2011
+14/06/15 10:56:31.03:   Deleted a past showing for theunspokentruth
+14/06/15 10:56:30.95:   Deleted a past showing for conquestofmycene1963
+14/06/15 10:56:31.03:   Deleted a past showing for twomulesforsistersara1970
+14/06/15 10:56:31.01:   Deleted a past showing for awinnerneverquits1940
+14/06/15 10:56:30.95:   Deleted a past showing for thetreasureofsanteresa1944
+14/06/15 10:56:31.04:   Deleted a past showing for bugsymalone1976
+14/06/15 10:56:30.94:   Deleted a past showing for nocountryforoldmen2007
+14/06/15 10:56:31.04:   Deleted a past showing for bugsymalone1976
+14/06/15 10:56:31.00:   Deleted a past showing for spacewarriors2013
+14/06/15 10:56:31.04:   Deleted a past showing for thehole2009
+14/06/15 10:56:30.94:   Deleted a past showing for thecrashof4011972
+14/06/15 10:56:31.04:   Deleted a past showing for scarymovie2000
+14/06/15 10:56:31.04:   Deleted a past showing for columboanexerciseinfatality1974
+14/06/15 10:56:31.04:   Deleted a past showing for columboanexerciseinfatality1974
+14/06/15 10:56:31.04:   Deleted a past showing for alongcameaspider2001
+14/06/15 10:56:30.87:   Deleted a past showing for anybodysnightmare2001
+14/06/15 10:56:31.04:   Deleted a past showing for theprincessandthefrog1920
+14/06/15 10:56:30.92:   Deleted a past showing for todayitsmetomorrowitsyou1968
+14/06/15 10:56:31.04:   Deleted a past showing for theprincessandthefrog1920
+14/06/15 10:56:30.95:   Deleted a past showing for thecainemutinycourtmartial1945
+14/06/15 10:56:31.04:   Deleted a past showing for swordofsherwoodforest1960
+14/06/15 10:56:30.95:   Deleted a past showing for thetreasureofsanteresa1944
+14/06/15 10:56:31.00:   Deleted a past showing for spacewarriors2013
+14/06/15 10:56:30.98:   Deleted a past showing for florencenightingale1985
+14/06/15 10:56:31.04:   Deleted a past showing for swordofsherwoodforest1960
+14/06/15 10:56:31.04:   Deleted a past showing for thelongandtheshortandthe1961
+14/06/15 10:56:30.95:   Deleted a past showing for hush1998
+14/06/15 10:56:30.87:   Deleted a past showing for thegreatest1977
+14/06/15 10:56:30.97:   Deleted a past showing for deadlymessages1985
+14/06/15 10:56:31.04:   Deleted a past showing for thelongandtheshortandthe1961
+14/06/15 10:56:31.04:   Deleted a past showing for upintheair2009
+14/06/15 10:56:31.04:   Deleted a past showing for thelongandtheshortandthe1961
+14/06/15 10:56:31.01:   Deleted a past showing for 21jumpstreet2012
+14/06/15 10:56:30.95:   Deleted a past showing for sherlockholmesthehoundof1983
+14/06/15 10:56:31.04:   Deleted a past showing for upintheair2009
+14/06/15 10:56:30.97:   Deleted a past showing for tiesthatbind2010
+14/06/15 10:56:31.04:   Deleted a past showing for mosquitosquadron1968
+14/06/15 10:56:31.03:   Deleted a past showing for thejohnsullivanstory1939
+14/06/15 10:56:31.04:   Deleted a past showing for cromwell1970
+14/06/15 10:56:30.86:   Deleted a past showing for bestofthebadmen1951
+14/06/15 10:56:31.04:   Deleted a past showing for cromwell1970
+14/06/15 10:56:30.95:   Deleted a past showing for earthstorm2006
+14/06/15 10:56:31.04:   Deleted a past showing for fistfulofdollars1964
+14/06/15 10:56:30.98:   Deleted a past showing for abulletforthegeneral1966
+14/06/15 10:56:31.04:   Deleted a past showing for scream42011
+14/06/15 10:56:31.04:   Deleted a past showing for mosquitosquadron1968
+14/06/15 10:56:31.04:   Deleted a past showing for thelazarusproject2008
+14/06/15 10:56:31.04:   Deleted a past showing for thelongandtheshortandthe1961
+14/06/15 10:56:31.04:   Deleted a past showing for hypothermia2010
+14/06/15 10:56:30.98:   Deleted a past showing for florencenightingale1985
+14/06/15 10:56:31.01:   Deleted a past showing for crowneddangerous1997
+14/06/15 10:56:31.04:   Deleted a past showing for thethirtyninesteps1978
+14/06/15 10:56:31.04:   Deleted a past showing for thedirtydozen1967
+14/06/15 10:56:31.04:   Deleted a past showing for willywonkaandthe1971
+14/06/15 10:56:31.04:   Deleted a past showing for everythingsheeverwanted2009
+14/06/15 10:56:30.95:   Deleted a past showing for thecainemutinycourtmartial1945
+14/06/15 10:56:30.84:   Deleted a past showing for heartofachild
+14/06/15 10:56:30.92:   Deleted a past showing for monsterwolf2010
+14/06/15 10:56:31.04:   Deleted a past showing for eightdaystolive
+14/06/15 10:56:30.94:   Deleted a past showing for thecolditzstory1954
+14/06/15 10:56:30.98:   Deleted a past showing for finaljustice
+14/06/15 10:56:30.98:   Deleted a past showing for changeofheart
+14/06/15 10:56:31.00:   Deleted a past showing for thecaseofcharlespeace1949
+14/06/15 10:56:30.98:   Deleted a past showing for daniellesteelsremembrance1996
+14/06/15 10:56:31.06:   Deleted a past showing for longjohnsilver1954
+14/06/15 10:56:31.00:   Deleted a past showing for therighttoremainsilent
+14/06/15 10:56:31.01:   Deleted a past showing for crowneddangerous1997
+14/06/15 10:56:31.06:   Deleted a past showing for inthelineofdutyambushin
+14/06/15 10:56:31.06:   Deleted a past showing for solarattack2006
+14/06/15 10:56:31.01:   Deleted a past showing for againstthewind1947
+14/06/15 10:56:30.79:   Deleted a past showing for stolen2010
+14/06/15 10:56:31.06:   Deleted a past showing for thehijackers1963
+14/06/15 10:56:31.06:   Deleted a past showing for mozambique1965
+14/06/15 10:56:31.01:   Deleted a past showing for thebiggestfan2002
+14/06/15 10:56:31.06:   Deleted a past showing for cerberus2005
+14/06/15 10:56:30.94:   Deleted a past showing for thestrangerworeagun1953
+14/06/15 10:56:31.00:   Deleted a past showing for thereplacementkillers1998
+14/06/15 10:56:30.98:   Deleted a past showing for thecolouroflovejaceysstory2000
+14/06/15 10:56:30.97:   Deleted a past showing for revolution1985
+14/06/15 10:56:30.86:   Deleted a past showing for bitethebullet1975
+14/06/15 10:56:31.00:   Deleted a past showing for lawofthebadlands1951
+14/06/15 10:56:30.95:   Deleted a past showing for sherlockholmesthehoundof1983
+14/06/15 10:56:31.06:   Deleted a past showing for gulag
+14/06/15 10:56:31.03:   Deleted a past showing for gravehalloween
+14/06/15 10:56:31.06:   Deleted a past showing for theliarsclub
+14/06/15 10:56:31.06:   Deleted a past showing for theseventhcoin1993
+14/06/15 10:56:31.06:   Deleted a past showing for daniellesteelsfullcircle
+14/06/15 10:56:31.06:   Deleted a past showing for daniellesteelsmixedblessings
+14/06/15 10:56:31.06:   Deleted a past showing for daniellesteelspalomino
+14/06/15 10:56:31.06:   Deleted a past showing for daniellesteelsnogreaterlove
+14/06/15 10:56:31.06:   Deleted a past showing for awaltonwedding1960
+14/06/15 10:56:31.03:   Deleted a past showing for machinegunkelly1958
+14/06/15 10:56:31.06:   Deleted a past showing for theprivatelifeofprincessdiana
+14/06/15 10:56:30.98:   Deleted a past showing for thecolouroflovejaceysstory2000
+14/06/15 10:56:30.95:   Deleted a past showing for hotelreserve1944
+14/06/15 10:56:31.00:   Deleted a past showing for shepherdofthehills1941
+14/06/15 10:56:31.06:   Deleted a past showing for 50gloriousyears
+14/06/15 10:56:31.01:   Deleted a past showing for phantomofthemall
+14/06/15 10:56:31.06:   Deleted a past showing for 14weddingsandadivorce
+14/06/15 10:56:31.06:   Deleted a past showing for dangerousindiscretions
+14/06/15 10:56:31.06:   Deleted a past showing for thebrotherfromanotherplanet
+14/06/15 10:56:31.01:   Deleted a past showing for harttohartoldfriendsnever1994
+14/06/15 10:56:30.94:   Deleted a past showing for thesweeney2012
+14/06/15 10:56:30.92:   Deleted a past showing for frightnight1985
+14/06/15 10:56:31.06:   Deleted a past showing for smokeyandthebandit21980
+14/06/15 10:56:31.01:   Deleted a past showing for clearandpresentdanger1994
+14/06/15 10:56:30.97:   Deleted a past showing for theinterpreter2005
+14/06/15 10:56:31.03:   Deleted a past showing for sudieandsimpson1940
+14/06/15 10:56:31.06:   Retrieving new day
+14/06/15 10:56:30.97:   Deleted a past showing for attack1956
+14/06/15 10:56:31.06:   Getting channel 1626
+14/06/15 10:56:30.87:   Deleted a past showing for thecovenant2006
+14/06/15 10:56:31.06:   Getting channel 1628
+14/06/15 10:56:30.98:   Deleted a past showing for runawayfather
+14/06/15 10:56:31.00:   Deleted a past showing for tamingandrew
+14/06/15 10:56:30.89:   Deleted a past showing for insideman2006
+14/06/15 10:56:30.97:   Deleted a past showing for aknightstale2001
+14/06/15 10:56:30.86:   Deleted a past showing for bitethebullet1975
+14/06/15 10:56:30.98:   Deleted a past showing for whitecomanche1968
+14/06/15 10:56:31.06:   Deleted a past showing for smokeyandthebandit21980
+14/06/15 10:56:31.06:   Getting channel 2003
+14/06/15 10:56:30.98:   Deleted a past showing for inthelineofdutytheprice1992
+14/06/15 10:56:30.97:   Deleted a past showing for insomnia2002
+14/06/15 10:56:30.92:   Deleted a past showing for deepwinter2008
+14/06/15 10:56:31.06:   Getting channel 1839
+14/06/15 10:56:30.94:   Deleted a past showing for thecolditzstory1954
+14/06/15 10:56:31.06:   Getting channel 2002
+14/06/15 10:56:30.92:   Deleted a past showing for theabandoned2006
+14/06/15 10:56:31.06:   Getting channel 2005
+14/06/15 10:56:30.98:   Deleted a past showing for cursed2013
+14/06/15 10:56:31.08:   Getting channel 2015
+14/06/15 10:56:30.92:   Deleted a past showing for bermudatriangle1996
+14/06/15 10:56:30.84:   Deleted a past showing for replacingdad
+14/06/15 10:56:31.00:   Deleted a past showing for shepherdofthehills1941
+14/06/15 10:56:31.06:   Getting channel 2004
+14/06/15 10:56:30.87:   Deleted a past showing for theswanprincess1994
+14/06/15 10:56:31.08:   Getting channel 2061
+14/06/15 10:56:30.95:   Deleted a past showing for littlenikita1988
+14/06/15 10:56:30.86:   Deleted a past showing for keoma1976
+14/06/15 10:56:30.83:   Deleted a past showing for mischiefnight
+14/06/15 10:56:30.95:   Deleted a past showing for survivalofthedead2010
+14/06/15 10:56:30.97:   Deleted a past showing for extraordinarymeasures2010
+14/06/15 10:56:31.08:   Getting channel 3310
+14/06/15 10:56:30.97:   Deleted a past showing for separatedbymurder
+14/06/15 10:56:31.01:   Deleted a past showing for ourgiftoflove
+14/06/15 10:56:30.97:   Deleted a past showing for raisingwaylon2004
+14/06/15 10:56:31.08:   Getting channel 3643
+14/06/15 10:56:30.92:   Deleted a past showing for geronimo1993
+14/06/15 10:56:31.08:   Getting channel 3708
+14/06/15 10:56:31.00:   Deleted a past showing for shockwave2006
+14/06/15 10:56:30.92:   Deleted a past showing for whitelion2010
+14/06/15 10:56:30.98:   Deleted a past showing for harttoharttilldeath1996
+14/06/15 10:56:30.92:   Deleted a past showing for themissing2003
+14/06/15 10:56:30.95:   Deleted a past showing for haveyouseenmyson
+14/06/15 10:56:31.08:   Getting channel 3751
+14/06/15 10:56:31.01:   Deleted a past showing for clearandpresentdanger1994
+14/06/15 10:56:31.08:   Getting channel 5201
+14/06/15 10:56:31.01:   Deleted a past showing for deathatafuneral2010
+14/06/15 10:56:30.98:   Deleted a past showing for killzone1993
+14/06/15 10:56:30.95:   Deleted a past showing for shenandoah1965
+14/06/15 10:56:31.08:   Getting channel 6240
+14/06/15 10:56:30.94:   Deleted a past showing for gattaca1997
+14/06/15 10:56:31.08:   Getting channel 2077
+14/06/15 10:56:30.95:   Deleted a past showing for littlenikita1988
+14/06/15 10:56:31.08:   Getting channel 6272
+14/06/15 10:56:30.98:   Deleted a past showing for sadinheritance
+14/06/15 10:56:31.08:   Getting channel 3617
+14/06/15 10:56:30.95:   Deleted a past showing for ashineofrainbows2009
+14/06/15 10:56:30.97:   Deleted a past showing for ivanhoe1982
+14/06/15 10:56:30.95:   Deleted a past showing for mynameisbruce2007
+14/06/15 10:56:30.95:   Deleted a past showing for enemymine1986
+14/06/15 10:56:30.95:   Deleted a past showing for vampirebats2005
+14/06/15 10:56:31.08:   Getting channel 1675
+14/06/15 10:56:31.03:   Deleted a past showing for sexandmrsx
+14/06/15 10:56:31.08:   Getting channel 1627
+14/06/15 10:56:31.08:   Getting day 201506150000
+14/06/15 10:56:31.00:   Deleted a past showing for anotherwomanshusband
+14/06/15 10:56:31.00:   Deleted a past showing for tombraiderthecradleoflife2003
+14/06/15 10:56:30.97:   Deleted a past showing for insomnia2002
+14/06/15 10:56:30.95:   Deleted a past showing for everymothersworstfear
+14/06/15 10:56:30.95:   Deleted a past showing for asylum1972
+14/06/15 10:56:31.03:   Deleted a past showing for viewofterror
+14/06/15 10:56:31.01:   Deleted a past showing for contraband2012
+14/06/15 10:56:31.01:   Deleted a past showing for gridirongang2006
+14/06/15 10:56:30.95:   Deleted a past showing for hightide1979
+14/06/15 10:56:30.98:   Deleted a past showing for whitecomanche1968
+14/06/15 10:56:30.98:   Deleted a past showing for thebellyofanarchitect1987
+14/06/15 10:56:30.98:   Deleted a past showing for mrblandingsbuildshisdream1948
+14/06/15 10:56:31.03:   Deleted a past showing for babysnatcher
+14/06/15 10:56:30.86:   Deleted a past showing for wagonmaster1950
+14/06/15 10:56:30.97:   Deleted a past showing for unknown2011
+14/06/15 10:56:30.87:   Deleted a past showing for thecraft1996
+14/06/15 10:56:30.98:   Deleted a past showing for harttoharttilldeath1996
+14/06/15 10:56:30.98:   Deleted a past showing for thebellyofanarchitect1987
+14/06/15 10:56:30.98:   Deleted a past showing for satansschoolforgirls2000
+14/06/15 10:56:30.98:   Deleted a past showing for decoys2alienseduction2007
+14/06/15 10:56:30.98:   Deleted a past showing for exorcismus2010
+14/06/15 10:56:30.97:   Deleted a past showing for anotherlife1920
+14/06/15 10:56:31.08:   Getting channel 3300
+14/06/15 10:56:30.89:   Deleted a past showing for evilunderthesun1982
+14/06/15 10:56:30.92:   Deleted a past showing for deepwinter2008
+14/06/15 10:56:30.98:   Deleted a past showing for stillcrazylikeafox1987
+14/06/15 10:56:31.08:   Getting channel 3605
+14/06/15 10:56:30.98:   Deleted a past showing for thekillingmind
+14/06/15 10:56:31.00:   Deleted a past showing for theblingring2013
+14/06/15 10:56:31.01:   Deleted a past showing for againstallodds1984
+14/06/15 10:56:31.00:   Deleted a past showing for terrorpeak2003
+14/06/15 10:56:31.00:   Deleted a past showing for jakobtheliar1999
+14/06/15 10:56:31.08:   Getting channel 3541
+14/06/15 10:56:31.01:   Deleted a past showing for salute1968
+14/06/15 10:56:31.08:   Getting channel 3751
+14/06/15 10:56:31.00:   Deleted a past showing for crossfire1947
+14/06/15 10:56:31.01:   Deleted a past showing for quadrophenia1979
+14/06/15 10:56:31.01:   Deleted a past showing for childhoodsweetheart
+14/06/15 10:56:31.01:   Deleted a past showing for submerged2005
+14/06/15 10:56:30.94:   Deleted a past showing for girlinterrupted1960
+14/06/15 10:56:31.00:   Deleted a past showing for lillimarlene1951
+14/06/15 10:56:31.03:   Deleted a past showing for fifteenandpregnant
+14/06/15 10:56:31.08:   Getting channel 4075
+14/06/15 10:56:30.90:   Deleted a past showing for santafe1951
+14/06/15 10:56:31.03:   Deleted a past showing for scaredsilent
+14/06/15 10:56:31.01:   Deleted a past showing for submerged2005
+14/06/15 10:56:31.03:   Deleted a past showing for soldiersgirl
+14/06/15 10:56:31.03:   Deleted a past showing for youlightupmylife1977
+14/06/15 10:56:30.90:   Deleted a past showing for lockup1989
+14/06/15 10:56:31.01:   Deleted a past showing for thehunted1967
+14/06/15 10:56:31.01:   Deleted a past showing for obsession2011
+14/06/15 10:56:31.03:   Deleted a past showing for bluethunder1983
+14/06/15 10:56:31.08:   Retrieving new day
+14/06/15 10:56:31.08:   Getting channel 6272
+14/06/15 10:56:31.08:   Getting channel 1626
+14/06/15 10:56:30.90:   Deleted a past showing for doublejeopardy1999
+14/06/15 10:56:30.79:   Deleted a past showing for stepmom1998
+14/06/15 10:56:31.00:   Deleted a past showing for bluesteel1989
+14/06/15 10:56:31.08:   Getting channel 1629
+14/06/15 10:56:31.01:   Deleted a past showing for thecomedian2012
+14/06/15 10:56:31.01:   Deleted a past showing for thehappening2008
+14/06/15 10:56:31.03:   Deleted a past showing for harttoharttwoharts1995
+14/06/15 10:56:31.01:   Deleted a past showing for thecomedian2012
+14/06/15 10:56:31.03:   Deleted a past showing for harttoharttwoharts1995
+14/06/15 10:56:31.03:   Deleted a past showing for porkys1950
+14/06/15 10:56:31.00:   Deleted a past showing for deadlyhope2012
+14/06/15 10:56:30.92:   Deleted a past showing for armored2009
+14/06/15 10:56:31.03:   Deleted a past showing for 10thwolf2006
+14/06/15 10:56:31.08:   Getting channel 6274
+14/06/15 10:56:31.03:   Deleted a past showing for tosavethechildren
+14/06/15 10:56:31.09:   Getting channel 2076
+14/06/15 10:56:31.03:   Deleted a past showing for onespecialvictory
+14/06/15 10:56:31.03:   Deleted a past showing for jenniferawomansstory
+14/06/15 10:56:31.01:   Deleted a past showing for awinnerneverquits1940
+14/06/15 10:56:31.09:   Getting channel 2075
+14/06/15 10:56:30.95:   Deleted a past showing for laracrofttombraider2001
+14/06/15 10:56:31.09:   Getting channel 2077
+14/06/15 10:56:31.03:   Deleted a past showing for joydivision2006
+14/06/15 10:56:31.09:   Getting channel 3150
+14/06/15 10:56:30.97:   Deleted a past showing for anotherlife1920
+14/06/15 10:56:31.09:   Getting channel 2016
+14/06/15 10:56:30.92:   Deleted a past showing for annakarenina1985
+14/06/15 10:56:31.09:   Getting channel 3220
+14/06/15 10:56:30.98:   Deleted a past showing for stormandsorrow
+14/06/15 10:56:31.09:   Getting channel 3605
+14/06/15 10:56:30.92:   Deleted a past showing for brothersinarms2005
+14/06/15 10:56:31.09:   Getting channel 3028
+14/06/15 10:56:30.97:   Deleted a past showing for murderofinnocence
+14/06/15 10:56:31.09:   Getting channel 3340
+14/06/15 10:56:30.92:   Deleted a past showing for brothersinarms2005
+14/06/15 10:56:31.03:   Deleted a past showing for rootsthegift
+14/06/15 10:56:31.01:   Deleted a past showing for thehappening2008
+14/06/15 10:56:31.09:   Getting channel 3721
+14/06/15 10:56:31.03:   Deleted a past showing for withnaili1987
+14/06/15 10:56:31.09:   Getting channel 3541
+14/06/15 10:56:30.95:   Deleted a past showing for picnic2000
+14/06/15 10:56:31.09:   Getting channel 5201
+14/06/15 10:56:30.97:   Deleted a past showing for stalag171953
+14/06/15 10:56:31.09:   Getting channel 5338
+14/06/15 10:56:31.03:   Deleted a past showing for withnaili1987
+14/06/15 10:56:31.03:   Deleted a past showing for paul2011
+14/06/15 10:56:31.01:   Deleted a past showing for stagecoachkid1949
+14/06/15 10:56:31.04:   Deleted a past showing for rolemodels2008
+14/06/15 10:56:30.94:   Deleted a past showing for destinationgobi1953
+14/06/15 10:56:31.03:   Deleted a past showing for paul2011
+14/06/15 10:56:31.04:   Deleted a past showing for rolemodels2008
+14/06/15 10:56:30.98:   Deleted a past showing for catballou1965
+14/06/15 10:56:30.97:   Deleted a past showing for thechangeup2011
+14/06/15 10:56:31.09:   Getting channel 6261
+14/06/15 10:56:31.11:   Getting day 201506170000
+14/06/15 10:56:31.09:   Getting channel 6240
+14/06/15 10:56:31.01:   Deleted a past showing for iwasmontysdouble1958
+14/06/15 10:56:30.92:   Deleted a past showing for annakarenina1985
+14/06/15 10:56:31.04:   Deleted a past showing for alongcameaspider2001
+14/06/15 10:56:31.11:   Getting channel 1675
+14/06/15 10:56:30.92:   Deleted a past showing for monsterwolf2010
+14/06/15 10:56:30.97:   Deleted a past showing for littlewomen1994
+14/06/15 10:56:31.04:   Deleted a past showing for theprincessandthefrog1920
+14/06/15 10:56:31.03:   Deleted a past showing for ambushinleopardstreet1962
+14/06/15 10:56:31.04:   Deleted a past showing for thelongandtheshortandthe1961
+14/06/15 10:56:30.92:   Deleted a past showing for adayinoctober1992
+14/06/15 10:56:30.95:   Deleted a past showing for thehousenextdoor2006
+14/06/15 10:56:31.03:   Deleted a past showing for thedevilsbusiness2011
+14/06/15 10:56:30.94:   Deleted a past showing for thestrangerworeagun1953
+14/06/15 10:56:30.92:   Deleted a past showing for dangerouschild
+14/06/15 10:56:31.00:   Deleted a past showing for gingersnaps2000
+14/06/15 10:56:30.95:   Deleted a past showing for anightmarecometrue
+14/06/15 10:56:30.89:   Deleted a past showing for lovesunfoldingdream2007
+14/06/15 10:56:31.04:   Deleted a past showing for hypothermia2010
+14/06/15 10:56:31.04:   Deleted a past showing for thethirtyninesteps1978
+14/06/15 10:56:31.04:   Deleted a past showing for thelazarusproject2008
+14/06/15 10:56:31.00:   Deleted a past showing for dragoonwellsmassacre1957
+14/06/15 10:56:31.11:   Getting channel 2086
+14/06/15 10:56:30.90:   Deleted a past showing for mirchmasala1987
+14/06/15 10:56:31.04:   Deleted a past showing for damnationalley1977
+14/06/15 10:56:31.04:   Deleted a past showing for fistfulofdollars1964
+14/06/15 10:56:30.87:   Deleted a past showing for theswanprincess1998
+14/06/15 10:56:31.04:   Deleted a past showing for dc911timeofcrisis2001
+14/06/15 10:56:31.11:   Getting channel 3023
+14/06/15 10:56:30.94:   Deleted a past showing for keithlemonthefilm2012
+14/06/15 10:56:30.83:   Deleted a past showing for thetoy1982
+14/06/15 10:56:30.83:   Deleted a past showing for foolsrushin1997
+14/06/15 10:56:31.11:   Getting channel 3028
+14/06/15 10:56:31.00:   Deleted a past showing for thecaseofcharlespeace1949
+14/06/15 10:56:31.00:   Deleted a past showing for spacewarriors2013
+14/06/15 10:56:30.89:   Deleted a past showing for roxannetheprizepulitzer
+14/06/15 10:56:31.11:   Getting channel 3310
+14/06/15 10:56:30.95:   Deleted a past showing for thedarkesthour2011
+14/06/15 10:56:31.11:   Getting channel 3617
+14/06/15 10:56:30.89:   Deleted a past showing for bluevalleysongbird
+14/06/15 10:56:31.11:   Getting channel 4075
+14/06/15 10:56:30.92:   Deleted a past showing for frightnight1985
+14/06/15 10:56:31.11:   Getting channel 4266
+14/06/15 10:56:30.97:   Deleted a past showing for nochildofmine
+14/06/15 10:56:31.03:   Deleted a past showing for inferno19981998
+14/06/15 10:56:31.01:   Deleted a past showing for thebiggestfan2002
+14/06/15 10:56:30.97:   Deleted a past showing for deadlymessages1985
+14/06/15 10:56:31.00:   Deleted a past showing for lawofthebadlands1951
+14/06/15 10:56:31.11:   Getting channel 3721
+14/06/15 10:56:30.97:   Deleted a past showing for bobthebutler2005
+14/06/15 10:56:30.98:   Deleted a past showing for onthinicethetaibabilonia
+14/06/15 10:56:31.00:   Deleted a past showing for thereplacementkillers1998
+14/06/15 10:56:31.00:   Deleted a past showing for fivegoldendragons1967
+14/06/15 10:56:31.06:   Deleted a past showing for morganasuitablecasefor
+14/06/15 10:56:31.00:   Deleted a past showing for crownheights1991
+14/06/15 10:56:30.98:   Deleted a past showing for inthearmsofakiller
+14/06/15 10:56:30.95:   Deleted a past showing for shenandoah1965
+14/06/15 10:56:31.06:   Deleted a past showing for charlesamanalone
+14/06/15 10:56:31.11:   Getting channel 1626
+14/06/15 10:56:31.06:   Deleted a past showing for princessdianaslegacy1997
+14/06/15 10:56:30.86:   Deleted a past showing for wagonmaster1950
+14/06/15 10:56:30.92:   Deleted a past showing for thelastblitzkrieg1959
+14/06/15 10:56:31.11:   Getting channel 1832
+14/06/15 10:56:31.06:   Deleted a past showing for princejack
+14/06/15 10:56:31.01:   Deleted a past showing for flirtingwithforty2008
+14/06/15 10:56:31.01:   Deleted a past showing for harttohartoldfriendsnever1994
+14/06/15 10:56:31.11:   Getting channel 1628
+14/06/15 10:56:31.01:   Deleted a past showing for theoutlaw
+14/06/15 10:56:30.92:   Deleted a past showing for afatherschoice2000
+14/06/15 10:56:30.94:   Deleted a past showing for remembranceoflove1983
+14/06/15 10:56:31.11:   Getting channel 2015
+14/06/15 10:56:30.94:   Deleted a past showing for intheelectricmist2009
+14/06/15 10:56:31.11:   Getting channel 1627
+14/06/15 10:56:31.00:   Deleted a past showing for freshmanfather
+14/06/15 10:56:31.11:   Getting channel 2061
+14/06/15 10:56:30.86:   Deleted a past showing for dawnrider2012
+14/06/15 10:56:30.92:   Deleted a past showing for reunionatfairborough1985
+14/06/15 10:56:30.97:   Deleted a past showing for extraordinarymeasures2010
+14/06/15 10:56:31.11:   Getting channel 2082
+14/06/15 10:56:30.89:   Deleted a past showing for dueeast
+14/06/15 10:56:30.89:   Deleted a past showing for thereadingroom2005
+14/06/15 10:56:30.98:   Deleted a past showing for maryhigginsclarkallaround
+14/06/15 10:56:30.97:   Deleted a past showing for thefallenidol
+14/06/15 10:56:30.90:   Deleted a past showing for theleagueofgentlemen1960
+14/06/15 10:56:31.11:   Getting channel 3150
+14/06/15 10:56:30.94:   Deleted a past showing for lovesmusiclovestodance
+14/06/15 10:56:30.84:   Deleted a past showing for secondincommand2006
+14/06/15 10:56:30.94:   Deleted a past showing for keithlemonthefilm2012
+14/06/15 10:56:31.11:   Getting channel 2086
+14/06/15 10:56:30.89:   Deleted a past showing for redheat1988
+14/06/15 10:56:31.11:   Getting channel 3605
+14/06/15 10:56:30.90:   Deleted a past showing for 310toyuma1957
+14/06/15 10:56:31.01:   Deleted a past showing for flirtingwithforty2008
+14/06/15 10:56:30.98:   Deleted a past showing for stillcrazylikeafox1987
+14/06/15 10:56:30.89:   Deleted a past showing for stormbreaker2006
+14/06/15 10:56:31.04:   Deleted a past showing for theprincessandthefrog1920
+14/06/15 10:56:30.90:   Deleted a past showing for doublejeopardy1999
+14/06/15 10:56:30.94:   Deleted a past showing for desolationcanyon2006
+14/06/15 10:56:31.00:   Deleted a past showing for citykiller1984
+14/06/15 10:56:30.92:   Deleted a past showing for afatherschoice2000
+14/06/15 10:56:30.97:   Deleted a past showing for marilynandme
+14/06/15 10:56:30.94:   Deleted a past showing for thepriceofabrokenheart
+14/06/15 10:56:31.11:   Getting channel 2005
+14/06/15 10:56:30.95:   Deleted a past showing for dragonwars2007
+14/06/15 10:56:30.97:   Deleted a past showing for bobthebutler2005
+14/06/15 10:56:31.04:   Deleted a past showing for theprincessandthefrog1920
+14/06/15 10:56:31.11:   Getting channel 6240
+14/06/15 10:56:31.00:   Deleted a past showing for deadlyhope2012
+14/06/15 10:56:31.11:   Getting channel 6260
+14/06/15 10:56:30.94:   Deleted a past showing for intheelectricmist2009
+14/06/15 10:56:31.11:   Getting channel 6272
+14/06/15 10:56:31.04:   Deleted a past showing for swordofsherwoodforest1960
+14/06/15 10:56:31.11:   Getting channel 6241
+14/06/15 10:56:30.94:   Deleted a past showing for maryhigginsclarkacrimeof
+14/06/15 10:56:31.11:   Getting channel 4610
+14/06/15 10:56:31.04:   Deleted a past showing for swordofsherwoodforest1960
+14/06/15 10:56:31.11:   Getting channel 5297
+14/06/15 10:56:30.98:   Deleted a past showing for twosmallvoices
+14/06/15 10:56:30.92:   Deleted a past showing for armored2009
+14/06/15 10:56:31.04:   Deleted a past showing for theprincessandthefrog1920
+14/06/15 10:56:30.90:   Deleted a past showing for mirchmasala1987
+14/06/15 10:56:30.94:   Deleted a past showing for concretecanyons2010
+14/06/15 10:56:31.12:   Getting channel 1839
+14/06/15 10:56:31.11:   Getting day 201506190000
+14/06/15 10:56:31.01:   Deleted a past showing for thedevilsbusiness2011
+14/06/15 10:56:30.98:   Deleted a past showing for dragoonwellsmassacre1957
+14/06/15 10:56:30.94:   Deleted a past showing for familysecrets
+14/06/15 10:56:30.81:   Deleted a past showing for thefugitive1993
+14/06/15 10:56:31.03:   Deleted a past showing for ambushinleopardstreet1962
+14/06/15 10:56:30.83:   Deleted a past showing for krull1983
+14/06/15 10:56:30.89:   Deleted a past showing for webofdeceit
+14/06/15 10:56:30.97:   Deleted a past showing for chickenrun2000
+14/06/15 10:56:30.97:   Deleted a past showing for maryhigginsclarkheseesyou
+14/06/15 10:56:30.94:   Deleted a past showing for bittervictory1957
+14/06/15 10:56:31.04:   Deleted a past showing for swordofsherwoodforest1960
+14/06/15 10:56:30.97:   Deleted a past showing for nochildofmine
+14/06/15 10:56:31.00:   Deleted a past showing for citykiller1984
+14/06/15 10:56:31.12:   Getting channel 2086
+14/06/15 10:56:30.89:   Deleted a past showing for shootout1971
+14/06/15 10:56:31.12:   Getting channel 2077
+14/06/15 10:56:30.92:   Deleted a past showing for thehand1960
+14/06/15 10:56:31.12:   Getting channel 3022
+14/06/15 10:56:31.01:   Deleted a past showing for theblackarrow1948
+14/06/15 10:56:31.12:   Getting channel 2082
+14/06/15 10:56:30.90:   Deleted a past showing for nevada1944
+14/06/15 10:56:31.04:   Deleted a past showing for upintheair2009
+14/06/15 10:56:31.04:   Deleted a past showing for thedirtydozen1967
+14/06/15 10:56:30.98:   Deleted a past showing for undueinfluence
+14/06/15 10:56:30.83:   Deleted a past showing for freedomland2006
+14/06/15 10:56:30.98:   Deleted a past showing for thekingdom2007
+14/06/15 10:56:30.97:   Deleted a past showing for cloakanddagger1946
+14/06/15 10:56:31.04:   Deleted a past showing for damnationalley1977
+14/06/15 10:56:31.03:   Deleted a past showing for thejohnsullivanstory1939
+14/06/15 10:56:31.11:   Getting channel 6240
+14/06/15 10:56:30.90:   Deleted a past showing for thehumanfactor1979
+14/06/15 10:56:31.00:   Deleted a past showing for gingersnaps2000
+14/06/15 10:56:30.89:   Deleted a past showing for jodipicoultsthepact
+14/06/15 10:56:30.92:   Deleted a past showing for thecaribootrail1950
+14/06/15 10:56:30.98:   Deleted a past showing for abulletforthegeneral1966
+14/06/15 10:56:31.12:   Getting channel 3771
+14/06/15 10:56:30.97:   Deleted a past showing for klitschko2011
+14/06/15 10:56:30.95:   Deleted a past showing for hush1998
+14/06/15 10:56:31.06:   Deleted a past showing for atouchofhope
+14/06/15 10:56:31.12:   Getting channel 5297
+14/06/15 10:56:30.89:   Deleted a past showing for stormbreaker2006
+14/06/15 10:56:31.04:   Deleted a past showing for thechildrennobodywanted
+14/06/15 10:56:31.12:   Getting channel 6240
+14/06/15 10:56:31.00:   Deleted a past showing for sandsofiwojima1949
+14/06/15 10:56:31.12:   Getting channel 6272
+14/06/15 10:56:30.97:   Deleted a past showing for tiesthatbind2010
+14/06/15 10:56:31.12:   Getting channel 6274
+14/06/15 10:56:30.94:   Deleted a past showing for thesweeney2012
+14/06/15 10:56:31.04:   Deleted a past showing for whyme1984
+14/06/15 10:56:30.94:   Deleted a past showing for thelastchance2003
+14/06/15 10:56:31.12:   Getting channel 1627
+14/06/15 10:56:31.06:   Deleted a past showing for longjohnsilver1954
+14/06/15 10:56:31.12:   Getting channel 1675
+14/06/15 10:56:31.06:   Deleted a past showing for cerberus2005
+14/06/15 10:56:31.12:   Getting channel 1628
+14/06/15 10:56:31.06:   Deleted a past showing for stormcell2008
+14/06/15 10:56:31.12:   Getting channel 1626
+14/06/15 10:56:31.06:   Deleted a past showing for stormcell2008
+14/06/15 10:56:31.06:   Deleted a past showing for womenofvalour1986
+14/06/15 10:56:31.06:   Deleted a past showing for thewhistleblower1986
+14/06/15 10:56:31.12:   Getting channel 2005
+14/06/15 10:56:30.92:   Deleted a past showing for bermudatriangle1996
+14/06/15 10:56:31.12:   Getting channel 1836
+14/06/15 10:56:31.06:   Deleted a past showing for theseventhcoin1993
+14/06/15 10:56:31.12:   Getting channel 2004
+14/06/15 10:56:31.06:   Deleted a past showing for thewhistleblower1986
+14/06/15 10:56:31.12:   Getting channel 2015
+14/06/15 10:56:31.12:   Getting day 201506200000
+14/06/15 10:56:31.06:   Deleted a past showing for thehijackers1963
+14/06/15 10:56:31.06:   Deleted a past showing for womenofvalour1986
+14/06/15 10:56:31.03:   Deleted a past showing for machinegunkelly1958
+14/06/15 10:56:30.95:   Deleted a past showing for survivalofthedead2010
+14/06/15 10:56:30.79:   Deleted a past showing for driveangry2010
+14/06/15 10:56:30.98:   Deleted a past showing for majordundee1965
+14/06/15 10:56:31.12:   Getting channel 3027
+14/06/15 10:56:30.97:   Deleted a past showing for daniellesteelsvanished
+14/06/15 10:56:30.84:   Deleted a past showing for runawaycar
+14/06/15 10:56:30.79:   Deleted a past showing for carnage2011
+14/06/15 10:56:31.12:   Getting channel 3300
+14/06/15 10:56:30.90:   Deleted a past showing for thepaperboy2012
+14/06/15 10:56:31.12:   Getting channel 3028
+14/06/15 10:56:30.84:   Deleted a past showing for losingchase1996
+14/06/15 10:56:30.98:   Deleted a past showing for playingforkeeps
+14/06/15 10:56:30.97:   Deleted a past showing for tiesthatbind2010
+14/06/15 10:56:31.12:   Getting channel 3605
+14/06/15 10:56:31.06:   Deleted a past showing for labamba1987
+14/06/15 10:56:31.12:   Getting channel 3709
+14/06/15 10:56:30.92:   Deleted a past showing for armored2009
+14/06/15 10:56:31.12:   Getting channel 3643
+14/06/15 10:56:31.00:   Deleted a past showing for sandsofiwojima1949
+14/06/15 10:56:30.89:   Deleted a past showing for insideman2006
+14/06/15 10:56:31.06:   Deleted a past showing for fergiethedownfallofa
+14/06/15 10:56:31.06:   Deleted a past showing for roughair
+14/06/15 10:56:30.90:   Deleted a past showing for eccentricitiesofa2009
+14/06/15 10:56:30.97:   Deleted a past showing for attack1956
+14/06/15 10:56:30.98:   Deleted a past showing for fairgame2010
+14/06/15 10:56:31.12:   Getting channel 3751
+14/06/15 10:56:30.97:   Deleted a past showing for klitschko2011
+14/06/15 10:56:31.12:   Getting channel 4502
+14/06/15 10:56:30.83:   Deleted a past showing for foolsrushin1997
+14/06/15 10:56:31.11:   Getting channel 2002
+14/06/15 10:56:31.01:   Deleted a past showing for againstthewind1947
+14/06/15 10:56:31.12:   Getting channel 5297
+14/06/15 10:56:31.11:   Getting day 201506180000
+14/06/15 10:56:31.12:   Getting channel 6272
+14/06/15 10:56:30.98:   Deleted a past showing for stationwest1948
+14/06/15 10:56:30.89:   Deleted a past showing for webofdeceit
+14/06/15 10:56:30.95:   Deleted a past showing for ashineofrainbows2009
+14/06/15 10:56:31.11:   Getting channel 2076
+14/06/15 10:56:30.95:   Deleted a past showing for raisingwaylon2004
+14/06/15 10:56:31.12:   Getting channel 3708
+14/06/15 10:56:30.97:   Deleted a past showing for truegrit1969
+14/06/15 10:56:31.11:   Getting channel 2077
+14/06/15 10:56:30.90:   Deleted a past showing for nextstopmurder2010
+14/06/15 10:56:30.87:   Deleted a past showing for thewaywewere1973
+14/06/15 10:56:30.84:   Deleted a past showing for thepornographer1999
+14/06/15 10:56:30.98:   Deleted a past showing for fairgame2010
+14/06/15 10:56:31.06:   Deleted a past showing for afarewelltoarms
+14/06/15 10:56:31.00:   Deleted a past showing for fivegoldendragons1967
+14/06/15 10:56:31.11:   Getting channel 3643
+14/06/15 10:56:31.03:   Deleted a past showing for aplaceinhell1969
+14/06/15 10:56:31.11:   Getting channel 3541
+14/06/15 10:56:30.86:   Deleted a past showing for thepornographer1999
+14/06/15 10:56:30.86:   Deleted a past showing for dawnrider2012
+14/06/15 10:56:30.97:   Deleted a past showing for revolution1985
+14/06/15 10:56:30.95:   Deleted a past showing for achildscry
+14/06/15 10:56:30.83:   Deleted a past showing for theshadowriders1982
+14/06/15 10:56:30.98:   Deleted a past showing for stationwest1948
+14/06/15 10:56:30.83:   Deleted a past showing for theforgotten2004
+14/06/15 10:56:31.11:   Getting channel 3300
+14/06/15 10:56:31.06:   Deleted a past showing for 50gloriousyears
+14/06/15 10:56:31.06:   Deleted a past showing for housesitter1992
+14/06/15 10:56:31.06:   Deleted a past showing for takingbackourtown
+14/06/15 10:56:31.06:   Deleted a past showing for drno1962
+14/06/15 10:56:30.90:   Deleted a past showing for finalrecourse2013
+14/06/15 10:56:30.86:   Deleted a past showing for dawnrider2012
+14/06/15 10:56:31.00:   Deleted a past showing for romanholiday1953
+14/06/15 10:56:31.06:   Getting channel 1629
+14/06/15 10:56:31.03:   Deleted a past showing for aplaceinhell1969
+14/06/15 10:56:31.08:   Getting channel 3023
+14/06/15 10:56:30.94:   Deleted a past showing for junglebook1942
+14/06/15 10:56:30.98:   Deleted a past showing for pointofentry2007
+14/06/15 10:56:30.92:   Deleted a past showing for thelastblitzkrieg1959
+14/06/15 10:56:31.08:   Getting channel 3340
+14/06/15 10:56:30.92:   Deleted a past showing for adoctorsstory1984
+14/06/15 10:56:30.98:   Deleted a past showing for fairgame2010
+14/06/15 10:56:31.01:   Deleted a past showing for gridirongang2006
+14/06/15 10:56:31.08:   Getting channel 3541
+14/06/15 10:56:30.90:   Deleted a past showing for lockup1989
+14/06/15 10:56:31.00:   Deleted a past showing for dearjohn2010
+14/06/15 10:56:30.97:   Deleted a past showing for aknightstale2001
+14/06/15 10:56:31.08:   Getting channel 1839
+14/06/15 10:56:30.92:   Deleted a past showing for gattaca1997
+14/06/15 10:56:30.95:   Deleted a past showing for ashineofrainbows2009
+14/06/15 10:56:31.01:   Deleted a past showing for maryhigginsclarkillbe
+14/06/15 10:56:31.01:   Deleted a past showing for contraband2012
+14/06/15 10:56:31.00:   Deleted a past showing for breadcrumbs2011
+14/06/15 10:56:30.87:   Deleted a past showing for onlyyou1994
+14/06/15 10:56:30.97:   Deleted a past showing for alliwant2003
+14/06/15 10:56:30.97:   Deleted a past showing for viceversa1988
+14/06/15 10:56:30.94:   Deleted a past showing for intheelectricmist2009
+14/06/15 10:56:30.97:   Deleted a past showing for stalag171953
+14/06/15 10:56:31.01:   Deleted a past showing for hollowman22006
+14/06/15 10:56:30.98:   Deleted a past showing for culloden17461994
+14/06/15 10:56:30.98:   Deleted a past showing for noonecouldprotecther
+14/06/15 10:56:30.92:   Deleted a past showing for youcantwinthemall1920
+14/06/15 10:56:31.08:   Getting channel 3150
+14/06/15 10:56:30.97:   Deleted a past showing for thebigtrees
+14/06/15 10:56:31.03:   Deleted a past showing for battlerecon2011
+14/06/15 10:56:30.94:   Deleted a past showing for thejazzsinger1980
+14/06/15 10:56:31.11:   Getting channel 1628
+14/06/15 10:56:30.97:   Deleted a past showing for cloakanddagger1946
+14/06/15 10:56:30.94:   Deleted a past showing for bittervictory1957
+14/06/15 10:56:30.94:   Deleted a past showing for concretecanyons2010
+14/06/15 10:56:31.01:   Deleted a past showing for iwasmontysdouble1958
+14/06/15 10:56:30.94:   Deleted a past showing for intheelectricmist2009
+14/06/15 10:56:30.98:   Deleted a past showing for sneakers1992
+14/06/15 10:56:30.98:   Deleted a past showing for almostfamous2000
+14/06/15 10:56:30.92:   Deleted a past showing for thecaribootrail1950
+14/06/15 10:56:30.94:   Deleted a past showing for intheelectricmist2009
+14/06/15 10:56:30.98:   Deleted a past showing for hellgate1952
+14/06/15 10:56:31.01:   Deleted a past showing for justaskmychildren
+14/06/15 10:56:30.87:   Deleted a past showing for prisonofsecrets
+14/06/15 10:56:30.90:   Deleted a past showing for nextstopmurder2010
+14/06/15 10:56:31.01:   Deleted a past showing for weepnomoremylady
+14/06/15 10:56:31.01:   Deleted a past showing for theblackarrow1948
+14/06/15 10:56:31.12:   Getting channel 5338
+14/06/15 10:56:31.06:   Deleted a past showing for mozambique1965
+14/06/15 10:56:31.06:   Deleted a past showing for solarattack2006
+14/06/15 10:56:30.97:   Deleted a past showing for tomorrowwelive1943
+14/06/15 10:56:30.95:   Deleted a past showing for mynameisbruce2007
+14/06/15 10:56:30.98:   Deleted a past showing for noonecouldprotecther
+14/06/15 10:56:30.92:   Deleted a past showing for burythemdeep1968
+14/06/15 10:56:30.92:   Deleted a past showing for inhumanresources2012
+14/06/15 10:56:30.92:   Deleted a past showing for inhumanresources2012
+14/06/15 10:56:30.95:   Deleted a past showing for juliax2011
+14/06/15 10:56:30.95:   Deleted a past showing for hotelreserve1944
+14/06/15 10:56:31.01:   Deleted a past showing for shockwave2006
+14/06/15 10:56:31.00:   Deleted a past showing for romanholiday1953
+14/06/15 10:56:30.95:   Deleted a past showing for vampirebats2005
+14/06/15 10:56:30.97:   Deleted a past showing for thewaltonscrisis
+14/06/15 10:56:30.79:   Deleted a past showing for grandprix1966
+14/06/15 10:56:30.97:   Deleted a past showing for theinterpreter2005
+14/06/15 10:56:30.86:   Deleted a past showing for bodydouble1984
+14/06/15 10:56:30.81:   Deleted a past showing for beetlejuice1988
+14/06/15 10:56:30.90:   Deleted a past showing for santafe1951
+14/06/15 10:56:30.83:   Deleted a past showing for mischiefnight
+14/06/15 10:56:30.97:   Deleted a past showing for unknown2011
+14/06/15 10:56:30.97:   Deleted a past showing for thestepfather2009
+14/06/15 10:56:31.03:   Deleted a past showing for spring19412008
+14/06/15 10:56:30.97:   Deleted a past showing for adatewithdarkness
+14/06/15 10:56:31.01:   Deleted a past showing for deathatafuneral2010
+14/06/15 10:56:30.94:   Deleted a past showing for junglebook1942
+14/06/15 10:56:30.94:   Deleted a past showing for therustlers1919
+14/06/15 10:56:30.97:   Deleted a past showing for cavein2003
+14/06/15 10:56:30.86:   Deleted a past showing for population4362006
+14/06/15 10:56:31.00:   Deleted a past showing for babybrokers1994
+14/06/15 10:56:30.98:   Deleted a past showing for culloden17461994
+14/06/15 10:56:30.95:   Deleted a past showing for picnic2000
+14/06/15 10:56:31.00:   Deleted a past showing for itwashimorus
+14/06/15 10:56:30.97:   Deleted a past showing for ivanhoe1982
+14/06/15 10:56:30.97:   Deleted a past showing for tomorrowwelive1943
+14/06/15 10:56:31.08:   Getting channel 3022
+14/06/15 10:56:30.97:   Deleted a past showing for insomnia2002
+14/06/15 10:56:31.01:   Deleted a past showing for cavedin2006
+14/06/15 10:56:31.00:   Deleted a past showing for theblingring2013
+14/06/15 10:56:31.08:   Getting channel 3027
+14/06/15 10:56:30.97:   Deleted a past showing for insomnia2002
+14/06/15 10:56:31.01:   Deleted a past showing for againstallodds1984
+14/06/15 10:56:30.94:   Deleted a past showing for concretecanyons2010
+14/06/15 10:56:31.12:   Getting channel 2015
+14/06/15 10:56:31.04:   Deleted a past showing for upintheair2009
+14/06/15 10:56:31.11:   Getting channel 2018
+14/06/15 10:56:31.00:   Deleted a past showing for deadlyhope2012
+14/06/15 10:56:31.11:   Getting channel 2061
+14/06/15 10:56:31.04:   Deleted a past showing for upintheair2009
+14/06/15 10:56:31.12:   Getting channel 3541
+14/06/15 10:56:30.92:   Deleted a past showing for armored2009
+14/06/15 10:56:31.11:   Getting channel 2075
+14/06/15 10:56:30.87:   Deleted a past showing for theoutsider
+14/06/15 10:56:31.12:   Getting channel 3300
+14/06/15 10:56:30.83:   Deleted a past showing for foolsrushin1997
+14/06/15 10:56:31.11:   Getting channel 2082
+14/06/15 10:56:30.98:   Deleted a past showing for centerstage2000
+14/06/15 10:56:31.04:   Deleted a past showing for frontoftheclass
+14/06/15 10:56:30.98:   Deleted a past showing for almostfamous2000
+14/06/15 10:56:30.95:   Deleted a past showing for tofindmyson1980
+14/06/15 10:56:30.94:   Deleted a past showing for thejazzsinger1980
+14/06/15 10:56:31.01:   Deleted a past showing for stagecoachkid1949
+14/06/15 10:56:31.11:   Retrieving new day
+14/06/15 10:56:31.12:   Getting channel 2005
+14/06/15 10:56:30.94:   Deleted a past showing for thewomen2008
+14/06/15 10:56:30.83:   Deleted a past showing for freedomland2006
+14/06/15 10:56:31.12:   Getting channel 3617
+14/06/15 10:56:30.83:   Deleted a past showing for thedead2010
+14/06/15 10:56:31.11:   Getting channel 3027
+14/06/15 10:56:30.89:   Deleted a past showing for dicktracy
+14/06/15 10:56:31.11:   Getting channel 3340
+14/06/15 10:56:30.83:   Deleted a past showing for foolsrushin1997
+14/06/15 10:56:31.11:   Getting channel 5297
+14/06/15 10:56:30.90:   Deleted a past showing for 310toyuma1957
+14/06/15 10:56:30.98:   Deleted a past showing for warstories
+14/06/15 10:56:30.98:   Deleted a past showing for thekingdom2007
+14/06/15 10:56:31.11:   Getting channel 5201
+14/06/15 10:56:30.97:   Deleted a past showing for chickenrun2000
+14/06/15 10:56:31.01:   Deleted a past showing for hiddeninsilence
+14/06/15 10:56:30.86:   Deleted a past showing for thegreatest1977
+14/06/15 10:56:31.12:   Getting channel 3751
+14/06/15 10:56:30.95:   Deleted a past showing for earthstorm2006
+14/06/15 10:56:30.89:   Deleted a past showing for shootout1971
+14/06/15 10:56:30.86:   Deleted a past showing for smokescreen1964
+14/06/15 10:56:31.12:   Getting channel 2016
+14/06/15 10:56:31.03:   Deleted a past showing for inferno19981998
+14/06/15 10:56:31.12:   Getting channel 3022
+14/06/15 10:56:30.79:   Deleted a past showing for stolen2010
+14/06/15 10:56:30.94:   Deleted a past showing for killerinstinct
+14/06/15 10:56:30.95:   Deleted a past showing for tofindmyson1980
+14/06/15 10:56:31.01:   Deleted a past showing for hiddeninsilence
+14/06/15 10:56:30.95:   Deleted a past showing for thepromise
+14/06/15 10:56:30.89:   Deleted a past showing for thequeen2006
+14/06/15 10:56:31.12:   Getting channel 3310
+14/06/15 10:56:30.92:   Deleted a past showing for dyingtobelong
+14/06/15 10:56:31.12:   Getting channel 3617
+14/06/15 10:56:30.89:   Deleted a past showing for ray2004
+14/06/15 10:56:31.12:   Getting channel 3220
+14/06/15 10:56:31.03:   Deleted a past showing for gravehalloween
+14/06/15 10:56:31.11:   Getting channel 3023
+14/06/15 10:56:30.95:   Deleted a past showing for vampirebats2005
+14/06/15 10:56:31.00:   Deleted a past showing for dearjohn2010
+14/06/15 10:56:30.98:   Deleted a past showing for majordundee1965
+14/06/15 10:56:31.11:   Getting channel 3708
+14/06/15 10:56:31.06:   Deleted a past showing for drno1962
+14/06/15 10:56:31.06:   Get films from sky
+14/06/15 10:56:31.06:   Getting channel 1675
+14/06/15 10:56:31.06:   Getting channel 1832
+14/06/15 10:56:31.06:   Getting day 201506140000
+14/06/15 10:56:31.06:   Getting channel 1627
+14/06/15 10:56:30.98:   Deleted a past showing for ofhumanbondage
+14/06/15 10:56:31.08:   Getting channel 3709
+14/06/15 10:56:30.98:   Deleted a past showing for derby2007
+14/06/15 10:56:31.08:   Getting channel 1832
+14/06/15 10:56:31.03:   Deleted a past showing for spring19412008
+14/06/15 10:56:31.08:   Getting channel 1836
+14/06/15 10:56:31.01:   Deleted a past showing for thecolt2005
+14/06/15 10:56:31.08:   Getting channel 2061
+14/06/15 10:56:30.92:   Deleted a past showing for thehand1960
+14/06/15 10:56:31.08:   Getting channel 2006
+14/06/15 10:56:30.86:   Deleted a past showing for panhandle1948
+14/06/15 10:56:31.08:   Getting channel 2004
+14/06/15 10:56:30.86:   Deleted a past showing for keoma1976
+14/06/15 10:56:31.08:   Getting channel 2016
+14/06/15 10:56:30.95:   Deleted a past showing for suddenfury
+14/06/15 10:56:30.89:   Deleted a past showing for thevow2012
+14/06/15 10:56:30.95:   Deleted a past showing for sniper32004
+14/06/15 10:56:30.97:   Deleted a past showing for cavein2003
+14/06/15 10:56:30.97:   Deleted a past showing for insomnia2002
+14/06/15 10:56:30.89:   Deleted a past showing for thevow2012
+14/06/15 10:56:30.87:   Deleted a past showing for thecraft1996
+14/06/15 10:56:30.97:   Deleted a past showing for sarahskey2010
+14/06/15 10:56:30.98:   Deleted a past showing for exorcismus2010
+14/06/15 10:56:31.08:   Getting channel 3310
+14/06/15 10:56:31.00:   Deleted a past showing for heat1995
+14/06/15 10:56:31.00:   Deleted a past showing for breadcrumbs2011
+14/06/15 10:56:31.08:   Getting channel 3220
+14/06/15 10:56:31.00:   Deleted a past showing for jaspertexas1998
+14/06/15 10:56:30.95:   Deleted a past showing for dragonwars2007
+14/06/15 10:56:31.00:   Deleted a past showing for babybrokers1994
+14/06/15 10:56:31.08:   Getting channel 3617
+14/06/15 10:56:31.01:   Deleted a past showing for obsession2011
+14/06/15 10:56:31.08:   Getting channel 3721
+14/06/15 10:56:30.98:   Deleted a past showing for runaway1984
+14/06/15 10:56:31.08:   Getting channel 4502
+14/06/15 10:56:30.98:   Deleted a past showing for catballou1965
+14/06/15 10:56:31.08:   Getting channel 5201
+14/06/15 10:56:30.97:   Deleted a past showing for alliwant2003
+14/06/15 10:56:31.03:   Deleted a past showing for battlerecon2011
+14/06/15 10:56:31.08:   Getting channel 6000
+14/06/15 10:56:30.87:   Deleted a past showing for thecovenant2006
+14/06/15 10:56:31.08:   Getting channel 5297
+14/06/15 10:56:31.01:   Deleted a past showing for hollowman22006
+14/06/15 10:56:30.95:   Deleted a past showing for sniper32004
+14/06/15 10:56:31.01:   Deleted a past showing for thehunted1967
+14/06/15 10:56:30.98:   Deleted a past showing for rushhour1998
+14/06/15 10:56:31.03:   Deleted a past showing for silentnight1944
+14/06/15 10:56:31.09:   Getting channel 1836
+14/06/15 10:56:30.79:   Deleted a past showing for stolen2010
+14/06/15 10:56:30.89:   Deleted a past showing for burlesque2010
+14/06/15 10:56:31.03:   Deleted a past showing for falselyaccused
+14/06/15 10:56:31.09:   Getting channel 2005
+14/06/15 10:56:31.03:   Deleted a past showing for ramboiii1988
+14/06/15 10:56:31.09:   Getting channel 3643
+14/06/15 10:56:31.03:   Deleted a past showing for linx
+14/06/15 10:56:31.09:   Getting channel 5297
+14/06/15 10:56:30.92:   Deleted a past showing for sexykiller2008
+14/06/15 10:56:30.92:   Deleted a past showing for outoforder2003
+14/06/15 10:56:30.98:   Deleted a past showing for centerstage2000
+14/06/15 10:56:31.12:   Getting channel 1675
+14/06/15 10:56:31.01:   Deleted a past showing for bossofbosses
+14/06/15 10:56:31.12:   Getting channel 1830
+14/06/15 10:56:31.04:   Deleted a past showing for blueriver
+14/06/15 10:56:31.11:   Getting channel 2077
+14/06/15 10:56:30.89:   Deleted a past showing for burlesque2010
+14/06/15 10:56:31.12:   Getting channel 2086
+14/06/15 10:56:30.97:   Deleted a past showing for truegrit1969
+14/06/15 10:56:31.12:   Getting channel 2077
+14/06/15 10:56:30.87:   Deleted a past showing for billyliar
+14/06/15 10:56:31.11:   Getting channel 3340
+14/06/15 10:56:30.98:   Deleted a past showing for cursed2013
+14/06/15 10:56:31.08:   Getting channel 2082
+14/06/15 10:56:30.97:   Deleted a past showing for killerjoe2011
+14/06/15 10:56:30.97:   Deleted a past showing for sarahskey2010
+14/06/15 10:56:31.04:   Deleted a past showing for colombiana2011
+14/06/15 10:56:31.04:   Deleted a past showing for colombiana2011
+14/06/15 10:56:31.11:   Getting channel 1830
+14/06/15 10:56:30.89:   Deleted a past showing for thequeen2006
+14/06/15 10:56:31.11:   Getting channel 1627
+14/06/15 10:56:31.04:   Deleted a past showing for scarymovie2000
+14/06/15 10:56:31.11:   Getting channel 2004
+14/06/15 10:56:30.94:   Deleted a past showing for thewomen2008
+14/06/15 10:56:31.00:   Deleted a past showing for bluesteel1989
+14/06/15 10:56:31.11:   Getting channel 1627
+14/06/15 10:56:30.89:   Deleted a past showing for snapdecision
+14/06/15 10:56:31.08:   Getting channel 3028
+14/06/15 10:56:30.90:   Deleted a past showing for geordie1955
+14/06/15 10:56:30.90:   Deleted a past showing for lockup1989
+14/06/15 10:56:31.03:   Deleted a past showing for identity2003
+14/06/15 10:56:31.09:   Getting channel 2003
+14/06/15 10:56:30.90:   Deleted a past showing for alamar2009
+14/06/15 10:56:31.09:   Getting channel 2006
+14/06/15 10:56:30.98:   Deleted a past showing for sneakers1992
+14/06/15 10:56:31.11:   Getting channel 1839
+14/06/15 10:56:31.08:   Getting day 201506160000
+14/06/15 10:56:31.08:   Getting channel 6261
+14/06/15 10:56:31.09:   Getting channel 1839
+14/06/15 10:56:31.09:   Getting channel 1830
+14/06/15 10:56:31.08:   Getting channel 1628
+14/06/15 10:56:31.09:   Getting channel 2002
+14/06/15 10:56:31.09:   Getting channel 2015
+14/06/15 10:56:31.09:   Getting channel 2004
+14/06/15 10:56:31.09:   Getting channel 2061
+14/06/15 10:56:31.09:   Getting channel 2017
+14/06/15 10:56:31.09:   Getting channel 2082
+14/06/15 10:56:31.09:   Getting channel 3022
+14/06/15 10:56:31.09:   Getting channel 3027
+14/06/15 10:56:31.09:   Getting channel 2018
+14/06/15 10:56:31.09:   Getting channel 3709
+14/06/15 10:56:31.09:   Getting channel 3751
+14/06/15 10:56:31.09:   Getting channel 3023
+14/06/15 10:56:31.09:   Getting channel 2086
+14/06/15 10:56:31.09:   Getting channel 3300
+14/06/15 10:56:31.09:   Getting channel 3310
+14/06/15 10:56:31.09:   Getting channel 4075
+14/06/15 10:56:31.09:   Getting channel 3771
+14/06/15 10:56:31.09:   Getting channel 4502
+14/06/15 10:56:31.09:   Getting channel 3617
+14/06/15 10:56:31.09:   Getting channel 3708
+14/06/15 10:56:31.09:   Getting channel 4266
+14/06/15 10:56:31.09:   Getting channel 6241
+14/06/15 10:56:31.09:   Getting channel 6260
+14/06/15 10:56:31.09:   Getting channel 4610
+14/06/15 10:56:31.09:   Getting channel 6272
+14/06/15 10:56:31.09:   Getting channel 6000
+14/06/15 10:56:31.09:   Retrieving new day
+14/06/15 10:56:31.11:   Getting channel 1626
+14/06/15 10:56:31.11:   Getting channel 1628
+14/06/15 10:56:31.11:   Getting channel 1629
+14/06/15 10:56:31.11:   Getting channel 1832
+14/06/15 10:56:31.11:   Getting channel 2003
+14/06/15 10:56:31.11:   Getting channel 2002
+14/06/15 10:56:31.11:   Getting channel 1836
+14/06/15 10:56:31.09:   Getting channel 6274
+14/06/15 10:56:31.11:   Getting channel 4075
+14/06/15 10:56:31.11:   Getting channel 5201
+14/06/15 10:56:31.11:   Getting channel 4502
+14/06/15 10:56:31.11:   Getting channel 5338
+14/06/15 10:56:31.11:   Getting channel 1626
+14/06/15 10:56:31.11:   Getting channel 6274
+14/06/15 10:56:31.11:   Getting channel 6000
+14/06/15 10:56:31.11:   Getting channel 4266
+14/06/15 10:56:31.11:   Getting channel 6261
+14/06/15 10:56:31.12:   Getting channel 1629
+14/06/15 10:56:31.12:   Getting channel 1836
+14/06/15 10:56:31.12:   Getting channel 2003
+14/06/15 10:56:31.12:   Getting channel 1832
+14/06/15 10:56:31.12:   Getting channel 2002
+14/06/15 10:56:31.11:   Getting channel 3771
+14/06/15 10:56:31.12:   Getting channel 2004
+14/06/15 10:56:31.12:   Getting channel 2075
+14/06/15 10:56:31.12:   Getting channel 2016
+14/06/15 10:56:31.11:   Getting channel 2015
+14/06/15 10:56:31.12:   Getting channel 2061
+14/06/15 10:56:31.12:   Getting channel 2018
+14/06/15 10:56:31.12:   Getting channel 2017
+14/06/15 10:56:31.11:   Getting channel 2017
+14/06/15 10:56:31.12:   Getting channel 2006
+14/06/15 10:56:31.12:   Getting channel 3023
+14/06/15 10:56:31.12:   Getting channel 3028
+14/06/15 10:56:31.12:   Getting channel 2076
+14/06/15 10:56:31.12:   Getting channel 3220
+14/06/15 10:56:31.12:   Getting channel 3027
+14/06/15 10:56:31.12:   Getting channel 3150
+14/06/15 10:56:31.12:   Getting channel 3310
+14/06/15 10:56:31.11:   Getting channel 2016
+14/06/15 10:56:31.11:   Getting channel 2076
+14/06/15 10:56:31.11:   Getting channel 2006
+14/06/15 10:56:31.12:   Getting channel 3340
+14/06/15 10:56:31.12:   Getting channel 3708
+14/06/15 10:56:31.12:   Getting channel 3605
+14/06/15 10:56:31.11:   Getting channel 3022
+14/06/15 10:56:31.12:   Getting channel 3643
+14/06/15 10:56:31.11:   Getting channel 3300
+14/06/15 10:56:31.11:   Getting channel 3150
+14/06/15 10:56:31.11:   Getting channel 3605
+14/06/15 10:56:31.12:   Getting channel 3721
+14/06/15 10:56:31.12:   Getting channel 3709
+14/06/15 10:56:31.11:   Getting channel 3643
+14/06/15 10:56:31.11:   Getting channel 3541
+14/06/15 10:56:31.11:   Getting channel 3220
+14/06/15 10:56:31.11:   Getting channel 3709
+14/06/15 10:56:31.11:   Getting channel 3708
+14/06/15 10:56:31.11:   Getting channel 4502
+14/06/15 10:56:31.11:   Getting channel 3751
+14/06/15 10:56:31.11:   Getting channel 5338
+14/06/15 10:56:31.11:   Getting channel 3771
+14/06/15 10:56:31.11:   Getting channel 4610
+14/06/15 10:56:31.11:   Getting channel 6000
+14/06/15 10:56:31.11:   Getting channel 6260
+14/06/15 10:56:31.11:   Getting channel 6241
+14/06/15 10:56:31.11:   Getting channel 6261
+14/06/15 10:56:31.11:   Getting channel 6272
+14/06/15 10:56:31.12:   Getting channel 4266
+14/06/15 10:56:31.12:   Getting channel 6000
+14/06/15 10:56:31.12:   Getting channel 4075
+14/06/15 10:56:31.12:   Getting channel 6241
+14/06/15 10:56:31.12:   Getting channel 4610
+14/06/15 10:56:31.12:   Getting channel 5201
+14/06/15 10:56:31.12:   Getting channel 4502
+14/06/15 10:56:31.12:   Getting channel 6260
+14/06/15 10:56:31.12:   Getting channel 6261
+14/06/15 10:56:31.12:   Getting channel 1832
+14/06/15 10:56:31.12:   Retrieving new day
+14/06/15 10:56:31.12:   Getting channel 1839
+14/06/15 10:56:31.12:   Getting channel 1629
+14/06/15 10:56:31.12:   Getting channel 2003
+14/06/15 10:56:31.12:   Getting channel 1830
+14/06/15 10:56:31.12:   Getting channel 2002
+14/06/15 10:56:31.12:   Getting channel 2061
+14/06/15 10:56:31.12:   Getting channel 2017
+14/06/15 10:56:31.12:   Getting channel 2076
+14/06/15 10:56:31.12:   Getting channel 2075
+14/06/15 10:56:31.12:   Getting channel 2006
+14/06/15 10:56:31.12:   Getting channel 2082
+14/06/15 10:56:31.12:   Getting channel 2018
+14/06/15 10:56:31.12:   Getting channel 3023
+14/06/15 10:56:31.12:   Getting channel 3340
+14/06/15 10:56:31.12:   Getting channel 3541
+14/06/15 10:56:31.12:   Getting channel 3721
+14/06/15 10:56:31.12:   Getting channel 4075
+14/06/15 10:56:31.12:   Getting channel 5338
+14/06/15 10:56:31.12:   Getting channel 4610
+14/06/15 10:56:31.11:   Getting channel 6274
+14/06/15 10:56:31.11:   Retrieving new day
+14/06/15 10:56:31.12:   Getting channel 5201
+14/06/15 10:56:31.12:   Getting channel 3150
+14/06/15 10:56:31.12:   Getting channel 6240
+14/06/15 10:56:31.12:   Getting channel 3771
+14/06/15 10:56:31.12:   Getting channel 6000
+14/06/15 10:56:31.12:   Getting channel 4266
+14/06/15 10:56:31.11:   Getting channel 1839
+14/06/15 10:56:31.11:   Getting channel 1675
+14/06/15 10:56:31.12:   Getting channel 6260
+14/06/15 10:56:31.11:   Getting channel 2003
+14/06/15 10:56:31.11:   Getting channel 1629
+14/06/15 10:56:31.12:   Getting channel 6241
+14/06/15 10:56:31.11:   Getting channel 1830
+14/06/15 10:56:31.11:   Getting channel 2005
+14/06/15 10:56:31.11:   Getting channel 1836
+14/06/15 10:56:31.11:   Getting channel 2004
+14/06/15 10:56:31.12:   Getting channel 6261
+14/06/15 10:56:31.11:   Getting channel 2006
+14/06/15 10:56:31.11:   Getting channel 2017
+14/06/15 10:56:31.12:   Getting channel 6274
+14/06/15 10:56:31.11:   Getting channel 2016
+14/06/15 10:56:31.11:   Getting channel 2075
+14/06/15 10:56:31.11:   Getting channel 3022
+14/06/15 10:56:31.11:   Getting channel 2018
+14/06/15 10:56:31.11:   Getting channel 3027
+14/06/15 10:56:31.11:   Getting channel 3220
+14/06/15 10:56:31.11:   Getting channel 3028
+14/06/15 10:56:31.11:   Getting channel 3617
+14/06/15 10:56:31.11:   Getting channel 3310
+14/06/15 10:56:31.11:   Getting channel 3709
+14/06/15 10:56:31.06:   Getting channel 1830
+14/06/15 10:56:31.06:   Getting channel 1836
+14/06/15 10:56:31.08:   Getting channel 2017
+14/06/15 10:56:31.08:   Getting channel 2018
+14/06/15 10:56:31.08:   Getting channel 2082
+14/06/15 10:56:31.08:   Getting channel 3027
+14/06/15 10:56:31.08:   Getting channel 3022
+14/06/15 10:56:31.08:   Getting channel 2086
+14/06/15 10:56:31.08:   Getting channel 2076
+14/06/15 10:56:31.08:   Getting channel 3150
+14/06/15 10:56:31.08:   Getting channel 2016
+14/06/15 10:56:31.06:   Getting channel 2006
+14/06/15 10:56:31.08:   Getting channel 2075
+14/06/15 10:56:31.08:   Getting channel 3300
+14/06/15 10:56:31.08:   Getting channel 3220
+14/06/15 10:56:31.08:   Getting channel 3028
+14/06/15 10:56:31.08:   Getting channel 4075
+14/06/15 10:56:31.08:   Getting channel 3721
+14/06/15 10:56:31.08:   Getting channel 3605
+14/06/15 10:56:31.08:   Getting channel 5338
+14/06/15 10:56:31.08:   Getting channel 5297
+14/06/15 10:56:31.08:   Getting channel 4266
+14/06/15 10:56:31.08:   Getting channel 4502
+14/06/15 10:56:31.08:   Getting channel 6260
+14/06/15 10:56:31.08:   Getting channel 6000
+14/06/15 10:56:31.08:   Getting channel 3771
+14/06/15 10:56:31.08:   Getting channel 6241
+14/06/15 10:56:31.08:   Retrieving new day
+14/06/15 10:56:31.08:   Getting channel 6274
+14/06/15 10:56:31.08:   Getting channel 4610
+14/06/15 10:56:31.08:   Getting channel 1626
+14/06/15 10:56:31.08:   Getting channel 1628
+14/06/15 10:56:31.08:   Getting channel 1629
+14/06/15 10:56:31.08:   Getting channel 2003
+14/06/15 10:56:31.08:   Getting channel 1830
+14/06/15 10:56:31.08:   Getting channel 2002
+14/06/15 10:56:31.08:   Getting channel 6261
+14/06/15 10:56:31.08:   Getting channel 2017
+14/06/15 10:56:31.08:   Getting channel 2015
+14/06/15 10:56:31.08:   Getting channel 2005
+14/06/15 10:56:31.08:   Getting channel 2018
+14/06/15 10:56:31.08:   Getting channel 2076
+14/06/15 10:56:31.08:   Getting channel 2075
+14/06/15 10:56:31.08:   Getting channel 2077
+14/06/15 10:56:31.08:   Getting channel 2086
+14/06/15 10:56:31.08:   Getting channel 3023
+14/06/15 10:56:31.08:   Getting channel 3340
+14/06/15 10:56:31.11:   Getting channel 3751
+14/06/15 10:56:31.08:   Getting channel 3709
+14/06/15 10:56:31.08:   Getting channel 3708
+14/06/15 10:56:31.08:   Getting channel 3643
+14/06/15 10:56:31.08:   Getting channel 3771
+14/06/15 10:56:31.08:   Getting channel 5338
+14/06/15 10:56:31.08:   Getting channel 4266
+14/06/15 10:56:31.08:   Getting channel 4610
+14/06/15 10:56:31.08:   Getting channel 6240
+14/06/15 10:56:31.11:   Getting channel 3721
+14/06/15 10:56:31.08:   Getting channel 6260
+14/06/15 10:56:31.08:   Getting channel 1627
+14/06/15 10:56:31.08:   Getting channel 1675
+14/06/15 10:56:31.09:   Getting channel 1832
+14/06/15 10:56:31.08:   Getting channel 6241
+14/06/15 10:56:32.42:   Finished getting channel 0 / 56
+14/06/15 10:56:33.15:   Finished getting channel 1 / 56
+14/06/15 10:56:34.02:   Finished getting channel 2 / 56
+14/06/15 10:56:35.01:   Finished getting channel 3 / 56
+14/06/15 10:56:35.96:   Finished getting channel 4 / 56
+14/06/15 10:56:37.49:   Finished getting channel 5 / 56
+14/06/15 10:56:40.11:   Finished getting channel 6 / 56
+14/06/15 10:56:41.09:   Finished getting channel 7 / 56
+14/06/15 10:56:41.92:   Finished getting channel 8 / 56
+14/06/15 10:56:42.90:   Finished getting channel 9 / 56
+14/06/15 10:56:43.87:   Finished getting channel 10 / 56
+14/06/15 10:56:44.82:   Finished getting channel 11 / 56
+14/06/15 10:56:45.74:   Finished getting channel 12 / 56
+14/06/15 10:56:46.71:   Finished getting channel 13 / 56
+14/06/15 10:56:47.53:   Finished getting channel 14 / 56
+14/06/15 10:56:48.45:   Finished getting channel 15 / 56
+14/06/15 10:56:49.64:   Finished getting channel 16 / 56
+14/06/15 10:56:50.53:   Finished getting channel 17 / 56
+14/06/15 10:56:51.66:   Finished getting channel 18 / 56
+14/06/15 10:56:53.00:   Finished getting channel 19 / 56
+14/06/15 10:56:53.79:   Finished getting channel 20 / 56
+14/06/15 10:56:54.78:   Finished getting channel 21 / 56
+14/06/15 10:56:55.68:   Finished getting channel 22 / 56
+14/06/15 10:56:56.63:   Finished getting channel 23 / 56
+14/06/15 10:56:57.54:   Finished getting channel 24 / 56
+14/06/15 10:56:58.38:   Finished getting channel 25 / 56
+14/06/15 10:57:00.12:   Finished getting channel 26 / 56
+14/06/15 10:57:01.02:   Finished getting channel 27 / 56
+14/06/15 10:57:03.74:   Finished getting channel 28 / 56
+14/06/15 10:57:04.49:   Finished getting channel 29 / 56
+14/06/15 10:57:05.30:   Finished getting channel 30 / 56
+14/06/15 10:57:06.30:   Finished getting channel 31 / 56
+14/06/15 10:57:07.28:   Finished getting channel 32 / 56
+14/06/15 10:57:08.00:   Finished getting channel 33 / 56
+14/06/15 10:57:10.06:   Finished getting channel 34 / 56
+14/06/15 10:57:10.91:   Finished getting channel 35 / 56
+14/06/15 10:57:11.80:   Finished getting channel 36 / 56
+14/06/15 10:57:13.00:   Finished getting channel 37 / 56
+14/06/15 10:57:13.91:   Finished getting channel 38 / 56
+14/06/15 10:57:16.28:   Finished getting channel 39 / 56
+14/06/15 10:57:17.11:   Finished getting channel 40 / 56
+14/06/15 10:57:18.07:   Finished getting channel 41 / 56
+14/06/15 10:57:20.05:   Finished getting channel 42 / 56
+14/06/15 10:57:20.92:   Finished getting channel 43 / 56
+14/06/15 10:57:23.06:   Finished getting channel 44 / 56
+14/06/15 10:57:24.05:   Finished getting channel 45 / 56
+14/06/15 10:57:24.96:   Finished getting channel 46 / 56
+14/06/15 10:57:27.46:   Finished getting channel 47 / 56
+14/06/15 10:57:28.33:   Finished getting channel 48 / 56
+14/06/15 10:57:30.03:   Finished getting channel 49 / 56
+14/06/15 10:57:30.89:   Finished getting channel 50 / 56
+14/06/15 10:57:31.81:   Finished getting channel 51 / 56
+14/06/15 10:57:32.96:   Finished getting channel 52 / 56
+14/06/15 10:57:35.29:   Finished getting channel 53 / 56
+14/06/15 10:57:36.13:   Finished getting channel 54 / 56
+14/06/15 10:57:37.24:   Finished getting channel 55 / 56
+14/06/15 10:57:37.24:   Finished getting day 0 / 7
+14/06/15 10:57:38.16:   Finished getting channel 0 / 56
+14/06/15 10:57:39.06:   Finished getting channel 1 / 56
+14/06/15 10:57:40.34:   Finished getting channel 2 / 56
+14/06/15 10:57:41.25:   Finished getting channel 3 / 56
+14/06/15 10:57:43.42:   Finished getting channel 4 / 56
+14/06/15 10:57:44.60:   Finished getting channel 5 / 56
+14/06/15 10:57:45.54:   Finished getting channel 6 / 56
+14/06/15 10:57:46.52:   Finished getting channel 7 / 56
+14/06/15 10:57:47.52:   Finished getting channel 8 / 56
+14/06/15 10:57:50.24:   Finished getting channel 9 / 56
+14/06/15 10:57:51.17:   Finished getting channel 10 / 56
+14/06/15 10:57:51.89:   Finished getting channel 11 / 56
+14/06/15 10:57:52.67:   Finished getting channel 12 / 56
+14/06/15 10:57:53.53:   Finished getting channel 13 / 56
+14/06/15 10:57:54.50:   Finished getting channel 14 / 56
+14/06/15 10:57:55.45:   Finished getting channel 15 / 56
+14/06/15 10:57:56.40:   Finished getting channel 16 / 56
+14/06/15 10:57:57.29:   Finished getting channel 17 / 56
+14/06/15 10:57:58.16:   Finished getting channel 18 / 56
+14/06/15 10:57:59.08:   Finished getting channel 19 / 56
+14/06/15 10:58:00.02:   Finished getting channel 20 / 56
+14/06/15 10:58:01.08:   Finished getting channel 21 / 56
+14/06/15 10:58:01.97:   Finished getting channel 22 / 56
+14/06/15 10:58:02.88:   Finished getting channel 23 / 56
+14/06/15 10:58:03.80:   Finished getting channel 24 / 56
+14/06/15 10:58:05.97:   Finished getting channel 25 / 56
+14/06/15 10:58:06.96:   Finished getting channel 26 / 56
+14/06/15 10:58:08.70:   Finished getting channel 27 / 56
+14/06/15 10:58:10.32:   Finished getting channel 28 / 56
+14/06/15 10:58:11.21:   Finished getting channel 29 / 56
+14/06/15 10:58:12.74:   Finished getting channel 30 / 56
+14/06/15 10:58:13.63:   Finished getting channel 31 / 56
+14/06/15 10:58:14.47:   Finished getting channel 32 / 56
+14/06/15 10:58:15.43:   Finished getting channel 33 / 56
+14/06/15 10:58:16.43:   Finished getting channel 34 / 56
+14/06/15 10:58:17.34:   Finished getting channel 35 / 56
+14/06/15 10:58:18.27:   Finished getting channel 36 / 56
+14/06/15 10:58:19.24:   Finished getting channel 37 / 56
+14/06/15 10:58:20.46:   Finished getting channel 38 / 56
+14/06/15 10:58:21.43:   Finished getting channel 39 / 56
+14/06/15 10:58:23.38:   Finished getting channel 40 / 56
+14/06/15 10:58:24.36:   Finished getting channel 41 / 56
+14/06/15 10:58:25.13:   Finished getting channel 42 / 56
+14/06/15 10:58:26.22:   Finished getting channel 43 / 56
+14/06/15 10:58:27.15:   Finished getting channel 44 / 56
+14/06/15 10:58:28.18:   Finished getting channel 45 / 56
+14/06/15 10:58:29.06:   Finished getting channel 46 / 56
+14/06/15 10:58:30.48:   Finished getting channel 47 / 56
+14/06/15 10:58:31.31:   Finished getting channel 48 / 56
+14/06/15 10:58:32.21:   Finished getting channel 49 / 56
+14/06/15 10:58:33.80:   Finished getting channel 50 / 56
+14/06/15 10:58:37.03:   Finished getting channel 51 / 56
+14/06/15 10:58:37.95:   Finished getting channel 52 / 56
+14/06/15 10:58:38.92:   Finished getting channel 53 / 56
+14/06/15 10:58:39.85:   Finished getting channel 54 / 56
+14/06/15 10:58:41.84:   Finished getting channel 55 / 56
+14/06/15 10:58:41.84:   Finished getting day 1 / 7
+14/06/15 10:58:42.71:   Finished getting channel 0 / 56
+14/06/15 10:58:43.49:   Finished getting channel 1 / 56
+14/06/15 10:58:45.47:   Finished getting channel 2 / 56
+14/06/15 10:58:46.31:   Finished getting channel 3 / 56
+14/06/15 10:58:48.92:   Finished getting channel 4 / 56
+14/06/15 10:58:50.44:   Finished getting channel 5 / 56
+14/06/15 10:58:51.56:   Finished getting channel 6 / 56
+14/06/15 10:58:54.51:   Finished getting channel 7 / 56
+14/06/15 10:58:55.98:   Finished getting channel 8 / 56
+14/06/15 10:58:57.46:   Finished getting channel 9 / 56
+14/06/15 10:58:58.49:   Finished getting channel 10 / 56
+14/06/15 10:58:59.51:   Finished getting channel 11 / 56
+14/06/15 10:59:00.43:   Finished getting channel 12 / 56
+14/06/15 10:59:02.57:   Finished getting channel 13 / 56
+14/06/15 10:59:03.54:   Finished getting channel 14 / 56
+14/06/15 10:59:04.41:   Finished getting channel 15 / 56
+14/06/15 10:59:08.53:   Finished getting channel 16 / 56
+14/06/15 10:59:10.46:   Finished getting channel 17 / 56
+14/06/15 10:59:11.43:   Finished getting channel 18 / 56
+14/06/15 10:59:12.47:   Finished getting channel 19 / 56
+14/06/15 10:59:13.71:   Finished getting channel 20 / 56
+14/06/15 10:59:15.00:   Finished getting channel 21 / 56
+14/06/15 10:59:16.05:   Finished getting channel 22 / 56
+14/06/15 10:59:16.84:   Finished getting channel 23 / 56
+14/06/15 10:59:17.73:   Finished getting channel 24 / 56
+14/06/15 10:59:18.64:   Finished getting channel 25 / 56
+14/06/15 10:59:19.53:   Finished getting channel 26 / 56
+14/06/15 10:59:20.38:   Finished getting channel 27 / 56
+14/06/15 10:59:21.19:   Finished getting channel 28 / 56
+14/06/15 10:59:21.92:   Finished getting channel 29 / 56
+14/06/15 10:59:22.73:   Finished getting channel 30 / 56
+14/06/15 10:59:25.35:   Finished getting channel 31 / 56
+14/06/15 10:59:27.51:   Finished getting channel 32 / 56
+14/06/15 10:59:28.37:   Finished getting channel 33 / 56
+14/06/15 10:59:29.29:   Finished getting channel 34 / 56
+14/06/15 10:59:31.21:   Finished getting channel 35 / 56
+14/06/15 10:59:32.10:   Finished getting channel 36 / 56
+14/06/15 10:59:32.92:   Finished getting channel 37 / 56
+14/06/15 10:59:33.76:   Finished getting channel 38 / 56
+14/06/15 10:59:34.68:   Finished getting channel 39 / 56
+14/06/15 10:59:36.94:   Finished getting channel 40 / 56
+14/06/15 10:59:37.87:   Finished getting channel 41 / 56
+14/06/15 10:59:38.78:   Finished getting channel 42 / 56
+14/06/15 10:59:39.70:   Finished getting channel 43 / 56
+14/06/15 10:59:40.67:   Finished getting channel 44 / 56
+14/06/15 10:59:43.14:   Finished getting channel 45 / 56
+14/06/15 10:59:45.63:   Finished getting channel 46 / 56
+14/06/15 10:59:46.55:   Finished getting channel 47 / 56
+14/06/15 10:59:47.46:   Finished getting channel 48 / 56
+14/06/15 10:59:48.45:   Finished getting channel 49 / 56
+14/06/15 10:59:49.37:   Finished getting channel 50 / 56
+14/06/15 10:59:50.29:   Finished getting channel 51 / 56
+14/06/15 10:59:51.20:   Finished getting channel 52 / 56
+14/06/15 10:59:52.03:   Finished getting channel 53 / 56
+14/06/15 10:59:54.69:   Finished getting channel 54 / 56
+14/06/15 10:59:55.64:   Finished getting channel 55 / 56
+14/06/15 10:59:55.64:   Finished getting day 2 / 7
+14/06/15 10:59:56.55:   Finished getting channel 0 / 56
+14/06/15 10:59:57.49:   Finished getting channel 1 / 56
+14/06/15 11:00:00.00:   Finished getting channel 2 / 56
+14/06/15 11:00:00.93:   Finished getting channel 3 / 56
+14/06/15 11:00:01.98:   Finished getting channel 4 / 56
+14/06/15 11:00:02.97:   Finished getting channel 5 / 56
+14/06/15 11:00:03.75:   Finished getting channel 6 / 56
+14/06/15 11:00:04.62:   Finished getting channel 7 / 56
+14/06/15 11:00:05.57:   Finished getting channel 8 / 56
+14/06/15 11:00:06.45:   Finished getting channel 9 / 56
+14/06/15 11:00:07.36:   Finished getting channel 10 / 56
+14/06/15 11:00:08.33:   Finished getting channel 11 / 56
+14/06/15 11:00:09.31:   Finished getting channel 12 / 56
+14/06/15 11:00:10.29:   Finished getting channel 13 / 56
+14/06/15 11:00:11.23:   Finished getting channel 14 / 56
+14/06/15 11:00:13.53:   Finished getting channel 15 / 56
+14/06/15 11:00:15.75:   Finished getting channel 16 / 56
+14/06/15 11:00:16.66:   Finished getting channel 17 / 56
+14/06/15 11:00:18.88:   Finished getting channel 18 / 56
+14/06/15 11:00:19.79:   Finished getting channel 19 / 56
+14/06/15 11:00:20.72:   Finished getting channel 20 / 56
+14/06/15 11:00:21.70:   Finished getting channel 21 / 56
+14/06/15 11:00:23.90:   Finished getting channel 22 / 56
+14/06/15 11:00:24.75:   Finished getting channel 23 / 56
+14/06/15 11:00:25.71:   Finished getting channel 24 / 56
+14/06/15 11:00:26.65:   Finished getting channel 25 / 56
+14/06/15 11:00:28.59:   Finished getting channel 26 / 56
+14/06/15 11:00:29.33:   Finished getting channel 27 / 56
+14/06/15 11:00:30.03:   Finished getting channel 28 / 56
+14/06/15 11:00:30.72:   Finished getting channel 29 / 56
+14/06/15 11:00:31.66:   Finished getting channel 30 / 56
+14/06/15 11:00:34.33:   Finished getting channel 31 / 56
+14/06/15 11:00:35.23:   Finished getting channel 32 / 56
+14/06/15 11:00:36.16:   Finished getting channel 33 / 56
+14/06/15 11:00:37.86:   Finished getting channel 34 / 56
+14/06/15 11:00:38.76:   Finished getting channel 35 / 56
+14/06/15 11:00:39.86:   Finished getting channel 36 / 56
+14/06/15 11:00:40.73:   Finished getting channel 37 / 56
+14/06/15 11:00:41.62:   Finished getting channel 38 / 56
+14/06/15 11:00:43.48:   Finished getting channel 39 / 56
+14/06/15 11:00:44.29:   Finished getting channel 40 / 56
+14/06/15 11:00:45.06:   Finished getting channel 41 / 56
+14/06/15 11:00:45.99:   Finished getting channel 42 / 56
+14/06/15 11:00:46.85:   Finished getting channel 43 / 56
+14/06/15 11:00:47.85:   Finished getting channel 44 / 56
+14/06/15 11:00:48.72:   Finished getting channel 45 / 56
+14/06/15 11:00:50.56:   Finished getting channel 46 / 56
+14/06/15 11:00:51.54:   Finished getting channel 47 / 56
+14/06/15 11:00:52.33:   Finished getting channel 48 / 56
+14/06/15 11:00:53.24:   Finished getting channel 49 / 56
+14/06/15 11:00:54.19:   Finished getting channel 50 / 56
+14/06/15 11:00:55.15:   Finished getting channel 51 / 56
+14/06/15 11:00:55.89:   Finished getting channel 52 / 56
+14/06/15 11:00:56.69:   Finished getting channel 53 / 56
+14/06/15 11:00:57.54:   Finished getting channel 54 / 56
+14/06/15 11:00:58.26:   Finished getting channel 55 / 56
+14/06/15 11:00:58.26:   Finished getting day 3 / 7
+14/06/15 11:00:59.19:   Finished getting channel 0 / 56
+14/06/15 11:00:59.96:   Finished getting channel 1 / 56
+14/06/15 11:01:02.40:   Finished getting channel 2 / 56
+14/06/15 11:01:03.35:   Finished getting channel 3 / 56
+14/06/15 11:01:04.22:   Finished getting channel 4 / 56
+14/06/15 11:01:05.45:   Finished getting channel 5 / 56
+14/06/15 11:01:06.52:   Finished getting channel 6 / 56
+14/06/15 11:01:09.03:   Finished getting channel 7 / 56
+14/06/15 11:01:09.98:   Finished getting channel 8 / 56
+14/06/15 11:01:10.90:   Finished getting channel 9 / 56
+14/06/15 11:01:11.82:   Finished getting channel 10 / 56
+14/06/15 11:01:14.18:   Finished getting channel 11 / 56
+14/06/15 11:01:14.88:   Finished getting channel 12 / 56
+14/06/15 11:01:15.71:   Finished getting channel 13 / 56
+14/06/15 11:01:16.63:   Finished getting channel 14 / 56
+14/06/15 11:01:19.08:   Finished getting channel 15 / 56
+14/06/15 11:01:21.34:   Finished getting channel 16 / 56
+14/06/15 11:01:22.11:   Finished getting channel 17 / 56
+14/06/15 11:01:22.90:   Finished getting channel 18 / 56
+14/06/15 11:01:23.65:   Finished getting channel 19 / 56
+14/06/15 11:01:24.48:   Finished getting channel 20 / 56
+14/06/15 11:01:25.40:   Finished getting channel 21 / 56
+14/06/15 11:01:26.18:   Finished getting channel 22 / 56
+14/06/15 11:01:27.05:   Finished getting channel 23 / 56
+14/06/15 11:01:27.90:   Finished getting channel 24 / 56
+14/06/15 11:01:29.45:   Finished getting channel 25 / 56
+14/06/15 11:01:30.33:   Finished getting channel 26 / 56
+14/06/15 11:01:31.14:   Finished getting channel 27 / 56
+14/06/15 11:01:31.96:   Finished getting channel 28 / 56
+14/06/15 11:01:32.77:   Finished getting channel 29 / 56
+14/06/15 11:01:33.61:   Finished getting channel 30 / 56
+14/06/15 11:01:34.50:   Finished getting channel 31 / 56
+14/06/15 11:01:36.28:   Finished getting channel 32 / 56
+14/06/15 11:01:39.53:   Finished getting channel 33 / 56
+14/06/15 11:01:40.36:   Finished getting channel 34 / 56
+14/06/15 11:01:41.22:   Finished getting channel 35 / 56
+14/06/15 11:01:43.45:   Finished getting channel 36 / 56
+14/06/15 11:01:44.20:   Finished getting channel 37 / 56
+14/06/15 11:01:45.04:   Finished getting channel 38 / 56
+14/06/15 11:01:45.94:   Finished getting channel 39 / 56
+14/06/15 11:01:46.80:   Finished getting channel 40 / 56
+14/06/15 11:01:47.71:   Finished getting channel 41 / 56
+14/06/15 11:01:48.63:   Finished getting channel 42 / 56
+14/06/15 11:01:49.48:   Finished getting channel 43 / 56
+14/06/15 11:01:50.31:   Finished getting channel 44 / 56
+14/06/15 11:01:51.01:   Finished getting channel 45 / 56
+14/06/15 11:01:51.65:   Finished getting channel 46 / 56
+14/06/15 11:01:52.47:   Finished getting channel 47 / 56
+14/06/15 11:01:53.12:   Finished getting channel 48 / 56
+14/06/15 11:01:53.77:   Finished getting channel 49 / 56
+14/06/15 11:01:56.39:   Finished getting channel 50 / 56
+14/06/15 11:01:58.98:   Finished getting channel 51 / 56
+14/06/15 11:01:59.95:   Finished getting channel 52 / 56
+14/06/15 11:02:00.85:   Finished getting channel 53 / 56
+14/06/15 11:02:01.83:   Finished getting channel 54 / 56
+14/06/15 11:02:02.72:   Finished getting channel 55 / 56
+14/06/15 11:02:02.72:   Finished getting day 4 / 7
+14/06/15 11:02:03.68:   Finished getting channel 0 / 56
+14/06/15 11:02:04.57:   Finished getting channel 1 / 56
+14/06/15 11:02:06.21:   Finished getting channel 2 / 56
+14/06/15 11:02:06.95:   Finished getting channel 3 / 56
+14/06/15 11:02:07.70:   Finished getting channel 4 / 56
+14/06/15 11:02:08.86:   Finished getting channel 5 / 56
+14/06/15 11:02:11.49:   Finished getting channel 6 / 56
+14/06/15 11:02:13.59:   Finished getting channel 7 / 56
+14/06/15 11:02:16.07:   Finished getting channel 8 / 56
+14/06/15 11:02:17.04:   Finished getting channel 9 / 56
+14/06/15 11:02:17.73:   Finished getting channel 10 / 56
+14/06/15 11:02:18.90:   Finished getting channel 11 / 56
+14/06/15 11:02:19.68:   Finished getting channel 12 / 56
+14/06/15 11:02:20.51:   Finished getting channel 13 / 56
+14/06/15 11:02:21.20:   Finished getting channel 14 / 56
+14/06/15 11:02:22.78:   Finished getting channel 15 / 56
+14/06/15 11:02:23.64:   Finished getting channel 16 / 56
+14/06/15 11:02:24.51:   Finished getting channel 17 / 56
+14/06/15 11:02:25.42:   Finished getting channel 18 / 56
+14/06/15 11:02:26.38:   Finished getting channel 19 / 56
+14/06/15 11:02:27.03:   Finished getting channel 20 / 56
+14/06/15 11:02:27.73:   Finished getting channel 21 / 56
+14/06/15 11:02:28.50:   Finished getting channel 22 / 56
+14/06/15 11:02:29.16:   Finished getting channel 23 / 56
+14/06/15 11:02:29.73:   Finished getting channel 24 / 56
+14/06/15 11:02:30.35:   Finished getting channel 25 / 56
+14/06/15 11:02:31.25:   Finished getting channel 26 / 56
+14/06/15 11:02:32.42:   Finished getting channel 27 / 56
+14/06/15 11:02:33.24:   Finished getting channel 28 / 56
+14/06/15 11:02:34.11:   Finished getting channel 29 / 56
+14/06/15 11:02:35.07:   Finished getting channel 30 / 56
+14/06/15 11:02:35.94:   Finished getting channel 31 / 56
+14/06/15 11:02:36.87:   Finished getting channel 32 / 56
+14/06/15 11:02:37.79:   Finished getting channel 33 / 56
+14/06/15 11:02:39.46:   Finished getting channel 34 / 56
+14/06/15 11:02:41.86:   Finished getting channel 35 / 56
+14/06/15 11:02:42.69:   Finished getting channel 36 / 56
+14/06/15 11:02:43.52:   Finished getting channel 37 / 56
+14/06/15 11:02:44.45:   Finished getting channel 38 / 56
+14/06/15 11:02:45.45:   Finished getting channel 39 / 56
+14/06/15 11:02:46.29:   Finished getting channel 40 / 56
+14/06/15 11:02:47.20:   Finished getting channel 41 / 56
+14/06/15 11:02:50.25:   Finished getting channel 42 / 56
+14/06/15 11:02:51.00:   Finished getting channel 43 / 56
+14/06/15 11:02:51.85:   Finished getting channel 44 / 56
+14/06/15 11:02:54.51:   Finished getting channel 45 / 56
+14/06/15 11:02:55.39:   Finished getting channel 46 / 56
+14/06/15 11:02:58.02:   Finished getting channel 47 / 56
+14/06/15 11:02:58.88:   Finished getting channel 48 / 56
+14/06/15 11:03:00.89:   Finished getting channel 49 / 56
+14/06/15 11:03:01.83:   Finished getting channel 50 / 56
+14/06/15 11:03:02.83:   Finished getting channel 51 / 56
+14/06/15 11:03:03.65:   Finished getting channel 52 / 56
+14/06/15 11:03:04.50:   Finished getting channel 53 / 56
+14/06/15 11:03:05.41:   Finished getting channel 54 / 56
+14/06/15 11:03:07.48:   Finished getting channel 55 / 56
+14/06/15 11:03:07.48:   Finished getting day 5 / 7
+14/06/15 11:03:08.29:   Finished getting channel 0 / 56
+14/06/15 11:03:09.00:   Finished getting channel 1 / 56
+14/06/15 11:03:09.81:   Finished getting channel 2 / 56
+14/06/15 11:03:10.45:   Finished getting channel 3 / 56
+14/06/15 11:03:11.36:   Finished getting channel 4 / 56
+14/06/15 11:03:12.40:   Finished getting channel 5 / 56
+14/06/15 11:03:13.28:   Finished getting channel 6 / 56
+14/06/15 11:03:14.16:   Finished getting channel 7 / 56
+14/06/15 11:03:15.10:   Finished getting channel 8 / 56
+14/06/15 11:03:16.09:   Finished getting channel 9 / 56
+14/06/15 11:03:18.18:   Finished getting channel 10 / 56
+14/06/15 11:03:19.09:   Finished getting channel 11 / 56
+14/06/15 11:03:20.00:   Finished getting channel 12 / 56
+14/06/15 11:03:20.91:   Finished getting channel 13 / 56
+14/06/15 11:03:23.02:   Finished getting channel 14 / 56
+14/06/15 11:03:23.85:   Finished getting channel 15 / 56
+14/06/15 11:03:24.70:   Finished getting channel 16 / 56
+14/06/15 11:03:25.80:   Finished getting channel 17 / 56
+14/06/15 11:03:26.53:   Finished getting channel 18 / 56
+14/06/15 11:03:27.51:   Finished getting channel 19 / 56
+14/06/15 11:03:28.28:   Finished getting channel 20 / 56
+14/06/15 11:03:28.95:   Finished getting channel 21 / 56
+14/06/15 11:03:29.72:   Finished getting channel 22 / 56
+14/06/15 11:03:30.65:   Finished getting channel 23 / 56
+14/06/15 11:03:31.64:   Finished getting channel 24 / 56
+14/06/15 11:03:32.58:   Finished getting channel 25 / 56
+14/06/15 11:03:33.37:   Finished getting channel 26 / 56
+14/06/15 11:03:36.06:   Finished getting channel 27 / 56
+14/06/15 11:03:36.99:   Finished getting channel 28 / 56
+14/06/15 11:03:37.97:   Finished getting channel 29 / 56
+14/06/15 11:03:40.99:   Finished getting channel 30 / 56
+14/06/15 11:03:41.91:   Finished getting channel 31 / 56
+14/06/15 11:03:42.88:   Finished getting channel 32 / 56
+14/06/15 11:03:43.70:   Finished getting channel 33 / 56
+14/06/15 11:03:44.59:   Finished getting channel 34 / 56
+14/06/15 11:03:45.59:   Finished getting channel 35 / 56
+14/06/15 11:03:46.42:   Finished getting channel 36 / 56
+14/06/15 11:03:47.33:   Finished getting channel 37 / 56
+14/06/15 11:03:48.22:   Finished getting channel 38 / 56
+14/06/15 11:03:48.99:   Finished getting channel 39 / 56
+14/06/15 11:03:49.65:   Finished getting channel 40 / 56
+14/06/15 11:03:50.46:   Finished getting channel 41 / 56
+14/06/15 11:03:52.92:   Finished getting channel 42 / 56
+14/06/15 11:03:53.74:   Finished getting channel 43 / 56
+14/06/15 11:03:54.48:   Finished getting channel 44 / 56
+14/06/15 11:03:55.44:   Finished getting channel 45 / 56
+14/06/15 11:03:56.26:   Finished getting channel 46 / 56
+14/06/15 11:03:57.23:   Finished getting channel 47 / 56
+14/06/15 11:03:58.15:   Finished getting channel 48 / 56
+14/06/15 11:04:00.56:   Finished getting channel 49 / 56
+14/06/15 11:04:01.33:   Finished getting channel 50 / 56
+14/06/15 11:04:02.26:   Finished getting channel 51 / 56
+14/06/15 11:04:04.18:   Finished getting channel 52 / 56
+14/06/15 11:04:05.03:   Finished getting channel 53 / 56
+14/06/15 11:04:05.98:   Finished getting channel 54 / 56
+14/06/15 11:04:06.84:   Finished getting channel 55 / 56
+14/06/15 11:04:06.84:   Finished getting day 6 / 7
+14/06/15 11:04:06.85:   Getting TMDB metadata for 1776
+14/06/15 11:04:06.85:   Getting TMDB metadata for 3002006
+14/06/15 11:04:06.85:   Getting TMDB metadata for inbruges2008
+14/06/15 11:04:06.85:   Getting TMDB metadata for evolution2001
+14/06/15 11:04:06.85:   Getting TMDB metadata for hobowithashotgun2011
+14/06/15 11:04:06.85:   Getting TMDB metadata for clerks1994
+14/06/15 11:04:06.85:   Getting TMDB metadata for magicmike2012
+14/06/15 11:04:06.85:   Getting TMDB metadata for onthefiddle1961
+14/06/15 11:04:06.85:   Getting TMDB metadata for thedaytheearthstoodstill2008
+14/06/15 11:04:06.85:   Getting TMDB metadata for bigbusiness1988
+14/06/15 11:04:06.85:   Getting TMDB metadata for californiaman1992
+14/06/15 11:04:06.85:   Getting TMDB metadata for iceage3dawnofthedinosaurs2009
+14/06/15 11:04:06.85:   Getting TMDB metadata for revengeofthenerds1984
+14/06/15 11:04:06.85:   Getting TMDB metadata for thetimetravelerswife2009
+14/06/15 11:04:06.85:   Getting TMDB metadata for ironman2008
+14/06/15 11:04:06.85:   Getting TMDB metadata for hopeandglory1987
+14/06/15 11:04:06.85:   Getting TMDB metadata for themanintheironmask1998
+14/06/15 11:04:06.85:   Getting TMDB metadata for disneyssnowdogs2001
+14/06/15 11:04:06.85:   Getting TMDB metadata for oldschool2002
+14/06/15 11:04:06.85:   Getting TMDB metadata for highfidelity2000
+14/06/15 11:04:06.85:   Getting TMDB metadata for juliejulia1950
+14/06/15 11:04:06.85:   Getting TMDB metadata for frenchfilm
+14/06/15 11:04:06.85:   Getting TMDB metadata for theycametocordura1916
+14/06/15 11:04:06.85:   Getting TMDB metadata for shanghaiknights2003
+14/06/15 11:04:06.85:   Getting TMDB metadata for secretariat2010
+14/06/15 11:04:06.85:   Getting TMDB metadata for sweetsixteen2002
+14/06/15 11:04:06.85:   Getting TMDB metadata for benditlikebeckham2002
+14/06/15 11:04:06.85:   Getting TMDB metadata for columbosexandthemarried1989
+14/06/15 11:04:06.85:   Getting TMDB metadata for columbomurdersmokeandshadows1989
+14/06/15 11:04:06.85:   Getting TMDB metadata for bewitched1960
+14/06/15 11:04:06.85:   Getting TMDB metadata for themissing2003
+14/06/15 11:04:06.85:   Getting TMDB metadata for thir13enghosts2001
+14/06/15 11:04:06.85:   Getting TMDB metadata for awinnerneverquits1940
+14/06/15 11:04:06.85:   Getting TMDB metadata for theresagirlinmysoup1970
+14/06/15 11:04:06.84:   Add metadata
+14/06/15 11:04:06.85:   Getting TMDB metadata for raisingwaylon2004
+14/06/15 11:04:06.84:   Got all films from Sky
+14/06/15 11:04:06.85:   Getting TMDB metadata for thereef2006
+14/06/15 11:04:06.85:   Getting TMDB metadata for thelostmedallion2013
+14/06/15 11:04:06.86:   Getting TMDB metadata for existenz1999
+14/06/15 11:04:06.85:   Getting TMDB metadata for perfectstranger2007
+14/06/15 11:04:06.85:   Getting TMDB metadata for kissofthedragon2001
+14/06/15 11:04:06.85:   Getting TMDB metadata for thecollector
+14/06/15 11:04:06.85:   Getting TMDB metadata for beforedawn2012
+14/06/15 11:04:06.85:   Getting TMDB metadata for dragonwars2007
+14/06/15 11:04:06.86:   Getting TMDB metadata for somethingevil1972
+14/06/15 11:04:06.86:   Getting TMDB metadata for jenniferawomansstory
+14/06/15 11:04:06.86:   Getting TMDB metadata for beyondsherwoodforest2009
+14/06/15 11:04:06.85:   Getting TMDB metadata for juliejulia2009
+14/06/15 11:04:06.86:   Getting TMDB metadata for panslabyrinth1944
+14/06/15 11:04:06.86:   Getting TMDB metadata for theflood
+14/06/15 11:04:06.86:   Getting TMDB metadata for badmeat2011
+14/06/15 11:04:06.86:   Getting TMDB metadata for snapdecision
+14/06/15 11:04:06.86:   Getting TMDB metadata for spinningboris2003
+14/06/15 11:04:06.87:   Getting TMDB metadata for borninnocent
+14/06/15 11:04:06.86:   Getting TMDB metadata for georgewashington
+14/06/15 11:04:06.87:   Getting TMDB metadata for thegreedofwilliamhart1800
+14/06/15 11:04:06.87:   Getting TMDB metadata for fortapache1948
+14/06/15 11:04:06.86:   Getting TMDB metadata for anotherlife1920
+14/06/15 11:04:06.87:   Getting TMDB metadata for thedetonator2006
+14/06/15 11:04:06.87:   Getting TMDB metadata for roseofcimarron1952
+14/06/15 11:04:06.87:   Getting TMDB metadata for whitecomanche1968
+14/06/15 11:04:06.87:   Getting TMDB metadata for theandersontapes1971
+14/06/15 11:04:06.87:   Getting TMDB metadata for blackbeautythelegendcontinues2007
+14/06/15 11:04:06.87:   Getting TMDB metadata for verticallimit2000
+14/06/15 11:04:06.87:   Getting TMDB metadata for onedamneddayatdawn1970
+14/06/15 11:04:06.87:   Getting TMDB metadata for sexliesandvideotape1989
+14/06/15 11:04:06.87:   Getting TMDB metadata for thefightingfistsofshanghaijoe1973
+14/06/15 11:04:06.87:   Getting TMDB metadata for atouchofhope
+14/06/15 11:04:06.87:   Getting TMDB metadata for therestlessbreed1957
+14/06/15 11:04:06.87:   Getting TMDB metadata for liberacebehindthemusic
+14/06/15 11:04:06.87:   Getting TMDB metadata for abulletforthegeneral1966
+14/06/15 11:04:06.87:   Getting TMDB metadata for thatllbetheday
+14/06/15 11:04:06.87:   Getting TMDB metadata for gridirongang2006
+14/06/15 11:04:06.87:   Getting TMDB metadata for bluevalleysongbird
+14/06/15 11:04:06.86:   Getting TMDB metadata for gorevidalsbillythekid
+14/06/15 11:04:06.87:   Getting TMDB metadata for blonde
+14/06/15 11:04:06.87:   Getting TMDB metadata for backtotheplanetoftheapes
+14/06/15 11:04:06.88:   Getting TMDB metadata for happyfeet2006
+14/06/15 11:04:06.87:   Getting TMDB metadata for shadowofthehawk1976
+14/06/15 11:04:06.88:   Getting TMDB metadata for thehorsesoldiers1959
+14/06/15 11:04:06.88:   Getting TMDB metadata for theboatthatrocked2009
+14/06/15 11:04:06.88:   Getting TMDB metadata for thestrangerworeagun1953
+14/06/15 11:04:06.87:   Getting TMDB metadata for inhislifethejohnlennonstory
+14/06/15 11:04:06.88:   Getting TMDB metadata for pimpernelsmith1941
+14/06/15 11:04:06.87:   Getting TMDB metadata for thefergiestoryparadiselost
+14/06/15 11:04:06.88:   Getting TMDB metadata for boomerang1947
+14/06/15 11:04:06.87:   Getting TMDB metadata for lovecomessoftly2003
+14/06/15 11:04:06.88:   Getting TMDB metadata for sherlockholmesthesignoffour1983
+14/06/15 11:04:06.88:   Getting TMDB metadata for sherlockholmesthehoundof1983
+14/06/15 11:04:06.88:   Getting TMDB metadata for thecainemutinycourtmartial1945
+14/06/15 11:04:06.88:   Getting TMDB metadata for theonethatgotaway1957
+14/06/15 11:04:06.88:   Getting TMDB metadata for sherlockholmestheincident1992
+14/06/15 11:04:06.87:   Getting TMDB metadata for birthofthebeatles1960
+14/06/15 11:04:06.88:   Getting TMDB metadata for everythingsheeverwanted2009
+14/06/15 11:04:06.87:   Getting TMDB metadata for powerandbeauty
+14/06/15 11:04:06.87:   Getting TMDB metadata for daniellesteelsonceina
+14/06/15 11:04:06.87:   Getting TMDB metadata for angelinthefamily2004
+14/06/15 11:04:06.87:   Getting TMDB metadata for meatloaftohellandback
+14/06/15 11:04:06.88:   Getting TMDB metadata for amatteroflifeanddeath1946
+14/06/15 11:04:06.87:   Getting TMDB metadata for anunexpectedlove
+14/06/15 11:04:06.88:   Getting TMDB metadata for babybluemarine1976
+14/06/15 11:04:06.87:   Getting TMDB metadata for lethalseduction
+14/06/15 11:04:06.88:   Getting TMDB metadata for theswanprincess1998
+14/06/15 11:04:06.88:   Getting TMDB metadata for coasttocoast2003
+14/06/15 11:04:06.88:   Getting TMDB metadata for firefrombelow2009
+14/06/15 11:04:06.88:   Getting TMDB metadata for maryhigginsclarkweepno1992
+14/06/15 11:04:06.88:   Getting TMDB metadata for todayitsmetomorrowitsyou1968
+14/06/15 11:04:06.89:   Getting TMDB metadata for princecharlesprincewilliam
+14/06/15 11:04:06.89:   Getting TMDB metadata for prairiefever2008
+14/06/15 11:04:06.89:   Getting TMDB metadata for murderinthefirst1930
+14/06/15 11:04:06.89:   Getting TMDB metadata for judgementdaythejohnliststory
+14/06/15 11:04:06.87:   Getting TMDB metadata for jurassicpark1993
+14/06/15 11:04:06.87:   Getting TMDB metadata for couplesretreat2009
+14/06/15 11:04:06.89:   Getting TMDB metadata for aftermathatestoflove
+14/06/15 11:04:06.89:   Getting TMDB metadata for conversationswithotherwomen
+14/06/15 11:04:06.89:   Getting TMDB metadata for legallyblonde2redwhiteand2003
+14/06/15 11:04:06.89:   Getting TMDB metadata for thedeadlylookoflove
+14/06/15 11:04:06.89:   Getting TMDB metadata for princewilliamprinceharry
+14/06/15 11:04:06.88:   Getting TMDB metadata for elizabeththegoldenage2007
+14/06/15 11:04:06.89:   Getting TMDB metadata for snowwhiteandthehuntsman2012
+14/06/15 11:04:06.89:   Getting TMDB metadata for patton1970
+14/06/15 11:04:06.87:   Getting TMDB metadata for tangiwaialovestory2011
+14/06/15 11:04:06.88:   Getting TMDB metadata for mamasgoingtobuyyou
+14/06/15 11:04:06.89:   Getting TMDB metadata for theautobiographyofjanepittman
+14/06/15 11:04:06.90:   Getting TMDB metadata for hypothermia2010
+14/06/15 11:04:06.90:   Getting TMDB metadata for treacheryandgreedonthe1974
+14/06/15 11:04:06.90:   Getting TMDB metadata for geronimo1993
+14/06/15 11:04:06.90:   Getting TMDB metadata for fifteenandpregnant
+14/06/15 11:04:06.88:   Getting TMDB metadata for bereavement2010
+14/06/15 11:04:06.90:   Getting TMDB metadata for fallinginlovewiththegirl2006
+14/06/15 11:04:06.90:   Getting TMDB metadata for childrenwhochaselostvoices2011
+14/06/15 11:04:06.90:   Getting TMDB metadata for thewaywewere1973
+14/06/15 11:04:06.90:   Getting TMDB metadata for lostinyonkers1942
+14/06/15 11:04:06.88:   Getting TMDB metadata for mendonttell
+14/06/15 11:04:06.90:   Getting TMDB metadata for thewaltonscrisis
+14/06/15 11:04:06.90:   Getting TMDB metadata for kingandcountry1964
+14/06/15 11:04:06.90:   Getting TMDB metadata for noonecouldprotecther
+14/06/15 11:04:06.90:   Getting TMDB metadata for maryhigginsclarkacrimeof2003
+14/06/15 11:04:06.90:   Getting TMDB metadata for 2001maniacsfieldofscreams2010
+14/06/15 11:04:06.89:   Getting TMDB metadata for thescarletblade1963
+14/06/15 11:04:06.90:   Getting TMDB metadata for idreamedofafrica2000
+14/06/15 11:04:06.88:   Getting TMDB metadata for casinoroyale1967
+14/06/15 11:04:06.88:   Getting TMDB metadata for anybodysnightmare2001
+14/06/15 11:04:06.91:   Getting TMDB metadata for theroarer1967
+14/06/15 11:04:06.89:   Getting TMDB metadata for waterworld1995
+14/06/15 11:04:06.91:   Getting TMDB metadata for wildstallion2009
+14/06/15 11:04:06.89:   Getting TMDB metadata for armoredattack1941
+14/06/15 11:04:06.91:   Getting TMDB metadata for poltergeist1982
+14/06/15 11:04:06.88:   Getting TMDB metadata for crimesofthemind2014
+14/06/15 11:04:06.91:   Getting TMDB metadata for jackreedoneofourown
+14/06/15 11:04:06.89:   Getting TMDB metadata for maryhigginsclarkheseesyou
+14/06/15 11:04:06.91:   Getting TMDB metadata for starofindia1953
+14/06/15 11:04:06.90:   Getting TMDB metadata for thesweetestthing2002
+14/06/15 11:04:06.91:   Getting TMDB metadata for fivebloodygraves1970
+14/06/15 11:04:06.91:   Getting TMDB metadata for therighttoremainsilent
+14/06/15 11:04:06.91:   Getting TMDB metadata for penthousenorth2013
+14/06/15 11:04:06.89:   Getting TMDB metadata for oncemorewithfeeling
+14/06/15 11:04:06.91:   Getting TMDB metadata for panicinthestreet1950
+14/06/15 11:04:06.90:   Getting TMDB metadata for thickerthanbloodthelarry
+14/06/15 11:04:06.91:   Getting TMDB metadata for montewalsh1963
+14/06/15 11:04:06.88:   Getting TMDB metadata for bestofthebadmen1951
+14/06/15 11:04:06.91:   Getting TMDB metadata for thebattleoftheriverplate1956
+14/06/15 11:04:06.91:   Getting TMDB metadata for deathlifeofcharliestcloud2010
+14/06/15 11:04:06.92:   Getting TMDB metadata for takenthesearchforsophieparker2013
+14/06/15 11:04:06.90:   Getting TMDB metadata for magic1978
+14/06/15 11:04:06.91:   Getting TMDB metadata for thesweeney2012
+14/06/15 11:04:06.92:   Getting TMDB metadata for roxannetheprizepulitzer
+14/06/15 11:04:06.91:   Getting TMDB metadata for thelasthouseontheleft2009
+14/06/15 11:04:06.92:   Getting TMDB metadata for universalsoldier2brothers1998
+14/06/15 11:04:06.92:   Getting TMDB metadata for thehand1960
+14/06/15 11:04:06.90:   Getting TMDB metadata for margotatthewedding2007
+14/06/15 11:04:06.92:   Getting TMDB metadata for painfulsecrets
+14/06/15 11:04:06.91:   Getting TMDB metadata for beverlyhillscopii1987
+14/06/15 11:04:06.92:   Getting TMDB metadata for harryandwaltergotonewyork1976
+14/06/15 11:04:06.92:   Getting TMDB metadata for maryhigginsclarklovesmusic2001
+14/06/15 11:04:06.91:   Getting TMDB metadata for thefixer
+14/06/15 11:04:06.89:   Getting TMDB metadata for drillbittaylor2008
+14/06/15 11:04:06.90:   Getting TMDB metadata for braintwisters
+14/06/15 11:04:06.91:   Getting TMDB metadata for funwithdickandjane1977
+14/06/15 11:04:06.90:   Getting TMDB metadata for foolproof2006
+14/06/15 11:04:06.89:   Getting TMDB metadata for drumsalongthemohawk1939
+14/06/15 11:04:06.93:   Getting TMDB metadata for mazesandmonsters1982
+14/06/15 11:04:06.93:   Getting TMDB metadata for beverlyhillscopiii1994
+14/06/15 11:04:06.92:   Getting TMDB metadata for machinegunkelly1958
+14/06/15 11:04:06.93:   Getting TMDB metadata for journeytothecenteroftheearth1993
+14/06/15 11:04:06.93:   Getting TMDB metadata for weatherwars2011
+14/06/15 11:04:06.88:   Getting TMDB metadata for theperfectman2005
+14/06/15 11:04:06.91:   Getting TMDB metadata for siegeatredriver1954
+14/06/15 11:04:06.91:   Getting TMDB metadata for thecallofthewild1997
+14/06/15 11:04:06.93:   Getting TMDB metadata for deathtunnel2005
+14/06/15 11:04:06.92:   Getting TMDB metadata for thedevilsrock2011
+14/06/15 11:04:06.93:   Getting TMDB metadata for forgottencityoftheplanetof
+14/06/15 11:04:06.94:   Getting TMDB metadata for transformersrevengeofthe2009
+14/06/15 11:04:06.87:   Getting TMDB metadata for stationwest1948
+14/06/15 11:04:06.93:   Getting TMDB metadata for ourwildhearts2013
+14/06/15 11:04:06.87:   Getting TMDB metadata for alienrising2013
+14/06/15 11:04:06.93:   Getting TMDB metadata for womanwithapast1992
+14/06/15 11:04:06.88:   Getting TMDB metadata for thecovenant2006
+14/06/15 11:04:06.93:   Getting TMDB metadata for ultimatebetrayal
+14/06/15 11:04:06.94:   Getting TMDB metadata for florencenightingale1985
+14/06/15 11:04:06.94:   Getting TMDB metadata for gentlebenterroronthemountain2002
+14/06/15 11:04:06.88:   Getting TMDB metadata for yearone2009
+14/06/15 11:04:06.90:   Getting TMDB metadata for jakobtheliar1999
+14/06/15 11:04:06.95:   Getting TMDB metadata for harrypotterandthegobletof2005
+14/06/15 11:04:06.95:   Getting TMDB metadata for onhermajestyssecretservice1969
+14/06/15 11:04:06.91:   Getting TMDB metadata for faceofafugitive1959
+14/06/15 11:04:06.91:   Getting TMDB metadata for gunfightatcomanchecreek1964
+14/06/15 11:04:06.89:   Getting TMDB metadata for achildscry
+14/06/15 11:04:06.92:   Getting TMDB metadata for earthstorm2006
+14/06/15 11:04:06.91:   Getting TMDB metadata for huntforeagleone2006
+14/06/15 11:04:06.88:   Getting TMDB metadata for cruelintentions22000
+14/06/15 11:04:06.89:   Getting TMDB metadata for hauntingsarah
+14/06/15 11:04:06.91:   Getting TMDB metadata for touchthetopoftheworld2006
+14/06/15 11:04:06.93:   Getting TMDB metadata for strangeronhorseback1955
+14/06/15 11:04:06.93:   Getting TMDB metadata for salmonfishingintheyemen2011
+14/06/15 11:04:06.94:   Getting TMDB metadata for whatacarveup1962
+14/06/15 11:04:06.93:   Getting TMDB metadata for thebiggestfan2002
+14/06/15 11:04:06.93:   Getting TMDB metadata for hitman2007
+14/06/15 11:04:06.92:   Getting TMDB metadata for theoutsider
+14/06/15 11:04:06.91:   Getting TMDB metadata for bonanzaunderattack
+14/06/15 11:04:06.91:   Getting TMDB metadata for roswellthealiensattack1999
+14/06/15 11:04:06.94:   Getting TMDB metadata for thewiz
+14/06/15 11:04:06.89:   Getting TMDB metadata for dragoneyes2012
+14/06/15 11:04:06.89:   Getting TMDB metadata for carrieswar
+14/06/15 11:04:06.94:   Getting TMDB metadata for theeigersanction1975
+14/06/15 11:04:06.92:   Getting TMDB metadata for thetortured2010
+14/06/15 11:04:06.94:   Getting TMDB metadata for columbopublishorperish1974
+14/06/15 11:04:06.88:   Getting TMDB metadata for shestheman2006
+14/06/15 11:04:06.93:   Getting TMDB metadata for planetoftheapes1968
+14/06/15 11:04:06.90:   Getting TMDB metadata for thejazzsinger1980
+14/06/15 11:04:06.91:   Getting TMDB metadata for hourofdecision1957
+14/06/15 11:04:06.88:   Getting TMDB metadata for blindspot1958
+14/06/15 11:04:06.94:   Getting TMDB metadata for hourxsuicidepatrol1943
+14/06/15 11:04:06.90:   Getting TMDB metadata for margaret2009
+14/06/15 11:04:06.94:   Getting TMDB metadata for submerged2005
+14/06/15 11:04:06.89:   Getting TMDB metadata for theriversedge1957
+14/06/15 11:04:06.92:   Getting TMDB metadata for fieldpunishmentno1
+14/06/15 11:04:06.90:   Getting TMDB metadata for mozambique1965
+14/06/15 11:04:06.88:   Getting TMDB metadata for captainapache1971
+14/06/15 11:04:06.90:   Getting TMDB metadata for deathwish21982
+14/06/15 11:04:06.91:   Getting TMDB metadata for illalwaysknowwhatyoudid2006
+14/06/15 11:04:06.91:   Getting TMDB metadata for homesong
+14/06/15 11:04:06.90:   Getting TMDB metadata for lordjim1965
+14/06/15 11:04:06.92:   Getting TMDB metadata for jackhunter22008
+14/06/15 11:04:06.91:   Getting TMDB metadata for thefourfeathers1939
+14/06/15 11:04:06.89:   Getting TMDB metadata for repomen2010
+14/06/15 11:04:06.93:   Getting TMDB metadata for carryonbehind1975
+14/06/15 11:04:06.90:   Getting TMDB metadata for jackiebrown1997
+14/06/15 11:04:06.94:   Getting TMDB metadata for thepriceofabrokenheart
+14/06/15 11:04:06.89:   Getting TMDB metadata for timeofdeath2013
+14/06/15 11:04:06.91:   Getting TMDB metadata for sandsofthekalahari1965
+14/06/15 11:04:06.92:   Getting TMDB metadata for mercystreets2000
+14/06/15 11:04:06.94:   Getting TMDB metadata for allcreaturesgreatandsmall1975
+14/06/15 11:04:06.93:   Getting TMDB metadata for tycoon1947
+14/06/15 11:04:06.94:   Getting TMDB metadata for therookie2001
+14/06/15 11:04:06.90:   Getting TMDB metadata for beaches1988
+14/06/15 11:04:06.89:   Getting TMDB metadata for creation2009
+14/06/15 11:04:06.94:   Getting TMDB metadata for 4dollarsofrevenge
+14/06/15 11:04:06.93:   Getting TMDB metadata for daniellesteelsstar9021
+14/06/15 11:04:06.89:   Getting TMDB metadata for thescarletclaw
+14/06/15 11:04:06.94:   Getting TMDB metadata for wrongturn3leftfordead2008
+14/06/15 11:04:06.94:   Getting TMDB metadata for haroldshipmandrdeath2001
+14/06/15 11:04:06.94:   Getting TMDB metadata for commandosstrikeatdawn1942
+14/06/15 11:04:06.91:   Getting TMDB metadata for heldhostage
+14/06/15 11:04:06.92:   Getting TMDB metadata for outoforder2003
+14/06/15 11:04:06.91:   Getting TMDB metadata for theinside2010
+14/06/15 11:04:06.92:   Getting TMDB metadata for huntforeagleonecrashpoint2006
+14/06/15 11:04:06.91:   Getting TMDB metadata for awakenings1990
+14/06/15 11:04:06.88:   Getting TMDB metadata for abetterlife2011
+14/06/15 11:04:06.91:   Getting TMDB metadata for thestepfather2009
+14/06/15 11:04:06.91:   Getting TMDB metadata for farfromthemaddingcrowd
+14/06/15 11:04:06.93:   Getting TMDB metadata for clockwise1986
+14/06/15 11:04:06.93:   Getting TMDB metadata for inthelineofdutysiegeat
+14/06/15 11:04:06.91:   Getting TMDB metadata for ironthunder
+14/06/15 11:04:06.91:   Getting TMDB metadata for returninglily
+14/06/15 11:04:06.94:   Getting TMDB metadata for princessdianawherenow
+14/06/15 11:04:06.94:   Getting TMDB metadata for henryviiiandhissixwives1973
+14/06/15 11:04:06.90:   Getting TMDB metadata for thecave2005
+14/06/15 11:04:06.91:   Getting TMDB metadata for porridge1979
+14/06/15 11:04:06.93:   Getting TMDB metadata for opengraves
+14/06/15 11:04:06.91:   Getting TMDB metadata for gulliverstravels2010
+14/06/15 11:04:06.90:   Getting TMDB metadata for rulesofengagement2000
+14/06/15 11:04:06.94:   Getting TMDB metadata for willtherereallybeamorning
+14/06/15 11:04:06.92:   Getting TMDB metadata for spiderman2002
+14/06/15 11:04:06.94:   Getting TMDB metadata for playingforkeeps
+14/06/15 11:04:06.88:   Getting TMDB metadata for roughnightinjericho1967
+14/06/15 11:04:06.92:   Getting TMDB metadata for maryhigginsclarkhaventwe
+14/06/15 11:04:06.92:   Getting TMDB metadata for sleepingwiththedevil
+14/06/15 11:04:06.93:   Getting TMDB metadata for maryhigginsclarkacryin
+14/06/15 11:04:06.91:   Getting TMDB metadata for themorrisonmurders
+14/06/15 11:04:06.93:   Getting TMDB metadata for johnnyenglishreborn2011
+14/06/15 11:04:06.94:   Getting TMDB metadata for mynameisbruce2007
+14/06/15 11:04:06.94:   Getting TMDB metadata for thehappiestdaysofyourlife1950
+14/06/15 11:04:06.91:   Getting TMDB metadata for tracker2011
+14/06/15 11:04:06.93:   Getting TMDB metadata for maxpayne2008
+14/06/15 11:04:06.94:   Getting TMDB metadata for mashgoodbyefarewellamen1983
+14/06/15 11:04:06.95:   Getting TMDB metadata for thelostworldjurassicpark1997
+14/06/15 11:04:06.87:   Getting TMDB metadata for theterror
+14/06/15 11:04:06.93:   Getting TMDB metadata for losingchase1996
+14/06/15 11:04:06.94:   Getting TMDB metadata for thecollection2012
+14/06/15 11:04:06.94:   Getting TMDB metadata for videovoyeurthesusan
+14/06/15 11:04:06.86:   Getting TMDB metadata for roughair
+14/06/15 11:04:06.90:   Getting TMDB metadata for driventosucceed
+14/06/15 11:04:06.94:   Getting TMDB metadata for macarthur1977
+14/06/15 11:04:06.94:   Getting TMDB metadata for tarzaninmanhattan1989
+14/06/15 11:04:06.91:   Getting TMDB metadata for imaginaryfriend2012
+14/06/15 11:04:06.89:   Getting TMDB metadata for themarriageofmariabraun
+14/06/15 11:04:06.93:   Getting TMDB metadata for victimofbeauty
+14/06/15 11:04:06.93:   Getting TMDB metadata for thewomaningreen
+14/06/15 11:04:06.94:   Getting TMDB metadata for prophetofevil
+14/06/15 11:04:06.92:   Getting TMDB metadata for gentlebenblackgold2003
+14/06/15 11:04:06.94:   Getting TMDB metadata for omegadoom1997
+14/06/15 11:04:06.94:   Getting TMDB metadata for startingover2007
+14/06/15 11:04:06.91:   Getting TMDB metadata for lifeonlibertystreet2004
+14/06/15 11:04:06.94:   Getting TMDB metadata for thetreasureofsanteresa1944
+14/06/15 11:04:06.92:   Getting TMDB metadata for undueinfluence
+14/06/15 11:04:06.90:   Getting TMDB metadata for maryhigginsclarkforbetter
+14/06/15 11:04:06.92:   Getting TMDB metadata for caseysshadow1978
+14/06/15 11:04:06.88:   Getting TMDB metadata for jessestoneseachange2007
+14/06/15 11:04:06.92:   Getting TMDB metadata for rememberingdiana1997
+14/06/15 11:04:06.90:   Getting TMDB metadata for maryhigginsclarklovesmusic
+14/06/15 11:04:06.91:   Getting TMDB metadata for thebabysittersseduction
+14/06/15 11:04:06.93:   Getting TMDB metadata for maryhigginsclarkacryin1992
+14/06/15 11:04:06.94:   Getting TMDB metadata for thechildrenofanlac
+14/06/15 11:04:06.90:   Getting TMDB metadata for hellandhighwater1954
+14/06/15 11:04:06.90:   Getting TMDB metadata for blueriver
+14/06/15 11:04:06.91:   Getting TMDB metadata for ashineofrainbows2009
+14/06/15 11:04:06.91:   Getting TMDB metadata for deadlydescent2011
+14/06/15 11:04:06.93:   Getting TMDB metadata for itsawonderfulafterlife2010
+14/06/15 11:04:06.94:   Getting TMDB metadata for theandromedastrain1971
+14/06/15 11:04:06.88:   Getting TMDB metadata for thesecretlifeofbees2008
+14/06/15 11:04:06.94:   Getting TMDB metadata for catchandrelease2007
+14/06/15 11:04:06.92:   Getting TMDB metadata for theparadisevirus2003
+14/06/15 11:04:06.93:   Getting TMDB metadata for ambushinleopardstreet1962
+14/06/15 11:04:06.93:   Getting TMDB metadata for rudytherudygiulianistory2003
+14/06/15 11:04:06.93:   Getting TMDB metadata for jackhunter32008
+14/06/15 11:04:06.91:   Getting TMDB metadata for thebrokencirclebreakdown2012
+14/06/15 11:04:06.93:   Getting TMDB metadata for dianalastdaysofaprincess1997
+14/06/15 11:04:06.93:   Getting TMDB metadata for austinpowersinternational1967
+14/06/15 11:04:06.93:   Getting TMDB metadata for thenewroyals
+14/06/15 11:04:06.89:   Getting TMDB metadata for maryhigginsclarkallaround
+14/06/15 11:04:06.89:   Getting TMDB metadata for hesjustnotthatintoyou2009
+14/06/15 11:04:06.92:   Getting TMDB metadata for returnofthelivingdeadiii1993
+14/06/15 11:04:06.94:   Getting TMDB metadata for freshmanfather
+14/06/15 11:04:06.90:   Getting TMDB metadata for crownheights1991
+14/06/15 11:04:06.89:   Getting TMDB metadata for hush1998
+14/06/15 11:04:06.89:   Getting TMDB metadata for thepearlofdeath
+14/06/15 11:04:06.88:   Getting TMDB metadata for onespecialvictory
+14/06/15 11:04:06.93:   Getting TMDB metadata for thosesheleftbehind
+14/06/15 11:04:06.88:   Getting TMDB metadata for battlestations1956
+14/06/15 11:04:06.94:   Getting TMDB metadata for thisisspinaltap1984
+14/06/15 11:04:06.88:   Getting TMDB metadata for runawayfather
+14/06/15 11:04:06.88:   Getting TMDB metadata for mrsdalloway1997
+14/06/15 11:04:06.91:   Getting TMDB metadata for payback
+14/06/15 11:04:06.90:   Getting TMDB metadata for aleagueoftheirown1943
+14/06/15 11:04:06.88:   Getting TMDB metadata for citykiller1984
+14/06/15 11:04:06.91:   Getting TMDB metadata for dreamsofgold1986
+14/06/15 11:04:06.93:   Getting TMDB metadata for morganasuitablecasefor
+14/06/15 11:04:06.92:   Getting TMDB metadata for romulusandthesabines1961
+14/06/15 11:04:06.93:   Getting TMDB metadata for the39steps
+14/06/15 11:04:06.86:   Getting TMDB metadata for monster1999
+14/06/15 11:04:06.86:   Getting TMDB metadata for astrangeaffair
+14/06/15 11:04:06.92:   Getting TMDB metadata for memyselfandi1992
+14/06/15 11:04:06.92:   Getting TMDB metadata for myfathermyson
+14/06/15 11:04:06.94:   Getting TMDB metadata for basicinstinct1992
+14/06/15 11:04:06.94:   Getting TMDB metadata for neds2010
+14/06/15 11:04:06.93:   Getting TMDB metadata for invisiblechild
+14/06/15 11:04:06.93:   Getting TMDB metadata for juno2007
+14/06/15 11:04:06.93:   Getting TMDB metadata for harlancountywar
+14/06/15 11:04:06.94:   Getting TMDB metadata for riolobo1970
+14/06/15 11:04:06.90:   Getting TMDB metadata for lustforavampire1971
+14/06/15 11:04:06.95:   Getting TMDB metadata for babepiginthecity1998
+14/06/15 11:04:06.94:   Getting TMDB metadata for thegiantsofthessaly1960
+14/06/15 11:04:06.94:   Getting TMDB metadata for pointofentry2007
+14/06/15 11:04:06.90:   Getting TMDB metadata for afterthewizard2011
+14/06/15 11:04:06.90:   Getting TMDB metadata for eightdaystolive
+14/06/15 11:04:06.90:   Getting TMDB metadata for 14weddingsandadivorce
+14/06/15 11:04:06.94:   Getting TMDB metadata for soldiersgirl
+14/06/15 11:04:06.95:   Getting TMDB metadata for thebackupplan2010
+14/06/15 11:04:06.91:   Getting TMDB metadata for frequentflyer1996
+14/06/15 11:04:06.92:   Getting TMDB metadata for thechildrennobodywanted
+14/06/15 11:04:06.88:   Getting TMDB metadata for threeway1963
+14/06/15 11:04:06.90:   Getting TMDB metadata for legendsofthefall1994
+14/06/15 11:04:06.92:   Getting TMDB metadata for longjohnsilver1954
+14/06/15 11:04:06.88:   Getting TMDB metadata for moonrisekingdom2012
+14/06/15 11:04:06.91:   Getting TMDB metadata for lethimhaveit1950
+14/06/15 11:04:06.90:   Getting TMDB metadata for youlightupmylife1977
+14/06/15 11:04:06.94:   Getting TMDB metadata for thecalendargirlmurders
+14/06/15 11:04:06.87:   Getting TMDB metadata for lovesunfoldingdream2007
+14/06/15 11:04:06.94:   Getting TMDB metadata for womeninlove
+14/06/15 11:04:06.91:   Getting TMDB metadata for dangerousattraction2012
+14/06/15 11:04:06.90:   Getting TMDB metadata for facesinthedark1960
+14/06/15 11:04:06.94:   Getting TMDB metadata for kingdomofheaven2005
+14/06/15 11:04:06.92:   Getting TMDB metadata for shadowonthemesa2013
+14/06/15 11:04:06.92:   Getting TMDB metadata for reunionatfairborough1985
+14/06/15 11:04:06.87:   Getting TMDB metadata for hendrix2000
+14/06/15 11:04:06.88:   Getting TMDB metadata for thebigshowdown1972
+14/06/15 11:04:06.93:   Getting TMDB metadata for thelady2012
+14/06/15 11:04:06.93:   Getting TMDB metadata for crownedanddangerous1997
+14/06/15 11:04:06.87:   Getting TMDB metadata for revolution1985
+14/06/15 11:04:06.90:   Getting TMDB metadata for visionsofterror
+14/06/15 11:04:06.88:   Getting TMDB metadata for doubleconfession1950
+14/06/15 11:04:06.90:   Getting TMDB metadata for buildmygallowshigh1947
+14/06/15 11:04:06.94:   Getting TMDB metadata for themasterofdisguise2002
+14/06/15 11:04:06.90:   Getting TMDB metadata for thehellhoundsofalaska1973
+14/06/15 11:04:06.89:   Getting TMDB metadata for deaconsfordefense
+14/06/15 11:04:06.90:   Getting TMDB metadata for atownlikealice1956
+14/06/15 11:04:06.91:   Getting TMDB metadata for halfadozenbabies
+14/06/15 11:04:06.94:   Getting TMDB metadata for loveandhonour2013
+14/06/15 11:04:06.90:   Getting TMDB metadata for heartland1979
+14/06/15 11:04:06.91:   Getting TMDB metadata for columnsouth1953
+14/06/15 11:04:06.94:   Getting TMDB metadata for littlewomen1994
+14/06/15 11:04:06.92:   Getting TMDB metadata for thehardcorps2006
+14/06/15 11:04:06.90:   Getting TMDB metadata for krull1983
+14/06/15 11:04:06.94:   Getting TMDB metadata for the39steps1959
+14/06/15 11:04:06.93:   Getting TMDB metadata for godblessthechild
+14/06/15 11:04:06.93:   Getting TMDB metadata for olympushasfallen2013
+14/06/15 11:04:06.92:   Getting TMDB metadata for theskeletonkey2005
+14/06/15 11:04:06.94:   Getting TMDB metadata for battlefortheskies2013
+14/06/15 11:04:06.93:   Getting TMDB metadata for backtobataan1945
+14/06/15 11:04:06.90:   Getting TMDB metadata for beverlyhillscop1984
+14/06/15 11:04:06.88:   Getting TMDB metadata for population4362006
+14/06/15 11:04:06.93:   Getting TMDB metadata for wayofthewicked2014
+14/06/15 11:04:06.92:   Getting TMDB metadata for strangerinthefamily
+14/06/15 11:04:06.94:   Getting TMDB metadata for starshiptroopers32008
+14/06/15 11:04:06.90:   Getting TMDB metadata for akindofloving
+14/06/15 11:04:06.88:   Getting TMDB metadata for latechrysanthemums1954
+14/06/15 11:04:06.89:   Getting TMDB metadata for thefallenidol
+14/06/15 11:04:06.94:   Getting TMDB metadata for kingofdevilsisland2010
+14/06/15 11:04:06.89:   Getting TMDB metadata for replacingdad
+14/06/15 11:04:06.93:   Getting TMDB metadata for jessestonethinice2009
+14/06/15 11:04:06.86:   Getting TMDB metadata for clarasheart
+14/06/15 11:04:06.90:   Getting TMDB metadata for maryhigginsclarkweepno
+14/06/15 11:04:06.91:   Getting TMDB metadata for womenofsanquentin
+14/06/15 11:04:06.90:   Getting TMDB metadata for humantrafficking2005
+14/06/15 11:04:06.91:   Getting TMDB metadata for vampirebats2005
+14/06/15 11:04:06.88:   Getting TMDB metadata for theodessafile1974
+14/06/15 11:04:06.94:   Getting TMDB metadata for coastofskeletons1964
+14/06/15 11:04:06.92:   Getting TMDB metadata for untamedlove
+14/06/15 11:04:06.94:   Getting TMDB metadata for theforger2012
+14/06/15 11:04:06.93:   Getting TMDB metadata for smokescreen1964
+14/06/15 11:04:06.90:   Getting TMDB metadata for strawberrysummer
+14/06/15 11:04:06.91:   Getting TMDB metadata for jackhunter12008
+14/06/15 11:04:06.93:   Getting TMDB metadata for kellysheroes1970
+14/06/15 11:04:06.93:   Getting TMDB metadata for thephantom1996
+14/06/15 11:04:06.92:   Getting TMDB metadata for faceofterror2005
+14/06/15 11:04:06.91:   Getting TMDB metadata for wagonmaster1950
+14/06/15 11:04:06.91:   Getting TMDB metadata for wifemothermurderer
+14/06/15 11:04:06.94:   Getting TMDB metadata for wickedlove2010
+14/06/15 11:04:06.89:   Getting TMDB metadata for mockingbirddontsing
+14/06/15 11:04:06.92:   Getting TMDB metadata for guiltyhearts2002
+14/06/15 11:04:06.92:   Getting TMDB metadata for bloodvowsthestoryof
+14/06/15 11:04:06.93:   Getting TMDB metadata for dyingtobelong
+14/06/15 11:04:06.91:   Getting TMDB metadata for theseventhcoin1993
+14/06/15 11:04:06.91:   Getting TMDB metadata for mutiny1944
+14/06/15 11:04:06.92:   Getting TMDB metadata for astarisborn
+14/06/15 11:04:06.88:   Getting TMDB metadata for monstro2010
+14/06/15 11:04:06.93:   Getting TMDB metadata for survivor2014
+14/06/15 11:04:06.93:   Getting TMDB metadata for hardtime
+14/06/15 11:04:06.92:   Getting TMDB metadata for destinationgobi1953
+14/06/15 11:04:06.94:   Getting TMDB metadata for betyourlife2004
+14/06/15 11:04:06.94:   Getting TMDB metadata for kentuckyrifle1955
+14/06/15 11:04:06.90:   Getting TMDB metadata for razzledazzle2007
+14/06/15 11:04:06.95:   Getting TMDB metadata for thefarcountry1955
+14/06/15 11:04:06.88:   Getting TMDB metadata for therats2002
+14/06/15 11:04:06.88:   Getting TMDB metadata for greenzone2010
+14/06/15 11:04:06.90:   Getting TMDB metadata for highnoon2000
+14/06/15 11:04:06.92:   Getting TMDB metadata for adayforthankson
+14/06/15 11:04:06.89:   Getting TMDB metadata for killerbees2002
+14/06/15 11:04:06.92:   Getting TMDB metadata for hiddeninsilence
+14/06/15 11:04:06.90:   Getting TMDB metadata for carambola1974
+14/06/15 11:04:06.91:   Getting TMDB metadata for scaryordie2012
+14/06/15 11:04:06.91:   Getting TMDB metadata for exam2010
+14/06/15 11:04:06.91:   Getting TMDB metadata for billyliar
+14/06/15 11:04:06.87:   Getting TMDB metadata for cah2010
+14/06/15 11:04:06.92:   Getting TMDB metadata for shesgone2004
+14/06/15 11:04:06.87:   Getting TMDB metadata for indochine
+14/06/15 11:04:06.92:   Getting TMDB metadata for theendofsummer
+14/06/15 11:04:06.85:   Getting TMDB metadata for onlyyou1994
+14/06/15 11:04:06.93:   Getting TMDB metadata for passenger571993
+14/06/15 11:04:06.93:   Getting TMDB metadata for mammamia2008
+14/06/15 11:04:06.93:   Getting TMDB metadata for smokinaces2006
+14/06/15 11:04:06.94:   Getting TMDB metadata for rush2013
+14/06/15 11:04:06.86:   Getting TMDB metadata for gangster2011
+14/06/15 11:04:06.94:   Getting TMDB metadata for hamlet22008
+14/06/15 11:04:06.91:   Getting TMDB metadata for nightdrive2010
+14/06/15 11:04:06.92:   Getting TMDB metadata for therace2009
+14/06/15 11:04:06.92:   Getting TMDB metadata for thebigsky1952
+14/06/15 11:04:06.93:   Getting TMDB metadata for amanalone1955
+14/06/15 11:04:06.91:   Getting TMDB metadata for noordinarybaby
+14/06/15 11:04:06.89:   Getting TMDB metadata for hiddenplaces
+14/06/15 11:04:06.90:   Getting TMDB metadata for labyrinth1986
+14/06/15 11:04:06.92:   Getting TMDB metadata for moontrap1989
+14/06/15 11:04:06.94:   Getting TMDB metadata for heartofachild
+14/06/15 11:04:06.89:   Getting TMDB metadata for jack
+14/06/15 11:04:06.89:   Getting TMDB metadata for bedoflies1980
+14/06/15 11:04:06.93:   Getting TMDB metadata for thescore
+14/06/15 11:04:06.92:   Getting TMDB metadata for theburningbed
+14/06/15 11:04:06.90:   Getting TMDB metadata for thecup2002
+14/06/15 11:04:06.93:   Getting TMDB metadata for layercake2004
+14/06/15 11:04:06.90:   Getting TMDB metadata for genevieve1953
+14/06/15 11:04:06.88:   Getting TMDB metadata for knockedup2007
+14/06/15 11:04:06.90:   Getting TMDB metadata for salt2010
+14/06/15 11:04:06.89:   Getting TMDB metadata for blackjack1979
+14/06/15 11:04:06.93:   Getting TMDB metadata for stagecoach
+14/06/15 11:04:06.93:   Getting TMDB metadata for almosthuman
+14/06/15 11:04:06.93:   Getting TMDB metadata for fatalvows
+14/06/15 11:04:06.93:   Getting TMDB metadata for intrigue1988
+14/06/15 11:04:06.90:   Getting TMDB metadata for impact1963
+14/06/15 11:04:06.95:   Getting TMDB metadata for rawdeal1986
+14/06/15 11:04:06.94:   Getting TMDB metadata for hitch2005
+14/06/15 11:04:06.87:   Getting TMDB metadata for goddess2013
+14/06/15 11:04:06.93:   Getting TMDB metadata for gloryhonor
+14/06/15 11:04:06.87:   Getting TMDB metadata for silentnight
+14/06/15 11:04:06.94:   Getting TMDB metadata for predators2010
+14/06/15 11:04:06.93:   Getting TMDB metadata for santafe1951
+14/06/15 11:04:06.92:   Getting TMDB metadata for finaljustice
+14/06/15 11:04:06.88:   Getting TMDB metadata for marilynandme
+14/06/15 11:04:06.92:   Getting TMDB metadata for bunraku2010
+14/06/15 11:04:06.88:   Getting TMDB metadata for f20102010
+14/06/15 11:04:06.91:   Getting TMDB metadata for reddog2011
+14/06/15 11:04:06.89:   Getting TMDB metadata for thewall
+14/06/15 11:04:06.88:   Getting TMDB metadata for alex1992
+14/06/15 11:04:06.93:   Getting TMDB metadata for goblin2010
+14/06/15 11:04:06.94:   Getting TMDB metadata for annasdream
+14/06/15 11:04:06.90:   Getting TMDB metadata for derby2007
+14/06/15 11:04:06.89:   Getting TMDB metadata for victim1961
+14/06/15 11:04:06.94:   Getting TMDB metadata for pillowtalk
+14/06/15 11:04:06.93:   Getting TMDB metadata for theservant
+14/06/15 11:04:17.88:   No results for Disney's Snow Dogs at 2001
+14/06/15 11:04:18.19:   No results for Old School at 2002
+14/06/15 11:04:19.11:   No results for Julie & Julia at 1950
+14/06/15 11:04:20.15:   No results for They Came to Cordura at 1916
+14/06/15 11:04:22.68:   No results for Columbo: Sex and The Married... at 1989
+14/06/15 11:04:22.98:   No results for Columbo: Murder, Smoke and Shadows at 1989
+14/06/15 11:04:23.91:   No results for Bewitched at 1960
+14/06/15 11:04:25.50:   No results for A Winner Never Quits at 1940
+14/06/15 11:04:31.99:   No results for Pan's Labyrinth at 1944
+14/06/15 11:04:33.35:   Error - no matches for: Jennifer: A Woman's Story
+14/06/15 11:04:35.91:   Error - no matches for: Gore Vidal's Billy The Kid
+14/06/15 11:04:36.00:   No results for Another Life at 1920
+14/06/15 11:04:36.93:   Error - no matches for: Snap Decision
+14/06/15 11:04:41.01:   No results for Rose Of Cimarron at 1952
+14/06/15 11:04:45.94:   No results for Black Beauty: The Legend Continues at 2007
+14/06/15 11:04:47.85:   Error - no matches for: Danielle Steel's Once In A...
+14/06/15 11:04:49.91:   Error - no matches for: A Touch Of Hope
+14/06/15 11:04:50.88:   No results for Birth Of The Beatles at 1960
+14/06/15 11:04:51.89:   Error - no matches for: Meatloaf: To Hell And Back
+14/06/15 11:04:54.84:   Error - no matches for: Back To The Planet Of The Apes
+14/06/15 11:04:58.58:   Error - no matches for: The Fergie Story: Paradise Lost
+14/06/15 11:05:12.72:   No results for Three Way at 1963
+14/06/15 11:05:12.90:   No results for The Caine Mutiny Court-Martial at 1945
+14/06/15 11:05:13.67:   No results for Sherlock Holmes & the Incident... at 1992
+14/06/15 11:05:13.91:   No results for Sherlock Holmes: The Hound of... at 1983
+14/06/15 11:05:20.95:   No results for Coast To Coast at 2003
+14/06/15 11:05:21.45:   Error - no matches for: One Special Victory
+14/06/15 11:05:21.77:   Error - no matches for: Mama's Going To Buy You...
+14/06/15 11:05:22.47:   Error - no matches for: Marilyn And Me
+14/06/15 11:05:23.49:   Error - no matches for: Runaway Father
+14/06/15 11:05:26.56:   No results for Battle Stations at 1956
+14/06/15 11:05:27.31:   No results for Best of the Bad Men at 1951
+14/06/15 11:05:27.56:   No results for The Big Showdown at 1972
+14/06/15 11:05:30.35:   No results for Mary Higgins Clark: Weep No... at 1992
+14/06/15 11:05:32.13:   No results for Murder In The First at 1930
+14/06/15 11:05:33.47:   Error - no matches for: Prince Charles & Prince William...
+14/06/15 11:05:34.50:   No results for Bed Of Lies at 1980
+14/06/15 11:05:40.63:   Error - no matches for: Judgement Day: The John List Story
+14/06/15 11:05:41.68:   No results for Armored Attack at 1941
+14/06/15 11:05:44.02:   Error - no matches for: Mary Higgins Clark: He Sees You...
+14/06/15 11:05:47.59:   ERROR fetching http://api.themoviedb.org/3/search/movie
+{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Deacons For Defense","page":1}
+Error: getaddrinfo EAGAIN
+undefined
+Attempts left: 4
+14/06/15 11:05:58.21:   No results for After The Wizard at 2011
+14/06/15 11:05:59.23:   No results for A League Of Their Own at 1943
+14/06/15 11:06:00.21:   No results for Lost In Yonkers at 1942
+14/06/15 11:06:02.06:   No results for Hypothermia at 2010
+14/06/15 11:06:02.10:   No results for Treachery And Greed On The... at 1974
+14/06/15 11:06:04.22:   Error - no matches for: Thicker Than Blood: The Larry...
+14/06/15 11:06:05.94:   No results for Crown Heights at 1991
+14/06/15 11:06:09.08:   No results for Mozambique at 1965
+14/06/15 11:06:09.95:   No results for Foolproof at 2006
+14/06/15 11:06:11.12:   No results for Mary Higgins Clark: A Crime of... at 2003
+14/06/15 11:06:11.93:   No results for The Cup at 2002
+14/06/15 11:06:13.99:   No results for Derby at 2007
+14/06/15 11:06:14.84:   Error - no matches for: The Waltons' Crisis
+14/06/15 11:06:16.45:   Error - no matches for: Mary Higgins Clark: For Better...
+14/06/15 11:06:17.11:   Error - no matches for: Mary Higgins Clark: Loves Music...
+14/06/15 11:06:20.53:   Error - no matches for: 14 Weddings And A Divorce
+14/06/15 11:06:20.67:   Error - no matches for: Mary Higgins Clark: Weep No...
+14/06/15 11:06:22.82:   Error - no matches for: Visions of Terror
+14/06/15 11:06:23.69:   Error - no matches for: Driven To Succeed
+14/06/15 11:06:28.38:   No results for Dangerous Attraction at 2012
+14/06/15 11:06:29.44:   No results for The Roarer at 1967
+14/06/15 11:06:32.26:   No results for Frequent Flyer at 1996
+14/06/15 11:06:36.94:   No results for Mutiny at 1944
+14/06/15 11:06:38.82:   Error - no matches for: Half A Dozen Babies
+14/06/15 11:06:42.01:   No results for Star Of India at 1953
+14/06/15 11:06:42.76:   No results for Five Bloody Graves at 1970
+14/06/15 11:06:43.78:   No results for Deadly Descent at 2011
+14/06/15 11:06:45.85:   No results for Dreams of Gold at 1986
+14/06/15 11:06:47.32:   No results for Touch the Top of the World at 2006
+14/06/15 11:06:48.55:   Error - no matches for: Returning Lily
+14/06/15 11:06:49.37:   No results for Let Him Have It at 1950
+14/06/15 11:06:51.46:   No results for Life On Liberty Street at 2004
+14/06/15 11:06:52.88:   No results for Monte Walsh at 1963
+14/06/15 11:06:56.59:   No results for Gunfight at Comanche Creek at 1964
+14/06/15 11:07:01.47:   Error - no matches for: Roxanne: The Prize Pulitzer
+14/06/15 11:07:06.62:   No results for Mary Higgins Clark: Loves Music... at 2001
+14/06/15 11:07:07.25:   No results for Gentle Ben: Black Gold at 2003
+14/06/15 11:07:07.25:   No results for Reunion At Fairborough at 1985
+14/06/15 11:07:08.10:   No results for Bunraku at 2010
+14/06/15 11:07:10.79:   Error - no matches for: A Day For Thanks On...
+14/06/15 11:07:11.55:   Error - no matches for: Mary Higgins Clark: Haven't We...
+14/06/15 11:07:12.23:   No results for Guilty Hearts at 2002
+14/06/15 11:07:13.02:   No results for Remembering Diana... at 1997
+14/06/15 11:07:24.59:   No results for Austin Powers: International... at 1967
+14/06/15 11:07:29.59:   Error - no matches for: Those She Left Behind
+14/06/15 11:07:36.78:   No results for Mary Higgins Clark: A Cry In... at 1992
+14/06/15 11:07:38.91:   Error - no matches for: In the Line of Duty: Siege At...
+14/06/15 11:07:41.59:   No results for Diana - Last Days Of A Princess at 1997
+14/06/15 11:07:42.55:   No results for Danielle Steel's Star at 9021
+14/06/15 11:07:43.22:   Error - no matches for: Mary Higgins Clark: A Cry In...
+14/06/15 11:07:44.07:   Error - no matches for: Forgotten City Of The Planet Of...
+14/06/15 11:07:45.58:   Error - no matches for: The New Royals
+14/06/15 11:07:50.61:   No results for Columbo: Publish Or Perish at 1974
+14/06/15 11:07:51.46:   No results for The Rookie at 2001
+14/06/15 11:07:51.64:   No results for Henry VIII and His Six Wives at 1973
+14/06/15 11:07:56.32:   No results for Wrong Turn 3: Left For Dead at 2008
+14/06/15 11:07:59.76:   Error - no matches for: The Calendar Girl Murders
+14/06/15 11:08:00.67:   Error - no matches for: Heart Of A Child
+14/06/15 11:08:02.99:   No results for Omega Doom at 1997
+14/06/15 11:08:03.78:   No results for The Treasure of San Teresa at 1944
+14/06/15 11:08:04.32:   No results for Kentucky Rifle at 1955
+14/06/15 11:08:05.75:   No results for Hour X Suicide Patrol at 1943
+14/06/15 11:08:08.39:   No results for Gentle Ben: Terror On The Mountain at 2002
+14/06/15 11:08:10.30:   No results for Love And Honour at 2013
+14/06/15 11:08:11.35:   No results for Harold Shipman: Dr. Death at 2001
+14/06/15 11:08:14.13:   Error - no matches for: The Children of An Lac
+14/06/15 11:08:17.34:   Error - no matches for: Princess Diana: Where Now?
+14/06/15 11:08:18.17:   No results for M*A*S*H: Goodbye, Farewell & Amen at 1983
+14/06/15 11:08:22.48:   Error - no matches for: Disney's Snow Dogs
+14/06/15 11:08:24.32:   Error - no matches for: Columbo: Sex and The Married...
+14/06/15 11:08:25.14:   Error - no matches for: Columbo: Murder, Smoke and Shadows
+14/06/15 11:08:26.08:   Error - no matches for: A Winner Never Quits
+14/06/15 11:08:30.31:   Error - no matches for: Sherlock Holmes & the Incident...
+14/06/15 11:08:32.18:   Error - no matches for: Battle Stations
+14/06/15 11:08:32.63:   Error - no matches for: Best of the Bad Men
+14/06/15 11:08:33.68:   Error - no matches for: Mary Higgins Clark: Weep No...
+14/06/15 11:08:34.47:   Error - no matches for: Bed Of Lies
+14/06/15 11:08:38.39:   Error - no matches for: Treachery And Greed On The...
+14/06/15 11:08:40.08:   Error - no matches for: Mary Higgins Clark: A Crime of...
+14/06/15 11:08:42.06:   Error - no matches for: The Roarer
+14/06/15 11:08:44.81:   Error - no matches for: Dreams of Gold
+14/06/15 11:08:45.92:   Error - no matches for: Life On Liberty Street
+14/06/15 11:08:47.38:   Error - no matches for: Mary Higgins Clark: Loves Music...
+14/06/15 11:08:47.83:   Error - no matches for: Gentle Ben: Black Gold
+14/06/15 11:08:48.22:   Error - no matches for: Reunion At Fairborough
+14/06/15 11:08:49.55:   Error - no matches for: Remembering Diana...
+14/06/15 11:08:50.34:   Error - no matches for: Mary Higgins Clark: A Cry In...
+14/06/15 11:08:53.01:   Error - no matches for: Columbo: Publish Or Perish
+14/06/15 11:08:57.09:   Error - no matches for: Hour X Suicide Patrol
+14/06/15 11:08:57.50:   Error - no matches for: Gentle Ben: Terror On The Mountain
+14/06/15 11:08:58.12:   Error - no matches for: Harold Shipman: Dr. Death
+14/06/15 11:08:58.50:   Error - no matches for: M*A*S*H: Goodbye, Farewell & Amen
+14/06/15 11:08:58.50:   Cleaning up showings
+14/06/15 11:08:58.50:   Removed a duplicate/split showing for magicmike2012
+14/06/15 11:08:58.50:   Removed a duplicate/split showing for magicmike2012
+14/06/15 11:08:58.50:   Removed a duplicate/split showing for onthefiddle1961
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for californiaman1992
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for ironman2008
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for onthefiddle1961
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for ironman2008
+14/06/15 11:08:58.50:   Removed a duplicate/split showing for magicmike2012
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for hopeandglory1987
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for californiaman1992
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for iceage3dawnofthedinosaurs2009
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for highfidelity2000
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for iceage3dawnofthedinosaurs2009
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for highfidelity2000
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for ironman2008
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for highfidelity2000
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for highfidelity2000
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for highfidelity2000
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for secretariat2010
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for highfidelity2000
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for secretariat2010
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for secretariat2010
+14/06/15 11:08:58.51:   Removed a duplicate/split showing for secretariat2010
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for benditlikebeckham2002
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for onlyyou1994
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for benditlikebeckham2002
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for onlyyou1994
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for juliejulia2009
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for juliejulia2009
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for juliejulia2009
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for dragonwars2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for onlyyou1994
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for juliejulia2009
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for perfectstranger2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for onlyyou1994
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for dragonwars2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for perfectstranger2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for kissofthedragon2001
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for somethingevil1972
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for perfectstranger2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for somethingevil1972
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for gorevidalsbillythekid
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for roughair
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for spinningboris2003
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for dragonwars2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for perfectstranger2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for dragonwars2007
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for panslabyrinth1944
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for badmeat2011
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for borninnocent
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thedetonator2006
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for therestlessbreed1957
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thedetonator2006
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thefightingfistsofshanghaijoe1973
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for stationwest1948
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for therestlessbreed1957
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for blackbeautythelegendcontinues2007
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for stationwest1948
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thefightingfistsofshanghaijoe1973
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for revolution1985
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for alienrising2013
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for revolution1985
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for gridirongang2006
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thedetonator2006
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for birthofthebeatles1960
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thedetonator2006
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for inhislifethejohnlennonstory
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for theterror
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for anunexpectedlove
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for silentnight
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for thatllbetheday
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for blackbeautythelegendcontinues2007
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for cah2010
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for gridirongang2006
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for birthofthebeatles1960
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for goddess2013
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for theperfectman2005
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for knockedup2007
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for theperfectman2005
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for casinoroyale1967
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for elizabeththegoldenage2007
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for knockedup2007
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for shestheman2006
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for theboatthatrocked2009
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for thehorsesoldiers1959
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for theboatthatrocked2009
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for knockedup2007
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for mrsdalloway1997
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for blonde
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for knockedup2007
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for goddess2013
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for casinoroyale1967
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for cruelintentions22000
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for jessestoneseachange2007
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for thecovenant2006
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for sherlockholmestheincident1992
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for cah2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for cruelintentions22000
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for anybodysnightmare2001
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for jessestoneseachange2007
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for sherlockholmestheincident1992
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for knockedup2007
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for crimesofthemind2014
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for firefrombelow2009
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for crimesofthemind2014
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for murderinthefirst1930
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for todayitsmetomorrowitsyou1968
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for shestheman2006
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for theboatthatrocked2009
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for dragoneyes2012
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for theodessafile1974
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for theodessafile1974
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for murderinthefirst1930
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for hauntingsarah
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for murderinthefirst1930
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for aftermathatestoflove
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for theautobiographyofjanepittman
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for snowwhiteandthehuntsman2012
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for judgementdaythejohnliststory
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for dragoneyes2012
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for todayitsmetomorrowitsyou1968
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for creation2009
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for killerbees2002
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for aleagueoftheirown1943
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for conversationswithotherwomen
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for legendsofthefall1994
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for hesjustnotthatintoyou2009
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for treacheryandgreedonthe1974
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for everythingsheeverwanted2009
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for waterworld1995
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for 2001maniacsfieldofscreams2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for razzledazzle2007
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for treacheryandgreedonthe1974
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for creation2009
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for waterworld1995
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for waterworld1995
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for eightdaystolive
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for driventosucceed
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for thehorsesoldiers1959
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for dragoneyes2012
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for driventosucceed
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for wildstallion2009
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for aleagueoftheirown1943
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for roswellthealiensattack1999
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for 2001maniacsfieldofscreams2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for deathwish21982
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for dangerousattraction2012
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for vampirebats2005
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for lustforavampire1971
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for exam2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for bereavement2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for vampirebats2005
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for maryhigginsclarkweepno
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for murderinthefirst1930
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thelasthouseontheleft2009
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for imaginaryfriend2012
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for theparadisevirus2003
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for humantrafficking2005
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for treacheryandgreedonthe1974
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for runawayfather
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for faceofterror2005
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for theinside2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for returnofthelivingdeadiii1993
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for spiderman2002
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for johnnyenglishreborn2011
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thetortured2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for beverlyhillscopiii1994
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for bereavement2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for battlestations1956
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for rulesofengagement2000
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for itsawonderfulafterlife2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for f20102010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for dreamsofgold1986
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for bunraku2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for theinside2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for itsawonderfulafterlife2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for salmonfishingintheyemen2011
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for dreamsofgold1986
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for itsawonderfulafterlife2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for hitman2007
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for lostinyonkers1942
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for hitman2007
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for shadowonthemesa2013
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thechildrennobodywanted
+14/06/15 11:08:58.58:   Removed a duplicate/split showing for forgottencityoftheplanetof
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for victimofbeauty
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for fieldpunishmentno1
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for deathtunnel2005
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for returnofthelivingdeadiii1993
+14/06/15 11:08:58.58:   Removed a duplicate/split showing for theeigersanction1975
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for itsawonderfulafterlife2010
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for repomen2010
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for happyfeet2006
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for timeofdeath2013
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for legendsofthefall1994
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for roswellthealiensattack1999
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for thecup2002
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for mercystreets2000
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for thecup2002
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for maryhigginsclarkforbetter
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thelady2012
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for maryhigginsclarklovesmusic
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for heartland1979
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for deathwish21982
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for jackiebrown1997
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for beverlyhillscop1984
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for exam2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for dangerousattraction2012
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for mazesandmonsters1982
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for roswellthealiensattack1999
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for theskeletonkey2005
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for itsawonderfulafterlife2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for wildstallion2009
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for beverlyhillscop1984
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for repomen2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for battlestations1956
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for scaryordie2012
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for treacheryandgreedonthe1974
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for scaryordie2012
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for guiltyhearts2002
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thelady2012
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for layercake2004
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for razzledazzle2007
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for mazesandmonsters1982
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for labyrinth1986
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for lostinyonkers1942
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for jakobtheliar1999
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for legendsofthefall1994
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for happyfeet2006
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for jakobtheliar1999
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for greenzone2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thehardcorps2006
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for mendonttell
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for smokinaces2006
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for payback
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for roswellthealiensattack1999
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for cah2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for greenzone2010
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for cruelintentions22000
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for beverlyhillscopii1987
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for thecovenant2006
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for huntforeagleone2006
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for creation2009
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for mrsdalloway1997
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for yearone2009
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for itsawonderfulafterlife2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for crownheights1991
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for thebabysittersseduction
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thelady2012
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for huntforeagleone2006
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for almosthuman
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for bloodvowsthestoryof
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for f20102010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for montewalsh1963
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for montewalsh1963
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for imaginaryfriend2012
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for mamasgoingtobuyyou
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for oncemorewithfeeling
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thehardcorps2006
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for firefrombelow2009
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for almosthuman
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for murderinthefirst1930
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for dragoneyes2012
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for aftermathatestoflove
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for clockwise1986
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thesweeney2012
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for killerbees2002
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for wagonmaster1950
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for deathwish21982
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for deathtunnel2005
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for theburningbed
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for lustforavampire1971
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for clockwise1986
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for gridirongang2006
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for heldhostage
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for creation2009
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for cah2010
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for wagonmaster1950
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for timeofdeath2013
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for casinoroyale1967
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for thejazzsinger1980
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for theparadisevirus2003
+14/06/15 11:08:58.53:   Removed a duplicate/split showing for hendrix2000
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thetortured2010
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for thescore
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for smokinaces2006
+14/06/15 11:08:58.57:   Removed a duplicate/split showing for undueinfluence
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for roughair
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for waterworld1995
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for ironthunder
+14/06/15 11:08:58.56:   Removed a duplicate/split showing for deathwish21982
+14/06/15 11:08:58.52:   Removed a duplicate/split showing for borninnocent
+14/06/15 11:08:58.59:   All done!
+14/06/15 11:08:58.55:   Removed a duplicate/split showing for jack
+14/06/15 11:08:58.54:   Removed a duplicate/split showing for yearone2009
