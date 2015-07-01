@@ -18,7 +18,8 @@ var latestDay;
 
 module.exports = function(runImmediately) {
 	cron(
-		'00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
+		// '00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
+		'00 */4 * * *', // Run every 4 hours
 		updateData,
 		runImmediately // Run the job immediately?
 	);
