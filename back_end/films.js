@@ -17,15 +17,12 @@ var latestDay;
 
 
 module.exports = function(runImmediately) {
-	if (runImmediately)
-		updateData();
-
-	// cron(
+	cron(
 		// '00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
-		// '00 */4 * * *', // Run every 4 hours
-		// updateData,
-		// runImmediately // Run the job immediately?
-	// );
+		'00 */4 * * *', // Run every 4 hours
+		updateData,
+		runImmediately // Run the job immediately?
+	);
 };
 
 function updateData() {
@@ -79,9 +76,6 @@ function removeOldData() {
 		}
 	}
 
-	log('Updating file');
-	store.set(films);
-
 	deferred.resolve();
 
 	return deferred.promise;
@@ -98,9 +92,6 @@ function getFilmsFromSky() {
 		function(skyFilms) {
 			log('Got all films from Sky')
 			films = skyFilms;
-
-			log('Updating file');
-			store.set(films);
 
 			deferred.resolve();
 		}
@@ -119,12 +110,7 @@ function addMetaData() {
 	for (var id in films) {
 		var success = function() {
 			// log('Film done ' + counter + ' / ' + totalFilms);
-			if (++counter === totalFilms) {
-				log('Updating file');
-				store.set(films);
-
-				deferred.resolve();
-			}
+			if (++counter === totalFilms) deferred.resolve();
 		};
 
 		// Only fetch metadata for films that don't already have it
@@ -199,9 +185,6 @@ function cleanUpShowings() {
 			delete films[film];
 		}
 	}
-
-	log('Updating file');
-	store.set(films);
 
 	deferred.resolve();
 
