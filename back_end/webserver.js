@@ -13,24 +13,18 @@ var channels = require('./config/channels');
 
 module.exports = function(rootPath) {
 	// Serve up the main data file
-	express.get('/films.json', function(req, res) {
+	express.get('/films.json', function(req, res){
 		res.sendFile(__dirname + '/' + dataFile);
 	});
 
 	// Serve up log file
-	express.get('/log.txt', function(req, res) {
+	express.get('/log.txt', function(req, res){
 		res.sendFile(__dirname + '/' + logFile);
 	});
 
 	// Serve up channels info
-	express.get('/channels.json', function(req, res) {
+	express.get('/channels.json', function(req, res){
 		res.send(channels);
-	});
-
-	// Serve up channels info
-	express.get('/update', function(req, res){
-		require('./films')(true);
-		res.send('Updating now...');
 	});
 
 	// Serve up everything else
