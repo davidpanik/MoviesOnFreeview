@@ -3,8 +3,8 @@ var log     = require('./log');
 
 
 var queue = []; // Stack up requests here
-var throttleDelay = 300; // Delay in MS between requests
-var maxRetries    = 4; // Number of times to reattempt a failed call
+var throttleDelay = 200; // Delay in MS between requests
+var maxRetries    = 3; // Number of times to reattempt a failed call
 
 
 module.exports = function(url, data, callback) {
@@ -51,7 +51,7 @@ function makeRequest(item) {
 			item.callback(body);
 			nextItem();
 		} else {
-			log('ERROR fetching ' + item.url + '\n' + JSON.stringify(item.data) + '\n' + error + '\n' + response + '\n' + 'Attempts left: ' + item.retries);
+			log('ERROR fetching ' + item.url + '\n' + JSON.stringify(item.data) + '\nError: ' + error + '\n' + response + '\n' + 'Attempts left: ' + item.retries);
 			item.retries--;
 			queue.push(item);
 			nextItem();
