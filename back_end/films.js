@@ -79,9 +79,6 @@ function removeOldData() {
 		}
 	}
 
-	log('Updating file');
-	store.set(films);
-
 	deferred.resolve();
 
 	return deferred.promise;
@@ -99,9 +96,6 @@ function getFilmsFromSky() {
 			log('Got all films from Sky')
 			films = skyFilms;
 
-			log('Updating file');
-			store.set(films);
-
 			deferred.resolve();
 		}
 	);
@@ -118,10 +112,8 @@ function addMetaData() {
 
 	for (var id in films) {
 		var success = function() {
-			// log('Film done ' + counter + ' / ' + totalFilms);
+			log('Film done ' + counter + ' / ' + totalFilms);
 			if (++counter === totalFilms) {
-				log('Updating file');
-				store.set(films);
 
 				deferred.resolve();
 			}
@@ -199,9 +191,6 @@ function cleanUpShowings() {
 			delete films[film];
 		}
 	}
-
-	log('Updating file');
-	store.set(films);
 
 	deferred.resolve();
 
