@@ -22,13 +22,13 @@ module.exports = {
    2017: { freview_id: 972, sky_id: 2017, title: 'BBC Two',         family: 'bbc',  include: 'nireland'}, // BBC Two NI
    2006: { freview_id: 969, sky_id: 2006, title: 'BBC Two',         family: 'bbc',  include: 'england'},  // BBC Two Eng
    2061: { freview_id: 210, sky_id: 2061, title: 'BBC Three',       family: 'bbc'   },
-   2018: { freview_id: 211, sky_id: 2018, title: 'BBC Four',        family: 'bbc'   }, 
+   2018: { freview_id: 211, sky_id: 2018, title: 'BBC Four',        family: 'bbc'   },
    2082: { freview_id: 101, sky_id: 2082, title: 'BBC One HD',      family: 'bbc',  include: 'scotland'}, // BBC One ScotHD
    2076: { freview_id: 976, sky_id: 2076, title: 'BBC One HD',      family: 'bbc',  exclude: 'scotland'},
    2075: { freview_id: 142, sky_id: 2075, title: 'BBC Two HD',      family: 'bbc'   },
    2077: { freview_id: 115, sky_id: 2077, title: 'BBC Three HD',    family: 'bbc'   },
    2086: { freview_id: 116, sky_id: 2086, title: 'BBC Four HD',     family: 'bbc'   },
-  
+
    6000: { freview_id: 973, sky_id: 6000, title: 'ITV',             family: 'itv'   },
    6240: { freview_id: 207, sky_id: 6240, title: 'ITV2',            family: 'itv'   },
    6241: { freview_id: 179, sky_id: 6241, title: 'ITV2 +1',         family: 'itv'   },
@@ -36,7 +36,7 @@ module.exports = {
    6261: { freview_id: 180, sky_id: 6261, title: 'ITV3 +1',         family: 'itv'   },
    6272: { freview_id: 228, sky_id: 6272, title: 'ITV4',            family: 'itv'   },
    6274: { freview_id: 206, sky_id: 6274, title: 'ITV4 +1',         family: 'itv'   },
-  
+
    1626: { freview_id: 104, sky_id: 1626, title: 'Channel 4',       family: 'four'  },
    1675: { freview_id: 135, sky_id: 1675, title: 'Channel 4 +1',    family: 'four'  },
    4075: { freview_id: 230, sky_id: 4075, title: 'Channel 4 HD',    family: 'four'  },
@@ -49,24 +49,24 @@ module.exports = {
    1629: { freview_id: 316, sky_id: 1629, title: 'Film4 +1',        family: 'four'  },
 // 1621: { freview_id: 974, sky_id: 1621, title: 'Channel 4',       family: 'four'  }, // Duplicate
 // 1670: { freview_id: 975, sky_id: 1670, title: 'Channel 4 +1',    family: 'four'  }, // Duplicate
-  
+
    1830: { freview_id: 105, sky_id: 1830, title: 'Channel 5',       family: 'five'  },
    1839: { freview_id: 177, sky_id: 1839, title: 'Channel 5 +1',    family: 'five'  },
    3028: { freview_id: 175, sky_id: 3028, title: 'Channel 5 +24',   family: 'five'  },
    3022: { freview_id: 174, sky_id: 3022, title: '5 USA',           family: 'five'  },
    3027: { freview_id: 219, sky_id: 3027, title: '5 USA +1',        family: 'five'  },
    3023: { freview_id: 176, sky_id: 3023, title: '5*',              family: 'five'  },
-  
-   4610: { freview_id: 148, sky_id: 4610, title: 'CBS Action',      family: 'other' },
-   3617: { freview_id: 149, sky_id: 3617, title: 'CBS Drama',       family: 'other' },
-   1832: { freview_id: 152, sky_id: 1832, title: 'Pick',            family: 'other' },
-   1836: { freview_id: 153, sky_id: 1836, title: 'Pick +1',         family: 'other' },
-   5338: { freview_id: 183, sky_id: 5338, title: 'True Drama',      family: 'other' },
-   4266: { freview_id: 184, sky_id: 4266, title: 'True Ent',        family: 'other' },
-   3541: { freview_id: 185, sky_id: 3541, title: 'more>movies',     family: 'other' },
-   3220: { freview_id: 186, sky_id: 3220, title: 'm>movies +1',     family: 'other' },
-   5201: { freview_id: 292, sky_id: 5201, title: 'FilmOn.TV',       family: 'other' },
-   5297: { freview_id: 293, sky_id: 5297, title: 'Showcase 2 +1',   family: 'other' },
+
+   // 4610: { freview_id: 148, sky_id: 4610, title: 'CBS Action',      family: 'other' },
+   // 3617: { freview_id: 149, sky_id: 3617, title: 'CBS Drama',       family: 'other' },
+   // 1832: { freview_id: 152, sky_id: 1832, title: 'Pick',            family: 'other' },
+   // 1836: { freview_id: 153, sky_id: 1836, title: 'Pick +1',         family: 'other' },
+   // 5338: { freview_id: 183, sky_id: 5338, title: 'True Drama',      family: 'other' },
+   // 4266: { freview_id: 184, sky_id: 4266, title: 'True Ent',        family: 'other' },
+   // 3541: { freview_id: 185, sky_id: 3541, title: 'more>movies',     family: 'other' },
+   // 3220: { freview_id: 186, sky_id: 3220, title: 'm>movies +1',     family: 'other' },
+   // 5201: { freview_id: 292, sky_id: 5201, title: 'FilmOn.TV',       family: 'other' },
+   // 5297: { freview_id: 293, sky_id: 5297, title: 'Showcase 2 +1',   family: 'other' },
    3605: { freview_id: 319, sky_id: 3605, title: 'horror channel',  family: 'other' },
    4502: { freview_id: 320, sky_id: 4502, title: 'horror ch +1',    family: 'other' },
    3643: { freview_id: 321, sky_id: 3643, title: 'True Movies 1',   family: 'other' },
@@ -75,4 +75,4 @@ module.exports = {
    3771: { freview_id: 324, sky_id: 3771, title: 'Sony Movies +1',  family: 'other' },
    3708: { freview_id: 325, sky_id: 3708, title: 'movies4men',      family: 'other' },
    3721: { freview_id: 326, sky_id: 3721, title: 'mov4men+1',       family: 'other' }
-};  
+};
