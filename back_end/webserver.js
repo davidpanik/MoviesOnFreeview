@@ -18,6 +18,12 @@ module.exports = function(rootPath) {
 	});
 
 	// Serve up log file
+	express.get('/test', function(req, res){
+		log('Test write');
+		res.sendFile(__dirname + '/' + logFile);
+	});
+
+	// Serve up log file
 	express.get('/log.txt', function(req, res){
 		res.sendFile(__dirname + '/' + logFile);
 	});
