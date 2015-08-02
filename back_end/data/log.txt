@@ -1,2058 +1,713 @@
-28/07/15 20:42:35.80:   Forcing an update now
-28/07/15 20:42:35.80:   Get current data
-28/07/15 20:42:35.80:   Web server running on http://localhost:5000
-28/07/15 20:42:35.80:   Remove old data
-28/07/15 20:42:35.80:   Get films from sky
-28/07/15 20:42:35.82:   Getting channel 1626
-28/07/15 20:42:35.82:   Getting day 201507280000
-28/07/15 20:42:35.82:   Retrieving new day
-28/07/15 20:42:35.82:   Getting channel 1627
-28/07/15 20:42:35.82:   Getting channel 1629
-28/07/15 20:42:35.82:   Getting channel 1675
-28/07/15 20:42:35.82:   Getting channel 1628
-28/07/15 20:42:35.82:   Getting channel 1839
-28/07/15 20:42:35.82:   Getting channel 2003
-28/07/15 20:42:35.82:   Getting channel 2002
-28/07/15 20:42:35.82:   Getting channel 2004
-28/07/15 20:42:35.82:   Getting channel 2006
-28/07/15 20:42:35.82:   Getting channel 1830
-28/07/15 20:42:35.82:   Getting channel 2016
-28/07/15 20:42:35.82:   Getting channel 2005
-28/07/15 20:42:35.82:   Getting channel 2015
-28/07/15 20:42:35.82:   Getting channel 2017
-28/07/15 20:42:35.82:   Getting channel 2018
-28/07/15 20:42:35.82:   Getting channel 2061
-28/07/15 20:42:35.82:   Getting channel 2075
-28/07/15 20:42:35.82:   Getting channel 2076
-28/07/15 20:42:35.82:   Getting channel 2077
-28/07/15 20:42:35.82:   Getting channel 2082
-28/07/15 20:42:35.82:   Getting channel 2086
-28/07/15 20:42:35.82:   Getting channel 3022
-28/07/15 20:42:35.82:   Getting channel 3023
-28/07/15 20:42:35.82:   Getting channel 3027
-28/07/15 20:42:35.82:   Getting channel 3028
-28/07/15 20:42:35.82:   Getting channel 3150
-28/07/15 20:42:35.82:   Getting channel 3300
-28/07/15 20:42:35.82:   Getting channel 3310
-28/07/15 20:42:35.82:   Getting channel 3340
-28/07/15 20:42:35.82:   Getting channel 3605
-28/07/15 20:42:35.82:   Getting channel 3643
-28/07/15 20:42:35.82:   Getting channel 3708
-28/07/15 20:42:35.82:   Getting channel 3709
-28/07/15 20:42:35.82:   Getting channel 3721
-28/07/15 20:42:35.82:   Getting channel 3751
-28/07/15 20:42:35.82:   Getting channel 3771
-28/07/15 20:42:35.82:   Getting channel 4075
-28/07/15 20:42:35.82:   Getting channel 4502
-28/07/15 20:42:35.82:   Getting channel 6000
-28/07/15 20:42:35.82:   Getting channel 6240
-28/07/15 20:42:35.82:   Getting channel 6241
-28/07/15 20:42:35.82:   Getting channel 6260
-28/07/15 20:42:35.83:   Getting channel 6261
-28/07/15 20:42:35.83:   Getting channel 6272
-28/07/15 20:42:35.83:   Getting channel 6274
-28/07/15 20:42:35.83:   Retrieving new day
-28/07/15 20:42:35.83:   Getting day 201507290000
-28/07/15 20:42:35.83:   Getting channel 1626
-28/07/15 20:42:35.83:   Getting channel 1627
-28/07/15 20:42:35.83:   Getting channel 1628
-28/07/15 20:42:35.83:   Getting channel 1629
-28/07/15 20:42:35.83:   Getting channel 1675
-28/07/15 20:42:35.83:   Getting channel 1830
-28/07/15 20:42:35.83:   Getting channel 1839
-28/07/15 20:42:35.83:   Getting channel 2002
-28/07/15 20:42:35.83:   Getting channel 2003
-28/07/15 20:42:35.83:   Getting channel 2004
-28/07/15 20:42:35.83:   Getting channel 2005
-28/07/15 20:42:35.83:   Getting channel 2006
-28/07/15 20:42:35.83:   Getting channel 2015
-28/07/15 20:42:35.83:   Getting channel 2016
-28/07/15 20:42:35.83:   Getting channel 2017
-28/07/15 20:42:35.83:   Getting channel 2018
-28/07/15 20:42:35.83:   Getting channel 2061
-28/07/15 20:42:35.83:   Getting channel 2075
-28/07/15 20:42:35.83:   Getting channel 2076
-28/07/15 20:42:35.83:   Getting channel 2077
-28/07/15 20:42:35.83:   Getting channel 2082
-28/07/15 20:42:35.83:   Getting channel 2086
-28/07/15 20:42:35.83:   Getting channel 3022
-28/07/15 20:42:35.83:   Getting channel 3023
-28/07/15 20:42:35.83:   Getting channel 3027
-28/07/15 20:42:35.83:   Getting channel 3028
-28/07/15 20:42:35.83:   Getting channel 3150
-28/07/15 20:42:35.85:   Getting channel 3300
-28/07/15 20:42:35.85:   Getting channel 3310
-28/07/15 20:42:35.85:   Getting channel 3340
-28/07/15 20:42:35.85:   Getting channel 3605
-28/07/15 20:42:35.85:   Getting channel 3643
-28/07/15 20:42:35.85:   Getting channel 3708
-28/07/15 20:42:35.85:   Getting channel 3709
-28/07/15 20:42:35.85:   Getting channel 3721
-28/07/15 20:42:35.85:   Getting channel 3751
-28/07/15 20:42:35.85:   Getting channel 3771
-28/07/15 20:42:35.85:   Getting channel 4075
-28/07/15 20:42:35.85:   Getting channel 4502
-28/07/15 20:42:35.85:   Getting channel 6000
-28/07/15 20:42:35.85:   Getting channel 6240
-28/07/15 20:42:35.85:   Getting channel 6261
-28/07/15 20:42:35.85:   Getting channel 6272
-28/07/15 20:42:35.85:   Getting channel 6241
-28/07/15 20:42:35.85:   Getting channel 6274
-28/07/15 20:42:35.85:   Getting day 201507300000
-28/07/15 20:42:35.85:   Getting channel 1628
-28/07/15 20:42:35.85:   Getting channel 1626
-28/07/15 20:42:35.85:   Getting channel 1629
-28/07/15 20:42:35.85:   Getting channel 1830
-28/07/15 20:42:35.85:   Getting channel 1675
-28/07/15 20:42:35.85:   Getting channel 6260
-28/07/15 20:42:35.85:   Retrieving new day
-28/07/15 20:42:35.85:   Getting channel 1839
-28/07/15 20:42:35.85:   Getting channel 1627
-28/07/15 20:42:35.85:   Getting channel 2002
-28/07/15 20:42:35.85:   Getting channel 2006
-28/07/15 20:42:35.85:   Getting channel 2015
-28/07/15 20:42:35.85:   Getting channel 2016
-28/07/15 20:42:35.85:   Getting channel 2017
-28/07/15 20:42:35.85:   Getting channel 2005
-28/07/15 20:42:35.85:   Getting channel 2061
-28/07/15 20:42:35.85:   Getting channel 2003
-28/07/15 20:42:35.85:   Getting channel 2075
-28/07/15 20:42:35.85:   Getting channel 3027
-28/07/15 20:42:35.85:   Getting channel 3028
-28/07/15 20:42:35.85:   Getting channel 2004
-28/07/15 20:42:35.85:   Getting channel 2077
-28/07/15 20:42:35.85:   Getting channel 2082
-28/07/15 20:42:35.85:   Getting channel 2018
-28/07/15 20:42:35.85:   Getting channel 3340
-28/07/15 20:42:35.85:   Getting channel 3023
-28/07/15 20:42:35.85:   Getting channel 2076
-28/07/15 20:42:35.85:   Getting channel 3310
-28/07/15 20:42:35.86:   Getting channel 3771
-28/07/15 20:42:35.85:   Getting channel 3150
-28/07/15 20:42:35.85:   Getting channel 3709
-28/07/15 20:42:35.86:   Getting channel 6240
-28/07/15 20:42:35.86:   Getting channel 6000
-28/07/15 20:42:35.85:   Getting channel 2086
-28/07/15 20:42:35.86:   Getting channel 4502
-28/07/15 20:42:35.85:   Getting channel 3300
-28/07/15 20:42:35.86:   Getting day 201507310000
-28/07/15 20:42:35.86:   Getting channel 4075
-28/07/15 20:42:35.86:   Getting channel 6260
-28/07/15 20:42:35.85:   Getting channel 3022
-28/07/15 20:42:35.86:   Getting channel 6261
-28/07/15 20:42:35.86:   Getting channel 1629
-28/07/15 20:42:35.86:   Getting channel 6274
-28/07/15 20:42:35.86:   Retrieving new day
-28/07/15 20:42:35.86:   Getting channel 2004
-28/07/15 20:42:35.86:   Getting channel 2003
-28/07/15 20:42:35.85:   Getting channel 3751
-28/07/15 20:42:35.85:   Getting channel 3643
-28/07/15 20:42:35.86:   Getting channel 1675
-28/07/15 20:42:35.86:   Getting channel 2018
-28/07/15 20:42:35.86:   Getting channel 2082
-28/07/15 20:42:35.86:   Getting channel 2061
-28/07/15 20:42:35.86:   Getting channel 1839
-28/07/15 20:42:35.86:   Getting channel 2005
-28/07/15 20:42:35.86:   Getting channel 1830
-28/07/15 20:42:35.86:   Getting channel 1628
-28/07/15 20:42:35.86:   Getting channel 2077
-28/07/15 20:42:35.85:   Getting channel 3721
-28/07/15 20:42:35.86:   Getting channel 3771
-28/07/15 20:42:35.86:   Getting channel 3022
-28/07/15 20:42:35.86:   Getting channel 2002
-28/07/15 20:42:35.86:   Getting channel 2086
-28/07/15 20:42:35.86:   Getting channel 2075
-28/07/15 20:42:35.86:   Getting channel 3721
-28/07/15 20:42:35.86:   Getting day 201508010000
-28/07/15 20:42:35.86:   Getting channel 3708
-28/07/15 20:42:35.86:   Getting channel 3751
-28/07/15 20:42:35.86:   Getting channel 1626
-28/07/15 20:42:35.86:   Getting channel 6241
-28/07/15 20:42:35.86:   Getting channel 2015
-28/07/15 20:42:35.86:   Getting channel 1830
-28/07/15 20:42:35.86:   Getting channel 2016
-28/07/15 20:42:35.86:   Getting channel 6272
-28/07/15 20:42:35.86:   Getting channel 2077
-28/07/15 20:42:35.86:   Getting channel 3709
-28/07/15 20:42:35.86:   Getting channel 6274
-28/07/15 20:42:35.86:   Getting channel 1629
-28/07/15 20:42:35.86:   Getting channel 3027
-28/07/15 20:42:35.86:   Getting channel 2061
-28/07/15 20:42:35.86:   Getting channel 3721
-28/07/15 20:42:35.86:   Getting channel 6240
-28/07/15 20:42:35.86:   Getting channel 3751
-28/07/15 20:42:35.86:   Getting day 201508020000
-28/07/15 20:42:35.86:   Getting channel 1675
-28/07/15 20:42:35.86:   Getting channel 1626
-28/07/15 20:42:35.86:   Getting channel 2018
-28/07/15 20:42:35.86:   Getting channel 2005
-28/07/15 20:42:35.86:   Getting channel 3708
-28/07/15 20:42:35.86:   Getting channel 2004
-28/07/15 20:42:35.86:   Getting channel 2003
-28/07/15 20:42:35.86:   Getting channel 4502
-28/07/15 20:42:35.86:   Getting channel 2003
-28/07/15 20:42:35.88:   Getting channel 4075
-28/07/15 20:42:35.86:   Getting channel 2015
-28/07/15 20:42:35.88:   Getting day 201508030000
-28/07/15 20:42:35.88:   Getting channel 3721
-28/07/15 20:42:35.86:   Getting channel 6272
-28/07/15 20:42:35.86:   Getting channel 1626
-28/07/15 20:42:35.86:   Getting channel 3150
-28/07/15 20:42:35.88:   Getting channel 1626
-28/07/15 20:42:35.86:   Getting channel 3023
-28/07/15 20:42:35.88:   Getting channel 2061
-28/07/15 20:42:35.88:   Getting channel 2006
-28/07/15 20:42:35.88:   Getting channel 3340
-28/07/15 20:42:35.86:   Getting channel 2076
-28/07/15 20:42:35.86:   Getting channel 2006
-28/07/15 20:42:35.88:   Getting channel 3605
-28/07/15 20:42:35.88:   Getting channel 6274
-28/07/15 20:42:35.86:   Getting channel 3300
-28/07/15 20:42:35.88:   Getting channel 3300
-28/07/15 20:42:35.88:   Getting channel 1839
-28/07/15 20:42:35.88:   Getting channel 3310
-28/07/15 20:42:35.88:   Getting channel 2075
-28/07/15 20:42:35.86:   Getting channel 3340
-28/07/15 20:42:35.86:   Getting channel 2015
-28/07/15 20:42:35.88:   Getting channel 6000
-28/07/15 20:42:35.88:   Getting channel 3022
-28/07/15 20:42:35.88:   Getting channel 6000
-28/07/15 20:42:35.85:   Getting channel 3605
-28/07/15 20:42:35.86:   Getting channel 2006
-28/07/15 20:42:35.88:   Getting channel 3709
-28/07/15 20:42:35.86:   Getting channel 1839
-28/07/15 20:42:35.86:   Getting channel 3709
-28/07/15 20:42:35.88:   Getting channel 3023
-28/07/15 20:42:35.88:   Getting channel 2015
-28/07/15 20:42:35.88:   Getting channel 6240
-28/07/15 20:42:35.86:   Getting channel 2082
-28/07/15 20:42:35.86:   Getting channel 1627
-28/07/15 20:42:35.86:   Getting channel 1627
-28/07/15 20:42:35.86:   Getting channel 6000
-28/07/15 20:42:35.86:   Getting channel 3028
-28/07/15 20:42:35.86:   Getting channel 6260
-28/07/15 20:42:35.88:   Getting channel 3721
-28/07/15 20:42:35.86:   Getting channel 2005
-28/07/15 20:42:35.86:   Getting channel 2016
-28/07/15 20:42:35.88:   Getting channel 1627
-28/07/15 20:42:35.86:   Getting channel 2017
-28/07/15 20:42:35.88:   Getting channel 6272
-28/07/15 20:42:35.88:   Getting channel 3150
-28/07/15 20:42:35.88:   Getting channel 3340
-28/07/15 20:42:35.85:   Getting channel 3708
-28/07/15 20:42:35.88:   Getting channel 3751
-28/07/15 20:42:35.88:   Getting channel 2076
-28/07/15 20:42:35.88:   Getting channel 2002
-28/07/15 20:42:35.86:   Getting channel 1839
-28/07/15 20:42:35.88:   Getting channel 3022
-28/07/15 20:42:35.88:   Getting channel 6241
-28/07/15 20:42:35.86:   Getting channel 4502
-28/07/15 20:42:35.86:   Getting channel 6240
-28/07/15 20:42:35.88:   Getting channel 3751
-28/07/15 20:42:35.86:   Getting channel 6260
-28/07/15 20:42:35.86:   Getting channel 3771
-28/07/15 20:42:35.86:   Getting channel 2076
-28/07/15 20:42:35.86:   Getting channel 3310
-28/07/15 20:42:35.88:   Getting channel 2016
-28/07/15 20:42:35.86:   Getting channel 6261
-28/07/15 20:42:35.88:   Getting channel 2076
-28/07/15 20:42:35.86:   Getting channel 6274
-28/07/15 20:42:35.88:   Getting channel 3027
-28/07/15 20:42:35.86:   Getting channel 2017
-28/07/15 20:42:35.88:   Getting channel 6240
-28/07/15 20:42:35.88:   Getting channel 3643
-28/07/15 20:42:35.86:   Getting channel 1675
-28/07/15 20:42:35.86:   Getting channel 6000
-28/07/15 20:42:35.86:   Getting channel 4075
-28/07/15 20:42:35.86:   Getting channel 3605
-28/07/15 20:42:35.86:   Getting channel 3023
-28/07/15 20:42:35.88:   Getting channel 6274
-28/07/15 20:42:35.86:   Getting channel 3643
-28/07/15 20:42:35.88:   Getting channel 2003
-28/07/15 20:42:35.88:   Getting channel 3605
-28/07/15 20:42:35.88:   Getting channel 1628
-28/07/15 20:42:35.88:   Getting channel 6260
-28/07/15 20:42:35.86:   Getting channel 1627
-28/07/15 20:42:35.86:   Getting channel 3340
-28/07/15 20:42:35.86:   Getting channel 6241
-28/07/15 20:42:35.88:   Getting channel 3771
-28/07/15 20:42:35.88:   Getting channel 2077
-28/07/15 20:42:35.88:   Getting channel 3300
-28/07/15 20:42:35.86:   Getting channel 2004
-28/07/15 20:42:35.86:   Getting channel 3300
-28/07/15 20:42:35.86:   Getting channel 3605
-28/07/15 20:42:35.86:   Getting channel 2002
-28/07/15 20:42:35.88:   Getting channel 3023
-28/07/15 20:42:35.86:   Getting channel 3027
-28/07/15 20:42:35.86:   Getting channel 1628
-28/07/15 20:42:35.88:   Getting channel 3771
-28/07/15 20:42:35.86:   Retrieving new day
-28/07/15 20:42:35.86:   Getting channel 1628
-28/07/15 20:42:35.86:   Getting channel 2006
-28/07/15 20:42:35.88:   Getting channel 6241
-28/07/15 20:42:35.88:   Getting channel 3028
-28/07/15 20:42:35.86:   Getting channel 2018
-28/07/15 20:42:35.88:   Getting channel 2017
-28/07/15 20:42:35.86:   Getting channel 2086
-28/07/15 20:42:35.86:   Getting channel 4075
-28/07/15 20:42:35.88:   Getting channel 3643
-28/07/15 20:42:35.86:   Getting channel 3022
-28/07/15 20:42:35.88:   Getting channel 3708
-28/07/15 20:42:35.86:   Getting channel 2017
-28/07/15 20:42:35.86:   Getting channel 2075
-28/07/15 20:42:35.88:   Getting channel 6261
-28/07/15 20:42:35.88:   Getting channel 2082
-28/07/15 20:42:35.88:   Getting channel 2077
-28/07/15 20:42:35.88:   Getting channel 1629
-28/07/15 20:42:35.86:   Getting channel 6272
-28/07/15 20:42:35.88:   Getting channel 4075
-28/07/15 20:42:35.86:   Getting channel 3643
-28/07/15 20:42:35.88:   Retrieving new day
-28/07/15 20:42:35.88:   Getting channel 2004
-28/07/15 20:42:35.86:   Getting channel 3310
-28/07/15 20:42:35.86:   Getting channel 6261
-28/07/15 20:42:35.86:   Getting channel 2002
-28/07/15 20:42:35.88:   Getting channel 3310
-28/07/15 20:42:35.86:   Getting channel 6241
-28/07/15 20:42:35.86:   Retrieving new day
-28/07/15 20:42:35.86:   Getting channel 1629
-28/07/15 20:42:35.88:   Getting channel 3027
-28/07/15 20:42:35.88:   Getting channel 6260
-28/07/15 20:42:35.88:   Getting channel 2075
-28/07/15 20:42:35.88:   Getting channel 2018
-28/07/15 20:42:35.86:   Getting channel 3150
-28/07/15 20:42:35.88:   Getting channel 3028
-28/07/15 20:42:35.88:   Getting channel 2082
-28/07/15 20:42:35.88:   Getting channel 2086
-28/07/15 20:42:35.88:   Getting channel 3709
-28/07/15 20:42:35.88:   Getting channel 3150
-28/07/15 20:42:35.88:   Getting channel 4502
-28/07/15 20:42:35.88:   Getting channel 6272
-28/07/15 20:42:35.86:   Getting channel 2061
-28/07/15 20:42:35.86:   Getting channel 2016
-28/07/15 20:42:35.88:   Getting channel 4502
-28/07/15 20:42:35.88:   Getting channel 3708
-28/07/15 20:42:35.88:   Getting channel 1675
-28/07/15 20:42:35.88:   Getting channel 6261
-28/07/15 20:42:35.88:   Getting channel 2086
-28/07/15 20:42:35.86:   Getting channel 1830
-28/07/15 20:42:35.88:   Getting channel 2005
-28/07/15 20:42:35.86:   Getting channel 3028
-28/07/15 20:42:35.88:   Getting channel 1830
-28/07/15 20:42:36.27:   Finished getting channel 0 / 46
-28/07/15 20:42:36.63:   Finished getting channel 1 / 46
-28/07/15 20:42:37.13:   Finished getting channel 2 / 46
-28/07/15 20:42:37.52:   Finished getting channel 3 / 46
-28/07/15 20:42:37.90:   Finished getting channel 4 / 46
-28/07/15 20:42:38.27:   Finished getting channel 5 / 46
-28/07/15 20:42:38.60:   Finished getting channel 6 / 46
-28/07/15 20:42:38.95:   Finished getting channel 7 / 46
-28/07/15 20:42:39.27:   Finished getting channel 8 / 46
-28/07/15 20:42:39.62:   Finished getting channel 9 / 46
-28/07/15 20:42:39.93:   Finished getting channel 10 / 46
-28/07/15 20:42:40.26:   Finished getting channel 11 / 46
-28/07/15 20:42:40.58:   Finished getting channel 12 / 46
-28/07/15 20:42:40.93:   Finished getting channel 13 / 46
-28/07/15 20:42:41.25:   Finished getting channel 14 / 46
-28/07/15 20:42:41.56:   Finished getting channel 15 / 46
-28/07/15 20:42:41.87:   Finished getting channel 16 / 46
-28/07/15 20:42:42.21:   Finished getting channel 17 / 46
-28/07/15 20:42:42.56:   Finished getting channel 18 / 46
-28/07/15 20:42:42.88:   Finished getting channel 19 / 46
-28/07/15 20:42:43.28:   Finished getting channel 20 / 46
-28/07/15 20:42:43.59:   Finished getting channel 21 / 46
-28/07/15 20:42:43.90:   Finished getting channel 22 / 46
-28/07/15 20:42:44.23:   Finished getting channel 23 / 46
-28/07/15 20:42:44.57:   Finished getting channel 24 / 46
-28/07/15 20:42:44.91:   Finished getting channel 25 / 46
-28/07/15 20:42:45.24:   Finished getting channel 26 / 46
-28/07/15 20:42:45.57:   Finished getting channel 27 / 46
-28/07/15 20:42:45.90:   Finished getting channel 28 / 46
-28/07/15 20:42:46.23:   Finished getting channel 29 / 46
-28/07/15 20:42:46.54:   Finished getting channel 30 / 46
-28/07/15 20:42:46.83:   Finished getting channel 31 / 46
-28/07/15 20:42:47.15:   Finished getting channel 32 / 46
-28/07/15 20:42:47.46:   Finished getting channel 33 / 46
-28/07/15 20:42:47.76:   Finished getting channel 34 / 46
-28/07/15 20:42:48.16:   Finished getting channel 35 / 46
-28/07/15 20:42:48.53:   Finished getting channel 36 / 46
-28/07/15 20:42:48.86:   Finished getting channel 37 / 46
-28/07/15 20:42:49.21:   Finished getting channel 38 / 46
-28/07/15 20:42:49.52:   Finished getting channel 39 / 46
-28/07/15 20:42:49.84:   Finished getting channel 40 / 46
-28/07/15 20:42:50.17:   Finished getting channel 41 / 46
-28/07/15 20:42:50.55:   Finished getting channel 42 / 46
-28/07/15 20:42:50.92:   Finished getting channel 43 / 46
-28/07/15 20:42:51.25:   Finished getting channel 44 / 46
-28/07/15 20:42:51.58:   Finished getting channel 45 / 46
-28/07/15 20:42:51.58:   Finished getting day 0 / 7
-28/07/15 20:42:51.93:   Finished getting channel 0 / 46
-28/07/15 20:42:52.68:   Finished getting channel 1 / 46
-28/07/15 20:42:53.02:   Finished getting channel 2 / 46
-28/07/15 20:42:53.60:   Finished getting channel 3 / 46
-28/07/15 20:42:53.93:   Finished getting channel 4 / 46
-28/07/15 20:42:54.29:   Finished getting channel 5 / 46
-28/07/15 20:42:54.62:   Finished getting channel 6 / 46
-28/07/15 20:42:55.06:   Finished getting channel 7 / 46
-28/07/15 20:42:56.12:   Finished getting channel 8 / 46
-28/07/15 20:42:56.45:   Finished getting channel 9 / 46
-28/07/15 20:42:56.98:   Finished getting channel 10 / 46
-28/07/15 20:42:57.33:   Finished getting channel 11 / 46
-28/07/15 20:42:57.66:   Finished getting channel 12 / 46
-28/07/15 20:42:58.00:   Finished getting channel 13 / 46
-28/07/15 20:42:58.33:   Finished getting channel 14 / 46
-28/07/15 20:42:58.63:   Finished getting channel 15 / 46
-28/07/15 20:42:58.98:   Finished getting channel 16 / 46
-28/07/15 20:42:59.32:   Finished getting channel 17 / 46
-28/07/15 20:42:59.64:   Finished getting channel 18 / 46
-28/07/15 20:42:59.98:   Finished getting channel 19 / 46
-28/07/15 20:43:00.30:   Finished getting channel 20 / 46
-28/07/15 20:43:00.64:   Finished getting channel 21 / 46
-28/07/15 20:43:00.96:   Finished getting channel 22 / 46
-28/07/15 20:43:01.35:   Finished getting channel 23 / 46
-28/07/15 20:43:01.67:   Finished getting channel 24 / 46
-28/07/15 20:43:02.07:   Finished getting channel 25 / 46
-28/07/15 20:43:02.39:   Finished getting channel 26 / 46
-28/07/15 20:43:02.92:   Finished getting channel 27 / 46
-28/07/15 20:43:03.24:   Finished getting channel 28 / 46
-28/07/15 20:43:03.55:   Finished getting channel 29 / 46
-28/07/15 20:43:03.88:   Finished getting channel 30 / 46
-28/07/15 20:43:04.23:   Finished getting channel 31 / 46
-28/07/15 20:43:04.58:   Finished getting channel 32 / 46
-28/07/15 20:43:04.94:   Finished getting channel 33 / 46
-28/07/15 20:43:05.30:   Finished getting channel 34 / 46
-28/07/15 20:43:05.67:   Finished getting channel 35 / 46
-28/07/15 20:43:06.02:   Finished getting channel 36 / 46
-28/07/15 20:43:06.41:   Finished getting channel 37 / 46
-28/07/15 20:43:06.81:   Finished getting channel 38 / 46
-28/07/15 20:43:07.48:   Finished getting channel 39 / 46
-28/07/15 20:43:07.92:   Finished getting channel 40 / 46
-28/07/15 20:43:08.52:   Finished getting channel 41 / 46
-28/07/15 20:43:08.94:   Finished getting channel 42 / 46
-28/07/15 20:43:09.45:   Finished getting channel 43 / 46
-28/07/15 20:43:09.81:   Finished getting channel 44 / 46
-28/07/15 20:43:10.18:   Finished getting channel 45 / 46
-28/07/15 20:43:10.18:   Finished getting day 1 / 7
-28/07/15 20:43:10.56:   Finished getting channel 0 / 46
-28/07/15 20:43:10.92:   Finished getting channel 1 / 46
-28/07/15 20:43:11.45:   Finished getting channel 2 / 46
-28/07/15 20:43:11.80:   Finished getting channel 3 / 46
-28/07/15 20:43:12.18:   Finished getting channel 4 / 46
-28/07/15 20:43:12.66:   Finished getting channel 5 / 46
-28/07/15 20:43:13.08:   Finished getting channel 6 / 46
-28/07/15 20:43:13.53:   Finished getting channel 7 / 46
-28/07/15 20:43:13.92:   Finished getting channel 8 / 46
-28/07/15 20:43:14.29:   Finished getting channel 9 / 46
-28/07/15 20:43:14.67:   Finished getting channel 10 / 46
-28/07/15 20:43:15.03:   Finished getting channel 11 / 46
-28/07/15 20:43:15.40:   Finished getting channel 12 / 46
-28/07/15 20:43:15.78:   Finished getting channel 13 / 46
-28/07/15 20:43:16.15:   Finished getting channel 14 / 46
-28/07/15 20:43:16.65:   Finished getting channel 15 / 46
-28/07/15 20:43:17.00:   Finished getting channel 16 / 46
-28/07/15 20:43:17.38:   Finished getting channel 17 / 46
-28/07/15 20:43:17.75:   Finished getting channel 18 / 46
-28/07/15 20:43:18.12:   Finished getting channel 19 / 46
-28/07/15 20:43:18.50:   Finished getting channel 20 / 46
-28/07/15 20:43:18.94:   Finished getting channel 21 / 46
-28/07/15 20:43:19.30:   Finished getting channel 22 / 46
-28/07/15 20:43:19.67:   Finished getting channel 23 / 46
-28/07/15 20:43:20.04:   Finished getting channel 24 / 46
-28/07/15 20:43:20.61:   Finished getting channel 25 / 46
-28/07/15 20:43:21.10:   Finished getting channel 26 / 46
-28/07/15 20:43:21.45:   Finished getting channel 27 / 46
-28/07/15 20:43:21.81:   Finished getting channel 28 / 46
-28/07/15 20:43:22.14:   Finished getting channel 29 / 46
-28/07/15 20:43:22.50:   Finished getting channel 30 / 46
-28/07/15 20:43:22.80:   Finished getting channel 31 / 46
-28/07/15 20:43:23.17:   Finished getting channel 32 / 46
-28/07/15 20:43:23.56:   Finished getting channel 33 / 46
-28/07/15 20:43:23.87:   Finished getting channel 34 / 46
-28/07/15 20:43:24.20:   Finished getting channel 35 / 46
-28/07/15 20:43:24.51:   Finished getting channel 36 / 46
-28/07/15 20:43:24.85:   Finished getting channel 37 / 46
-28/07/15 20:43:25.18:   Finished getting channel 38 / 46
-28/07/15 20:43:25.53:   Finished getting channel 39 / 46
-28/07/15 20:43:25.92:   Finished getting channel 40 / 46
-28/07/15 20:43:26.24:   Finished getting channel 41 / 46
-28/07/15 20:43:26.58:   Finished getting channel 42 / 46
-28/07/15 20:43:26.89:   Finished getting channel 43 / 46
-28/07/15 20:43:27.21:   Finished getting channel 44 / 46
-28/07/15 20:43:27.54:   Finished getting channel 45 / 46
-28/07/15 20:43:27.54:   Finished getting day 2 / 7
-28/07/15 20:43:27.88:   Finished getting channel 0 / 46
-28/07/15 20:43:28.22:   Finished getting channel 1 / 46
-28/07/15 20:43:28.55:   Finished getting channel 2 / 46
-28/07/15 20:43:28.85:   Finished getting channel 3 / 46
-28/07/15 20:43:29.18:   Finished getting channel 4 / 46
-28/07/15 20:43:29.53:   Finished getting channel 5 / 46
-28/07/15 20:43:29.92:   Finished getting channel 6 / 46
-28/07/15 20:43:30.26:   Finished getting channel 7 / 46
-28/07/15 20:43:30.60:   Finished getting channel 8 / 46
-28/07/15 20:43:30.93:   Finished getting channel 9 / 46
-28/07/15 20:43:31.25:   Finished getting channel 10 / 46
-28/07/15 20:43:31.58:   Finished getting channel 11 / 46
-28/07/15 20:43:31.91:   Finished getting channel 12 / 46
-28/07/15 20:43:32.22:   Finished getting channel 13 / 46
-28/07/15 20:43:32.54:   Finished getting channel 14 / 46
-28/07/15 20:43:32.85:   Finished getting channel 15 / 46
-28/07/15 20:43:33.17:   Finished getting channel 16 / 46
-28/07/15 20:43:33.49:   Finished getting channel 17 / 46
-28/07/15 20:43:33.82:   Finished getting channel 18 / 46
-28/07/15 20:43:34.15:   Finished getting channel 19 / 46
-28/07/15 20:43:34.47:   Finished getting channel 20 / 46
-28/07/15 20:43:34.78:   Finished getting channel 21 / 46
-28/07/15 20:43:35.09:   Finished getting channel 22 / 46
-28/07/15 20:43:35.41:   Finished getting channel 23 / 46
-28/07/15 20:43:35.73:   Finished getting channel 24 / 46
-28/07/15 20:43:36.25:   Finished getting channel 25 / 46
-28/07/15 20:43:36.57:   Finished getting channel 26 / 46
-28/07/15 20:43:36.92:   Finished getting channel 27 / 46
-28/07/15 20:43:37.25:   Finished getting channel 28 / 46
-28/07/15 20:43:37.56:   Finished getting channel 29 / 46
-28/07/15 20:43:37.87:   Finished getting channel 30 / 46
-28/07/15 20:43:38.21:   Finished getting channel 31 / 46
-28/07/15 20:43:38.52:   Finished getting channel 32 / 46
-28/07/15 20:43:38.82:   Finished getting channel 33 / 46
-28/07/15 20:43:39.14:   Finished getting channel 34 / 46
-28/07/15 20:43:39.44:   Finished getting channel 35 / 46
-28/07/15 20:43:39.76:   Finished getting channel 36 / 46
-28/07/15 20:43:40.12:   Finished getting channel 37 / 46
-28/07/15 20:43:40.70:   Finished getting channel 38 / 46
-28/07/15 20:43:41.01:   Finished getting channel 39 / 46
-28/07/15 20:43:41.48:   Finished getting channel 40 / 46
-28/07/15 20:43:41.81:   Finished getting channel 41 / 46
-28/07/15 20:43:42.52:   Finished getting channel 42 / 46
-28/07/15 20:43:42.97:   Finished getting channel 43 / 46
-28/07/15 20:43:43.29:   Finished getting channel 44 / 46
-28/07/15 20:43:43.61:   Finished getting channel 45 / 46
-28/07/15 20:43:43.62:   Finished getting day 3 / 7
-28/07/15 20:43:43.96:   Finished getting channel 0 / 46
-28/07/15 20:43:44.27:   Finished getting channel 1 / 46
-28/07/15 20:43:44.62:   Finished getting channel 2 / 46
-28/07/15 20:43:45.26:   Finished getting channel 3 / 46
-28/07/15 20:43:45.84:   Finished getting channel 4 / 46
-28/07/15 20:43:46.22:   Finished getting channel 5 / 46
-28/07/15 20:43:46.56:   Finished getting channel 6 / 46
-28/07/15 20:43:46.87:   Finished getting channel 7 / 46
-28/07/15 20:43:47.17:   Finished getting channel 8 / 46
-28/07/15 20:43:47.56:   Finished getting channel 9 / 46
-28/07/15 20:43:47.88:   Finished getting channel 10 / 46
-28/07/15 20:43:48.20:   Finished getting channel 11 / 46
-28/07/15 20:43:48.54:   Finished getting channel 12 / 46
-28/07/15 20:43:48.92:   Finished getting channel 13 / 46
-28/07/15 20:43:49.24:   Finished getting channel 14 / 46
-28/07/15 20:43:49.75:   Finished getting channel 15 / 46
-28/07/15 20:43:50.09:   Finished getting channel 16 / 46
-28/07/15 20:43:50.42:   Finished getting channel 17 / 46
-28/07/15 20:43:50.74:   Finished getting channel 18 / 46
-28/07/15 20:43:51.07:   Finished getting channel 19 / 46
-28/07/15 20:43:51.39:   Finished getting channel 20 / 46
-28/07/15 20:43:51.68:   Finished getting channel 21 / 46
-28/07/15 20:43:51.99:   Finished getting channel 22 / 46
-28/07/15 20:43:52.31:   Finished getting channel 23 / 46
-28/07/15 20:43:52.63:   Finished getting channel 24 / 46
-28/07/15 20:43:52.95:   Finished getting channel 25 / 46
-28/07/15 20:43:53.28:   Finished getting channel 26 / 46
-28/07/15 20:43:53.64:   Finished getting channel 27 / 46
-28/07/15 20:43:53.96:   Finished getting channel 28 / 46
-28/07/15 20:43:54.27:   Finished getting channel 29 / 46
-28/07/15 20:43:54.59:   Finished getting channel 30 / 46
-28/07/15 20:43:54.90:   Finished getting channel 31 / 46
-28/07/15 20:43:55.22:   Finished getting channel 32 / 46
-28/07/15 20:43:55.52:   Finished getting channel 33 / 46
-28/07/15 20:43:55.83:   Finished getting channel 34 / 46
-28/07/15 20:43:56.15:   Finished getting channel 35 / 46
-28/07/15 20:43:56.75:   Finished getting channel 36 / 46
-28/07/15 20:43:57.30:   Finished getting channel 37 / 46
-28/07/15 20:43:57.62:   Finished getting channel 38 / 46
-28/07/15 20:43:57.95:   Finished getting channel 39 / 46
-28/07/15 20:43:58.27:   Finished getting channel 40 / 46
-28/07/15 20:43:58.60:   Finished getting channel 41 / 46
-28/07/15 20:43:58.92:   Finished getting channel 42 / 46
-28/07/15 20:43:59.24:   Finished getting channel 43 / 46
-28/07/15 20:43:59.55:   Finished getting channel 44 / 46
-28/07/15 20:43:59.89:   Finished getting channel 45 / 46
-28/07/15 20:43:59.89:   Finished getting day 4 / 7
-28/07/15 20:44:00.21:   Finished getting channel 0 / 46
-28/07/15 20:44:00.52:   Finished getting channel 1 / 46
-28/07/15 20:44:00.85:   Finished getting channel 2 / 46
-28/07/15 20:44:01.16:   Finished getting channel 3 / 46
-28/07/15 20:44:01.53:   Finished getting channel 4 / 46
-28/07/15 20:44:01.87:   Finished getting channel 5 / 46
-28/07/15 20:44:02.21:   Finished getting channel 6 / 46
-28/07/15 20:44:02.53:   Finished getting channel 7 / 46
-28/07/15 20:44:02.86:   Finished getting channel 8 / 46
-28/07/15 20:44:03.23:   Finished getting channel 9 / 46
-28/07/15 20:44:03.56:   Finished getting channel 10 / 46
-28/07/15 20:44:03.87:   Finished getting channel 11 / 46
-28/07/15 20:44:04.20:   Finished getting channel 12 / 46
-28/07/15 20:44:04.51:   Finished getting channel 13 / 46
-28/07/15 20:44:04.85:   Finished getting channel 14 / 46
-28/07/15 20:44:05.14:   Finished getting channel 15 / 46
-28/07/15 20:44:05.45:   Finished getting channel 16 / 46
-28/07/15 20:44:05.77:   Finished getting channel 17 / 46
-28/07/15 20:44:06.09:   Finished getting channel 18 / 46
-28/07/15 20:44:06.40:   Finished getting channel 19 / 46
-28/07/15 20:44:06.71:   Finished getting channel 20 / 46
-28/07/15 20:44:07.01:   Finished getting channel 21 / 46
-28/07/15 20:44:07.32:   Finished getting channel 22 / 46
-28/07/15 20:44:07.64:   Finished getting channel 23 / 46
-28/07/15 20:44:07.97:   Finished getting channel 24 / 46
-28/07/15 20:44:08.30:   Finished getting channel 25 / 46
-28/07/15 20:44:08.66:   Finished getting channel 26 / 46
-28/07/15 20:44:08.99:   Finished getting channel 27 / 46
-28/07/15 20:44:09.33:   Finished getting channel 28 / 46
-28/07/15 20:44:09.66:   Finished getting channel 29 / 46
-28/07/15 20:44:10.09:   Finished getting channel 30 / 46
-28/07/15 20:44:10.64:   Finished getting channel 31 / 46
-28/07/15 20:44:11.19:   Finished getting channel 32 / 46
-28/07/15 20:44:11.83:   Finished getting channel 33 / 46
-28/07/15 20:44:12.35:   Finished getting channel 34 / 46
-28/07/15 20:44:12.82:   Finished getting channel 35 / 46
-28/07/15 20:44:13.23:   Finished getting channel 36 / 46
-28/07/15 20:44:13.58:   Finished getting channel 37 / 46
-28/07/15 20:44:13.93:   Finished getting channel 38 / 46
-28/07/15 20:44:14.26:   Finished getting channel 39 / 46
-28/07/15 20:44:14.57:   Finished getting channel 40 / 46
-28/07/15 20:44:14.88:   Finished getting channel 41 / 46
-28/07/15 20:44:15.20:   Finished getting channel 42 / 46
-28/07/15 20:44:15.60:   Finished getting channel 43 / 46
-28/07/15 20:44:15.93:   Finished getting channel 44 / 46
-28/07/15 20:44:16.28:   Finished getting channel 45 / 46
-28/07/15 20:44:16.28:   Finished getting day 5 / 7
-28/07/15 20:44:16.62:   Finished getting channel 0 / 46
-28/07/15 20:44:16.92:   Finished getting channel 1 / 46
-28/07/15 20:44:17.28:   Finished getting channel 2 / 46
-28/07/15 20:44:17.60:   Finished getting channel 3 / 46
-28/07/15 20:44:17.94:   Finished getting channel 4 / 46
-28/07/15 20:44:18.29:   Finished getting channel 5 / 46
-28/07/15 20:44:18.64:   Finished getting channel 6 / 46
-28/07/15 20:44:18.97:   Finished getting channel 7 / 46
-28/07/15 20:44:19.32:   Finished getting channel 8 / 46
-28/07/15 20:44:19.65:   Finished getting channel 9 / 46
-28/07/15 20:44:19.98:   Finished getting channel 10 / 46
-28/07/15 20:44:20.30:   Finished getting channel 11 / 46
-28/07/15 20:44:20.63:   Finished getting channel 12 / 46
-28/07/15 20:44:20.97:   Finished getting channel 13 / 46
-28/07/15 20:44:21.30:   Finished getting channel 14 / 46
-28/07/15 20:44:21.67:   Finished getting channel 15 / 46
-28/07/15 20:44:21.99:   Finished getting channel 16 / 46
-28/07/15 20:44:22.32:   Finished getting channel 17 / 46
-28/07/15 20:44:22.65:   Finished getting channel 18 / 46
-28/07/15 20:44:22.98:   Finished getting channel 19 / 46
-28/07/15 20:44:23.29:   Finished getting channel 20 / 46
-28/07/15 20:44:23.62:   Finished getting channel 21 / 46
-28/07/15 20:44:23.94:   Finished getting channel 22 / 46
-28/07/15 20:44:24.27:   Finished getting channel 23 / 46
-28/07/15 20:44:24.60:   Finished getting channel 24 / 46
-28/07/15 20:44:24.91:   Finished getting channel 25 / 46
-28/07/15 20:44:25.23:   Finished getting channel 26 / 46
-28/07/15 20:44:25.56:   Finished getting channel 27 / 46
-28/07/15 20:44:25.89:   Finished getting channel 28 / 46
-28/07/15 20:44:26.22:   Finished getting channel 29 / 46
-28/07/15 20:44:26.55:   Finished getting channel 30 / 46
-28/07/15 20:44:26.85:   Finished getting channel 31 / 46
-28/07/15 20:44:27.17:   Finished getting channel 32 / 46
-28/07/15 20:44:27.47:   Finished getting channel 33 / 46
-28/07/15 20:44:27.79:   Finished getting channel 34 / 46
-28/07/15 20:44:28.13:   Finished getting channel 35 / 46
-28/07/15 20:44:28.43:   Finished getting channel 36 / 46
-28/07/15 20:44:28.80:   Finished getting channel 37 / 46
-28/07/15 20:44:29.12:   Finished getting channel 38 / 46
-28/07/15 20:44:29.45:   Finished getting channel 39 / 46
-28/07/15 20:44:29.76:   Finished getting channel 40 / 46
-28/07/15 20:44:30.07:   Finished getting channel 41 / 46
-28/07/15 20:44:30.40:   Finished getting channel 42 / 46
-28/07/15 20:44:30.74:   Finished getting channel 43 / 46
-28/07/15 20:44:31.05:   Finished getting channel 44 / 46
-28/07/15 20:44:31.36:   Finished getting channel 45 / 46
-28/07/15 20:44:31.36:   Finished getting day 6 / 7
-28/07/15 20:44:31.37:   Getting TMDB metadata for 3002006
-28/07/15 20:44:31.37:   Getting TMDB metadata for theplacebeyondthepines2012
-28/07/15 20:44:31.36:   Got all films from Sky
-28/07/15 20:44:31.36:   Add metadata
-28/07/15 20:44:31.37:   Getting TMDB metadata for thelegendofshorty2014
-28/07/15 20:44:31.37:   Getting TMDB metadata for marmaduke2010
-28/07/15 20:44:31.37:   Getting TMDB metadata for thecatreturns2002
-28/07/15 20:44:31.37:   Getting TMDB metadata for swissfamilyrobinson1960
-28/07/15 20:44:31.37:   Getting TMDB metadata for diaryofawimpykid2010
-28/07/15 20:44:31.37:   Getting TMDB metadata for missionimpossible1996
-28/07/15 20:44:31.37:   Getting TMDB metadata for roadtoperdition2002
-28/07/15 20:44:31.37:   Getting TMDB metadata for fromdusktilldawn1995
-28/07/15 20:44:31.37:   Getting TMDB metadata for mirrormirror2012
-28/07/15 20:44:31.37:   Getting TMDB metadata for fromhell2001
-28/07/15 20:44:31.37:   Getting TMDB metadata for garagesalemystery2013
-28/07/15 20:44:31.37:   Getting TMDB metadata for twelvemonkeys2035
-28/07/15 20:44:31.37:   Getting TMDB metadata for missionimpossibleii2000
-28/07/15 20:44:31.37:   Getting TMDB metadata for thelastofthemohicans1992
-28/07/15 20:44:31.37:   Getting TMDB metadata for jodipicoultssalemfalls2011
-28/07/15 20:44:31.39:   Getting TMDB metadata for fatalhoneymoon2012
-28/07/15 20:44:31.37:   Getting TMDB metadata for thewindandthelion1904
-28/07/15 20:44:31.37:   Getting TMDB metadata for theweddingdate2005
-28/07/15 20:44:31.39:   Getting TMDB metadata for nudenunswithbigguns2010
-28/07/15 20:44:31.39:   Getting TMDB metadata for junglebook1942
-28/07/15 20:44:31.39:   Getting TMDB metadata for aperfectgetaway2009
-28/07/15 20:44:31.39:   Getting TMDB metadata for elfiehopkins2012
-28/07/15 20:44:31.39:   Getting TMDB metadata for imarriedamonster1998
-28/07/15 20:44:31.39:   Getting TMDB metadata for dangerouschild
-28/07/15 20:44:31.37:   Getting TMDB metadata for thebookofeli2010
-28/07/15 20:44:31.39:   Getting TMDB metadata for sawneyfleshofman2012
-28/07/15 20:44:31.39:   Getting TMDB metadata for talesfromthecrypt1972
-28/07/15 20:44:31.39:   Getting TMDB metadata for themaldonadomiracle2003
-28/07/15 20:44:31.39:   Getting TMDB metadata for crossingtheline
-28/07/15 20:44:31.39:   Getting TMDB metadata for akillinginasmalltown
-28/07/15 20:44:31.39:   Getting TMDB metadata for thickerthanbloodthelarry
-28/07/15 20:44:31.39:   Getting TMDB metadata for inthebestinterestofthechild
-28/07/15 20:44:31.39:   Getting TMDB metadata for todayitsmetomorrowitsyou1968
-28/07/15 20:44:31.39:   Getting TMDB metadata for noonecouldprotecther
-28/07/15 20:44:31.39:   Getting TMDB metadata for lifeonlibertystreet2004
-28/07/15 20:44:31.39:   Getting TMDB metadata for whosechildisthis
-28/07/15 20:44:31.39:   Getting TMDB metadata for thekingsguard2000
-28/07/15 20:44:31.39:   Getting TMDB metadata for manfromtangier1957
-28/07/15 20:44:31.39:   Getting TMDB metadata for youpayyourmoney1957
-28/07/15 20:44:31.40:   Getting TMDB metadata for stormforce2006
-28/07/15 20:44:31.40:   Getting TMDB metadata for deathcaronthefreeway1979
-28/07/15 20:44:31.40:   Getting TMDB metadata for thebodystealers1969
-28/07/15 20:44:31.40:   Getting TMDB metadata for thenewcenturions1972
-28/07/15 20:44:31.40:   Getting TMDB metadata for reunionatfairborough1985
-28/07/15 20:44:31.39:   Getting TMDB metadata for grizzly1976
-28/07/15 20:44:31.39:   Getting TMDB metadata for roevswade1973
-28/07/15 20:44:31.39:   Getting TMDB metadata for hitandrun
-28/07/15 20:44:31.40:   Getting TMDB metadata for ineversangformyfather1970
-28/07/15 20:44:31.40:   Getting TMDB metadata for derailed2002
-28/07/15 20:44:31.40:   Getting TMDB metadata for deadlymessages1985
-28/07/15 20:44:31.40:   Getting TMDB metadata for changeofheart
-28/07/15 20:44:31.40:   Getting TMDB metadata for docwestpart22009
-28/07/15 20:44:31.40:   Getting TMDB metadata for bluethunder1983
-28/07/15 20:44:31.40:   Getting TMDB metadata for eyesoflauramars1978
-28/07/15 20:44:31.40:   Getting TMDB metadata for spacewarriors2013
-28/07/15 20:44:31.40:   Getting TMDB metadata for loyalopposition1998
-28/07/15 20:44:31.42:   Getting TMDB metadata for usmarshals1998
-28/07/15 20:44:31.40:   Getting TMDB metadata for wayofthewicked2014
-28/07/15 20:44:31.40:   Getting TMDB metadata for maxandhelen
-28/07/15 20:44:31.39:   Getting TMDB metadata for carambola1974
-28/07/15 20:44:31.40:   Getting TMDB metadata for citykiller1984
-28/07/15 20:44:31.42:   Getting TMDB metadata for 2fast2furious2003
-28/07/15 20:44:31.42:   Getting TMDB metadata for crash2004
-28/07/15 20:44:31.40:   Getting TMDB metadata for noplacetorun
-28/07/15 20:44:31.42:   Getting TMDB metadata for littlefockers2010
-28/07/15 20:44:31.42:   Getting TMDB metadata for achallengeforrobinhood1967
-28/07/15 20:44:31.42:   Getting TMDB metadata for dearviola2014
-28/07/15 20:44:31.42:   Getting TMDB metadata for mysisterskeeper2009
-28/07/15 20:44:31.40:   Getting TMDB metadata for freshmanfather
-28/07/15 20:44:31.42:   Getting TMDB metadata for thegoldencompass2007
-28/07/15 20:44:31.42:   Getting TMDB metadata for nowvoyager1942
-28/07/15 20:44:31.40:   Getting TMDB metadata for thegreatest1977
-28/07/15 20:44:31.42:   Getting TMDB metadata for wolfcreek2005
-28/07/15 20:44:31.42:   Getting TMDB metadata for transporter32008
-28/07/15 20:44:31.42:   Getting TMDB metadata for boneeater2007
-28/07/15 20:44:31.42:   Getting TMDB metadata for gettinggotti1994
-28/07/15 20:44:31.42:   Getting TMDB metadata for smokescreen1964
-28/07/15 20:44:31.42:   Getting TMDB metadata for fivechildrenandit2004
-28/07/15 20:44:31.42:   Getting TMDB metadata for miamimagma2011
-28/07/15 20:44:31.42:   Getting TMDB metadata for whenawomanascendsthestairs1960
-28/07/15 20:44:31.42:   Getting TMDB metadata for thepassenger1975
-28/07/15 20:44:31.42:   Getting TMDB metadata for theforgetmenotmurders
-28/07/15 20:44:31.42:   Getting TMDB metadata for georgiaokeeffe2009
-28/07/15 20:44:31.42:   Getting TMDB metadata for maryhigginsclarkyoubelong2002
-28/07/15 20:44:31.42:   Getting TMDB metadata for timerunners2013
-28/07/15 20:44:31.42:   Getting TMDB metadata for starshiptroopers32008
-28/07/15 20:44:31.42:   Getting TMDB metadata for finaljustice
-28/07/15 20:44:31.42:   Getting TMDB metadata for someoneelseschild
-28/07/15 20:44:31.42:   Getting TMDB metadata for extraordinarymeasures2010
-28/07/15 20:44:31.42:   Getting TMDB metadata for maryhigginsclarkacrimeof2003
-28/07/15 20:44:31.42:   Getting TMDB metadata for deadlyhope2012
-28/07/15 20:44:31.42:   Getting TMDB metadata for thelostworld1960
-28/07/15 20:44:31.42:   Getting TMDB metadata for hortonhearsawho2008
-28/07/15 20:44:31.42:   Getting TMDB metadata for mysteriousisland1961
-28/07/15 20:44:31.42:   Getting TMDB metadata for 10thingsihateaboutyou1999
-28/07/15 20:44:31.40:   Getting TMDB metadata for tracker2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for killeramongus2012
-28/07/15 20:44:31.42:   Getting TMDB metadata for fightclub1999
-28/07/15 20:44:31.42:   Getting TMDB metadata for thearrival1996
-28/07/15 20:44:31.44:   Getting TMDB metadata for graveencounters2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for thefootballfactory2004
-28/07/15 20:44:31.42:   Getting TMDB metadata for itwashimorus
-28/07/15 20:44:31.44:   Getting TMDB metadata for killzombie2012
-28/07/15 20:44:31.42:   Getting TMDB metadata for outoftheashes2003
-28/07/15 20:44:31.44:   Getting TMDB metadata for dc911timeofcrisis2001
-28/07/15 20:44:31.42:   Getting TMDB metadata for loveisneversilent
-28/07/15 20:44:31.44:   Getting TMDB metadata for homelesstoharvard2003
-28/07/15 20:44:31.42:   Getting TMDB metadata for untamedlove
-28/07/15 20:44:31.44:   Getting TMDB metadata for ebbieachristmasstory
-28/07/15 20:44:31.44:   Getting TMDB metadata for onceuponaspy1980
-28/07/15 20:44:31.44:   Getting TMDB metadata for longjohnsilver1954
-28/07/15 20:44:31.44:   Getting TMDB metadata for thecup2002
-28/07/15 20:44:31.44:   Getting TMDB metadata for verticallimit2000
-28/07/15 20:44:31.39:   Getting TMDB metadata for impact1963
-28/07/15 20:44:31.44:   Getting TMDB metadata for deadlydescent2011
-28/07/15 20:44:31.42:   Getting TMDB metadata for ageofheroes2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for whatacarveup1962
-28/07/15 20:44:31.44:   Getting TMDB metadata for thelasttemptationofchrist1988
-28/07/15 20:44:31.44:   Getting TMDB metadata for crossfire1947
-28/07/15 20:44:31.42:   Getting TMDB metadata for avengingangel2007
-28/07/15 20:44:31.44:   Getting TMDB metadata for vamps2012
-28/07/15 20:44:31.44:   Getting TMDB metadata for honeyishrunkthekids1989
-28/07/15 20:44:31.44:   Getting TMDB metadata for theroad2009
-28/07/15 20:44:31.42:   Getting TMDB metadata for thelongkissgoodnight1996
-28/07/15 20:44:31.44:   Getting TMDB metadata for thewomanwhosinned
-28/07/15 20:44:31.44:   Getting TMDB metadata for angusthongsandperfect2008
-28/07/15 20:44:31.44:   Getting TMDB metadata for themanwhocapturedeichmann1960
-28/07/15 20:44:31.44:   Getting TMDB metadata for summeroffear1978
-28/07/15 20:44:31.44:   Getting TMDB metadata for whenfriendshipkills
-28/07/15 20:44:31.44:   Getting TMDB metadata for thebattleofsinai1969
-28/07/15 20:44:31.44:   Getting TMDB metadata for ambushinleopardstreet1962
-28/07/15 20:44:31.45:   Getting TMDB metadata for thecainemutinycourtmartial1945
-28/07/15 20:44:31.44:   Getting TMDB metadata for loveslongjourney2007
-28/07/15 20:44:31.45:   Getting TMDB metadata for alianamericanhero2000
-28/07/15 20:44:31.44:   Getting TMDB metadata for thecore2003
-28/07/15 20:44:31.44:   Getting TMDB metadata for erinbrockovich2000
-28/07/15 20:44:31.45:   Getting TMDB metadata for lonerider2008
-28/07/15 20:44:31.44:   Getting TMDB metadata for shallowhal2001
-28/07/15 20:44:31.44:   Getting TMDB metadata for darkskies2013
-28/07/15 20:44:31.45:   Getting TMDB metadata for thewildbunch1969
-28/07/15 20:44:31.45:   Getting TMDB metadata for napoleondynamite2004
-28/07/15 20:44:31.45:   Getting TMDB metadata for homealone2lostinnewyork1992
-28/07/15 20:44:31.42:   Getting TMDB metadata for underthebed2012
-28/07/15 20:44:31.45:   Getting TMDB metadata for raidersofthelostark1981
-28/07/15 20:44:31.45:   Getting TMDB metadata for tropicthunder2008
-28/07/15 20:44:31.45:   Getting TMDB metadata for ghostsofgirlfriendspast2009
-28/07/15 20:44:31.45:   Getting TMDB metadata for tintinandthegoldenfleece1961
-28/07/15 20:44:31.45:   Getting TMDB metadata for thefastandthefurioustokyo2006
-28/07/15 20:44:31.44:   Getting TMDB metadata for lastmanstanding1996
-28/07/15 20:44:31.45:   Getting TMDB metadata for themasterofballantrae1953
-28/07/15 20:44:31.44:   Getting TMDB metadata for achildswish
-28/07/15 20:44:31.45:   Getting TMDB metadata for tunesofglory1960
-28/07/15 20:44:31.44:   Getting TMDB metadata for aiartificialintelligence2001
-28/07/15 20:44:31.45:   Getting TMDB metadata for sherlockholmestheincident1992
-28/07/15 20:44:31.45:   Getting TMDB metadata for hope
-28/07/15 20:44:31.45:   Getting TMDB metadata for warofresistance2011
-28/07/15 20:44:31.45:   Getting TMDB metadata for runawaycar
-28/07/15 20:44:31.45:   Getting TMDB metadata for buffalo661998
-28/07/15 20:44:31.45:   Getting TMDB metadata for scoobydoo2002
-28/07/15 20:44:31.45:   Getting TMDB metadata for alvinthechipmunks2007
-28/07/15 20:44:31.44:   Getting TMDB metadata for theabandoned2006
-28/07/15 20:44:31.45:   Getting TMDB metadata for johnnyenglish2002
-28/07/15 20:44:31.47:   Getting TMDB metadata for columbocautionmurdercan1991
-28/07/15 20:44:31.45:   Getting TMDB metadata for cloudywithachanceofmeatballs2009
-28/07/15 20:44:31.44:   Getting TMDB metadata for coasttocoast2003
-28/07/15 20:44:31.45:   Getting TMDB metadata for thelivingdaylights1987
-28/07/15 20:44:31.44:   Getting TMDB metadata for summertree1971
-28/07/15 20:44:31.44:   Getting TMDB metadata for cityofember2008
-28/07/15 20:44:31.47:   Getting TMDB metadata for ageofthegunslinger2009
-28/07/15 20:44:31.47:   Getting TMDB metadata for mystepmotherisanalien1988
-28/07/15 20:44:31.45:   Getting TMDB metadata for trapped2010
-28/07/15 20:44:31.45:   Getting TMDB metadata for bollywoodqueen2003
-28/07/15 20:44:31.47:   Getting TMDB metadata for nannymcphee2005
-28/07/15 20:44:31.47:   Getting TMDB metadata for buckandthepreacher1972
-28/07/15 20:44:31.47:   Getting TMDB metadata for theshawshankredemption1994
-28/07/15 20:44:31.45:   Getting TMDB metadata for columbothegreenhousejungle1972
-28/07/15 20:44:31.47:   Getting TMDB metadata for awakenings1990
-28/07/15 20:44:31.47:   Getting TMDB metadata for thequeenmotheraroyalcentury
-28/07/15 20:44:31.45:   Getting TMDB metadata for michaeljacksonsthisisit2009
-28/07/15 20:44:31.47:   Getting TMDB metadata for ghostriderspiritofvengeance2011
-28/07/15 20:44:31.47:   Getting TMDB metadata for dawnrider2012
-28/07/15 20:44:31.47:   Getting TMDB metadata for fearinthenight1972
-28/07/15 20:44:31.47:   Getting TMDB metadata for farfromthemaddingcrowd
-28/07/15 20:44:31.45:   Getting TMDB metadata for thequatermassxperiment1955
-28/07/15 20:44:31.45:   Getting TMDB metadata for somethingsgottagive2003
-28/07/15 20:44:31.45:   Getting TMDB metadata for returntothebluelagoon1991
-28/07/15 20:44:31.45:   Getting TMDB metadata for therapeofdrwillis
-28/07/15 20:44:31.47:   Getting TMDB metadata for thewarriortheslavegirl1958
-28/07/15 20:44:31.47:   Getting TMDB metadata for shivers1975
-28/07/15 20:44:31.44:   Getting TMDB metadata for battleofthev11958
-28/07/15 20:44:31.47:   Getting TMDB metadata for tycoon1947
-28/07/15 20:44:31.44:   Getting TMDB metadata for unlikelysuspects
-28/07/15 20:44:31.44:   Getting TMDB metadata for wanted2008
-28/07/15 20:44:31.44:   Getting TMDB metadata for prophetofevil
-28/07/15 20:44:31.45:   Getting TMDB metadata for krull1983
-28/07/15 20:44:31.45:   Getting TMDB metadata for prisonofsecrets
-28/07/15 20:44:31.47:   Getting TMDB metadata for mutinyonthebuses1973
-28/07/15 20:44:31.45:   Getting TMDB metadata for thewackiestshipinthearmy1961
-28/07/15 20:44:31.47:   Getting TMDB metadata for invisiblechild
-28/07/15 20:44:31.47:   Getting TMDB metadata for separatedbymurder
-28/07/15 20:44:31.45:   Getting TMDB metadata for apollo11
-28/07/15 20:44:31.47:   Getting TMDB metadata for deathtunnel2005
-28/07/15 20:44:31.45:   Getting TMDB metadata for thefiveofme
-28/07/15 20:44:31.45:   Getting TMDB metadata for chronicle2012
-28/07/15 20:44:31.47:   Getting TMDB metadata for fridaythe13th2009
-28/07/15 20:44:31.45:   Getting TMDB metadata for theinbetweenersmovie2011
-28/07/15 20:44:31.47:   Getting TMDB metadata for onedamneddayatdawn1970
-28/07/15 20:44:31.45:   Getting TMDB metadata for columbocandidateforcrime1973
-28/07/15 20:44:31.44:   Getting TMDB metadata for battlestations1956
-28/07/15 20:44:31.45:   Getting TMDB metadata for youcantwinthemall1920
-28/07/15 20:44:31.45:   Getting TMDB metadata for thedescent2005
-28/07/15 20:44:31.45:   Getting TMDB metadata for stationwest1948
-28/07/15 20:44:31.45:   Getting TMDB metadata for straightfromtheheart
-28/07/15 20:44:31.44:   Getting TMDB metadata for accidentalfriendship2008
-28/07/15 20:44:31.47:   Getting TMDB metadata for 7seconds2005
-28/07/15 20:44:31.45:   Getting TMDB metadata for takingbackmylife
-28/07/15 20:44:31.47:   Getting TMDB metadata for findingneverland2004
-28/07/15 20:44:31.44:   Getting TMDB metadata for desperatechoicestosave
-28/07/15 20:44:31.45:   Getting TMDB metadata for dontlethimin2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for whenstrangersappear2001
-28/07/15 20:44:31.45:   Getting TMDB metadata for 5ivegirls2006
-28/07/15 20:44:31.45:   Getting TMDB metadata for deadpoetssociety1950
-28/07/15 20:44:31.47:   Getting TMDB metadata for profileformurder1996
-28/07/15 20:44:31.47:   Getting TMDB metadata for themanintheironmask1998
-28/07/15 20:44:31.47:   Getting TMDB metadata for themissing2003
-28/07/15 20:44:31.47:   Getting TMDB metadata for thegirlwhocamebetweenthem
-28/07/15 20:44:31.42:   Getting TMDB metadata for atouchofhope
-28/07/15 20:44:31.42:   Getting TMDB metadata for wickedlove2010
-28/07/15 20:44:31.47:   Getting TMDB metadata for cass2008
-28/07/15 20:44:31.45:   Getting TMDB metadata for sinsofthemother
-28/07/15 20:44:31.47:   Getting TMDB metadata for spinningboris2003
-28/07/15 20:44:31.44:   Getting TMDB metadata for collisionearth2011
-28/07/15 20:44:31.42:   Getting TMDB metadata for scrooged1988
-28/07/15 20:44:31.47:   Getting TMDB metadata for thecrookede2001
-28/07/15 20:44:31.42:   Getting TMDB metadata for panhandle1948
-28/07/15 20:44:31.42:   Getting TMDB metadata for hindenburg1937
-28/07/15 20:44:31.47:   Getting TMDB metadata for clockwise1986
-28/07/15 20:44:31.45:   Getting TMDB metadata for thismeanswar2012
-28/07/15 20:44:31.45:   Getting TMDB metadata for dredd2012
-28/07/15 20:44:31.44:   Getting TMDB metadata for smiley2012
-28/07/15 20:44:31.44:   Getting TMDB metadata for diaryofthedead2007
-28/07/15 20:44:31.45:   Getting TMDB metadata for coastofskeletons1964
-28/07/15 20:44:31.45:   Getting TMDB metadata for thesimpsonsmovie2007
-28/07/15 20:44:31.45:   Getting TMDB metadata for nonameonthebullet1959
-28/07/15 20:44:31.44:   Getting TMDB metadata for bossofbosses
-28/07/15 20:44:31.47:   Getting TMDB metadata for returnofthebadmen1948
-28/07/15 20:44:31.47:   Getting TMDB metadata for scaredsilent
-28/07/15 20:44:31.47:   Getting TMDB metadata for romyandmicheleshighschool1997
-28/07/15 20:44:31.42:   Getting TMDB metadata for thespynextdoor2010
-28/07/15 20:44:31.44:   Getting TMDB metadata for lethalobsession2007
-28/07/15 20:44:31.44:   Getting TMDB metadata for thehand1960
-28/07/15 20:44:31.45:   Getting TMDB metadata for missingchildrenamothersstory
-28/07/15 20:44:31.42:   Getting TMDB metadata for bodydouble1984
-28/07/15 20:44:31.47:   Getting TMDB metadata for vanishedwithoutatrace
-28/07/15 20:44:31.45:   Getting TMDB metadata for thebiggestfan2002
-28/07/15 20:44:31.47:   Getting TMDB metadata for colourmeperfect1968
-28/07/15 20:44:31.44:   Getting TMDB metadata for porcorosso1992
-28/07/15 20:44:31.47:   Getting TMDB metadata for midnightrun1988
-28/07/15 20:44:31.47:   Getting TMDB metadata for murdersosweet
-28/07/15 20:44:31.44:   Getting TMDB metadata for dreamsofgold1986
-28/07/15 20:44:31.44:   Getting TMDB metadata for serena1962
-28/07/15 20:44:31.45:   Getting TMDB metadata for addamsfamilyvalues1993
-28/07/15 20:44:31.47:   Getting TMDB metadata for atraceofdanger2010
-28/07/15 20:44:31.44:   Getting TMDB metadata for crimesofpassionescapefrom
-28/07/15 20:44:31.44:   Getting TMDB metadata for centerstage2000
-28/07/15 20:44:31.44:   Getting TMDB metadata for haveyouseenmyson
-28/07/15 20:44:31.44:   Getting TMDB metadata for undueinfluence
-28/07/15 20:44:31.47:   Getting TMDB metadata for dragonheart1996
-28/07/15 20:44:31.47:   Getting TMDB metadata for sudieandsimpson1940
-28/07/15 20:44:31.45:   Getting TMDB metadata for columboadeadlystateofmind1975
-28/07/15 20:44:31.47:   Getting TMDB metadata for annakarenina1985
-28/07/15 20:44:31.45:   Getting TMDB metadata for theeliangonzalesstory
-28/07/15 20:44:31.45:   Getting TMDB metadata for thefortune1920
-28/07/15 20:44:31.45:   Getting TMDB metadata for fieldofdreams1989
-28/07/15 20:44:31.42:   Getting TMDB metadata for fatalvows
-28/07/15 20:44:31.47:   Getting TMDB metadata for boothill1969
-28/07/15 20:44:31.44:   Getting TMDB metadata for attheearthscore1976
-28/07/15 20:44:31.45:   Getting TMDB metadata for thelostmedallion2013
-28/07/15 20:44:31.47:   Getting TMDB metadata for tosavethechildren
-28/07/15 20:44:31.47:   Getting TMDB metadata for theswanprincess1998
-28/07/15 20:44:31.45:   Getting TMDB metadata for meninblackii2002
-28/07/15 20:44:31.45:   Getting TMDB metadata for tankcommandos1959
-28/07/15 20:44:31.44:   Getting TMDB metadata for taken2008
-28/07/15 20:44:31.47:   Getting TMDB metadata for icecoldinalex1958
-28/07/15 20:44:31.45:   Getting TMDB metadata for theshadowriders1982
-28/07/15 20:44:31.45:   Getting TMDB metadata for theadjustmentbureau2011
-28/07/15 20:44:31.45:   Getting TMDB metadata for soldiersgirl
-28/07/15 20:44:31.45:   Getting TMDB metadata for anymothersson
-28/07/15 20:44:31.47:   Getting TMDB metadata for gamer2009
-28/07/15 20:44:31.47:   Getting TMDB metadata for thebigshowdown1972
-28/07/15 20:44:31.44:   Getting TMDB metadata for thekillingmind
-28/07/15 20:44:31.47:   Getting TMDB metadata for beethovens2nd1993
-28/07/15 20:44:31.45:   Getting TMDB metadata for policeacademy3backintraining1986
-28/07/15 20:44:31.47:   Getting TMDB metadata for blackbeautythelegendcontinues2007
-28/07/15 20:44:31.47:   Getting TMDB metadata for 50gloriousyears
-28/07/15 20:44:31.42:   Getting TMDB metadata for shaolinsoccer2001
-28/07/15 20:44:31.45:   Getting TMDB metadata for shutter2008
-28/07/15 20:44:31.44:   Getting TMDB metadata for tofindmyson1980
-28/07/15 20:44:31.42:   Getting TMDB metadata for minegames
-28/07/15 20:44:31.47:   Getting TMDB metadata for hardtimes1975
-28/07/15 20:44:31.40:   Getting TMDB metadata for siouxcity
-28/07/15 20:44:31.47:   Getting TMDB metadata for theirongiant1999
-28/07/15 20:44:31.47:   Getting TMDB metadata for lipstick
-28/07/15 20:44:31.47:   Getting TMDB metadata for ninemonths1995
-28/07/15 20:44:31.47:   Getting TMDB metadata for eightdaystolive
-28/07/15 20:44:31.45:   Getting TMDB metadata for strangewilderness2008
-28/07/15 20:44:31.44:   Getting TMDB metadata for thekingsspeech2011
-28/07/15 20:44:31.47:   Getting TMDB metadata for princessdianauncrownedqueen
-28/07/15 20:44:31.45:   Getting TMDB metadata for illmanors2012
-28/07/15 20:44:31.44:   Getting TMDB metadata for bluevalleysongbird
-28/07/15 20:44:31.45:   Getting TMDB metadata for blindspot1958
-28/07/15 20:44:31.47:   Getting TMDB metadata for fortress2reentry2000
-28/07/15 20:44:31.47:   Getting TMDB metadata for saintsandsoldiersbattleof2014
-28/07/15 20:44:31.47:   Getting TMDB metadata for scoobydoo2monstersunleashed2004
-28/07/15 20:44:31.42:   Getting TMDB metadata for christmaseveryday
-28/07/15 20:44:31.44:   Getting TMDB metadata for shepherdontherock1993
-28/07/15 20:44:31.45:   Getting TMDB metadata for funwithdickandjane1977
-28/07/15 20:44:31.47:   Getting TMDB metadata for thestepfordchildren1987
-28/07/15 20:44:31.47:   Getting TMDB metadata for fightingmanoftheplains1949
-28/07/15 20:44:31.47:   Getting TMDB metadata for thehuntforosamabinladen2012
-28/07/15 20:44:31.47:   Getting TMDB metadata for liveandletdie1973
-28/07/15 20:44:31.47:   Getting TMDB metadata for farewellmylovely1944
-28/07/15 20:44:31.47:   Getting TMDB metadata for againstthedark2009
-28/07/15 20:44:31.45:   Getting TMDB metadata for jackreeddeathandvengeance
-28/07/15 20:44:31.47:   Getting TMDB metadata for godblessthechild
-28/07/15 20:44:31.44:   Getting TMDB metadata for thebattleofthedamned1969
-28/07/15 20:44:31.45:   Getting TMDB metadata for kickass2010
-28/07/15 20:44:31.47:   Getting TMDB metadata for thedevilsbusiness2011
-28/07/15 20:44:31.47:   Getting TMDB metadata for dianaaportrait
-28/07/15 20:44:31.42:   Getting TMDB metadata for shatteredhearts
-28/07/15 20:44:31.45:   Getting TMDB metadata for disneyswhitefang21994
-28/07/15 20:44:31.45:   Getting TMDB metadata for thethreemusketeers2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for freakyfriday1976
-28/07/15 20:44:31.47:   Getting TMDB metadata for frequentflyer1996
-28/07/15 20:44:31.44:   Getting TMDB metadata for operationvalkyrie2004
-28/07/15 20:44:31.47:   Getting TMDB metadata for theballadofagunfighter1964
-28/07/15 20:44:31.47:   Getting TMDB metadata for underground2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for berlinexpress1948
-28/07/15 20:44:31.44:   Getting TMDB metadata for xmenfirstclass2011
-28/07/15 20:44:31.47:   Getting TMDB metadata for videovoyeurthesusan
-28/07/15 20:44:31.47:   Getting TMDB metadata for whyme
-28/07/15 20:44:31.42:   Getting TMDB metadata for suddenfury
-28/07/15 20:44:31.47:   Getting TMDB metadata for margaret2009
-28/07/15 20:44:31.45:   Getting TMDB metadata for vampirebats2005
-28/07/15 20:44:31.45:   Getting TMDB metadata for desperaterescue
-28/07/15 20:44:31.44:   Getting TMDB metadata for cube2hypercube2002
-28/07/15 20:44:31.47:   Getting TMDB metadata for killerbees2002
-28/07/15 20:44:31.47:   Getting TMDB metadata for charlesamanalone
-28/07/15 20:44:31.47:   Getting TMDB metadata for pennygold1974
-28/07/15 20:44:31.45:   Getting TMDB metadata for battlerecon2011
-28/07/15 20:44:31.44:   Getting TMDB metadata for fataltrust2006
-28/07/15 20:44:31.45:   Getting TMDB metadata for thebluelagoon1980
-28/07/15 20:44:31.45:   Getting TMDB metadata for sniper22002
-28/07/15 20:44:31.42:   Getting TMDB metadata for searchforjustice
-28/07/15 20:44:31.45:   Getting TMDB metadata for mybreast
-28/07/15 20:44:31.44:   Getting TMDB metadata for thedisappearingact
-28/07/15 20:44:31.45:   Getting TMDB metadata for undertenflags1960
-28/07/15 20:44:31.44:   Getting TMDB metadata for behindthecamerathe
-28/07/15 20:44:31.47:   Getting TMDB metadata for thedentist1996
-28/07/15 20:44:31.47:   Getting TMDB metadata for tendermercies1983
-28/07/15 20:44:31.45:   Getting TMDB metadata for hush1998
-28/07/15 20:44:31.47:   Getting TMDB metadata for nochildofmine
-28/07/15 20:44:31.45:   Getting TMDB metadata for vanityfair2004
-28/07/15 20:44:31.47:   Getting TMDB metadata for brothersoutlaw1971
-28/07/15 20:44:31.47:   Getting TMDB metadata for captainapache1971
-28/07/15 20:44:31.47:   Getting TMDB metadata for andthentherewasone
-28/07/15 20:44:31.42:   Getting TMDB metadata for wagonmaster1950
-28/07/15 20:44:31.45:   Getting TMDB metadata for thewaterhorse2007
-28/07/15 20:44:31.45:   Getting TMDB metadata for halfadozenbabies
-28/07/15 20:44:31.45:   Getting TMDB metadata for wherearemychildren
-28/07/15 20:44:31.42:   Getting TMDB metadata for thefirstrebel1939
-28/07/15 20:44:31.45:   Getting TMDB metadata for troy2004
-28/07/15 20:44:31.45:   Getting TMDB metadata for theguard2011
-28/07/15 20:44:31.47:   Getting TMDB metadata for happygolucky2008
-28/07/15 20:44:31.45:   Getting TMDB metadata for theodessafile1974
-28/07/15 20:44:31.42:   Getting TMDB metadata for ramrod1947
-28/07/15 20:44:31.47:   Getting TMDB metadata for kingoftheworld
-28/07/15 20:44:31.42:   Getting TMDB metadata for assassins1995
-28/07/15 20:44:31.47:   Getting TMDB metadata for onthebuses1971
-28/07/15 20:44:31.45:   Getting TMDB metadata for rampart2012
-28/07/15 20:44:31.47:   Getting TMDB metadata for robbersroost1955
-28/07/15 20:44:31.42:   Getting TMDB metadata for pompoko1994
-28/07/15 20:44:31.45:   Getting TMDB metadata for thedambusters1954
-28/07/15 20:44:31.44:   Getting TMDB metadata for themummy1999
-28/07/15 20:44:31.47:   Getting TMDB metadata for justadream1960
-28/07/15 20:44:31.45:   Getting TMDB metadata for bridewars2009
-28/07/15 20:44:31.42:   Getting TMDB metadata for theotherguys2010
-28/07/15 20:44:31.42:   Getting TMDB metadata for madron1970
-28/07/15 20:44:31.44:   Getting TMDB metadata for aquestionofguilt
-28/07/15 20:44:31.45:   Getting TMDB metadata for thechoice
-28/07/15 20:44:31.45:   Getting TMDB metadata for themaggie1954
-28/07/15 20:44:31.45:   Getting TMDB metadata for streetdance2010
-28/07/15 20:44:31.47:   Getting TMDB metadata for theglasshouse2001
-28/07/15 20:44:31.47:   Getting TMDB metadata for xtheunknown1956
-28/07/15 20:44:31.44:   Getting TMDB metadata for conspiracyexposed
-28/07/15 20:44:31.45:   Getting TMDB metadata for murderofinnocence
-28/07/15 20:44:31.42:   Getting TMDB metadata for raisingwaylon2004
-28/07/15 20:44:31.40:   Getting TMDB metadata for diamondgirl
-28/07/15 20:44:31.47:   Getting TMDB metadata for christmaschoir
-28/07/15 20:44:31.42:   Getting TMDB metadata for elegy2008
-28/07/15 20:44:31.47:   Getting TMDB metadata for passions1984
-28/07/15 20:44:31.45:   Getting TMDB metadata for beethoven1992
-28/07/15 20:44:31.47:   Getting TMDB metadata for bluestreak1999
-28/07/15 20:44:31.47:   Getting TMDB metadata for mohawk1956
-28/07/15 20:44:31.47:   Getting TMDB metadata for bobthebutler2005
-28/07/15 20:44:31.44:   Getting TMDB metadata for facevalue
-28/07/15 20:44:31.47:   Getting TMDB metadata for ironman2008
-28/07/15 20:44:31.45:   Getting TMDB metadata for sniper32004
-28/07/15 20:44:31.45:   Getting TMDB metadata for fahrenheit911
-28/07/15 20:44:31.45:   Getting TMDB metadata for crank2006
-28/07/15 20:44:31.44:   Getting TMDB metadata for destroyer1943
-28/07/15 20:44:31.45:   Getting TMDB metadata for mammamia2008
-28/07/15 20:44:31.42:   Getting TMDB metadata for submerged2005
-28/07/15 20:44:31.45:   Getting TMDB metadata for bunraku2010
-28/07/15 20:44:31.47:   Getting TMDB metadata for starman1984
-28/07/15 20:44:31.45:   Getting TMDB metadata for cassadaga
-28/07/15 20:44:31.44:   Getting TMDB metadata for thehike
-28/07/15 20:44:31.42:   Getting TMDB metadata for prey2007
-28/07/15 20:44:31.47:   Getting TMDB metadata for paintball
-28/07/15 20:44:31.45:   Getting TMDB metadata for whyme1984
-28/07/15 20:44:31.86:   Film done 0 / 422
-28/07/15 20:44:31.88:   Film done 1 / 422
-28/07/15 20:44:32.32:   Film done 2 / 422
-28/07/15 20:44:32.33:   Film done 3 / 422
-28/07/15 20:44:32.77:   Film done 4 / 422
-28/07/15 20:44:32.80:   Film done 5 / 422
-28/07/15 20:44:33.24:   Film done 6 / 422
-28/07/15 20:44:33.27:   Film done 7 / 422
-28/07/15 20:44:33.71:   Film done 8 / 422
-28/07/15 20:44:33.74:   Film done 9 / 422
-28/07/15 20:44:34.20:   No results for From Dusk till Dawn at 1995
-28/07/15 20:44:34.23:   Film done 10 / 422
-28/07/15 20:44:34.65:   Film done 11 / 422
-28/07/15 20:44:34.70:   Film done 12 / 422
-28/07/15 20:44:35.11:   No results for Twelve Monkeys at 2035
-28/07/15 20:44:35.19:   No results for The Wind and the Lion at 1904
-28/07/15 20:44:35.58:   Film done 13 / 422
-28/07/15 20:44:35.64:   Film done 14 / 422
-28/07/15 20:44:36.05:   Film done 15 / 422
-28/07/15 20:44:36.10:   No results for Jodi Picoult's Salem Falls at 2011
-28/07/15 20:44:36.51:   Film done 16 / 422
-28/07/15 20:44:36.56:   Film done 17 / 422
-28/07/15 20:44:36.99:   Film done 18 / 422
-28/07/15 20:44:37.05:   Film done 19 / 422
-28/07/15 20:44:37.46:   Film done 20 / 422
-28/07/15 20:44:37.53:   No results for I Married A Monster at 1998
-28/07/15 20:44:37.98:   Film done 21 / 422
-28/07/15 20:44:38.30:   Film done 22 / 422
-28/07/15 20:44:38.44:   Film done 23 / 422
-28/07/15 20:44:38.75:   Film done 24 / 422
-28/07/15 20:44:38.90:   Film done 25 / 422
-28/07/15 20:44:39.22:   Film done 26 / 422
-28/07/15 20:44:39.36:   Film done 27 / 422
-28/07/15 20:44:39.70:   Film done 28 / 422
-28/07/15 20:44:39.83:   No results for Life On Liberty Street at 2004
-28/07/15 20:44:40.17:   Error - no matches for: Whose Child is This?
-28/07/15 20:44:40.17:   Film done 29 / 422
-28/07/15 20:44:40.34:   Film done 30 / 422
-28/07/15 20:44:40.64:   Error - no matches for: Thicker Than Blood: The Larry...
-28/07/15 20:44:40.64:   Film done 31 / 422
-28/07/15 20:44:40.79:   No results for Roe Vs Wade at 1973
-28/07/15 20:44:41.09:   Film done 32 / 422
-28/07/15 20:44:41.24:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Today It's Me, Tomorrow It's You","page":1,"year":1968}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:41.53:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Carambola","page":1,"year":1974}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:41.68:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Impact","page":1,"year":1963}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:41.98:   Film done 33 / 422
-28/07/15 20:44:42.13:   No results for The King's Guard at 2000
-28/07/15 20:44:42.43:   Film done 34 / 422
-28/07/15 20:44:42.59:   Film done 35 / 422
-28/07/15 20:44:42.88:   Film done 36 / 422
-28/07/15 20:44:43.05:   Film done 37 / 422
-28/07/15 20:44:43.34:   No results for Doc West - Part 2 at 2009
-28/07/15 20:44:43.51:   Film done 38 / 422
-28/07/15 20:44:43.79:   Film done 39 / 422
-28/07/15 20:44:43.99:   Film done 40 / 422
-28/07/15 20:44:44.26:   No results for Reunion At Fairborough at 1985
-28/07/15 20:44:44.44:   Film done 41 / 422
-28/07/15 20:44:44.72:   Film done 42 / 422
-28/07/15 20:44:44.96:   Film done 43 / 422
-28/07/15 20:44:45.19:   Film done 44 / 422
-28/07/15 20:44:45.44:   Film done 45 / 422
-28/07/15 20:44:45.65:   No results for Loyal Opposition at 1998
-28/07/15 20:44:45.91:   Film done 46 / 422
-28/07/15 20:44:46.11:   Film done 47 / 422
-28/07/15 20:44:46.36:   Error - no matches for: Max And Helen
-28/07/15 20:44:46.36:   Film done 48 / 422
-28/07/15 20:44:46.58:   Film done 49 / 422
-28/07/15 20:44:46.82:   Film done 50 / 422
-28/07/15 20:44:47.05:   Film done 51 / 422
-28/07/15 20:44:47.27:   Film done 52 / 422
-28/07/15 20:44:47.55:   Film done 53 / 422
-28/07/15 20:44:47.79:   Film done 54 / 422
-28/07/15 20:44:48.00:   Film done 55 / 422
-28/07/15 20:44:48.25:   Film done 56 / 422
-28/07/15 20:44:48.49:   Film done 57 / 422
-28/07/15 20:44:48.71:   Film done 58 / 422
-28/07/15 20:44:48.97:   Film done 59 / 422
-28/07/15 20:44:49.16:   Film done 60 / 422
-28/07/15 20:44:49.47:   Film done 61 / 422
-28/07/15 20:44:49.61:   Film done 62 / 422
-28/07/15 20:44:49.92:   Film done 63 / 422
-28/07/15 20:44:50.06:   Film done 64 / 422
-28/07/15 20:44:50.37:   Film done 65 / 422
-28/07/15 20:44:50.52:   Film done 66 / 422
-28/07/15 20:44:50.84:   Film done 67 / 422
-28/07/15 20:44:51.01:   Film done 68 / 422
-28/07/15 20:44:51.29:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Little Fockers","page":1,"year":2010}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:51.50:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Deadly Hope","page":1,"year":2012}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:51.76:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"The Other Guys","page":1,"year":2010}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:51.96:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"The Lost World","page":1,"year":1960}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:44:52.24:   Film done 69 / 422
-28/07/15 20:44:52.43:   Film done 70 / 422
-28/07/15 20:44:52.74:   Film done 71 / 422
-28/07/15 20:44:52.89:   Film done 72 / 422
-28/07/15 20:44:53.20:   Film done 73 / 422
-28/07/15 20:44:53.40:   Film done 74 / 422
-28/07/15 20:44:53.70:   Film done 75 / 422
-28/07/15 20:44:53.89:   Film done 76 / 422
-28/07/15 20:44:54.17:   Film done 77 / 422
-28/07/15 20:44:54.35:   Error - no matches for: The Forget Me Not Murders
-28/07/15 20:44:54.35:   Film done 78 / 422
-28/07/15 20:44:54.64:   Film done 79 / 422
-28/07/15 20:44:54.83:   Film done 80 / 422
-28/07/15 20:44:55.13:   Film done 81 / 422
-28/07/15 20:44:55.35:   Film done 82 / 422
-28/07/15 20:44:55.60:   Film done 83 / 422
-28/07/15 20:44:55.83:   Film done 84 / 422
-28/07/15 20:44:56.07:   Film done 85 / 422
-28/07/15 20:44:56.29:   Film done 86 / 422
-28/07/15 20:44:56.55:   Film done 87 / 422
-28/07/15 20:44:56.77:   Film done 88 / 422
-28/07/15 20:44:57.02:   Film done 89 / 422
-28/07/15 20:44:57.22:   Film done 90 / 422
-28/07/15 20:44:57.51:   Film done 91 / 422
-28/07/15 20:44:57.69:   Film done 92 / 422
-28/07/15 20:44:58.02:   Film done 93 / 422
-28/07/15 20:44:58.16:   Film done 94 / 422
-28/07/15 20:44:58.49:   No results for Mary Higgins Clark: A Crime of... at 2003
-28/07/15 20:44:58.66:   Film done 95 / 422
-28/07/15 20:44:58.99:   Film done 96 / 422
-28/07/15 20:44:59.13:   Film done 97 / 422
-28/07/15 20:44:59.46:   Film done 98 / 422
-28/07/15 20:44:59.62:   Film done 99 / 422
-28/07/15 20:44:59.96:   Film done 100 / 422
-28/07/15 20:45:00.08:   Film done 101 / 422
-28/07/15 20:45:00.43:   Film done 102 / 422
-28/07/15 20:45:00.55:   Film done 103 / 422
-28/07/15 20:45:00.96:   Film done 104 / 422
-28/07/15 20:45:01.08:   Error - no matches for: Christmas Everyday
-28/07/15 20:45:01.08:   Film done 105 / 422
-28/07/15 20:45:01.45:   Film done 106 / 422
-28/07/15 20:45:01.54:   Error - no matches for: A Touch Of Hope
-28/07/15 20:45:01.54:   Film done 107 / 422
-28/07/15 20:45:01.91:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Assassins","page":1,"year":1995}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:01.98:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"The Long Kiss Goodnight","page":1,"year":1996}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:02.39:   Film done 108 / 422
-28/07/15 20:45:02.50:   Film done 109 / 422
-28/07/15 20:45:02.90:   Film done 110 / 422
-28/07/15 20:45:02.98:   Film done 111 / 422
-28/07/15 20:45:03.37:   Film done 112 / 422
-28/07/15 20:45:03.45:   Film done 113 / 422
-28/07/15 20:45:03.84:   Film done 114 / 422
-28/07/15 20:45:03.91:   Film done 115 / 422
-28/07/15 20:45:04.32:   Film done 116 / 422
-28/07/15 20:45:04.39:   Film done 117 / 422
-28/07/15 20:45:04.78:   No results for Lethal Obsession at 2007
-28/07/15 20:45:04.84:   Film done 118 / 422
-28/07/15 20:45:05.25:   Film done 119 / 422
-28/07/15 20:45:05.30:   Film done 120 / 422
-28/07/15 20:45:05.76:   Film done 121 / 422
-28/07/15 20:45:05.78:   Film done 122 / 422
-28/07/15 20:45:06.38:   Film done 123 / 422
-28/07/15 20:45:06.42:   Film done 124 / 422
-28/07/15 20:45:06.86:   Error - no matches for: Conspiracy Exposed
-28/07/15 20:45:06.86:   Film done 125 / 422
-28/07/15 20:45:06.90:   Film done 126 / 422
-28/07/15 20:45:07.32:   Error - no matches for: Have You Seen My Son?
-28/07/15 20:45:07.32:   Film done 127 / 422
-28/07/15 20:45:07.36:   Film done 128 / 422
-28/07/15 20:45:07.81:   No results for DC 9/11: Time Of Crisis at 2001
-28/07/15 20:45:07.85:   Film done 129 / 422
-28/07/15 20:45:08.32:   Error - no matches for: Crimes of Passion: Escape From...
-28/07/15 20:45:08.32:   Film done 130 / 422
-28/07/15 20:45:08.35:   Film done 131 / 422
-28/07/15 20:45:08.86:   No results for Coast To Coast at 2003
-28/07/15 20:45:08.94:   Film done 132 / 422
-28/07/15 20:45:09.33:   Film done 133 / 422
-28/07/15 20:45:09.45:   Film done 134 / 422
-28/07/15 20:45:09.79:   No results for Shepherd on the Rock at 1993
-28/07/15 20:45:09.92:   Film done 135 / 422
-28/07/15 20:45:10.30:   Film done 136 / 422
-28/07/15 20:45:10.38:   Film done 137 / 422
-28/07/15 20:45:10.89:   No results for Deadly Descent at 2011
-28/07/15 20:45:10.92:   Film done 138 / 422
-28/07/15 20:45:11.36:   Film done 139 / 422
-28/07/15 20:45:11.39:   Film done 140 / 422
-28/07/15 20:45:11.84:   Film done 141 / 422
-28/07/15 20:45:11.89:   No results for To Find My Son at 1980
-28/07/15 20:45:12.28:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Dreams of Gold","page":1,"year":1986}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:12.35:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Summer Tree","page":1,"year":1971}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:12.73:   No results for The Cup at 2002
-28/07/15 20:45:12.82:   Film done 142 / 422
-28/07/15 20:45:13.20:   Film done 143 / 422
-28/07/15 20:45:13.27:   Film done 144 / 422
-28/07/15 20:45:13.67:   Film done 145 / 422
-28/07/15 20:45:13.74:   Error - no matches for: The Disappearing Act
-28/07/15 20:45:13.74:   Film done 146 / 422
-28/07/15 20:45:14.17:   Film done 147 / 422
-28/07/15 20:45:14.22:   Film done 148 / 422
-28/07/15 20:45:14.63:   No results for Love's Long Journey at 2007
-28/07/15 20:45:14.71:   Film done 149 / 422
-28/07/15 20:45:15.10:   Film done 150 / 422
-28/07/15 20:45:15.17:   Film done 151 / 422
-28/07/15 20:45:15.57:   Film done 152 / 422
-28/07/15 20:45:15.63:   Film done 153 / 422
-28/07/15 20:45:16.04:   Film done 154 / 422
-28/07/15 20:45:16.13:   Film done 155 / 422
-28/07/15 20:45:16.50:   Film done 156 / 422
-28/07/15 20:45:16.58:   Film done 157 / 422
-28/07/15 20:45:16.98:   Film done 158 / 422
-28/07/15 20:45:17.05:   Film done 159 / 422
-28/07/15 20:45:17.45:   Film done 160 / 422
-28/07/15 20:45:17.52:   Film done 161 / 422
-28/07/15 20:45:17.93:   Film done 162 / 422
-28/07/15 20:45:18.01:   Film done 163 / 422
-28/07/15 20:45:18.39:   Film done 164 / 422
-28/07/15 20:45:18.49:   Film done 165 / 422
-28/07/15 20:45:18.85:   Film done 166 / 422
-28/07/15 20:45:18.96:   Film done 167 / 422
-28/07/15 20:45:19.33:   Film done 168 / 422
-28/07/15 20:45:19.44:   Film done 169 / 422
-28/07/15 20:45:19.80:   Film done 170 / 422
-28/07/15 20:45:19.92:   Film done 171 / 422
-28/07/15 20:45:20.27:   Film done 172 / 422
-28/07/15 20:45:20.39:   No results for The Man Who Captured Eichmann at 1960
-28/07/15 20:45:20.74:   Film done 173 / 422
-28/07/15 20:45:20.85:   Film done 174 / 422
-28/07/15 20:45:21.22:   Film done 175 / 422
-28/07/15 20:45:21.36:   Film done 176 / 422
-28/07/15 20:45:21.68:   Film done 177 / 422
-28/07/15 20:45:21.82:   Film done 178 / 422
-28/07/15 20:45:22.15:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Operation Valkyrie","page":1,"year":2004}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:22.26:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"The Battle of Sinai","page":1,"year":1969}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:22.60:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Battle Of The V1","page":1,"year":1958}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:22.71:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Battle Stations","page":1,"year":1956}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:23.10:   Film done 179 / 422
-28/07/15 20:45:23.17:   No results for Battle Recon at 2011
-28/07/15 20:45:23.59:   Film done 180 / 422
-28/07/15 20:45:23.63:   No results for The Caine Mutiny Court-Martial at 1945
-28/07/15 20:45:24.06:   No results for Ali: An American Hero at 2000
-28/07/15 20:45:24.09:   No results for The Fortune at 1920
-28/07/15 20:45:24.52:   Film done 181 / 422
-28/07/15 20:45:24.55:   Film done 182 / 422
-28/07/15 20:45:24.97:   Film done 183 / 422
-28/07/15 20:45:25.01:   No results for Bunraku at 2010
-28/07/15 20:45:25.45:   Film done 184 / 422
-28/07/15 20:45:25.47:   Film done 185 / 422
-28/07/15 20:45:25.93:   Film done 186 / 422
-28/07/15 20:45:25.93:   Film done 187 / 422
-28/07/15 20:45:25.93:   Error - no matches for: Taking Back My Life
-28/07/15 20:45:26.38:   Error - no matches for: Missing Children: A Mother's Story
-28/07/15 20:45:26.38:   Film done 188 / 422
-28/07/15 20:45:26.42:   Film done 189 / 422
-28/07/15 20:45:26.83:   Error - no matches for: The Rape of Dr Willis
-28/07/15 20:45:26.83:   Film done 190 / 422
-28/07/15 20:45:26.88:   Film done 191 / 422
-28/07/15 20:45:27.33:   Film done 192 / 422
-28/07/15 20:45:27.33:   Film done 193 / 422
-28/07/15 20:45:27.79:   Film done 194 / 422
-28/07/15 20:45:27.80:   Film done 195 / 422
-28/07/15 20:45:28.26:   Film done 196 / 422
-28/07/15 20:45:28.34:   Film done 197 / 422
-28/07/15 20:45:28.72:   Film done 198 / 422
-28/07/15 20:45:28.79:   Film done 199 / 422
-28/07/15 20:45:29.18:   Film done 200 / 422
-28/07/15 20:45:29.28:   No results for Bollywood Queen at 2003
-28/07/15 20:45:29.63:   Film done 201 / 422
-28/07/15 20:45:29.74:   Film done 202 / 422
-28/07/15 20:45:30.10:   Film done 203 / 422
-28/07/15 20:45:30.23:   Film done 204 / 422
-28/07/15 20:45:30.56:   Film done 205 / 422
-28/07/15 20:45:30.73:   No results for Columbo: The Greenhouse Jungle at 1972
-28/07/15 20:45:31.07:   Film done 206 / 422
-28/07/15 20:45:31.20:   Film done 207 / 422
-28/07/15 20:45:31.54:   Film done 208 / 422
-28/07/15 20:45:31.69:   Film done 209 / 422
-28/07/15 20:45:32.05:   Film done 210 / 422
-28/07/15 20:45:32.18:   Film done 211 / 422
-28/07/15 20:45:32.50:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Under Ten Flags","page":1,"year":1960}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:32.64:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"The Dam Busters","page":1,"year":1954}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:32.96:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Columbo: Candidate For Crime","page":1,"year":1973}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:33.10:   No results for Addam's Family Values at 1993
-28/07/15 20:45:33.42:   Film done 212 / 422
-28/07/15 20:45:33.56:   Film done 213 / 422
-28/07/15 20:45:33.89:   Film done 214 / 422
-28/07/15 20:45:34.03:   Film done 215 / 422
-28/07/15 20:45:34.37:   Film done 216 / 422
-28/07/15 20:45:34.49:   Film done 217 / 422
-28/07/15 20:45:34.86:   Film done 218 / 422
-28/07/15 20:45:34.94:   No results for Trapped at 2010
-28/07/15 20:45:35.32:   Film done 219 / 422
-28/07/15 20:45:35.41:   Film done 220 / 422
-28/07/15 20:45:35.77:   Film done 221 / 422
-28/07/15 20:45:35.86:   Error - no matches for: The Elian Gonzales Story
-28/07/15 20:45:35.86:   Film done 222 / 422
-28/07/15 20:45:36.23:   Error - no matches for: Half A Dozen Babies
-28/07/15 20:45:36.23:   Film done 223 / 422
-28/07/15 20:45:36.31:   Film done 224 / 422
-28/07/15 20:45:36.70:   Film done 225 / 422
-28/07/15 20:45:36.76:   Film done 226 / 422
-28/07/15 20:45:37.16:   Film done 227 / 422
-28/07/15 20:45:37.22:   No results for Tank Commandos at 1959
-28/07/15 20:45:37.62:   Film done 228 / 422
-28/07/15 20:45:37.70:   Film done 229 / 422
-28/07/15 20:45:38.08:   Film done 230 / 422
-28/07/15 20:45:38.19:   Film done 231 / 422
-28/07/15 20:45:38.54:   No results for You Can't Win Them All at 1920
-28/07/15 20:45:38.64:   Film done 232 / 422
-28/07/15 20:45:39.00:   Film done 233 / 422
-28/07/15 20:45:39.12:   Film done 234 / 422
-28/07/15 20:45:39.47:   No results for Sherlock Holmes & the Incident... at 1992
-28/07/15 20:45:39.57:   Film done 235 / 422
-28/07/15 20:45:39.96:   No results for Sniper 2 at 2002
-28/07/15 20:45:40.03:   Film done 236 / 422
-28/07/15 20:45:40.44:   Film done 237 / 422
-28/07/15 20:45:40.50:   Film done 238 / 422
-28/07/15 20:45:40.92:   Film done 239 / 422
-28/07/15 20:45:40.98:   Film done 240 / 422
-28/07/15 20:45:41.38:   Film done 241 / 422
-28/07/15 20:45:41.43:   Error - no matches for: Desperate Rescue
-28/07/15 20:45:41.43:   Film done 242 / 422
-28/07/15 20:45:41.87:   Film done 243 / 422
-28/07/15 20:45:41.88:   Film done 244 / 422
-28/07/15 20:45:42.32:   Film done 245 / 422
-28/07/15 20:45:42.33:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Beethoven","page":1,"year":1992}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:42.77:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Scooby-Doo","page":1,"year":2002}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:42.79:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Johnny English","page":1,"year":2002}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:43.23:   Film done 246 / 422
-28/07/15 20:45:43.24:   Film done 247 / 422
-28/07/15 20:45:43.68:   Film done 248 / 422
-28/07/15 20:45:43.71:   Film done 249 / 422
-28/07/15 20:45:44.15:   Film done 250 / 422
-28/07/15 20:45:44.16:   Film done 251 / 422
-28/07/15 20:45:44.61:   Film done 252 / 422
-28/07/15 20:45:44.63:   Film done 253 / 422
-28/07/15 20:45:45.07:   Film done 254 / 422
-28/07/15 20:45:45.10:   Film done 255 / 422
-28/07/15 20:45:45.52:   No results for The Wackiest Ship in the Army at 1961
-28/07/15 20:45:45.59:   Film done 256 / 422
-28/07/15 20:45:45.98:   Film done 257 / 422
-28/07/15 20:45:46.06:   Film done 258 / 422
-28/07/15 20:45:46.47:   Film done 259 / 422
-28/07/15 20:45:46.51:   No results for Disney's White Fang 2:... at 1994
-28/07/15 20:45:46.91:   Film done 260 / 422
-28/07/15 20:45:46.96:   Film done 261 / 422
-28/07/15 20:45:47.37:   Film done 262 / 422
-28/07/15 20:45:47.42:   No results for Dead Poets Society at 1950
-28/07/15 20:45:47.84:   Film done 263 / 422
-28/07/15 20:45:47.86:   No results for Columbo: A Deadly State of Mind at 1975
-28/07/15 20:45:48.30:   No results for Columbo: Caution! Murder Can... at 1991
-28/07/15 20:45:48.32:   Film done 264 / 422
-28/07/15 20:45:48.75:   Film done 265 / 422
-28/07/15 20:45:48.77:   Film done 266 / 422
-28/07/15 20:45:49.20:   Film done 267 / 422
-28/07/15 20:45:49.22:   Film done 268 / 422
-28/07/15 20:45:49.67:   Film done 269 / 422
-28/07/15 20:45:49.67:   Film done 270 / 422
-28/07/15 20:45:50.13:   Film done 271 / 422
-28/07/15 20:45:50.15:   Film done 272 / 422
-28/07/15 20:45:50.61:   Film done 273 / 422
-28/07/15 20:45:50.62:   Film done 274 / 422
-28/07/15 20:45:51.08:   Film done 275 / 422
-28/07/15 20:45:51.09:   Film done 276 / 422
-28/07/15 20:45:51.53:   Film done 277 / 422
-28/07/15 20:45:51.54:   Film done 278 / 422
-28/07/15 20:45:52.00:   Film done 279 / 422
-28/07/15 20:45:52.00:   Film done 280 / 422
-28/07/15 20:45:52.44:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Fighting Man Of The Plains","page":1,"year":1949}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:52.46:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Age Of The Gunslinger","page":1,"year":2009}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:52.89:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Buck and The Preacher","page":1,"year":1972}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:52.90:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Dawn Rider","page":1,"year":2012}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:45:53.36:   Film done 281 / 422
-28/07/15 20:45:53.36:   Film done 282 / 422
-28/07/15 20:45:53.82:   Film done 283 / 422
-28/07/15 20:45:53.84:   Film done 284 / 422
-28/07/15 20:45:54.28:   Film done 285 / 422
-28/07/15 20:45:54.29:   No results for Black Beauty: The Legend Continues at 2007
-28/07/15 20:45:54.75:   Film done 286 / 422
-28/07/15 20:45:54.76:   Film done 287 / 422
-28/07/15 20:45:55.20:   Film done 288 / 422
-28/07/15 20:45:55.21:   No results for Fortress 2: Re-entry at 2000
-28/07/15 20:45:55.65:   Film done 289 / 422
-28/07/15 20:45:55.67:   Film done 290 / 422
-28/07/15 20:45:56.12:   Film done 291 / 422
-28/07/15 20:45:56.14:   Film done 292 / 422
-28/07/15 20:45:56.58:   Error - no matches for: 50 Glorious Years
-28/07/15 20:45:56.58:   Film done 293 / 422
-28/07/15 20:45:56.59:   Error - no matches for: Charles: A Man Alone
-28/07/15 20:45:56.59:   Film done 294 / 422
-28/07/15 20:45:57.04:   Error - no matches for: The Queen Mother: A Royal Century
-28/07/15 20:45:57.04:   Film done 295 / 422
-28/07/15 20:45:57.06:   Film done 296 / 422
-28/07/15 20:45:57.50:   Film done 297 / 422
-28/07/15 20:45:57.52:   Film done 298 / 422
-28/07/15 20:45:57.97:   Film done 299 / 422
-28/07/15 20:45:57.97:   Film done 300 / 422
-28/07/15 20:45:58.43:   Film done 301 / 422
-28/07/15 20:45:58.44:   Film done 302 / 422
-28/07/15 20:45:58.88:   Film done 303 / 422
-28/07/15 20:45:58.90:   Film done 304 / 422
-28/07/15 20:45:59.35:   Film done 305 / 422
-28/07/15 20:45:59.37:   No results for Mutiny on the Buses at 1973
-28/07/15 20:45:59.82:   Film done 306 / 422
-28/07/15 20:45:59.84:   Film done 307 / 422
-28/07/15 20:46:00.28:   Film done 308 / 422
-28/07/15 20:46:00.29:   Film done 309 / 422
-28/07/15 20:46:00.76:   Film done 310 / 422
-28/07/15 20:46:00.77:   Film done 311 / 422
-28/07/15 20:46:01.21:   Film done 312 / 422
-28/07/15 20:46:01.23:   Film done 313 / 422
-28/07/15 20:46:01.67:   Film done 314 / 422
-28/07/15 20:46:01.70:   Film done 315 / 422
-28/07/15 20:46:02.13:   No results for Profile For Murder at 1996
-28/07/15 20:46:02.16:   Film done 316 / 422
-28/07/15 20:46:02.57:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"A Trace of Danger","page":1,"year":2010}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:02.62:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Gamer","page":1,"year":2009}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:03.01:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Underground","page":1,"year":2011}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:03.07:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Killer Bees","page":1,"year":2002}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:03.47:   Film done 317 / 422
-28/07/15 20:46:03.54:   Film done 318 / 422
-28/07/15 20:46:03.93:   Film done 319 / 422
-28/07/15 20:46:03.93:   Error - no matches for: Separated By Murder
-28/07/15 20:46:04.04:   Film done 320 / 422
-28/07/15 20:46:04.39:   Error - no matches for: The Girl Who Came Between Them
-28/07/15 20:46:04.39:   Film done 321 / 422
-28/07/15 20:46:04.51:   Film done 322 / 422
-28/07/15 20:46:04.85:   No results for Sudie And Simpson at 1940
-28/07/15 20:46:04.97:   No results for The Big Showdown at 1972
-28/07/15 20:46:05.30:   No results for The Ballad Of A Gunfighter at 1964
-28/07/15 20:46:05.43:   Film done 323 / 422
-28/07/15 20:46:05.76:   Film done 324 / 422
-28/07/15 20:46:05.92:   Film done 325 / 422
-28/07/15 20:46:06.23:   Film done 326 / 422
-28/07/15 20:46:06.37:   Film done 327 / 422
-28/07/15 20:46:06.69:   Film done 328 / 422
-28/07/15 20:46:06.83:   Film done 329 / 422
-28/07/15 20:46:07.15:   Film done 330 / 422
-28/07/15 20:46:07.30:   Film done 331 / 422
-28/07/15 20:46:07.60:   No results for Frequent Flyer at 1996
-28/07/15 20:46:07.76:   Film done 332 / 422
-28/07/15 20:46:08.05:   Film done 333 / 422
-28/07/15 20:46:08.24:   No results for The Hunt For Osama Bin Laden at 2012
-28/07/15 20:46:08.53:   Film done 334 / 422
-28/07/15 20:46:08.72:   Film done 335 / 422
-28/07/15 20:46:09.01:   No results for Just A Dream at 1960
-28/07/15 20:46:09.18:   No results for The Crooked E at 2001
-28/07/15 20:46:09.48:   No results for Colour Me Perfect at 1968
-28/07/15 20:46:09.65:   Film done 336 / 422
-28/07/15 20:46:09.93:   Film done 337 / 422
-28/07/15 20:46:10.13:   Film done 338 / 422
-28/07/15 20:46:10.40:   Film done 339 / 422
-28/07/15 20:46:10.61:   Film done 340 / 422
-28/07/15 20:46:10.85:   Film done 341 / 422
-28/07/15 20:46:11.09:   Film done 342 / 422
-28/07/15 20:46:11.33:   Film done 343 / 422
-28/07/15 20:46:11.53:   Film done 344 / 422
-28/07/15 20:46:11.76:   Error - no matches for: Jodi Picoult's Salem Falls
-28/07/15 20:46:11.76:   Film done 345 / 422
-28/07/15 20:46:12.00:   Film done 346 / 422
-28/07/15 20:46:12.22:   Error - no matches for: Life On Liberty Street
-28/07/15 20:46:12.22:   Film done 347 / 422
-28/07/15 20:46:12.46:   Film done 348 / 422
-28/07/15 20:46:12.69:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Today It's Me, Tomorrow It's You","page":1,"year":1968}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:12.90:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Carambola","page":1,"year":1974}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:13.14:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Impact","page":1,"year":1963}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:13.35:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"The King's Guard","page":1}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:13.59:   Error - no matches for: Doc West - Part 2
-28/07/15 20:46:13.59:   Film done 349 / 422
-28/07/15 20:46:13.80:   Film done 350 / 422
-28/07/15 20:46:13.80:   Error - no matches for: Reunion At Fairborough
-28/07/15 20:46:14.05:   Film done 351 / 422
-28/07/15 20:46:14.28:   Film done 352 / 422
-28/07/15 20:46:14.51:   Film done 353 / 422
-28/07/15 20:46:14.73:   Film done 354 / 422
-28/07/15 20:46:14.97:   Film done 355 / 422
-28/07/15 20:46:15.19:   Error - no matches for: Mary Higgins Clark: A Crime of...
-28/07/15 20:46:15.19:   Film done 356 / 422
-28/07/15 20:46:15.43:   Film done 357 / 422
-28/07/15 20:46:15.65:   Film done 358 / 422
-28/07/15 20:46:15.90:   Film done 359 / 422
-28/07/15 20:46:16.11:   Film done 360 / 422
-28/07/15 20:46:16.39:   Film done 361 / 422
-28/07/15 20:46:16.57:   Error - no matches for: Shepherd on the Rock
-28/07/15 20:46:16.57:   Film done 362 / 422
-28/07/15 20:46:16.85:   Film done 363 / 422
-28/07/15 20:46:17.04:   Error - no matches for: To Find My Son
-28/07/15 20:46:17.04:   Film done 364 / 422
-28/07/15 20:46:17.33:   No results for Dreams of Gold at 1986
-28/07/15 20:46:17.49:   No results for Summer Tree at 1971
-28/07/15 20:46:17.82:   Film done 365 / 422
-28/07/15 20:46:17.96:   Film done 366 / 422
-28/07/15 20:46:18.29:   Film done 367 / 422
-28/07/15 20:46:18.43:   Film done 368 / 422
-28/07/15 20:46:18.74:   No results for The Battle of Sinai at 1969
-28/07/15 20:46:18.91:   Film done 369 / 422
-28/07/15 20:46:19.20:   No results for Battle Stations at 1956
-28/07/15 20:46:19.36:   Film done 370 / 422
-28/07/15 20:46:19.66:   Film done 371 / 422
-28/07/15 20:46:19.82:   Error - no matches for: Ali: An American Hero
-28/07/15 20:46:19.82:   Film done 372 / 422
-28/07/15 20:46:20.17:   Film done 373 / 422
-28/07/15 20:46:20.29:   Film done 374 / 422
-28/07/15 20:46:20.62:   Film done 375 / 422
-28/07/15 20:46:20.76:   Error - no matches for: Columbo: The Greenhouse Jungle
-28/07/15 20:46:20.76:   Film done 376 / 422
-28/07/15 20:46:21.10:   Film done 377 / 422
-28/07/15 20:46:21.21:   No results for The Dam Busters at 1954
-28/07/15 20:46:21.55:   No results for Columbo: Candidate For Crime at 1973
-28/07/15 20:46:21.68:   Error - no matches for: Addam's Family Values
-28/07/15 20:46:21.68:   Film done 378 / 422
-28/07/15 20:46:22.03:   Film done 379 / 422
-28/07/15 20:46:22.17:   Error - no matches for: Tank Commandos
-28/07/15 20:46:22.17:   Film done 380 / 422
-28/07/15 20:46:22.47:   Error - no matches for: You Can't Win Them All
-28/07/15 20:46:22.47:   Film done 381 / 422
-28/07/15 20:46:22.63:   Error - no matches for: Sherlock Holmes & the Incident...
-28/07/15 20:46:22.63:   Film done 382 / 422
-28/07/15 20:46:22.94:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Sniper 2","page":1}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:23.10:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Beethoven","page":1,"year":1992}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:23.39:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Scooby-Doo","page":1,"year":2002}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:23.55:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Johnny English","page":1,"year":2002}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:23.86:   Film done 383 / 422
-28/07/15 20:46:24.03:   Error - no matches for: Disney's White Fang 2:...
-28/07/15 20:46:24.03:   Film done 384 / 422
-28/07/15 20:46:24.33:   Film done 385 / 422
-28/07/15 20:46:24.49:   Error - no matches for: Columbo: A Deadly State of Mind
-28/07/15 20:46:24.49:   Film done 386 / 422
-28/07/15 20:46:24.79:   Error - no matches for: Columbo: Caution! Murder Can...
-28/07/15 20:46:24.79:   Film done 387 / 422
-28/07/15 20:46:24.95:   Film done 388 / 422
-28/07/15 20:46:25.25:   No results for Age Of The Gunslinger at 2009
-28/07/15 20:46:25.41:   Film done 389 / 422
-28/07/15 20:46:25.70:   Film done 390 / 422
-28/07/15 20:46:25.89:   Film done 391 / 422
-28/07/15 20:46:26.16:   Error - no matches for: Fortress 2: Re-entry
-28/07/15 20:46:26.16:   Film done 392 / 422
-28/07/15 20:46:26.34:   Film done 393 / 422
-28/07/15 20:46:26.64:   Film done 394 / 422
-28/07/15 20:46:26.82:   Film done 395 / 422
-28/07/15 20:46:27.10:   Film done 396 / 422
-28/07/15 20:46:27.28:   Film done 397 / 422
-28/07/15 20:46:27.55:   Film done 398 / 422
-28/07/15 20:46:27.74:   Film done 399 / 422
-28/07/15 20:46:28.00:   Film done 400 / 422
-28/07/15 20:46:28.19:   Error - no matches for: The Ballad Of A Gunfighter
-28/07/15 20:46:28.19:   Film done 401 / 422
-28/07/15 20:46:28.51:   Film done 402 / 422
-28/07/15 20:46:28.65:   Error - no matches for: The Hunt For Osama Bin Laden
-28/07/15 20:46:28.65:   Film done 403 / 422
-28/07/15 20:46:28.99:   Film done 404 / 422
-28/07/15 20:46:29.11:   Film done 405 / 422
-28/07/15 20:46:29.46:   Error - no matches for: Colour Me Perfect
-28/07/15 20:46:29.46:   Film done 406 / 422
-28/07/15 20:46:29.55:   Film done 407 / 422
-28/07/15 20:46:29.93:   Film done 408 / 422
-28/07/15 20:46:30.02:   Film done 409 / 422
-28/07/15 20:46:30.39:   Error - no matches for: The King's Guard
-28/07/15 20:46:30.39:   Film done 410 / 422
-28/07/15 20:46:30.46:   Error - no matches for: Dreams of Gold
-28/07/15 20:46:30.46:   Film done 411 / 422
-28/07/15 20:46:30.84:   Error - no matches for: Summer Tree
-28/07/15 20:46:30.84:   Film done 412 / 422
-28/07/15 20:46:30.92:   Error - no matches for: The Battle of Sinai
-28/07/15 20:46:30.92:   Film done 413 / 422
-28/07/15 20:46:31.29:   Error - no matches for: Battle Stations
-28/07/15 20:46:31.29:   Film done 414 / 422
-28/07/15 20:46:31.38:   Film done 415 / 422
-28/07/15 20:46:31.81:   Error - no matches for: Columbo: Candidate For Crime
-28/07/15 20:46:31.82:   Film done 416 / 422
-28/07/15 20:46:31.83:   Film done 417 / 422
-28/07/15 20:46:32.27:   Film done 418 / 422
-28/07/15 20:46:32.28:   Film done 419 / 422
-28/07/15 20:46:32.72:   No results for Johnny English at 2002
-28/07/15 20:46:32.78:   Film done 420 / 422
-28/07/15 20:46:32.77:   Error - no matches for: Age Of The Gunslinger
-28/07/15 20:46:33.18:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Johnny English","page":1}
-Error: null
-[object Object]
-Attempts left: 3
-28/07/15 20:46:33.64:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","query":"Johnny English","page":1}
-Error: null
-[object Object]
-Attempts left: 2
-28/07/15 20:46:34.09:   Cleaning up showings
-28/07/15 20:46:34.09:   Film done 421 / 422
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for 3002006
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for marmaduke2010
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for thecatreturns2002
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for swissfamilyrobinson1960
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for diaryofawimpykid2010
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for swissfamilyrobinson1960
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for thecatreturns2002
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for missionimpossible1996
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for missionimpossible1996
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for missionimpossibleii2000
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for mirrormirror2012
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for missionimpossibleii2000
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for fromhell2001
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for diaryofawimpykid2010
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for marmaduke2010
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for missionimpossibleii2000
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for theweddingdate2005
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for roadtoperdition2002
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for garagesalemystery2013
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for fromdusktilldawn1995
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for garagesalemystery2013
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for imarriedamonster1998
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for twelvemonkeys2035
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for fatalhoneymoon2012
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for grizzly1976
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for imarriedamonster1998
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for talesfromthecrypt1972
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for talesfromthecrypt1972
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for whosechildisthis
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for noonecouldprotecther
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for deathcaronthefreeway1979
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for inthebestinterestofthechild
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for junglebook1942
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for deathcaronthefreeway1979
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for deadlymessages1985
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for fromdusktilldawn1995
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for wayofthewicked2014
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for fromdusktilldawn1995
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for ageofheroes2011
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for mirrormirror2012
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for usmarshals1998
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for twelvemonkeys2035
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for fightclub1999
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for elfiehopkins2012
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for fightclub1999
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for thenewcenturions1972
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for transporter32008
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for thenewcenturions1972
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for fightclub1999
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for bluethunder1983
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thegoldencompass2007
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for dearviola2014
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for littlefockers2010
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thelostworld1960
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for deadlymessages1985
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for underthebed2012
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for elfiehopkins2012
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for someoneelseschild
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for thenewcenturions1972
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for wagonmaster1950
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thelostworld1960
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for fatalhoneymoon2012
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for loyalopposition1998
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for twelvemonkeys2035
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for loyalopposition1998
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for assassins1995
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thepassenger1975
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for assassins1995
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thelongkissgoodnight1996
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thefootballfactory2004
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for noplacetorun
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for usmarshals1998
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for collisionearth2011
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for graveencounters2011
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for diaryofthedead2007
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for starshiptroopers32008
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thegoldencompass2007
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thefootballfactory2004
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for graveencounters2011
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for whenstrangersappear2001
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for boneeater2007
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for ebbieachristmasstory
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for thecup2002
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for coasttocoast2003
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for longjohnsilver1954
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for whenstrangersappear2001
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for boneeater2007
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for collisionearth2011
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for suddenfury
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for undueinfluence
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for aiartificialintelligence2001
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for outoftheashes2003
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for collisionearth2011
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for summeroffear1978
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for aiartificialintelligence2001
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for bluevalleysongbird
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for aiartificialintelligence2001
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for whenfriendshipkills
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for aiartificialintelligence2001
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for theroad2009
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for shallowhal2001
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thefastandthefurioustokyo2006
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thelivingdaylights1987
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for accidentalfriendship2008
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for dredd2012
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for littlefockers2010
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for thekingsspeech2011
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thefastandthefurioustokyo2006
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for hindenburg1937
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for desperatechoicestosave
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for 5ivegirls2006
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for tropicthunder2008
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for vampirebats2005
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for tropicthunder2008
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for theadjustmentbureau2011
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for sherlockholmestheincident1992
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for sherlockholmestheincident1992
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for rampart2012
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for twelvemonkeys2035
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for thestepfordchildren1987
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for aiartificialintelligence2001
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for thedentist1996
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thefastandthefurioustokyo2006
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for grizzly1976
-28/07/15 20:46:34.15:   Removed a duplicate/split showing for theshawshankredemption1994
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for onedamneddayatdawn1970
-28/07/15 20:46:34.15:   Removed a duplicate/split showing for thegirlwhocamebetweenthem
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for dearviola2014
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for tropicthunder2008
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for cassadaga
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for deadpoetssociety1950
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for prophetofevil
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for nonameonthebullet1959
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for kickass2010
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for summeroffear1978
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for themummy1999
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for illmanors2012
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for therapeofdrwillis
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for xmenfirstclass2011
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for wanted2008
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for aiartificialintelligence2001
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for boneeater2007
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thismeanswar2012
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for themummy1999
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for boneeater2007
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for crash2004
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for summertree1971
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for theabandoned2006
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for deadpoetssociety1950
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for battlerecon2011
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for tropicthunder2008
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for battlerecon2011
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for nonameonthebullet1959
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for kickass2010
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for illmanors2012
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thewildbunch1969
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for warofresistance2011
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for dredd2012
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thedescent2005
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for illmanors2012
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for fieldofdreams1989
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for suddenfury
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for grizzly1976
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for prey2007
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thewildbunch1969
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thearrival1996
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for tropicthunder2008
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for fahrenheit911
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for lastmanstanding1996
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for thestepfordchildren1987
-28/07/15 20:46:34.15:   All done!
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for dawnrider2012
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for longjohnsilver1954
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for deadpoetssociety1950
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for deadpoetssociety1950
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for onedamneddayatdawn1970
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for thepassenger1975
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for killeramongus2012
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for usmarshals1998
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thewildbunch1969
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for theroad2009
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for killeramongus2012
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for thecup2002
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for verticallimit2000
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for 7seconds2005
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for wagonmaster1950
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for smiley2012
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for hindenburg1937
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for destroyer1943
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for kingoftheworld
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for submerged2005
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for junglebook1942
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thewildbunch1969
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for fieldofdreams1989
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for troy2004
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for theguard2011
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for usmarshals1998
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for unlikelysuspects
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for theguard2011
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for summertree1971
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for illmanors2012
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thismeanswar2012
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for cassadaga
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for untamedlove
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for tendermercies1983
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for wayofthewicked2014
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for collisionearth2011
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for diaryofthedead2007
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for tropicthunder2008
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for usmarshals1998
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for thismeanswar2012
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for 7seconds2005
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for 5ivegirls2006
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for illmanors2012
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for thedentist1996
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for troy2004
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for verticallimit2000
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for verticallimit2000
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for christmaseveryday
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for wickedlove2010
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for theabandoned2006
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for assassins1995
-28/07/15 20:46:34.10:   Removed a duplicate/split showing for fightclub1999
-28/07/15 20:46:34.09:   Removed a duplicate/split showing for grizzly1976
-28/07/15 20:46:34.15:   Removed a duplicate/split showing for clockwise1986
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for vamps2012
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for smiley2012
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for bunraku2010
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for submerged2005
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for sniper32004
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for destroyer1943
-28/07/15 20:46:34.14:   Removed a duplicate/split showing for dawnrider2012
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for atouchofhope
-28/07/15 20:46:34.11:   Removed a duplicate/split showing for assassins1995
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for sniper32004
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for whyme1984
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for theroad2009
-28/07/15 20:46:34.12:   Removed a duplicate/split showing for theroad2009
-28/07/15 20:46:34.13:   Removed a duplicate/split showing for crank2006
+02/08/15 14:37:59.62:   Forcing an update now
+02/08/15 14:37:59.62:   Web server running on http://localhost:5000
+02/08/15 14:37:59.62:   Get current data
+02/08/15 14:38:01.38:   Found: 
+02/08/15 14:38:01.38:   Remove old data
+02/08/15 14:38:01.44:   Get films from sky
+02/08/15 14:38:01.44:   Already have this day
+02/08/15 14:38:01.44:   Finished getting day 0 / 7
+02/08/15 14:38:01.44:   Already have this day
+02/08/15 14:38:01.44:   Finished getting day 1 / 7
+02/08/15 14:38:01.44:   Already have this day
+02/08/15 14:38:01.44:   Finished getting day 2 / 7
+02/08/15 14:38:01.44:   Already have this day
+02/08/15 14:38:01.44:   Finished getting day 3 / 7
+02/08/15 14:38:01.44:   Already have this day
+02/08/15 14:38:01.44:   Finished getting day 4 / 7
+02/08/15 14:38:01.44:   Already have this day
+02/08/15 14:38:01.44:   Finished getting day 5 / 7
+02/08/15 14:38:01.44:   Retrieving new day
+02/08/15 14:38:01.44:   Getting day 201508080000
+02/08/15 14:38:01.44:   Getting channel 1626
+02/08/15 14:38:01.44:   Getting channel 1627
+02/08/15 14:38:01.44:   Getting channel 1628
+02/08/15 14:38:01.44:   Getting channel 1629
+02/08/15 14:38:01.44:   Getting channel 1675
+02/08/15 14:38:01.44:   Getting channel 1830
+02/08/15 14:38:01.44:   Getting channel 1839
+02/08/15 14:38:01.44:   Getting channel 2002
+02/08/15 14:38:01.44:   Getting channel 2003
+02/08/15 14:38:01.46:   Getting channel 2004
+02/08/15 14:38:01.46:   Getting channel 2005
+02/08/15 14:38:01.46:   Getting channel 2006
+02/08/15 14:38:01.46:   Getting channel 2015
+02/08/15 14:38:01.46:   Getting channel 2016
+02/08/15 14:38:01.46:   Getting channel 2017
+02/08/15 14:38:01.46:   Getting channel 2018
+02/08/15 14:38:01.46:   Getting channel 2061
+02/08/15 14:38:01.46:   Getting channel 2075
+02/08/15 14:38:01.46:   Getting channel 2076
+02/08/15 14:38:01.46:   Getting channel 2077
+02/08/15 14:38:01.46:   Getting channel 2082
+02/08/15 14:38:01.46:   Getting channel 2086
+02/08/15 14:38:01.46:   Getting channel 3022
+02/08/15 14:38:01.46:   Getting channel 3023
+02/08/15 14:38:01.46:   Getting channel 3027
+02/08/15 14:38:01.46:   Getting channel 3028
+02/08/15 14:38:01.46:   Getting channel 3150
+02/08/15 14:38:01.46:   Getting channel 3300
+02/08/15 14:38:01.46:   Getting channel 3310
+02/08/15 14:38:01.46:   Getting channel 3340
+02/08/15 14:38:01.46:   Getting channel 3605
+02/08/15 14:38:01.46:   Getting channel 3643
+02/08/15 14:38:01.46:   Getting channel 3708
+02/08/15 14:38:01.46:   Getting channel 3709
+02/08/15 14:38:01.46:   Getting channel 3721
+02/08/15 14:38:01.46:   Getting channel 3751
+02/08/15 14:38:01.46:   Getting channel 3771
+02/08/15 14:38:01.46:   Getting channel 4075
+02/08/15 14:38:01.46:   Getting channel 4502
+02/08/15 14:38:01.46:   Getting channel 6000
+02/08/15 14:38:01.47:   Getting channel 6240
+02/08/15 14:38:01.47:   Getting channel 6241
+02/08/15 14:38:01.47:   Getting channel 6260
+02/08/15 14:38:01.47:   Getting channel 6261
+02/08/15 14:38:01.47:   Getting channel 6272
+02/08/15 14:38:01.47:   Getting channel 6274
+02/08/15 14:38:01.85:   Finished getting channel 0 / 46
+02/08/15 14:38:02.16:   Finished getting channel 1 / 46
+02/08/15 14:38:02.49:   Finished getting channel 2 / 46
+02/08/15 14:38:02.78:   Finished getting channel 3 / 46
+02/08/15 14:38:03.11:   Finished getting channel 4 / 46
+02/08/15 14:38:03.44:   Finished getting channel 5 / 46
+02/08/15 14:38:03.75:   Finished getting channel 6 / 46
+02/08/15 14:38:04.07:   Finished getting channel 7 / 46
+02/08/15 14:38:04.38:   Finished getting channel 8 / 46
+02/08/15 14:38:04.70:   Finished getting channel 9 / 46
+02/08/15 14:38:05.01:   Finished getting channel 10 / 46
+02/08/15 14:38:05.35:   Finished getting channel 11 / 46
+02/08/15 14:38:05.67:   Finished getting channel 12 / 46
+02/08/15 14:38:05.98:   Finished getting channel 13 / 46
+02/08/15 14:38:06.30:   Finished getting channel 14 / 46
+02/08/15 14:38:06.60:   Finished getting channel 15 / 46
+02/08/15 14:38:06.92:   Finished getting channel 16 / 46
+02/08/15 14:38:07.23:   Finished getting channel 17 / 46
+02/08/15 14:38:07.55:   Finished getting channel 18 / 46
+02/08/15 14:38:07.85:   Finished getting channel 19 / 46
+02/08/15 14:38:08.16:   Finished getting channel 20 / 46
+02/08/15 14:38:08.53:   Finished getting channel 21 / 46
+02/08/15 14:38:08.91:   Finished getting channel 22 / 46
+02/08/15 14:38:09.33:   Finished getting channel 23 / 46
+02/08/15 14:38:09.70:   Finished getting channel 24 / 46
+02/08/15 14:38:10.08:   Finished getting channel 25 / 46
+02/08/15 14:38:10.50:   Finished getting channel 26 / 46
+02/08/15 14:38:10.82:   Found: 
+02/08/15 14:38:10.93:   Finished getting channel 27 / 46
+02/08/15 14:38:11.57:   Finished getting channel 28 / 46
+02/08/15 14:38:11.95:   Finished getting channel 29 / 46
+02/08/15 14:38:12.34:   Finished getting channel 30 / 46
+02/08/15 14:38:12.71:   Finished getting channel 31 / 46
+02/08/15 14:38:13.07:   Finished getting channel 32 / 46
+02/08/15 14:38:13.43:   Finished getting channel 33 / 46
+02/08/15 14:38:13.81:   Finished getting channel 34 / 46
+02/08/15 14:38:14.20:   Finished getting channel 35 / 46
+02/08/15 14:38:14.56:   Finished getting channel 36 / 46
+02/08/15 14:38:14.95:   Finished getting channel 37 / 46
+02/08/15 14:38:15.33:   Finished getting channel 38 / 46
+02/08/15 14:38:15.73:   Finished getting channel 39 / 46
+02/08/15 14:38:16.13:   Finished getting channel 40 / 46
+02/08/15 14:38:16.52:   Finished getting channel 41 / 46
+02/08/15 14:38:16.89:   Finished getting channel 42 / 46
+02/08/15 14:38:17.27:   Finished getting channel 43 / 46
+02/08/15 14:38:17.64:   Finished getting channel 44 / 46
+02/08/15 14:38:18.05:   Finished getting channel 45 / 46
+02/08/15 14:38:18.05:   Finished getting day 6 / 7
+02/08/15 14:38:18.05:   Got all films from Sky
+02/08/15 14:38:18.05:   Add metadata
+02/08/15 14:38:18.05:   Film done 0 / 391
+02/08/15 14:38:18.05:   Film done 1 / 391
+02/08/15 14:38:18.05:   Film done 2 / 391
+02/08/15 14:38:18.05:   Film done 3 / 391
+02/08/15 14:38:18.05:   Film done 4 / 391
+02/08/15 14:38:18.05:   Film done 5 / 391
+02/08/15 14:38:18.05:   Film done 6 / 391
+02/08/15 14:38:18.05:   Film done 7 / 391
+02/08/15 14:38:18.05:   Film done 8 / 391
+02/08/15 14:38:18.05:   Film done 9 / 391
+02/08/15 14:38:18.05:   Film done 10 / 391
+02/08/15 14:38:18.05:   Film done 11 / 391
+02/08/15 14:38:18.05:   Film done 12 / 391
+02/08/15 14:38:18.05:   Film done 13 / 391
+02/08/15 14:38:18.05:   Film done 14 / 391
+02/08/15 14:38:18.05:   Film done 15 / 391
+02/08/15 14:38:18.06:   Film done 16 / 391
+02/08/15 14:38:18.06:   Film done 17 / 391
+02/08/15 14:38:18.06:   Film done 18 / 391
+02/08/15 14:38:18.06:   Film done 19 / 391
+02/08/15 14:38:18.06:   Film done 20 / 391
+02/08/15 14:38:18.06:   Film done 21 / 391
+02/08/15 14:38:18.06:   Film done 22 / 391
+02/08/15 14:38:18.06:   Film done 23 / 391
+02/08/15 14:38:18.06:   Film done 24 / 391
+02/08/15 14:38:18.06:   Film done 25 / 391
+02/08/15 14:38:18.06:   Film done 26 / 391
+02/08/15 14:38:18.06:   Film done 27 / 391
+02/08/15 14:38:18.06:   Film done 28 / 391
+02/08/15 14:38:18.06:   Film done 29 / 391
+02/08/15 14:38:18.06:   Film done 30 / 391
+02/08/15 14:38:18.06:   Film done 31 / 391
+02/08/15 14:38:18.06:   Film done 32 / 391
+02/08/15 14:38:18.06:   Film done 33 / 391
+02/08/15 14:38:18.06:   Film done 34 / 391
+02/08/15 14:38:18.06:   Film done 35 / 391
+02/08/15 14:38:18.06:   Film done 36 / 391
+02/08/15 14:38:18.06:   Film done 37 / 391
+02/08/15 14:38:18.07:   Film done 38 / 391
+02/08/15 14:38:18.07:   Film done 39 / 391
+02/08/15 14:38:18.07:   Film done 40 / 391
+02/08/15 14:38:18.07:   Film done 41 / 391
+02/08/15 14:38:18.07:   Film done 42 / 391
+02/08/15 14:38:18.07:   Film done 43 / 391
+02/08/15 14:38:18.07:   Film done 44 / 391
+02/08/15 14:38:18.07:   Film done 45 / 391
+02/08/15 14:38:18.07:   Film done 46 / 391
+02/08/15 14:38:18.07:   Film done 47 / 391
+02/08/15 14:38:18.07:   Film done 48 / 391
+02/08/15 14:38:18.08:   Film done 49 / 391
+02/08/15 14:38:18.08:   Film done 50 / 391
+02/08/15 14:38:18.08:   Film done 51 / 391
+02/08/15 14:38:18.08:   Film done 52 / 391
+02/08/15 14:38:18.08:   Film done 53 / 391
+02/08/15 14:38:18.09:   Film done 54 / 391
+02/08/15 14:38:18.09:   Film done 55 / 391
+02/08/15 14:38:18.09:   Film done 56 / 391
+02/08/15 14:38:18.09:   Film done 57 / 391
+02/08/15 14:38:18.09:   Film done 59 / 391
+02/08/15 14:38:18.09:   Film done 58 / 391
+02/08/15 14:38:18.09:   Film done 65 / 391
+02/08/15 14:38:18.09:   Film done 67 / 391
+02/08/15 14:38:18.09:   Film done 69 / 391
+02/08/15 14:38:18.09:   Film done 71 / 391
+02/08/15 14:38:18.09:   Film done 74 / 391
+02/08/15 14:38:18.09:   Film done 70 / 391
+02/08/15 14:38:18.09:   Film done 64 / 391
+02/08/15 14:38:18.09:   Film done 79 / 391
+02/08/15 14:38:18.09:   Film done 63 / 391
+02/08/15 14:38:18.09:   Film done 61 / 391
+02/08/15 14:38:18.10:   Film done 81 / 391
+02/08/15 14:38:18.10:   Film done 84 / 391
+02/08/15 14:38:18.10:   Film done 82 / 391
+02/08/15 14:38:18.09:   Film done 66 / 391
+02/08/15 14:38:18.10:   Film done 87 / 391
+02/08/15 14:38:18.09:   Film done 68 / 391
+02/08/15 14:38:18.10:   Film done 90 / 391
+02/08/15 14:38:18.10:   Film done 91 / 391
+02/08/15 14:38:18.09:   Film done 77 / 391
+02/08/15 14:38:18.09:   Film done 72 / 391
+02/08/15 14:38:18.10:   Film done 92 / 391
+02/08/15 14:38:18.10:   Film done 83 / 391
+02/08/15 14:38:18.09:   Film done 80 / 391
+02/08/15 14:38:18.09:   Film done 75 / 391
+02/08/15 14:38:18.10:   Film done 100 / 391
+02/08/15 14:38:18.10:   Film done 85 / 391
+02/08/15 14:38:18.10:   Film done 101 / 391
+02/08/15 14:38:18.09:   Film done 62 / 391
+02/08/15 14:38:18.11:   Film done 102 / 391
+02/08/15 14:38:18.09:   Film done 78 / 391
+02/08/15 14:38:18.11:   Film done 103 / 391
+02/08/15 14:38:18.11:   Film done 105 / 391
+02/08/15 14:38:18.11:   Film done 107 / 391
+02/08/15 14:38:18.10:   Film done 89 / 391
+02/08/15 14:38:18.11:   Film done 106 / 391
+02/08/15 14:38:18.11:   Film done 117 / 391
+02/08/15 14:38:18.11:   Film done 118 / 391
+02/08/15 14:38:18.11:   Film done 121 / 391
+02/08/15 14:38:18.11:   Film done 123 / 391
+02/08/15 14:38:18.11:   Film done 125 / 391
+02/08/15 14:38:18.11:   Film done 127 / 391
+02/08/15 14:38:18.09:   Film done 60 / 391
+02/08/15 14:38:18.11:   Film done 108 / 391
+02/08/15 14:38:18.11:   Film done 124 / 391
+02/08/15 14:38:18.10:   Film done 86 / 391
+02/08/15 14:38:18.11:   Film done 132 / 391
+02/08/15 14:38:18.11:   Film done 137 / 391
+02/08/15 14:38:18.11:   Film done 109 / 391
+02/08/15 14:38:18.11:   Film done 128 / 391
+02/08/15 14:38:18.11:   Film done 143 / 391
+02/08/15 14:38:18.11:   Film done 144 / 391
+02/08/15 14:38:18.11:   Film done 130 / 391
+02/08/15 14:38:18.11:   Film done 138 / 391
+02/08/15 14:38:18.12:   Film done 149 / 391
+02/08/15 14:38:18.11:   Film done 135 / 391
+02/08/15 14:38:18.11:   Film done 133 / 391
+02/08/15 14:38:18.12:   Film done 157 / 391
+02/08/15 14:38:18.11:   Film done 126 / 391
+02/08/15 14:38:18.10:   Film done 95 / 391
+02/08/15 14:38:18.11:   Film done 142 / 391
+02/08/15 14:38:18.11:   Film done 120 / 391
+02/08/15 14:38:18.12:   Film done 150 / 391
+02/08/15 14:38:18.12:   Film done 169 / 391
+02/08/15 14:38:18.12:   Film done 164 / 391
+02/08/15 14:38:18.12:   Film done 165 / 391
+02/08/15 14:38:18.12:   Film done 170 / 391
+02/08/15 14:38:18.11:   Film done 122 / 391
+02/08/15 14:38:18.12:   Film done 166 / 391
+02/08/15 14:38:18.10:   Film done 98 / 391
+02/08/15 14:38:18.11:   Film done 110 / 391
+02/08/15 14:38:18.12:   Film done 187 / 391
+02/08/15 14:38:18.12:   Film done 188 / 391
+02/08/15 14:38:18.12:   Film done 174 / 391
+02/08/15 14:38:18.12:   Film done 180 / 391
+02/08/15 14:38:18.13:   Film done 203 / 391
+02/08/15 14:38:18.13:   Film done 212 / 391
+02/08/15 14:38:18.13:   Film done 226 / 391
+02/08/15 14:38:18.13:   Film done 240 / 391
+02/08/15 14:38:18.13:   Film done 245 / 391
+02/08/15 14:38:18.13:   Film done 246 / 391
+02/08/15 14:38:18.14:   Film done 256 / 391
+02/08/15 14:38:18.13:   Film done 227 / 391
+02/08/15 14:38:18.13:   Film done 252 / 391
+02/08/15 14:38:18.14:   Film done 269 / 391
+02/08/15 14:38:18.13:   Film done 193 / 391
+02/08/15 14:38:18.12:   Film done 175 / 391
+02/08/15 14:38:18.12:   Film done 155 / 391
+02/08/15 14:38:18.12:   Film done 184 / 391
+02/08/15 14:38:18.13:   Film done 228 / 391
+02/08/15 14:38:18.13:   Film done 196 / 391
+02/08/15 14:38:18.13:   Film done 241 / 391
+02/08/15 14:38:18.10:   Film done 97 / 391
+02/08/15 14:38:18.14:   Film done 261 / 391
+02/08/15 14:38:18.14:   Film done 266 / 391
+02/08/15 14:38:18.14:   Film done 257 / 391
+02/08/15 14:38:18.15:   Film done 314 / 391
+02/08/15 14:38:18.14:   Film done 303 / 391
+02/08/15 14:38:18.13:   Film done 242 / 391
+02/08/15 14:38:18.14:   Film done 304 / 391
+02/08/15 14:38:18.15:   Film done 309 / 391
+02/08/15 14:38:18.15:   Film done 321 / 391
+02/08/15 14:38:18.14:   Film done 298 / 391
+02/08/15 14:38:18.15:   Film done 332 / 391
+02/08/15 14:38:18.15:   Film done 333 / 391
+02/08/15 14:38:18.15:   Film done 350 / 391
+02/08/15 14:38:18.15:   Film done 326 / 391
+02/08/15 14:38:18.16:   Cleaning up showings
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for columbocautionmurdercan1991
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for scoobydoo2monstersunleashed2004
+02/08/15 14:38:18.15:   Film done 316 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for clockwise1986
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for killerbees2002
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for icecoldinalex1958
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for thehuntforosamabinladen2012
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for scoobydoo2monstersunleashed2004
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for badboys
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for liveandletdie1973
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for columbocautionmurdercan1991
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for maryshelleysfrankenstein1994
+02/08/15 14:38:18.12:   Film done 172 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for sexdrugsrockroll2010
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for gracieschoice2004
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for sexdrugsrockroll2010
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for killerjoe2011
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for icecoldinalex1958
+02/08/15 14:38:18.15:   Film done 323 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for darkstar1974
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for maryshelleysfrankenstein1994
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for saintsandsoldiersbattleof2014
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for indianajonesandthetempleof1984
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for maryshelleysfrankenstein1994
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for indianajonesandthetempleof1984
+02/08/15 14:38:18.14:   Film done 281 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for gungadin1939
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for thunderpants2002
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for austinpowersinternational1997
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for moviolathescarlettoharawar
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for themanwhocapturedeichmann1960
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for tracker2011
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for disturbia2007
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for awinnerneverquits1940
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for saintsandsoldiersbattleof2014
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for convoy1978
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for thebourneidentity2002
+02/08/15 14:38:18.14:   Film done 307 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for dontlethimin2011
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for awinnerneverquits1940
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for maryshelleysfrankenstein1994
+02/08/15 14:38:18.12:   Film done 181 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for mendonttell
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theseeker2007
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for aliensintheattic2009
+02/08/15 14:38:18.11:   Film done 112 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for faceofterror2005
+02/08/15 14:38:18.15:   Film done 325 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for stickit2005
+02/08/15 14:38:18.15:   Film done 331 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for disturbia2007
+02/08/15 14:38:18.12:   Film done 192 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for themummyreturns2001
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for streetdance22012
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for indianajonesandthetempleof1984
+02/08/15 14:38:18.13:   Film done 195 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for airtight1999
+02/08/15 14:38:18.14:   Film done 293 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for thefighter2010
+02/08/15 14:38:18.12:   Film done 176 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theseeker2007
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for whilejusticesleeps
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for mutinyonthebuses1973
+02/08/15 14:38:18.11:   Film done 131 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for stickit2005
+02/08/15 14:38:18.11:   Film done 141 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for streetdance22012
+02/08/15 14:38:18.15:   Film done 320 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for maryshelleysfrankenstein1994
+02/08/15 14:38:18.14:   Film done 288 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for indianajonesandthetempleof1984
+02/08/15 14:38:18.16:   Film done 383 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for octopussy1983
+02/08/15 14:38:18.13:   Film done 239 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for awakenings1990
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for princessdianauncrownedqueen
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for indianajonesandthetempleof1984
+02/08/15 14:38:18.14:   Film done 275 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for lostinyonkers1942
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for thehuntforosamabinladen2012
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for indianajonesandthetempleof1984
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for policeacademy3backintraining1986
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for thethingfromanotherworld1951
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for policeacademy3backintraining1986
+02/08/15 14:38:18.14:   Film done 305 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for columbodaggerofthemind1972
+02/08/15 14:38:18.14:   Film done 289 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for annakarenina1985
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for survivor2014
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for thethingfromanotherworld1951
+02/08/15 14:38:18.15:   Film done 317 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for killerjoe2011
+02/08/15 14:38:18.13:   Film done 217 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theduchess2008
+02/08/15 14:38:18.15:   Film done 329 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for husk2011
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for justwright2010
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for onespecialnight
+02/08/15 14:38:18.13:   Film done 234 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for killerjoe2011
+02/08/15 14:38:18.14:   Film done 296 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for columbodaggerofthemind1972
+02/08/15 14:38:18.13:   Film done 243 / 391
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for theblackwindmill1974
+02/08/15 14:38:18.15:   Film done 373 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for darkstar1974
+02/08/15 14:38:18.14:   Film done 300 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theduchess2008
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for puncturewounds2014
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for maryshelleysfrankenstein1994
+02/08/15 14:38:18.11:   Film done 145 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theduchess2008
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for johnnyenglishreborn2011
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for thechroniclesofriddick2004
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for deathtunnel2005
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for cahillusmarshal1973
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for theateam2010
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for theshawshankredemption1994
+02/08/15 14:38:18.13:   Film done 194 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for raze
+02/08/15 14:38:18.15:   Film done 311 / 391
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for lethimhaveit1950
+02/08/15 14:38:18.14:   Film done 276 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for unabomber
+02/08/15 14:38:18.14:   Film done 291 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for greatexpectations1946
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for stickit2005
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for disturbia2007
+02/08/15 14:38:18.12:   Film done 154 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for survivor2014
+02/08/15 14:38:18.13:   Film done 199 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for annakarenina1985
+02/08/15 14:38:18.12:   Film done 152 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for lastorders2000
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for lastorders2000
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for machinegunkelly1958
+02/08/15 14:38:18.15:   Film done 353 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for glengarryglenross1992
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for stormchasersrevengeof1998
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for theshawshankredemption1994
+02/08/15 14:38:18.15:   Film done 324 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for stickit2005
+02/08/15 14:38:18.16:   Film done 388 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for theirongiant1999
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for disturbia2007
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for theswanprincess1998
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for riolobo1970
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for lastorders2000
+02/08/15 14:38:18.11:   Film done 134 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for decoys2alienseduction2007
+02/08/15 14:38:18.11:   Film done 113 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for aliensintheattic2009
+02/08/15 14:38:18.12:   Film done 186 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for octopussy1983
+02/08/15 14:38:18.13:   Film done 201 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for centerstage2000
+02/08/15 14:38:18.14:   Film done 277 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for stormchasersrevengeof1998
+02/08/15 14:38:18.15:   Film done 319 / 391
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for prairiefever2008
+02/08/15 14:38:18.15:   Film done 336 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for tinkertailorsoldierspy2011
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for cassadaga
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for thechristmasshoes
+02/08/15 14:38:18.14:   Film done 292 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for sharkzilla2002
+02/08/15 14:38:18.11:   Film done 111 / 391
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for thelastchance2003
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for disturbia2007
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for themummyreturns2001
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for lastorders2000
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for mutinyonthebuses1973
+02/08/15 14:38:18.16:   Film done 389 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for tracker2011
+02/08/15 14:38:18.14:   Film done 260 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for theswanprincess1998
+02/08/15 14:38:18.13:   Film done 224 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for octopussy1983
+02/08/15 14:38:18.12:   Film done 190 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for chronicle2012
+02/08/15 14:38:18.15:   Film done 313 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for fortalgiers1953
+02/08/15 14:38:18.15:   Film done 349 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for ironman2008
+02/08/15 14:38:18.13:   Film done 202 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for dontlethimin2011
+02/08/15 14:38:18.13:   Film done 251 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for awakenings1990
+02/08/15 14:38:18.14:   Film done 283 / 391
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for jackandjill2011
+02/08/15 14:38:18.15:   Film done 362 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for thefighter2010
+02/08/15 14:38:18.15:   Film done 315 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for bridesmaids2011
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for fortalgiers1953
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for faceofterror2005
+02/08/15 14:38:18.16:   Film done 377 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for airtight1999
+02/08/15 14:38:18.15:   Film done 327 / 391
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for ultraviolet2006
+02/08/15 14:38:18.14:   Film done 262 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for dragonheart1996
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for columboundercover1992
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for ifyoubelieveinchristmas
+02/08/15 14:38:18.15:   Film done 334 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for theadjustmentbureau2011
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for gungadin1939
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for sexdrugsrockroll2010
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for premonition2007
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for sexdrugsrockroll2010
+02/08/15 14:38:18.14:   Film done 284 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for redlights2012
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for raze
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for gungadin1939
+02/08/15 14:38:18.15:   Film done 346 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for puncturewounds2014
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for insidious2010
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for machinegunkelly1958
+02/08/15 14:38:18.15:   Film done 366 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for insidious2010
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for cheaperbythedozen22005
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for johnnyenglishreborn2011
+02/08/15 14:38:18.10:   Film done 93 / 391
+02/08/15 14:38:18.15:   Film done 367 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for decoys2alienseduction2007
+02/08/15 14:38:18.14:   Film done 306 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for theateam2010
+02/08/15 14:38:18.11:   Film done 115 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for cassadaga
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for geronimo1993
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for lonerider2008
+02/08/15 14:38:18.14:   Film done 273 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for stickit2005
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for theateam2010
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for jackandjill2011
+02/08/15 14:38:18.14:   Film done 299 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for fatalvows
+02/08/15 14:38:18.15:   Film done 357 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for dragonheart1996
+02/08/15 14:38:18.13:   Film done 253 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theduchess2008
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for clockwise1986
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for code7victim51964
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for thematrix1999
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for ultraviolet2006
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for killerbees2002
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for lostinyonkers1942
+02/08/15 14:38:18.14:   Film done 280 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for sexdrugsrockroll2010
+02/08/15 14:38:18.16:   Film done 385 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for devilsplayground2010
+02/08/15 14:38:18.15:   Film done 345 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for bridesmaids2011
+02/08/15 14:38:18.14:   Film done 274 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for gungadin1939
+02/08/15 14:38:18.16:   Film done 384 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for premonition2007
+02/08/15 14:38:18.13:   Film done 214 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for columboundercover1992
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for octopussy1983
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for theduchess2008
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for husk2011
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for code7victim51964
+02/08/15 14:38:18.12:   Film done 160 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for chronicle2012
+02/08/15 14:38:18.12:   Film done 147 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for liveandletdie1973
+02/08/15 14:38:18.13:   Film done 216 / 391
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for devilsplayground2010
+02/08/15 14:38:18.12:   Film done 185 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for justwright2010
+02/08/15 14:38:18.12:   Film done 158 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for deathtunnel2005
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for greatexpectations1946
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for thepriceofabrokenheart
+02/08/15 14:38:18.14:   Film done 254 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for cahillusmarshal1973
+02/08/15 14:38:18.12:   Film done 162 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for fastfurious2009
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for theirongiant1999
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for jeeperscreepers2001
+02/08/15 14:38:18.19:   Removed a duplicate/split showing for thetrailtohoperose2004
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for sharkzilla2002
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for diaryofannefrank
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for disturbia2007
+02/08/15 14:38:18.18:   Removed a duplicate/split showing for centerstage2000
+02/08/15 14:38:18.13:   Film done 244 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for riolobo1970
+02/08/15 14:38:18.10:   Film done 88 / 391
+02/08/15 14:38:18.15:   Film done 361 / 391
+02/08/15 14:38:18.12:   Film done 171 / 391
+02/08/15 14:38:18.17:   Removed a duplicate/split showing for gungadin1939
+02/08/15 14:38:18.15:   Film done 356 / 391
+02/08/15 14:38:18.16:   Removed a duplicate/split showing for ironman2008
+02/08/15 14:38:18.14:   Film done 279 / 391
+02/08/15 14:38:18.12:   Film done 189 / 391
+02/08/15 14:38:18.14:   Film done 294 / 391
+02/08/15 14:38:18.12:   Film done 182 / 391
+02/08/15 14:38:18.13:   Film done 229 / 391
+02/08/15 14:38:18.13:   Film done 213 / 391
+02/08/15 14:38:18.13:   Film done 230 / 391
+02/08/15 14:38:18.14:   Film done 295 / 391
+02/08/15 14:38:18.12:   Film done 179 / 391
+02/08/15 14:38:18.13:   Film done 231 / 391
+02/08/15 14:38:18.13:   Film done 215 / 391
+02/08/15 14:38:18.14:   Film done 285 / 391
+02/08/15 14:38:18.14:   Film done 290 / 391
+02/08/15 14:38:18.14:   Film done 258 / 391
+02/08/15 14:38:18.13:   Film done 232 / 391
+02/08/15 14:38:18.13:   Film done 233 / 391
+02/08/15 14:38:18.14:   Film done 267 / 391
+02/08/15 14:38:18.15:   Film done 372 / 391
+02/08/15 14:38:18.15:   Film done 365 / 391
+02/08/15 14:38:18.15:   Film done 352 / 391
+02/08/15 14:38:18.12:   Film done 156 / 391
+02/08/15 14:38:18.16:   Film done 386 / 391
+02/08/15 14:38:18.16:   Film done 380 / 391
+02/08/15 14:38:18.12:   Film done 151 / 391
+02/08/15 14:38:18.13:   Film done 204 / 391
+02/08/15 14:38:18.15:   Film done 358 / 391
+02/08/15 14:38:18.14:   Film done 270 / 391
+02/08/15 14:38:18.11:   Film done 104 / 391
+02/08/15 14:38:18.14:   Film done 271 / 391
+02/08/15 14:38:18.13:   Film done 218 / 391
+02/08/15 14:38:18.12:   Film done 168 / 391
+02/08/15 14:38:18.09:   Film done 73 / 391
+02/08/15 14:38:18.15:   Film done 340 / 391
+02/08/15 14:38:18.14:   Film done 259 / 391
+02/08/15 14:38:18.12:   Film done 148 / 391
+02/08/15 14:38:18.12:   Film done 153 / 391
+02/08/15 14:38:18.14:   Film done 263 / 391
+02/08/15 14:38:18.12:   Film done 173 / 391
+02/08/15 14:38:18.13:   Film done 219 / 391
+02/08/15 14:38:18.15:   Film done 335 / 391
+02/08/15 14:38:18.13:   Film done 220 / 391
+02/08/15 14:38:18.15:   Film done 359 / 391
+02/08/15 14:38:18.16:   Film done 387 / 391
+02/08/15 14:38:18.12:   Film done 177 / 391
+02/08/15 14:38:18.09:   Film done 76 / 391
+02/08/15 14:38:18.13:   Film done 205 / 391
+02/08/15 14:38:18.13:   Film done 247 / 391
+02/08/15 14:38:18.14:   Film done 268 / 391
+02/08/15 14:38:18.14:   Film done 286 / 391
+02/08/15 14:38:18.13:   Film done 235 / 391
+02/08/15 14:38:18.15:   Film done 330 / 391
+02/08/15 14:38:18.12:   Film done 178 / 391
+02/08/15 14:38:18.15:   Film done 318 / 391
+02/08/15 14:38:18.14:   Film done 272 / 391
+02/08/15 14:38:18.13:   Film done 236 / 391
+02/08/15 14:38:18.15:   Film done 341 / 391
+02/08/15 14:38:18.13:   Film done 237 / 391
+02/08/15 14:38:18.11:   Film done 140 / 391
+02/08/15 14:38:18.10:   Film done 99 / 391
+02/08/15 14:38:18.15:   Film done 374 / 391
+02/08/15 14:38:18.20:   All done!
+02/08/15 14:38:18.11:   Film done 114 / 391
+02/08/15 14:38:18.13:   Film done 200 / 391
+02/08/15 14:38:18.15:   Film done 347 / 391
+02/08/15 14:38:18.15:   Film done 360 / 391
+02/08/15 14:38:18.13:   Film done 221 / 391
+02/08/15 14:38:18.14:   Film done 297 / 391
+02/08/15 14:38:18.13:   Film done 206 / 391
+02/08/15 14:38:18.13:   Film done 207 / 391
+02/08/15 14:38:18.12:   Film done 163 / 391
+02/08/15 14:38:18.11:   Film done 119 / 391
+02/08/15 14:38:18.11:   Film done 146 / 391
+02/08/15 14:38:18.16:   Film done 381 / 391
+02/08/15 14:38:18.15:   Film done 312 / 391
+02/08/15 14:38:18.13:   Film done 222 / 391
+02/08/15 14:38:18.12:   Film done 159 / 391
+02/08/15 14:38:18.14:   Film done 264 / 391
+02/08/15 14:38:18.15:   Film done 368 / 391
+02/08/15 14:38:18.14:   Film done 282 / 391
+02/08/15 14:38:18.15:   Film done 328 / 391
+02/08/15 14:38:18.15:   Film done 354 / 391
+02/08/15 14:38:18.12:   Film done 183 / 391
+02/08/15 14:38:18.14:   Film done 301 / 391
+02/08/15 14:38:18.13:   Film done 208 / 391
+02/08/15 14:38:18.16:   Film done 375 / 391
+02/08/15 14:38:18.14:   Film done 255 / 391
+02/08/15 14:38:18.11:   Film done 116 / 391
+02/08/15 14:38:18.15:   Film done 342 / 391
+02/08/15 14:38:18.10:   Film done 96 / 391
+02/08/15 14:38:18.13:   Film done 209 / 391
+02/08/15 14:38:18.15:   Film done 348 / 391
+02/08/15 14:38:18.13:   Film done 223 / 391
+02/08/15 14:38:18.14:   Film done 287 / 391
+02/08/15 14:38:18.10:   Film done 94 / 391
+02/08/15 14:38:18.11:   Film done 139 / 391
+02/08/15 14:38:18.13:   Film done 210 / 391
+02/08/15 14:38:18.16:   Film done 382 / 391
+02/08/15 14:38:18.13:   Film done 211 / 391
+02/08/15 14:38:18.12:   Film done 161 / 391
+02/08/15 14:38:18.13:   Film done 248 / 391
+02/08/15 14:38:18.13:   Film done 249 / 391
+02/08/15 14:38:18.16:   Film done 376 / 391
+02/08/15 14:38:18.13:   Film done 238 / 391
+02/08/15 14:38:18.13:   Film done 250 / 391
+02/08/15 14:38:18.15:   Film done 355 / 391
+02/08/15 14:38:18.11:   Film done 129 / 391
+02/08/15 14:38:18.13:   Film done 225 / 391
+02/08/15 14:38:18.16:   Film done 390 / 391
+02/08/15 14:38:18.15:   Film done 343 / 391
+02/08/15 14:38:18.15:   Film done 369 / 391
+02/08/15 14:38:18.14:   Film done 308 / 391
+02/08/15 14:38:18.11:   Film done 136 / 391
+02/08/15 14:38:18.14:   Film done 302 / 391
+02/08/15 14:38:18.14:   Film done 278 / 391
+02/08/15 14:38:18.15:   Film done 337 / 391
+02/08/15 14:38:18.12:   Film done 167 / 391
+02/08/15 14:38:18.14:   Film done 265 / 391
+02/08/15 14:38:18.15:   Film done 351 / 391
+02/08/15 14:38:18.15:   Film done 364 / 391
+02/08/15 14:38:18.16:   Film done 378 / 391
+02/08/15 14:38:18.13:   Film done 197 / 391
+02/08/15 14:38:18.15:   Film done 363 / 391
+02/08/15 14:38:18.12:   Film done 191 / 391
+02/08/15 14:38:18.15:   Film done 370 / 391
+02/08/15 14:38:18.15:   Film done 371 / 391
+02/08/15 14:38:18.15:   Film done 338 / 391
+02/08/15 14:38:18.15:   Film done 339 / 391
+02/08/15 14:38:18.13:   Film done 198 / 391
+02/08/15 14:38:18.15:   Film done 310 / 391
+02/08/15 14:38:18.16:   Film done 379 / 391
+02/08/15 14:38:18.15:   Film done 344 / 391
+02/08/15 14:38:18.15:   Film done 322 / 391
+02/08/15 14:38:18.32:   Removed [object Object] objects in collection
+02/08/15 14:38:21.66:   Inserted object into collection
+02/08/15 14:40:02.04:   Found: 
+02/08/15 14:40:18.40:   Found: 

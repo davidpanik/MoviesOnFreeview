@@ -2,6 +2,7 @@
 
 var express = require('express')();
 var http    = require('http').Server(express);
+var mongo   = require('./helpers/mongo');
 var log     = require('./helpers/log');
 
 var port = process.env.PORT || 5000;
@@ -14,7 +15,11 @@ var channels = require('./config/channels');
 module.exports = function(rootPath) {
 	// Serve up the main data file
 	express.get('/films.json', function(req, res){
-		res.sendFile(__dirname + '/' + dataFile);
+		// res.sendFile(__dirname + '/' + dataFile);
+
+		mongo.get(function(data) {
+			res.json(data);
+		});
 	});
 
 	// Serve up log file

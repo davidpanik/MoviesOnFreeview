@@ -13,7 +13,8 @@
 		"tingodb": "latest",
 		"nedb": "latest",
 		"cron": "latest",
-		"q": "latest"
+		"q": "latest",
+		"mongojs": "latest"
 	},
 	"subdomain": "movies-on-freeview",
 	"scripts": {

@@ -11,10 +11,10 @@ var cron       = require('./helpers/cron');
 var log        = require('./helpers/log');
 var moment     = require('moment');
 var Q          = require('q');
+var mongo      = require('./helpers/mongo');
 
 var films = {};
 var latestDay;
-
 
 module.exports = function(runImmediately) {
 	// if (runImmediately)
@@ -44,7 +44,13 @@ function getCurrentData() {
 
 	log('Get current data');
 
-	store.get(function(data) {
+	// store.get(function(data) {
+	// 	films = data;
+
+	// 	deferred.resolve();
+	// });
+
+	mongo.get(function(data) {
 		films = data;
 
 		deferred.resolve();
@@ -199,6 +205,12 @@ function cleanUpShowings() {
 
 function done() {
 	// print(films);
+
 	store.set(films);
+
+	mongo.set(films, function() {
+		console.log('Saved to Mongo');
+	});
+
 	log('All done!');
 }
