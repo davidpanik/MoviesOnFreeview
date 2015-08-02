@@ -17,15 +17,15 @@ var films = {};
 var latestDay;
 
 module.exports = function(runImmediately) {
-	// if (runImmediately)
-	// 	updateData();
+	if (runImmediately)
+		updateData();
 
-	cron(
-		// '00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
-		'00 */4 * * *', // Run every 4 hours
-		updateData,
-		runImmediately // Run the job immediately?
-	);
+	// cron(
+	// 	// '00 00,12 * * *', // Run everyday at 00:00:00 at 00:12:00
+	// 	'00 */4 * * *', // Run every 4 hours
+	// 	updateData,
+	// 	runImmediately // Run the job immediately?
+	// );
 };
 
 function updateData() {

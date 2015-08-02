@@ -22,10 +22,10 @@ module.exports = function(rootPath) {
 		});
 	});
 
-	// Serve up log file
-	express.get('/test', function(req, res){
-		log('Test write');
-		res.sendFile(__dirname + '/' + logFile);
+	// Trigger a database update
+	express.get('/update', function(req, res){
+		require('./films')(true);
+		res.send('Updating now...');
 	});
 
 	// Serve up log file
