@@ -7,9 +7,11 @@
 		$scope.error     = false;
 		$scope.errorMessage = 'Something has gone wrong';
 		$scope.controlsActive = false;
-		$scope.introVisible = $cookies.introDisplayed === undefined;
+		$scope.introVisible = $cookies.get('introDisplayed') === undefined;
+		var now = new Date();
+		var cookieExpiry = new Date(now.getFullYear() + 1, now.getMonth(), now.getDate());
 
-		$cookies.introDisplayed = true; // Only show the intro message once
+		$cookies.put('introDisplayed', true, { expires: cookieExpiry }); // Only show the intro message once
 
 		$scope.films     = [];
 		$scope.filtered  = [];
@@ -19,8 +21,8 @@
 
 		$scope.currentFilter = 'sort';
 
-		if ($cookies.userSortPreference !== undefined) {
-			$scope.sort = angular.fromJson($cookies.userSortPreference);
+		if ($cookies.get('userSortPreference') !== undefined) {
+			$scope.sort = angular.fromJson($cookies.get('userSortPreference'));
 		} else {
 			$scope.sort = {
 				predicate:  'title',
@@ -28,8 +30,8 @@
 			};
 		}
 
-		if ($cookies.userFilterPreferences) {
-			$scope.filters = angular.fromJson($cookies.userFilterPreferences);
+		if ($cookies.get('userFilterPreferences')) {
+			$scope.filters = angular.fromJson($cookies.get('userFilterPreferences'));
 		} else {
 			$scope.filters = {
 				minScore: 6,
@@ -61,11 +63,11 @@
 		}
 
 		$scope.$watch('sort', function() {
-			$cookies.userSortPreference = angular.toJson($scope.sort);
+			$cookies.put('userSortPreference', angular.toJson($scope.sort), { expires: cookieExpiry });
 		}, true);
 
 		$scope.$watch('filters', function() {
-			$cookies.userFilterPreferences = angular.toJson($scope.filters);
+			$cookies.put('userFilterPreferences', angular.toJson($scope.filters), { expires: cookieExpiry });
 		}, true);
 
 		$http.get('http://api.themoviedb.org/3/configuration?api_key=' + tmdbKey)
