@@ -85,6 +85,10 @@ function removeOldData() {
 		}
 	}
 
+	mongo.set(films, function() {
+		console.log('Saved to Mongo');
+	});
+
 	deferred.resolve();
 
 	return deferred.promise;
@@ -101,6 +105,10 @@ function getFilmsFromSky() {
 		function(skyFilms) {
 			log('Got all films from Sky')
 			films = skyFilms;
+
+			mongo.set(films, function() {
+				console.log('Saved to Mongo');
+			});
 
 			deferred.resolve();
 		}
@@ -120,6 +128,9 @@ function addMetaData() {
 		var success = function() {
 			log('Film done ' + counter + ' / ' + totalFilms);
 			if (++counter === totalFilms) {
+				mongo.set(films, function() {
+					console.log('Saved to Mongo');
+				});
 
 				deferred.resolve();
 			}
