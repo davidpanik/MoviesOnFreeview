@@ -38,6 +38,7 @@ function nextItem() {
 function makeRequest(item) {
 	if (item.retries <= 0) {
 		log('Ran out of attempts fetching ' + item.url);
+		item.callback({ error: true });
 		return false;
 	}
 
@@ -51,7 +52,7 @@ function makeRequest(item) {
 			item.callback(body);
 			nextItem();
 		} else {
-			log('ERROR fetching ' + item.url + '\n' + JSON.stringify(item.data) + '\nError: ' + error + '\n' + JSON.parse(response) + '\n' + 'Attempts left: ' + item.retries);
+			log('ERROR fetching ' + item.url + '\n' + JSON.stringify(item.data) + '\nError: ' + error + '\n' + response + '\n' + 'Attempts left: ' + item.retries);
 			item.retries--;
 			queue.push(item);
 			nextItem();
