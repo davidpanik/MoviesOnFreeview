@@ -3,7 +3,7 @@ var log     = require('./log');
 
 var uri = 'mongodb://heroku_7qhfvjll:h4vpbbqsmmr6539psoasin5mkf@ds031661.mongolab.com:31661/heroku_7qhfvjll';
 var collectionName = 'moviesonfreeview_films';
-var db = mongojs(uri, [collectionName]);
+var db = mongojs(uri, [collectionName], {authMechanism: 'ScramSHA1'});
 var collection = db.collection(collectionName);
 
 module.exports = {

@@ -1,0 +1,5 @@
+10/10/15 14:45:48.03:   Web server running on http://localhost:5000
+10/10/15 14:46:03.67:   MongoError: auth failed
+10/10/15 14:48:03.09:   MongoError: auth failed
+10/10/15 14:51:15.11:   Web server running on http://localhost:5000
+10/10/15 14:51:45.42:   Found: 
