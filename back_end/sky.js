@@ -74,6 +74,11 @@ module.exports = function(existingFilms, latestDay, callback) {
 	}
 
 	function parseResponse(data) {
+		if (typeof(data) === 'undefined' || data === '') {
+			log('Received an empty response');
+			return false;
+		}
+
 		if (!data.channels.length) data.channels = [data.channels]; // Handle if there is only one channel instead of an array of channels
 
 		// Loop through each channel
