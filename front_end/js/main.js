@@ -70,7 +70,7 @@
 			$cookies.put('userFilterPreferences', angular.toJson($scope.filters), { expires: cookieExpiry });
 		}, true);
 
-		$http.get('http://api.themoviedb.org/3/configuration?api_key=' + tmdbKey)
+		$http.get('//api.themoviedb.org/3/configuration?api_key=' + tmdbKey)
 		.success(function(data, status, headers, config) {
 			$scope.baseUrl = data.images.base_url;
 
