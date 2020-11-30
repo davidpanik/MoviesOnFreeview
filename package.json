@@ -2,7 +2,7 @@
 	"name": "movies-on-freeview",
 	"version": "0.1.0-8",
 	"devDependencies": {
-		"node-sass": "latest"
+		"node-sass": "4.9.0"
 	},
 	"dependencies": {
 		"express": "latest",
