@@ -1,7 +1,7 @@
 var mongojs = require('mongojs');
 var log     = require('./log');
 
-var uri = 'mongodb://heroku_7qhfvjll:h4vpbbqsmmr6539psoasin5mkf@ds031661.mongolab.com:31661/heroku_7qhfvjll';
+var uri = 'mongodb+srv://heroku_7qhfvjll:PASSWORD@moviesonfreeview.ijyos.mongodb.net/heroku_7qhfvjll?retryWrites=true&w=majority';
 var collectionName = 'moviesonfreeview_films';
 var db = mongojs(uri, [collectionName], {authMechanism: 'ScramSHA1'});
 var collection = db.collection(collectionName);
