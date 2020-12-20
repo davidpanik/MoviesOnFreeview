@@ -1,1644 +1,1398 @@
-12/12/15 16:47:07.16:   Get current data
-12/12/15 16:47:07.16:   Web server running on http://localhost:5000
-12/12/15 16:47:12.09:   Found: 
-12/12/15 16:47:12.09:   Remove old data
-12/12/15 16:47:12.09:   Get films from sky
-12/12/15 16:47:12.09:   Getting channel 1626
-12/12/15 16:47:12.09:   Getting day 201512120000
-12/12/15 16:47:12.09:   Getting channel 1627
-12/12/15 16:47:12.10:   Getting channel 1675
-12/12/15 16:47:12.10:   Getting channel 1839
-12/12/15 16:47:12.10:   Getting channel 2002
-12/12/15 16:47:12.10:   Getting channel 1629
-12/12/15 16:47:12.10:   Getting channel 2004
-12/12/15 16:47:12.09:   Retrieving new day
-12/12/15 16:47:12.10:   Getting channel 1830
-12/12/15 16:47:12.10:   Getting channel 2006
-12/12/15 16:47:12.10:   Getting channel 1628
-12/12/15 16:47:12.10:   Getting channel 2016
-12/12/15 16:47:12.10:   Getting channel 2017
-12/12/15 16:47:12.10:   Getting channel 2018
-12/12/15 16:47:12.10:   Getting channel 2003
-12/12/15 16:47:12.10:   Getting channel 2005
-12/12/15 16:47:12.10:   Getting channel 2077
-12/12/15 16:47:12.10:   Getting channel 2082
-12/12/15 16:47:12.10:   Getting channel 2086
-12/12/15 16:47:12.10:   Getting channel 3022
-12/12/15 16:47:12.10:   Getting channel 3023
-12/12/15 16:47:12.10:   Getting channel 2015
-12/12/15 16:47:12.10:   Getting channel 2061
-12/12/15 16:47:12.10:   Getting channel 2075
-12/12/15 16:47:12.10:   Getting channel 3028
-12/12/15 16:47:12.10:   Getting channel 3300
-12/12/15 16:47:12.10:   Getting channel 3310
-12/12/15 16:47:12.12:   Getting channel 3708
-12/12/15 16:47:12.10:   Getting channel 3027
-12/12/15 16:47:12.12:   Getting channel 3340
-12/12/15 16:47:12.12:   Getting channel 3751
-12/12/15 16:47:12.12:   Getting channel 4075
-12/12/15 16:47:12.12:   Getting channel 3605
-12/12/15 16:47:12.10:   Getting channel 3150
-12/12/15 16:47:12.12:   Getting channel 3721
-12/12/15 16:47:12.12:   Getting channel 4502
-12/12/15 16:47:12.12:   Getting channel 6000
-12/12/15 16:47:12.12:   Getting channel 6240
-12/12/15 16:47:12.12:   Getting channel 3709
-12/12/15 16:47:12.12:   Getting day 201512130000
-12/12/15 16:47:12.10:   Getting channel 2076
-12/12/15 16:47:12.12:   Getting channel 1628
-12/12/15 16:47:12.12:   Getting channel 1629
-12/12/15 16:47:12.12:   Getting channel 1626
-12/12/15 16:47:12.12:   Getting channel 6241
-12/12/15 16:47:12.12:   Getting channel 2004
-12/12/15 16:47:12.12:   Getting channel 2005
-12/12/15 16:47:12.12:   Getting channel 1675
-12/12/15 16:47:12.12:   Getting channel 1627
-12/12/15 16:47:12.12:   Getting channel 6261
-12/12/15 16:47:12.12:   Getting channel 2006
-12/12/15 16:47:12.12:   Getting channel 2075
-12/12/15 16:47:12.12:   Getting channel 2016
-12/12/15 16:47:12.12:   Getting channel 3643
-12/12/15 16:47:12.12:   Getting channel 2017
-12/12/15 16:47:12.12:   Getting channel 6272
-12/12/15 16:47:12.12:   Getting channel 3028
-12/12/15 16:47:12.12:   Getting channel 2002
-12/12/15 16:47:12.12:   Getting channel 2003
-12/12/15 16:47:12.12:   Retrieving new day
-12/12/15 16:47:12.12:   Getting channel 2076
-12/12/15 16:47:12.12:   Getting channel 2018
-12/12/15 16:47:12.12:   Getting channel 6274
-12/12/15 16:47:12.12:   Getting channel 3027
-12/12/15 16:47:12.12:   Getting channel 3150
-12/12/15 16:47:12.12:   Getting channel 2086
-12/12/15 16:47:12.12:   Getting channel 3300
-12/12/15 16:47:12.12:   Getting channel 3310
-12/12/15 16:47:12.13:   Getting channel 6274
-12/12/15 16:47:12.13:   Getting day 201512140000
-12/12/15 16:47:12.13:   Getting channel 1627
-12/12/15 16:47:12.12:   Getting channel 4502
-12/12/15 16:47:12.13:   Getting channel 1839
-12/12/15 16:47:12.13:   Getting channel 2004
-12/12/15 16:47:12.12:   Getting channel 1830
-12/12/15 16:47:12.13:   Getting channel 1628
-12/12/15 16:47:12.13:   Getting channel 1629
-12/12/15 16:47:12.13:   Getting channel 2075
-12/12/15 16:47:12.13:   Getting channel 6272
-12/12/15 16:47:12.12:   Getting channel 3771
-12/12/15 16:47:12.12:   Getting channel 3340
-12/12/15 16:47:12.13:   Getting channel 3150
-12/12/15 16:47:12.13:   Getting channel 2006
-12/12/15 16:47:12.13:   Getting channel 3643
-12/12/15 16:47:12.13:   Getting channel 3721
-12/12/15 16:47:12.13:   Getting channel 3027
-12/12/15 16:47:12.12:   Getting channel 6000
-12/12/15 16:47:12.13:   Getting channel 2076
-12/12/15 16:47:12.13:   Getting channel 3751
-12/12/15 16:47:12.13:   Getting day 201512150000
-12/12/15 16:47:12.13:   Getting channel 3340
-12/12/15 16:47:12.13:   Getting channel 6260
-12/12/15 16:47:12.15:   Getting channel 1628
-12/12/15 16:47:12.13:   Getting channel 4502
-12/12/15 16:47:12.13:   Getting channel 3708
-12/12/15 16:47:12.13:   Getting channel 6000
-12/12/15 16:47:12.13:   Getting channel 6241
-12/12/15 16:47:12.13:   Getting channel 2002
-12/12/15 16:47:12.15:   Getting channel 1629
-12/12/15 16:47:12.15:   Getting channel 1675
-12/12/15 16:47:12.13:   Getting channel 3028
-12/12/15 16:47:12.15:   Getting channel 1839
-12/12/15 16:47:12.15:   Getting channel 2005
-12/12/15 16:47:12.15:   Getting day 201512160000
-12/12/15 16:47:12.13:   Getting channel 2005
-12/12/15 16:47:12.15:   Getting channel 2003
-12/12/15 16:47:12.13:   Getting channel 6274
-12/12/15 16:47:12.15:   Getting channel 1626
-12/12/15 16:47:12.13:   Getting channel 3022
-12/12/15 16:47:12.13:   Getting channel 1830
-12/12/15 16:47:12.12:   Getting channel 1839
-12/12/15 16:47:12.15:   Getting channel 3751
-12/12/15 16:47:12.15:   Getting channel 6000
-12/12/15 16:47:12.15:   Getting channel 2016
-12/12/15 16:47:12.15:   Getting day 201512170000
-12/12/15 16:47:12.15:   Getting channel 1839
-12/12/15 16:47:12.15:   Getting channel 3028
-12/12/15 16:47:12.15:   Getting channel 6260
-12/12/15 16:47:12.15:   Getting channel 1627
-12/12/15 16:47:12.13:   Getting channel 2077
-12/12/15 16:47:12.15:   Getting channel 2076
-12/12/15 16:47:12.17:   Getting channel 2061
-12/12/15 16:47:12.17:   Getting channel 3709
-12/12/15 16:47:12.17:   Getting day 201512180000
-12/12/15 16:47:12.17:   Getting channel 1830
-12/12/15 16:47:12.15:   Getting channel 6241
-12/12/15 16:47:12.15:   Getting channel 4502
-12/12/15 16:47:12.17:   Getting channel 1839
-12/12/15 16:47:12.13:   Getting channel 2015
-12/12/15 16:47:12.17:   Getting channel 3721
-12/12/15 16:47:12.15:   Getting channel 2016
-12/12/15 16:47:12.17:   Getting channel 6240
-12/12/15 16:47:12.17:   Getting channel 2082
-12/12/15 16:47:12.17:   Getting channel 2016
-12/12/15 16:47:12.15:   Getting channel 2006
-12/12/15 16:47:12.17:   Getting channel 2006
-12/12/15 16:47:12.17:   Getting channel 6241
-12/12/15 16:47:12.17:   Getting channel 2086
-12/12/15 16:47:12.17:   Getting channel 2017
-12/12/15 16:47:12.17:   Getting channel 3751
-12/12/15 16:47:12.15:   Retrieving new day
-12/12/15 16:47:12.15:   Getting channel 4502
-12/12/15 16:47:12.17:   Getting channel 2005
-12/12/15 16:47:12.15:   Getting channel 2004
-12/12/15 16:47:12.17:   Getting channel 3300
-12/12/15 16:47:12.15:   Getting channel 6260
-12/12/15 16:47:12.17:   Getting channel 3751
-12/12/15 16:47:12.17:   Getting channel 3310
-12/12/15 16:47:12.17:   Getting channel 2002
-12/12/15 16:47:12.15:   Getting channel 3022
-12/12/15 16:47:12.15:   Getting channel 3605
-12/12/15 16:47:12.15:   Getting channel 2061
-12/12/15 16:47:12.17:   Getting channel 3023
-12/12/15 16:47:12.15:   Getting channel 2077
-12/12/15 16:47:12.15:   Getting channel 3027
-12/12/15 16:47:12.17:   Getting channel 6261
-12/12/15 16:47:12.17:   Getting channel 6272
-12/12/15 16:47:12.15:   Getting channel 1628
-12/12/15 16:47:12.12:   Getting channel 3751
-12/12/15 16:47:12.17:   Getting channel 3340
-12/12/15 16:47:12.15:   Getting channel 3023
-12/12/15 16:47:12.17:   Getting channel 3771
-12/12/15 16:47:12.17:   Getting channel 1626
-12/12/15 16:47:12.17:   Getting channel 2075
-12/12/15 16:47:12.15:   Getting channel 1839
-12/12/15 16:47:12.13:   Getting channel 6260
-12/12/15 16:47:12.15:   Getting channel 3721
-12/12/15 16:47:12.15:   Getting channel 1626
-12/12/15 16:47:12.15:   Getting channel 6261
-12/12/15 16:47:12.15:   Getting channel 3721
-12/12/15 16:47:12.15:   Getting channel 2002
-12/12/15 16:47:12.17:   Getting channel 2003
-12/12/15 16:47:12.15:   Getting channel 2002
-12/12/15 16:47:12.15:   Getting channel 1629
-12/12/15 16:47:12.15:   Getting channel 3150
-12/12/15 16:47:12.17:   Getting channel 6260
-12/12/15 16:47:12.17:   Getting channel 3022
-12/12/15 16:47:12.17:   Getting channel 2018
-12/12/15 16:47:12.15:   Getting channel 3300
-12/12/15 16:47:12.17:   Getting channel 3340
-12/12/15 16:47:12.15:   Getting channel 3340
-12/12/15 16:47:12.17:   Getting channel 3027
-12/12/15 16:47:12.15:   Getting channel 2061
-12/12/15 16:47:12.13:   Getting channel 6272
-12/12/15 16:47:12.13:   Getting channel 2082
-12/12/15 16:47:12.15:   Getting channel 2082
-12/12/15 16:47:12.17:   Getting channel 3771
-12/12/15 16:47:12.17:   Getting channel 6274
-12/12/15 16:47:12.17:   Getting channel 4075
-12/12/15 16:47:12.15:   Getting channel 2082
-12/12/15 16:47:12.13:   Getting channel 2061
-12/12/15 16:47:12.17:   Getting channel 2015
-12/12/15 16:47:12.15:   Getting channel 3751
-12/12/15 16:47:12.15:   Getting channel 2004
-12/12/15 16:47:12.15:   Getting channel 2086
-12/12/15 16:47:12.17:   Getting channel 3605
-12/12/15 16:47:12.15:   Getting channel 6272
-12/12/15 16:47:12.15:   Getting channel 6274
-12/12/15 16:47:12.15:   Getting channel 6240
-12/12/15 16:47:12.17:   Getting channel 1627
-12/12/15 16:47:12.15:   Getting channel 2015
-12/12/15 16:47:12.15:   Getting channel 3643
-12/12/15 16:47:12.15:   Getting channel 1627
-12/12/15 16:47:12.13:   Getting channel 3023
-12/12/15 16:47:12.17:   Getting channel 2004
-12/12/15 16:47:12.15:   Getting channel 2075
-12/12/15 16:47:12.15:   Getting channel 3771
-12/12/15 16:47:12.17:   Getting channel 2076
-12/12/15 16:47:12.15:   Getting channel 1628
-12/12/15 16:47:12.13:   Retrieving new day
-12/12/15 16:47:12.17:   Getting channel 2061
-12/12/15 16:47:12.17:   Getting channel 2002
-12/12/15 16:47:12.15:   Getting channel 1675
-12/12/15 16:47:12.15:   Getting channel 3028
-12/12/15 16:47:12.15:   Getting channel 3150
-12/12/15 16:47:12.12:   Getting channel 3643
-12/12/15 16:47:12.15:   Getting channel 6000
-12/12/15 16:47:12.17:   Getting channel 6261
-12/12/15 16:47:12.15:   Getting channel 6261
-12/12/15 16:47:12.12:   Getting channel 6260
-12/12/15 16:47:12.13:   Getting channel 3771
-12/12/15 16:47:12.17:   Getting channel 3023
-12/12/15 16:47:12.17:   Getting channel 3605
-12/12/15 16:47:12.13:   Getting channel 3605
-12/12/15 16:47:12.17:   Getting channel 4075
-12/12/15 16:47:12.15:   Getting channel 3643
-12/12/15 16:47:12.15:   Getting channel 3605
-12/12/15 16:47:12.17:   Getting channel 4502
-12/12/15 16:47:12.12:   Getting channel 3023
-12/12/15 16:47:12.13:   Getting channel 6261
-12/12/15 16:47:12.13:   Getting channel 3709
-12/12/15 16:47:12.17:   Getting channel 1628
-12/12/15 16:47:12.17:   Getting channel 2005
-12/12/15 16:47:12.17:   Getting channel 3028
-12/12/15 16:47:12.17:   Getting channel 2016
-12/12/15 16:47:12.12:   Getting channel 4075
-12/12/15 16:47:12.12:   Getting channel 3605
-12/12/15 16:47:12.15:   Getting channel 3027
-12/12/15 16:47:12.15:   Getting channel 2017
-12/12/15 16:47:12.17:   Getting channel 6000
-12/12/15 16:47:12.12:   Getting channel 2082
-12/12/15 16:47:12.15:   Getting channel 2006
-12/12/15 16:47:12.17:   Getting channel 3643
-12/12/15 16:47:12.12:   Getting channel 2061
-12/12/15 16:47:12.17:   Getting channel 2077
-12/12/15 16:47:12.15:   Getting channel 3022
-12/12/15 16:47:12.12:   Getting channel 3708
-12/12/15 16:47:12.17:   Getting channel 3643
-12/12/15 16:47:12.15:   Getting channel 2075
-12/12/15 16:47:12.15:   Getting channel 6241
-12/12/15 16:47:12.12:   Getting channel 3022
-12/12/15 16:47:12.17:   Getting channel 2075
-12/12/15 16:47:12.15:   Getting channel 1626
-12/12/15 16:47:12.15:   Getting channel 1830
-12/12/15 16:47:12.17:   Getting channel 3027
-12/12/15 16:47:12.17:   Getting channel 2003
-12/12/15 16:47:12.15:   Getting channel 2076
-12/12/15 16:47:12.15:   Getting channel 3310
-12/12/15 16:47:12.15:   Getting channel 2003
-12/12/15 16:47:12.13:   Getting channel 2086
-12/12/15 16:47:12.15:   Getting channel 2086
-12/12/15 16:47:12.13:   Getting channel 2003
-12/12/15 16:47:12.15:   Getting channel 4075
-12/12/15 16:47:12.17:   Getting channel 6272
-12/12/15 16:47:12.12:   Getting channel 3771
-12/12/15 16:47:12.15:   Getting channel 3300
-12/12/15 16:47:12.13:   Getting channel 3310
-12/12/15 16:47:12.15:   Getting channel 1629
-12/12/15 16:47:12.17:   Getting channel 4502
-12/12/15 16:47:12.17:   Getting channel 2017
-12/12/15 16:47:12.15:   Retrieving new day
-12/12/15 16:47:12.13:   Getting channel 2018
-12/12/15 16:47:12.17:   Getting channel 6240
-12/12/15 16:47:12.17:   Getting channel 1629
-12/12/15 16:47:12.12:   Getting channel 3709
-12/12/15 16:47:12.15:   Getting channel 6272
-12/12/15 16:47:12.15:   Getting channel 3708
-12/12/15 16:47:12.17:   Getting channel 2006
-12/12/15 16:47:12.15:   Getting channel 2017
-12/12/15 16:47:12.12:   Getting channel 3721
-12/12/15 16:47:12.17:   Getting channel 3708
-12/12/15 16:47:12.17:   Getting channel 3708
-12/12/15 16:47:12.17:   Getting channel 2076
-12/12/15 16:47:12.12:   Getting channel 2077
-12/12/15 16:47:12.13:   Getting channel 2016
-12/12/15 16:47:12.17:   Getting channel 3150
-12/12/15 16:47:12.17:   Getting channel 2082
-12/12/15 16:47:12.15:   Getting channel 3708
-12/12/15 16:47:12.13:   Retrieving new day
-12/12/15 16:47:12.15:   Getting channel 1627
-12/12/15 16:47:12.15:   Getting channel 6240
-12/12/15 16:47:12.13:   Getting channel 6240
-12/12/15 16:47:12.17:   Getting channel 3028
-12/12/15 16:47:12.15:   Getting channel 3771
-12/12/15 16:47:12.13:   Getting channel 6240
-12/12/15 16:47:12.13:   Getting channel 6261
-12/12/15 16:47:12.15:   Getting channel 3023
-12/12/15 16:47:12.12:   Getting channel 2015
-12/12/15 16:47:12.17:   Getting channel 6241
-12/12/15 16:47:12.15:   Getting channel 2005
-12/12/15 16:47:12.17:   Getting channel 6274
-12/12/15 16:47:12.17:   Getting channel 2015
-12/12/15 16:47:12.17:   Getting channel 6000
-12/12/15 16:47:12.13:   Getting channel 6241
-12/12/15 16:47:12.17:   Getting channel 1675
-12/12/15 16:47:12.17:   Getting channel 2004
-12/12/15 16:47:12.13:   Getting channel 1626
-12/12/15 16:47:12.13:   Getting channel 1675
-12/12/15 16:47:12.15:   Getting channel 1830
-12/12/15 16:47:12.15:   Getting channel 2015
-12/12/15 16:47:12.15:   Getting channel 3310
-12/12/15 16:47:12.17:   Getting channel 2018
-12/12/15 16:47:12.17:   Getting channel 2086
-12/12/15 16:47:12.17:   Getting channel 3709
-12/12/15 16:47:12.17:   Getting channel 3022
-12/12/15 16:47:12.15:   Getting channel 1675
-12/12/15 16:47:12.15:   Getting channel 1830
-12/12/15 16:47:12.17:   Getting channel 3721
-12/12/15 16:47:12.17:   Getting channel 2077
-12/12/15 16:47:12.13:   Getting channel 4075
-12/12/15 16:47:12.13:   Getting channel 3300
-12/12/15 16:47:12.17:   Getting channel 3150
-12/12/15 16:47:12.15:   Getting channel 3709
-12/12/15 16:47:12.13:   Getting channel 2017
-12/12/15 16:47:12.15:   Getting channel 2018
-12/12/15 16:47:12.15:   Getting channel 2077
-12/12/15 16:47:12.17:   Getting channel 3310
-12/12/15 16:47:12.17:   Getting channel 6260
-12/12/15 16:47:12.15:   Getting channel 6274
-12/12/15 16:47:12.15:   Getting channel 3340
-12/12/15 16:47:12.15:   Getting channel 3709
-12/12/15 16:47:12.17:   Retrieving new day
-12/12/15 16:47:12.17:   Getting channel 3300
-12/12/15 16:47:12.15:   Getting channel 2018
-12/12/15 16:47:12.15:   Getting channel 4075
-12/12/15 16:47:12.73:   Removed [object Object] objects in collection
-12/12/15 16:47:13.21:   Inserted object into collection
-12/12/15 16:47:15.75:   Finished getting channel 0 / 46
-12/12/15 16:47:16.91:   Finished getting channel 1 / 46
-12/12/15 16:47:18.06:   Finished getting channel 2 / 46
-12/12/15 16:47:19.13:   Finished getting channel 3 / 46
-12/12/15 16:47:20.23:   Finished getting channel 4 / 46
-12/12/15 16:47:21.34:   Finished getting channel 5 / 46
-12/12/15 16:47:22.50:   Finished getting channel 6 / 46
-12/12/15 16:47:23.68:   Finished getting channel 7 / 46
-12/12/15 16:47:26.96:   Finished getting channel 8 / 46
-12/12/15 16:47:30.30:   Finished getting channel 9 / 46
-12/12/15 16:47:31.51:   Finished getting channel 10 / 46
-12/12/15 16:47:32.97:   Finished getting channel 11 / 46
-12/12/15 16:47:34.23:   Finished getting channel 12 / 46
-12/12/15 16:47:35.38:   Finished getting channel 13 / 46
-12/12/15 16:47:36.54:   Finished getting channel 14 / 46
-12/12/15 16:47:37.69:   Finished getting channel 15 / 46
-12/12/15 16:47:38.92:   Finished getting channel 16 / 46
-12/12/15 16:47:40.05:   Finished getting channel 17 / 46
-12/12/15 16:47:43.18:   Finished getting channel 18 / 46
-12/12/15 16:47:44.37:   Finished getting channel 19 / 46
-12/12/15 16:47:45.55:   Finished getting channel 20 / 46
-12/12/15 16:47:46.72:   Finished getting channel 21 / 46
-12/12/15 16:47:47.93:   Finished getting channel 22 / 46
-12/12/15 16:47:49.44:   Finished getting channel 23 / 46
-12/12/15 16:47:50.66:   Finished getting channel 24 / 46
-12/12/15 16:47:53.89:   Finished getting channel 25 / 46
-12/12/15 16:47:54.85:   Finished getting channel 26 / 46
-12/12/15 16:47:55.82:   Finished getting channel 27 / 46
-12/12/15 16:47:56.77:   Finished getting channel 28 / 46
-12/12/15 16:47:57.82:   Finished getting channel 29 / 46
-12/12/15 16:48:03.32:   Finished getting channel 30 / 46
-12/12/15 16:48:03.99:   Finished getting channel 31 / 46
-12/12/15 16:48:04.61:   Finished getting channel 32 / 46
-12/12/15 16:48:05.70:   Finished getting channel 33 / 46
-12/12/15 16:48:06.78:   Finished getting channel 34 / 46
-12/12/15 16:48:07.83:   Finished getting channel 35 / 46
-12/12/15 16:48:08.73:   Finished getting channel 36 / 46
-12/12/15 16:48:09.73:   Finished getting channel 37 / 46
-12/12/15 16:48:10.65:   Finished getting channel 38 / 46
-12/12/15 16:48:11.60:   Finished getting channel 39 / 46
-12/12/15 16:48:12.57:   Finished getting channel 40 / 46
-12/12/15 16:48:13.64:   Finished getting channel 41 / 46
-12/12/15 16:48:16.36:   Finished getting channel 42 / 46
-12/12/15 16:48:16.98:   Finished getting channel 43 / 46
-12/12/15 16:48:17.75:   Finished getting channel 44 / 46
-12/12/15 16:48:18.37:   Finished getting channel 45 / 46
-12/12/15 16:48:18.37:   Finished getting day 0 / 7
-12/12/15 16:48:19.15:   Finished getting channel 0 / 46
-12/12/15 16:48:19.76:   Finished getting channel 1 / 46
-12/12/15 16:48:20.60:   Finished getting channel 2 / 46
-12/12/15 16:48:21.21:   Finished getting channel 3 / 46
-12/12/15 16:48:22.04:   Finished getting channel 4 / 46
-12/12/15 16:48:22.65:   Received an empty response
-12/12/15 16:48:22.65:   Finished getting channel 5 / 46
-12/12/15 16:48:23.51:   Finished getting channel 6 / 46
-12/12/15 16:48:24.27:   Finished getting channel 7 / 46
-12/12/15 16:48:25.00:   Finished getting channel 8 / 46
-12/12/15 16:48:25.72:   Finished getting channel 9 / 46
-12/12/15 16:48:26.45:   Finished getting channel 10 / 46
-12/12/15 16:48:27.41:   Finished getting channel 11 / 46
-12/12/15 16:48:28.14:   Finished getting channel 12 / 46
-12/12/15 16:48:29.04:   Finished getting channel 13 / 46
-12/12/15 16:48:29.76:   Finished getting channel 14 / 46
-12/12/15 16:48:30.53:   Finished getting channel 15 / 46
-12/12/15 16:48:31.24:   Finished getting channel 16 / 46
-12/12/15 16:48:31.96:   Finished getting channel 17 / 46
-12/12/15 16:48:32.87:   Finished getting channel 18 / 46
-12/12/15 16:48:33.63:   Finished getting channel 19 / 46
-12/12/15 16:48:34.36:   Finished getting channel 20 / 46
-12/12/15 16:48:35.07:   Finished getting channel 21 / 46
-12/12/15 16:48:35.82:   Finished getting channel 22 / 46
-12/12/15 16:48:36.55:   Finished getting channel 23 / 46
-12/12/15 16:48:37.28:   Finished getting channel 24 / 46
-12/12/15 16:48:38.08:   Finished getting channel 25 / 46
-12/12/15 16:48:38.81:   Finished getting channel 26 / 46
-12/12/15 16:48:39.56:   Finished getting channel 27 / 46
-12/12/15 16:48:40.29:   Finished getting channel 28 / 46
-12/12/15 16:48:41.04:   Finished getting channel 29 / 46
-12/12/15 16:48:41.76:   Finished getting channel 30 / 46
-12/12/15 16:48:42.46:   Finished getting channel 31 / 46
-12/12/15 16:48:43.21:   Finished getting channel 32 / 46
-12/12/15 16:48:43.96:   Finished getting channel 33 / 46
-12/12/15 16:48:44.66:   Finished getting channel 34 / 46
-12/12/15 16:48:45.39:   Finished getting channel 35 / 46
-12/12/15 16:48:46.08:   Finished getting channel 36 / 46
-12/12/15 16:48:46.84:   Finished getting channel 37 / 46
-12/12/15 16:48:47.55:   Finished getting channel 38 / 46
-12/12/15 16:48:48.30:   Finished getting channel 39 / 46
-12/12/15 16:48:49.00:   Finished getting channel 40 / 46
-12/12/15 16:48:49.72:   Finished getting channel 41 / 46
-12/12/15 16:48:50.42:   Finished getting channel 42 / 46
-12/12/15 16:48:51.18:   Finished getting channel 43 / 46
-12/12/15 16:48:51.90:   Finished getting channel 44 / 46
-12/12/15 16:48:52.62:   Finished getting channel 45 / 46
-12/12/15 16:48:52.62:   Finished getting day 1 / 7
-12/12/15 16:48:53.38:   Finished getting channel 0 / 46
-12/12/15 16:48:54.10:   Finished getting channel 1 / 46
-12/12/15 16:48:54.87:   Finished getting channel 2 / 46
-12/12/15 16:48:55.57:   Finished getting channel 3 / 46
-12/12/15 16:48:56.33:   Finished getting channel 4 / 46
-12/12/15 16:48:56.99:   Received an empty response
-12/12/15 16:48:57.00:   Finished getting channel 5 / 46
-12/12/15 16:48:57.81:   Finished getting channel 6 / 46
-12/12/15 16:48:58.77:   Finished getting channel 7 / 46
-12/12/15 16:48:59.51:   Finished getting channel 8 / 46
-12/12/15 16:49:00.26:   Finished getting channel 9 / 46
-12/12/15 16:49:00.98:   Finished getting channel 10 / 46
-12/12/15 16:49:01.70:   Finished getting channel 11 / 46
-12/12/15 16:49:02.45:   Finished getting channel 12 / 46
-12/12/15 16:49:03.18:   Finished getting channel 13 / 46
-12/12/15 16:49:03.96:   Finished getting channel 14 / 46
-12/12/15 16:49:04.76:   Finished getting channel 15 / 46
-12/12/15 16:49:05.49:   Finished getting channel 16 / 46
-12/12/15 16:49:06.24:   Finished getting channel 17 / 46
-12/12/15 16:49:07.02:   Finished getting channel 18 / 46
-12/12/15 16:49:07.75:   Finished getting channel 19 / 46
-12/12/15 16:49:08.50:   Finished getting channel 20 / 46
-12/12/15 16:49:09.20:   Finished getting channel 21 / 46
-12/12/15 16:49:09.94:   Finished getting channel 22 / 46
-12/12/15 16:49:10.72:   Finished getting channel 23 / 46
-12/12/15 16:49:11.45:   Finished getting channel 24 / 46
-12/12/15 16:49:12.21:   Finished getting channel 25 / 46
-12/12/15 16:49:12.93:   Finished getting channel 26 / 46
-12/12/15 16:49:13.71:   Finished getting channel 27 / 46
-12/12/15 16:49:14.45:   Finished getting channel 28 / 46
-12/12/15 16:49:15.18:   Finished getting channel 29 / 46
-12/12/15 16:49:15.97:   Finished getting channel 30 / 46
-12/12/15 16:49:16.68:   Finished getting channel 31 / 46
-12/12/15 16:49:17.36:   Finished getting channel 32 / 46
-12/12/15 16:49:18.10:   Finished getting channel 33 / 46
-12/12/15 16:49:18.81:   Finished getting channel 34 / 46
-12/12/15 16:49:19.52:   Finished getting channel 35 / 46
-12/12/15 16:49:20.23:   Finished getting channel 36 / 46
-12/12/15 16:49:21.04:   Finished getting channel 37 / 46
-12/12/15 16:49:21.78:   Finished getting channel 38 / 46
-12/12/15 16:49:22.48:   Finished getting channel 39 / 46
-12/12/15 16:49:23.21:   Finished getting channel 40 / 46
-12/12/15 16:49:24.01:   Finished getting channel 41 / 46
-12/12/15 16:49:24.76:   Finished getting channel 42 / 46
-12/12/15 16:49:25.48:   Finished getting channel 43 / 46
-12/12/15 16:49:26.21:   Finished getting channel 44 / 46
-12/12/15 16:49:26.93:   Finished getting channel 45 / 46
-12/12/15 16:49:26.93:   Finished getting day 2 / 7
-12/12/15 16:49:27.71:   Finished getting channel 0 / 46
-12/12/15 16:49:31.33:   Finished getting channel 1 / 46
-12/12/15 16:49:33.09:   Finished getting channel 2 / 46
-12/12/15 16:49:33.76:   Finished getting channel 3 / 46
-12/12/15 16:49:34.50:   Finished getting channel 4 / 46
-12/12/15 16:49:35.17:   Received an empty response
-12/12/15 16:49:35.17:   Finished getting channel 5 / 46
-12/12/15 16:49:35.88:   Finished getting channel 6 / 46
-12/12/15 16:49:36.60:   Finished getting channel 7 / 46
-12/12/15 16:49:37.32:   Finished getting channel 8 / 46
-12/12/15 16:49:38.04:   Finished getting channel 9 / 46
-12/12/15 16:49:38.99:   Finished getting channel 10 / 46
-12/12/15 16:49:39.72:   Finished getting channel 11 / 46
-12/12/15 16:49:40.45:   Finished getting channel 12 / 46
-12/12/15 16:49:41.23:   Finished getting channel 13 / 46
-12/12/15 16:49:42.00:   Finished getting channel 14 / 46
-12/12/15 16:49:42.75:   Finished getting channel 15 / 46
-12/12/15 16:49:43.47:   Finished getting channel 16 / 46
-12/12/15 16:49:44.25:   Finished getting channel 17 / 46
-12/12/15 16:49:45.20:   Finished getting channel 18 / 46
-12/12/15 16:49:45.95:   Finished getting channel 19 / 46
-12/12/15 16:49:46.68:   Finished getting channel 20 / 46
-12/12/15 16:49:47.40:   Finished getting channel 21 / 46
-12/12/15 16:49:48.13:   Finished getting channel 22 / 46
-12/12/15 16:49:48.88:   Finished getting channel 23 / 46
-12/12/15 16:49:49.61:   Finished getting channel 24 / 46
-12/12/15 16:49:50.38:   Finished getting channel 25 / 46
-12/12/15 16:49:51.09:   Finished getting channel 26 / 46
-12/12/15 16:49:51.87:   Finished getting channel 27 / 46
-12/12/15 16:49:52.58:   Finished getting channel 28 / 46
-12/12/15 16:49:53.28:   Finished getting channel 29 / 46
-12/12/15 16:49:54.00:   Finished getting channel 30 / 46
-12/12/15 16:49:54.68:   Finished getting channel 31 / 46
-12/12/15 16:49:55.37:   Finished getting channel 32 / 46
-12/12/15 16:49:56.09:   Finished getting channel 33 / 46
-12/12/15 16:49:56.79:   Finished getting channel 34 / 46
-12/12/15 16:49:57.51:   Finished getting channel 35 / 46
-12/12/15 16:49:58.19:   Finished getting channel 36 / 46
-12/12/15 16:49:58.96:   Finished getting channel 37 / 46
-12/12/15 16:49:59.69:   Finished getting channel 38 / 46
-12/12/15 16:50:00.41:   Finished getting channel 39 / 46
-12/12/15 16:50:01.14:   Finished getting channel 40 / 46
-12/12/15 16:50:02.20:   Finished getting channel 41 / 46
-12/12/15 16:50:02.97:   Finished getting channel 42 / 46
-12/12/15 16:50:03.70:   Finished getting channel 43 / 46
-12/12/15 16:50:04.44:   Finished getting channel 44 / 46
-12/12/15 16:50:05.18:   Finished getting channel 45 / 46
-12/12/15 16:50:05.18:   Finished getting day 3 / 7
-12/12/15 16:50:05.96:   Finished getting channel 0 / 46
-12/12/15 16:50:06.67:   Finished getting channel 1 / 46
-12/12/15 16:50:07.45:   Finished getting channel 2 / 46
-12/12/15 16:50:08.20:   Finished getting channel 3 / 46
-12/12/15 16:50:08.94:   Finished getting channel 4 / 46
-12/12/15 16:50:09.60:   Received an empty response
-12/12/15 16:50:09.61:   Finished getting channel 5 / 46
-12/12/15 16:50:10.33:   Finished getting channel 6 / 46
-12/12/15 16:50:11.11:   Finished getting channel 7 / 46
-12/12/15 16:50:11.85:   Finished getting channel 8 / 46
-12/12/15 16:50:12.59:   Finished getting channel 9 / 46
-12/12/15 16:50:13.31:   Finished getting channel 10 / 46
-12/12/15 16:50:14.12:   Finished getting channel 11 / 46
-12/12/15 16:50:14.86:   Finished getting channel 12 / 46
-12/12/15 16:50:15.61:   Finished getting channel 13 / 46
-12/12/15 16:50:16.35:   Finished getting channel 14 / 46
-12/12/15 16:50:17.09:   Finished getting channel 15 / 46
-12/12/15 16:50:17.84:   Finished getting channel 16 / 46
-12/12/15 16:50:18.58:   Finished getting channel 17 / 46
-12/12/15 16:50:19.35:   Finished getting channel 18 / 46
-12/12/15 16:50:20.08:   Finished getting channel 19 / 46
-12/12/15 16:50:20.86:   Finished getting channel 20 / 46
-12/12/15 16:50:21.58:   Finished getting channel 21 / 46
-12/12/15 16:50:22.33:   Finished getting channel 22 / 46
-12/12/15 16:50:23.06:   Finished getting channel 23 / 46
-12/12/15 16:50:23.80:   Finished getting channel 24 / 46
-12/12/15 16:50:24.56:   Finished getting channel 25 / 46
-12/12/15 16:50:25.28:   Finished getting channel 26 / 46
-12/12/15 16:50:26.07:   Finished getting channel 27 / 46
-12/12/15 16:50:26.85:   Finished getting channel 28 / 46
-12/12/15 16:50:27.59:   Finished getting channel 29 / 46
-12/12/15 16:50:28.31:   Finished getting channel 30 / 46
-12/12/15 16:50:29.02:   Finished getting channel 31 / 46
-12/12/15 16:50:29.74:   Finished getting channel 32 / 46
-12/12/15 16:50:30.41:   Finished getting channel 33 / 46
-12/12/15 16:50:31.11:   Finished getting channel 34 / 46
-12/12/15 16:50:31.83:   Finished getting channel 35 / 46
-12/12/15 16:50:32.81:   Finished getting channel 36 / 46
-12/12/15 16:50:35.51:   Finished getting channel 37 / 46
-12/12/15 16:50:36.37:   Finished getting channel 38 / 46
-12/12/15 16:50:37.37:   Finished getting channel 39 / 46
-12/12/15 16:50:38.10:   Finished getting channel 40 / 46
-12/12/15 16:50:38.84:   Finished getting channel 41 / 46
-12/12/15 16:50:39.62:   Finished getting channel 42 / 46
-12/12/15 16:50:40.38:   Finished getting channel 43 / 46
-12/12/15 16:50:41.12:   Finished getting channel 44 / 46
-12/12/15 16:50:41.83:   Finished getting channel 45 / 46
-12/12/15 16:50:41.83:   Finished getting day 4 / 7
-12/12/15 16:50:42.63:   Finished getting channel 0 / 46
-12/12/15 16:50:43.33:   Finished getting channel 1 / 46
-12/12/15 16:50:44.09:   Finished getting channel 2 / 46
-12/12/15 16:50:44.78:   Finished getting channel 3 / 46
-12/12/15 16:50:45.51:   Finished getting channel 4 / 46
-12/12/15 16:50:46.19:   Received an empty response
-12/12/15 16:50:46.19:   Finished getting channel 5 / 46
-12/12/15 16:50:46.92:   Finished getting channel 6 / 46
-12/12/15 16:50:47.70:   Finished getting channel 7 / 46
-12/12/15 16:50:48.42:   Finished getting channel 8 / 46
-12/12/15 16:50:49.15:   Finished getting channel 9 / 46
-12/12/15 16:50:49.93:   Finished getting channel 10 / 46
-12/12/15 16:50:50.71:   Finished getting channel 11 / 46
-12/12/15 16:50:51.46:   Finished getting channel 12 / 46
-12/12/15 16:50:52.21:   Finished getting channel 13 / 46
-12/12/15 16:50:52.94:   Finished getting channel 14 / 46
-12/12/15 16:50:53.63:   Finished getting channel 15 / 46
-12/12/15 16:50:54.36:   Finished getting channel 16 / 46
-12/12/15 16:50:55.11:   Finished getting channel 17 / 46
-12/12/15 16:50:55.84:   Finished getting channel 18 / 46
-12/12/15 16:50:56.56:   Finished getting channel 19 / 46
-12/12/15 16:50:57.31:   Finished getting channel 20 / 46
-12/12/15 16:50:58.03:   Finished getting channel 21 / 46
-12/12/15 16:50:58.79:   Finished getting channel 22 / 46
-12/12/15 16:50:59.53:   Finished getting channel 23 / 46
-12/12/15 16:51:00.27:   Finished getting channel 24 / 46
-12/12/15 16:51:01.04:   Finished getting channel 25 / 46
-12/12/15 16:51:01.77:   Finished getting channel 26 / 46
-12/12/15 16:51:02.58:   Finished getting channel 27 / 46
-12/12/15 16:51:03.32:   Finished getting channel 28 / 46
-12/12/15 16:51:04.03:   Finished getting channel 29 / 46
-12/12/15 16:51:04.81:   Finished getting channel 30 / 46
-12/12/15 16:51:05.56:   Finished getting channel 31 / 46
-12/12/15 16:51:06.56:   Finished getting channel 32 / 46
-12/12/15 16:51:07.64:   Finished getting channel 33 / 46
-12/12/15 16:51:08.42:   Finished getting channel 34 / 46
-12/12/15 16:51:09.17:   Finished getting channel 35 / 46
-12/12/15 16:51:09.90:   Finished getting channel 36 / 46
-12/12/15 16:51:10.68:   Finished getting channel 37 / 46
-12/12/15 16:51:11.55:   Finished getting channel 38 / 46
-12/12/15 16:51:12.38:   Finished getting channel 39 / 46
-12/12/15 16:51:13.15:   Finished getting channel 40 / 46
-12/12/15 16:51:13.97:   Finished getting channel 41 / 46
-12/12/15 16:51:14.69:   Finished getting channel 42 / 46
-12/12/15 16:51:15.42:   Finished getting channel 43 / 46
-12/12/15 16:51:16.14:   Finished getting channel 44 / 46
-12/12/15 16:51:16.87:   Finished getting channel 45 / 46
-12/12/15 16:51:16.87:   Finished getting day 5 / 7
-12/12/15 16:51:17.68:   Finished getting channel 0 / 46
-12/12/15 16:51:18.36:   Finished getting channel 1 / 46
-12/12/15 16:51:19.12:   Finished getting channel 2 / 46
-12/12/15 16:51:19.81:   Finished getting channel 3 / 46
-12/12/15 16:51:20.56:   Finished getting channel 4 / 46
-12/12/15 16:51:21.21:   Received an empty response
-12/12/15 16:51:21.21:   Finished getting channel 5 / 46
-12/12/15 16:51:21.93:   Finished getting channel 6 / 46
-12/12/15 16:51:22.69:   Finished getting channel 7 / 46
-12/12/15 16:51:23.47:   Finished getting channel 8 / 46
-12/12/15 16:51:24.24:   Finished getting channel 9 / 46
-12/12/15 16:51:24.99:   Finished getting channel 10 / 46
-12/12/15 16:51:25.72:   Finished getting channel 11 / 46
-12/12/15 16:51:26.45:   Finished getting channel 12 / 46
-12/12/15 16:51:27.20:   Finished getting channel 13 / 46
-12/12/15 16:51:27.95:   Finished getting channel 14 / 46
-12/12/15 16:51:28.67:   Finished getting channel 15 / 46
-12/12/15 16:51:29.38:   Finished getting channel 16 / 46
-12/12/15 16:51:30.10:   Finished getting channel 17 / 46
-12/12/15 16:51:30.84:   Finished getting channel 18 / 46
-12/12/15 16:51:31.59:   Finished getting channel 19 / 46
-12/12/15 16:51:32.32:   Finished getting channel 20 / 46
-12/12/15 16:51:33.04:   Finished getting channel 21 / 46
-12/12/15 16:51:33.77:   Finished getting channel 22 / 46
-12/12/15 16:51:34.53:   Finished getting channel 23 / 46
-12/12/15 16:51:35.31:   Finished getting channel 24 / 46
-12/12/15 16:51:36.08:   Finished getting channel 25 / 46
-12/12/15 16:51:36.83:   Finished getting channel 26 / 46
-12/12/15 16:51:37.58:   Finished getting channel 27 / 46
-12/12/15 16:51:38.29:   Finished getting channel 28 / 46
-12/12/15 16:51:39.00:   Finished getting channel 29 / 46
-12/12/15 16:51:39.73:   Finished getting channel 30 / 46
-12/12/15 16:51:40.46:   Finished getting channel 31 / 46
-12/12/15 16:51:41.17:   Finished getting channel 32 / 46
-12/12/15 16:51:41.90:   Finished getting channel 33 / 46
-12/12/15 16:51:42.62:   Finished getting channel 34 / 46
-12/12/15 16:51:43.33:   Finished getting channel 35 / 46
-12/12/15 16:51:44.05:   Finished getting channel 36 / 46
-12/12/15 16:51:44.82:   Finished getting channel 37 / 46
-12/12/15 16:51:45.58:   Finished getting channel 38 / 46
-12/12/15 16:51:46.30:   Finished getting channel 39 / 46
-12/12/15 16:51:47.05:   Finished getting channel 40 / 46
-12/12/15 16:51:47.78:   Finished getting channel 41 / 46
-12/12/15 16:51:48.50:   Finished getting channel 42 / 46
-12/12/15 16:51:49.25:   Finished getting channel 43 / 46
-12/12/15 16:51:50.01:   Finished getting channel 44 / 46
-12/12/15 16:51:50.74:   Finished getting channel 45 / 46
-12/12/15 16:51:50.74:   Finished getting day 6 / 7
-12/12/15 16:51:50.74:   Add metadata
-12/12/15 16:51:50.74:   Got all films from Sky
-12/12/15 16:51:50.74:   Getting TMDB metadata for 3002006
-12/12/15 16:51:50.74:   Getting TMDB metadata for _id
-12/12/15 16:51:50.74:   Getting TMDB metadata for thehost2013
-12/12/15 16:51:50.74:   Getting TMDB metadata for red22013
-12/12/15 16:51:50.74:   Getting TMDB metadata for thecoldlightofday2012
-12/12/15 16:51:50.74:   Getting TMDB metadata for princessmononoke1997
-12/12/15 16:51:50.74:   Getting TMDB metadata for thevirginqueen1955
-12/12/15 16:51:50.74:   Getting TMDB metadata for thedarkcrystal1982
-12/12/15 16:51:50.74:   Getting TMDB metadata for therugratsmovie1998
-12/12/15 16:51:50.74:   Getting TMDB metadata for earthquake1974
-12/12/15 16:51:50.74:   Getting TMDB metadata for fieldofdreams1989
-12/12/15 16:51:50.74:   Getting TMDB metadata for insidiouschapter22013
-12/12/15 16:51:50.76:   Getting TMDB metadata for shutterisland2010
-12/12/15 16:51:50.76:   Getting TMDB metadata for cityofember2008
-12/12/15 16:51:50.76:   Getting TMDB metadata for paul2011
-12/12/15 16:51:50.76:   Getting TMDB metadata for alienhunter2003
-12/12/15 16:51:50.76:   Getting TMDB metadata for disneyssantawho2000
-12/12/15 16:51:50.76:   Getting TMDB metadata for theperfectholiday2007
-12/12/15 16:51:50.76:   Getting TMDB metadata for theninelivesofchristmas2014
-12/12/15 16:51:50.76:   Getting TMDB metadata for onceuponachristmas2015
-12/12/15 16:51:50.76:   Getting TMDB metadata for thedouble2011
-12/12/15 16:51:50.76:   Getting TMDB metadata for toystory1995
-12/12/15 16:51:50.76:   Getting TMDB metadata for frenzy1972
-12/12/15 16:51:50.76:   Getting TMDB metadata for anythingbutchristmas2012
-12/12/15 16:51:50.76:   Getting TMDB metadata for rayharryhausenspecial
-12/12/15 16:51:50.76:   Getting TMDB metadata for theprestige2006
-12/12/15 16:51:50.76:   Getting TMDB metadata for 8mile2002
-12/12/15 16:51:50.76:   Getting TMDB metadata for 7thcavalry1956
-12/12/15 16:51:50.76:   Getting TMDB metadata for cherokeestrip1940
-12/12/15 16:51:50.76:   Getting TMDB metadata for thunderovertheplains1953
-12/12/15 16:51:50.76:   Getting TMDB metadata for tumbleweed1953
-12/12/15 16:51:50.76:   Getting TMDB metadata for patton1970
-12/12/15 16:51:50.76:   Getting TMDB metadata for pacificheights1990
-12/12/15 16:51:50.76:   Getting TMDB metadata for cheaperbythedozen22005
-12/12/15 16:51:50.76:   Getting TMDB metadata for bigmommashouse22006
-12/12/15 16:51:50.76:   Getting TMDB metadata for stargate1994
-12/12/15 16:51:50.76:   Getting TMDB metadata for deckthehalls2006
-12/12/15 16:51:50.76:   Getting TMDB metadata for mrandmrssmith2005
-12/12/15 16:51:50.76:   Getting TMDB metadata for christmasshepherd2014
-12/12/15 16:51:50.76:   Getting TMDB metadata for butchcassidyandthesundancekid1969
-12/12/15 16:51:50.76:   Getting TMDB metadata for sawv2008
-12/12/15 16:51:50.76:   Getting TMDB metadata for silverbullet1985
-12/12/15 16:51:50.76:   Getting TMDB metadata for firefrombelow2009
-12/12/15 16:51:50.76:   Getting TMDB metadata for damnationalley1977
-12/12/15 16:51:50.76:   Getting TMDB metadata for thecityunderthesea1903
-12/12/15 16:51:50.76:   Getting TMDB metadata for community2012
-12/12/15 16:51:50.76:   Getting TMDB metadata for thedeadzone1983
-12/12/15 16:51:50.76:   Getting TMDB metadata for undercoverchristmas
-12/12/15 16:51:50.78:   Getting TMDB metadata for mustbesanta1999
-12/12/15 16:51:50.76:   Getting TMDB metadata for escapefrommars1999
-12/12/15 16:51:50.78:   Getting TMDB metadata for ontheseconddayofchristmas
-12/12/15 16:51:50.78:   Getting TMDB metadata for thenighttheysavedchristmas
-12/12/15 16:51:50.78:   Getting TMDB metadata for annieclausiscomingtotown
-12/12/15 16:51:50.78:   Getting TMDB metadata for illbehomeforchristmas1988
-12/12/15 16:51:50.78:   Getting TMDB metadata for msscrooge
-12/12/15 16:51:50.76:   Getting TMDB metadata for smiley2012
-12/12/15 16:51:50.78:   Getting TMDB metadata for borrowedhearts
-12/12/15 16:51:50.78:   Getting TMDB metadata for onespecialnight
-12/12/15 16:51:50.78:   Getting TMDB metadata for thedaytimeended1979
-12/12/15 16:51:50.78:   Getting TMDB metadata for universalsoldier3unfinished1999
-12/12/15 16:51:50.78:   Getting TMDB metadata for miamimagma2011
-12/12/15 16:51:50.78:   Getting TMDB metadata for nuclearhurricane2007
-12/12/15 16:51:50.78:   Getting TMDB metadata for atasteofkilling1966
-12/12/15 16:51:50.78:   Getting TMDB metadata for buckandthepreacher1972
-12/12/15 16:51:50.78:   Getting TMDB metadata for thenarrowmargin1952
-12/12/15 16:51:50.78:   Getting TMDB metadata for lavastorm2008
-12/12/15 16:51:50.78:   Getting TMDB metadata for faceofterror2005
-12/12/15 16:51:50.78:   Getting TMDB metadata for virtuosity1995
-12/12/15 16:51:50.78:   Getting TMDB metadata for wheelsofterror1987
-12/12/15 16:51:50.78:   Getting TMDB metadata for spacewarriors2013
-12/12/15 16:51:50.78:   Getting TMDB metadata for amonsterchristmas2012
-12/12/15 16:51:50.78:   Getting TMDB metadata for tomandthomas2002
-12/12/15 16:51:50.78:   Getting TMDB metadata for aholidayheist2011
-12/12/15 16:51:50.78:   Getting TMDB metadata for afaretorememberatchristmas1999
-12/12/15 16:51:50.78:   Getting TMDB metadata for thescore
-12/12/15 16:51:50.78:   Getting TMDB metadata for christmasintheclouds2001
-12/12/15 16:51:50.78:   Getting TMDB metadata for theelfwhodidntbelieve1997
-12/12/15 16:51:50.78:   Getting TMDB metadata for thelightbeforechristmas2007
-12/12/15 16:51:50.78:   Getting TMDB metadata for silentnight
-12/12/15 16:51:50.78:   Getting TMDB metadata for fortapache1948
-12/12/15 16:51:50.78:   Getting TMDB metadata for secretsanta1998
-12/12/15 16:51:50.78:   Getting TMDB metadata for thepolarexpress2004
-12/12/15 16:51:50.78:   Getting TMDB metadata for backtothefuturepartiii1990
-12/12/15 16:51:50.78:   Getting TMDB metadata for mrmagoriumswonderemporium2007
-12/12/15 16:51:50.78:   Getting TMDB metadata for texaskillingfields2011
-12/12/15 16:51:50.78:   Getting TMDB metadata for onthinicethetaibabilonia
-12/12/15 16:51:50.78:   Getting TMDB metadata for farfromthemaddingcrowd
-12/12/15 16:51:50.78:   Getting TMDB metadata for theconstantgardener2005
-12/12/15 16:51:50.78:   Getting TMDB metadata for margaret2009
-12/12/15 16:51:50.78:   Getting TMDB metadata for morganasuitablecasefor
-12/12/15 16:51:50.79:   Getting TMDB metadata for lovestory1970
-12/12/15 16:51:50.78:   Getting TMDB metadata for bluesbrothers20001998
-12/12/15 16:51:50.79:   Getting TMDB metadata for taken22012
-12/12/15 16:51:50.78:   Getting TMDB metadata for theburbs1989
-12/12/15 16:51:50.79:   Getting TMDB metadata for lemonysnicketsaseriesof2004
-12/12/15 16:51:50.79:   Getting TMDB metadata for acountrychristmasstory2013
-12/12/15 16:51:50.79:   Getting TMDB metadata for scrooge1970
-12/12/15 16:51:50.79:   Getting TMDB metadata for theblindside2009
-12/12/15 16:51:50.79:   Getting TMDB metadata for jasonandtheargonauts1963
-12/12/15 16:51:50.79:   Getting TMDB metadata for nativity2009
-12/12/15 16:51:50.79:   Getting TMDB metadata for sevenyearsintibet1997
-12/12/15 16:51:50.79:   Getting TMDB metadata for easymoney22012
-12/12/15 16:51:50.79:   Getting TMDB metadata for columbomurderaselfportrait1989
-12/12/15 16:51:50.79:   Getting TMDB metadata for leagueofextraordinarygentlemen2003
-12/12/15 16:51:50.79:   Getting TMDB metadata for atomicdog1998
-12/12/15 16:51:50.79:   Getting TMDB metadata for thehousebunny2008
-12/12/15 16:51:50.79:   Getting TMDB metadata for columborequiemfora1973
-12/12/15 16:51:50.79:   Getting TMDB metadata for columboanexerciseinfatality1974
-12/12/15 16:51:50.79:   Getting TMDB metadata for thechristmaslist
-12/12/15 16:51:50.79:   Getting TMDB metadata for novemberchristmas2010
-12/12/15 16:51:50.79:   Getting TMDB metadata for aholidayromance
-12/12/15 16:51:50.79:   Getting TMDB metadata for thebridesofdracula1960
-12/12/15 16:51:50.79:   Getting TMDB metadata for saltinthewound1969
-12/12/15 16:51:50.79:   Getting TMDB metadata for imaginaryplaymate2006
-12/12/15 16:51:50.78:   Getting TMDB metadata for earthstorm2006
-12/12/15 16:51:50.78:   Getting TMDB metadata for kulltheconqueror1997
-12/12/15 16:51:50.79:   Getting TMDB metadata for santassummerhouse2012
-12/12/15 16:51:50.79:   Getting TMDB metadata for abulldogforchristmas2013
-12/12/15 16:51:50.79:   Getting TMDB metadata for enemyofthestate1998
-12/12/15 16:51:50.79:   Getting TMDB metadata for anevergreenchristmas2014
-12/12/15 16:51:50.79:   Getting TMDB metadata for anoldfashionedthanksgiving
-12/12/15 16:51:50.78:   Getting TMDB metadata for ultraviolet2006
-12/12/15 16:51:50.78:   Getting TMDB metadata for santawithmuscles1996
-12/12/15 16:51:50.79:   Getting TMDB metadata for columboashestoashes1998
-12/12/15 16:51:50.79:   Getting TMDB metadata for commandosstrikeatdawn1942
-12/12/15 16:51:50.79:   Getting TMDB metadata for kingkong1976
-12/12/15 16:51:50.79:   Getting TMDB metadata for aknightstale2001
-12/12/15 16:51:50.81:   Getting TMDB metadata for nonameonthebullet1959
-12/12/15 16:51:50.79:   Getting TMDB metadata for thechristmascandle2013
-12/12/15 16:51:50.79:   Getting TMDB metadata for evilunderthesun1982
-12/12/15 16:51:50.79:   Getting TMDB metadata for thechristmaspageant2011
-12/12/15 16:51:50.81:   Getting TMDB metadata for aperfectchristmas2012
-12/12/15 16:51:50.79:   Getting TMDB metadata for mrsmiracle2miraclein2010
-12/12/15 16:51:50.79:   Getting TMDB metadata for creep2005
-12/12/15 16:51:50.81:   Getting TMDB metadata for thechristmasbunny2010
-12/12/15 16:51:50.81:   Getting TMDB metadata for theday20112011
-12/12/15 16:51:50.81:   Getting TMDB metadata for twelvetreesofchristmas2013
-12/12/15 16:51:50.81:   Getting TMDB metadata for christmaschoir
-12/12/15 16:51:50.81:   Getting TMDB metadata for threewisewomen2010
-12/12/15 16:51:50.81:   Getting TMDB metadata for americanpsycho2000
-12/12/15 16:51:50.81:   Getting TMDB metadata for theylivebynight1949
-12/12/15 16:51:50.81:   Getting TMDB metadata for achristmasreunion
-12/12/15 16:51:50.81:   Getting TMDB metadata for sinbadthesailor1947
-12/12/15 16:51:50.81:   Getting TMDB metadata for herbestmove2007
-12/12/15 16:51:50.81:   Getting TMDB metadata for homeforchristmas1990
-12/12/15 16:51:50.81:   Getting TMDB metadata for eventhorizon1997
-12/12/15 16:51:50.81:   Getting TMDB metadata for thoughnonegowithme
-12/12/15 16:51:50.81:   Getting TMDB metadata for daniellesteelsnogreaterlove
-12/12/15 16:51:50.81:   Getting TMDB metadata for murderontheorientexpress1974
-12/12/15 16:51:50.81:   Getting TMDB metadata for shane1953
-12/12/15 16:51:50.78:   Getting TMDB metadata for hardtokill1990
-12/12/15 16:51:50.81:   Getting TMDB metadata for thepossibilitiesareendless2014
-12/12/15 16:51:50.81:   Getting TMDB metadata for christmasswitch2014
-12/12/15 16:51:50.79:   Getting TMDB metadata for miracleon34thstreet1973
-12/12/15 16:51:50.81:   Getting TMDB metadata for nextstopmurder2010
-12/12/15 16:51:50.81:   Getting TMDB metadata for fivegoldendragons1967
-12/12/15 16:51:50.82:   Getting TMDB metadata for moonlightmistletoe2008
-12/12/15 16:51:50.81:   Getting TMDB metadata for inthelineofdutytheprice1992
-12/12/15 16:51:50.81:   Getting TMDB metadata for theentity1982
-12/12/15 16:51:50.79:   Getting TMDB metadata for theangrysilence1960
-12/12/15 16:51:50.82:   Getting TMDB metadata for awindatmybackchristmas1938
-12/12/15 16:51:50.82:   Getting TMDB metadata for 12dogsofchristmasthegreat2012
-12/12/15 16:51:50.81:   Getting TMDB metadata for hijack1999
-12/12/15 16:51:50.82:   Getting TMDB metadata for maryhigginsclarkallaround2002
-12/12/15 16:51:50.82:   Getting TMDB metadata for anamericanwerewolfinlondon
-12/12/15 16:51:50.82:   Getting TMDB metadata for crashmysteryofflight15011990
-12/12/15 16:51:50.81:   Getting TMDB metadata for holidayaffair1949
-12/12/15 16:51:50.81:   Getting TMDB metadata for wheresleepingdogslie1992
-12/12/15 16:51:50.81:   Getting TMDB metadata for angelsandornaments2014
-12/12/15 16:51:50.79:   Getting TMDB metadata for christmasliliesofthefield
-12/12/15 16:51:50.82:   Getting TMDB metadata for frankensteincreatedwoman1967
-12/12/15 16:51:50.79:   Getting TMDB metadata for sawvi2009
-12/12/15 16:51:50.82:   Getting TMDB metadata for blackknight2001
-12/12/15 16:51:50.82:   Getting TMDB metadata for secondchance1953
-12/12/15 16:51:50.82:   Getting TMDB metadata for quatermassandthepit1967
-12/12/15 16:51:50.82:   Getting TMDB metadata for thechristmasclause2008
-12/12/15 16:51:50.82:   Getting TMDB metadata for defendingourkidsthejulie2003
-12/12/15 16:51:50.82:   Getting TMDB metadata for losingchase1996
-12/12/15 16:51:50.79:   Getting TMDB metadata for awalkinthesun1945
-12/12/15 16:51:50.82:   Getting TMDB metadata for rambofirstblood1982
-12/12/15 16:51:50.81:   Getting TMDB metadata for columbodeathlendsahand1975
-12/12/15 16:51:50.84:   Getting TMDB metadata for datenight2010
-12/12/15 16:51:50.82:   Getting TMDB metadata for universalsoldier2brothers1998
-12/12/15 16:51:50.84:   Getting TMDB metadata for hallsofmontezuma1951
-12/12/15 16:51:50.82:   Getting TMDB metadata for daniellesteelssecrets
-12/12/15 16:51:50.84:   Getting TMDB metadata for journeyintofear1943
-12/12/15 16:51:50.84:   Getting TMDB metadata for harpoonreykjavikwhale2009
-12/12/15 16:51:50.84:   Getting TMDB metadata for tocatchayeti1995
-12/12/15 16:51:50.84:   Getting TMDB metadata for christmasatmaxwells2006
-12/12/15 16:51:50.81:   Getting TMDB metadata for timerunners2013
-12/12/15 16:51:50.84:   Getting TMDB metadata for milliondollarmurder
-12/12/15 16:51:50.84:   Getting TMDB metadata for thefugitive1947
-12/12/15 16:51:50.79:   Getting TMDB metadata for onechristmas1994
-12/12/15 16:51:50.84:   Getting TMDB metadata for talesfromearthsea2006
-12/12/15 16:51:50.84:   Getting TMDB metadata for thebestexoticmarigoldhotel2011
-12/12/15 16:51:50.84:   Getting TMDB metadata for aholidaytoremember
-12/12/15 16:51:50.84:   Getting TMDB metadata for aiartificialintelligence2001
-12/12/15 16:51:50.84:   Getting TMDB metadata for darkstorm2007
-12/12/15 16:51:50.79:   Getting TMDB metadata for theravagers1965
-12/12/15 16:51:50.85:   Getting TMDB metadata for elfman2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for outofreach2013
-12/12/15 16:51:50.85:   Getting TMDB metadata for daniellesteelschanges
-12/12/15 16:51:50.81:   Getting TMDB metadata for snowwhiteandthehuntsman2012
-12/12/15 16:51:50.79:   Getting TMDB metadata for onebadchristmas2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for roswellthealiensattack1999
-12/12/15 16:51:50.84:   Getting TMDB metadata for callmeclaus2001
-12/12/15 16:51:50.82:   Getting TMDB metadata for thefirstrebel1939
-12/12/15 16:51:50.82:   Getting TMDB metadata for ebbieachristmasstory
-12/12/15 16:51:50.79:   Getting TMDB metadata for saintsandsoldiers2003
-12/12/15 16:51:50.84:   Getting TMDB metadata for daniellesteelsfullcircle
-12/12/15 16:51:50.84:   Getting TMDB metadata for isawmommykissingsantaclaus2001
-12/12/15 16:51:50.84:   Getting TMDB metadata for thejohnsullivanstory1939
-12/12/15 16:51:50.82:   Getting TMDB metadata for annieclausiscomingtotown2011
-12/12/15 16:51:50.81:   Getting TMDB metadata for achristmasromance
-12/12/15 16:51:50.81:   Getting TMDB metadata for thesonsofkatieelder1965
-12/12/15 16:51:50.82:   Getting TMDB metadata for tycoon1947
-12/12/15 16:51:50.81:   Getting TMDB metadata for thebrotherhood2001
-12/12/15 16:51:50.81:   Getting TMDB metadata for dearsanta2011
-12/12/15 16:51:50.84:   Getting TMDB metadata for oneagainstthewind
-12/12/15 16:51:50.82:   Getting TMDB metadata for auroraoperationintercept1995
-12/12/15 16:51:50.84:   Getting TMDB metadata for harryandwaltergotonewyork1976
-12/12/15 16:51:50.82:   Getting TMDB metadata for theyearwithoutasantaclaus
-12/12/15 16:51:50.82:   Getting TMDB metadata for thegreatsttrinianstrain1966
-12/12/15 16:51:50.81:   Getting TMDB metadata for crooksincloisters1963
-12/12/15 16:51:50.81:   Getting TMDB metadata for americanpiethewedding2003
-12/12/15 16:51:50.82:   Getting TMDB metadata for secretsanta2003
-12/12/15 16:51:50.82:   Getting TMDB metadata for iwasmontysdouble1958
-12/12/15 16:51:50.84:   Getting TMDB metadata for thebigsky1952
-12/12/15 16:51:50.81:   Getting TMDB metadata for crashlanding2005
-12/12/15 16:51:50.82:   Getting TMDB metadata for astarforchristmas2012
-12/12/15 16:51:50.85:   Getting TMDB metadata for thecainemutinycourtmartial1945
-12/12/15 16:51:50.84:   Getting TMDB metadata for ferrisbuellersdayoff1986
-12/12/15 16:51:50.82:   Getting TMDB metadata for residentevilapocalypse2004
-12/12/15 16:51:50.79:   Getting TMDB metadata for thebunker1981
-12/12/15 16:51:50.78:   Getting TMDB metadata for pitchblack2000
-12/12/15 16:51:50.81:   Getting TMDB metadata for nothinglefttofear2013
-12/12/15 16:51:50.79:   Getting TMDB metadata for theotherboleyngirl2003
-12/12/15 16:51:50.84:   Getting TMDB metadata for afairytalechristmas2013
-12/12/15 16:51:50.82:   Getting TMDB metadata for residentevilextinction2007
-12/12/15 16:51:50.84:   Getting TMDB metadata for deathtunnel2005
-12/12/15 16:51:50.81:   Getting TMDB metadata for theflightofthephoenix1965
-12/12/15 16:51:50.84:   Getting TMDB metadata for amatteroflifeanddeath1946
-12/12/15 16:51:50.82:   Getting TMDB metadata for thetwilightsaganewmoon2009
-12/12/15 16:51:50.82:   Getting TMDB metadata for thequillermemorandum1966
-12/12/15 16:51:50.84:   Getting TMDB metadata for hanselgretelwitchhunters2013
-12/12/15 16:51:50.82:   Getting TMDB metadata for returninglily
-12/12/15 16:51:50.84:   Getting TMDB metadata for asongfortheseason
-12/12/15 16:51:50.84:   Getting TMDB metadata for thewackiestshipinthearmy1961
-12/12/15 16:51:50.84:   Getting TMDB metadata for thecallofthewild1997
-12/12/15 16:51:50.82:   Getting TMDB metadata for cabinfever3patientzero2014
-12/12/15 16:51:50.81:   Getting TMDB metadata for christmaseveryday
-12/12/15 16:51:50.85:   Getting TMDB metadata for terrorintheshadows
-12/12/15 16:51:50.84:   Getting TMDB metadata for painfulsecrets
-12/12/15 16:51:50.81:   Getting TMDB metadata for alienrising2013
-12/12/15 16:51:50.78:   Getting TMDB metadata for marleyme2008
-12/12/15 16:51:50.81:   Getting TMDB metadata for antoncorbijninsideout2012
-12/12/15 16:51:50.81:   Getting TMDB metadata for rustysteel2014
-12/12/15 16:51:50.82:   Getting TMDB metadata for lethalseduction
-12/12/15 16:51:50.81:   Getting TMDB metadata for thequietman1952
-12/12/15 16:51:50.81:   Getting TMDB metadata for jeremiahjohnson1972
-12/12/15 16:51:50.81:   Getting TMDB metadata for agoodyear2006
-12/12/15 16:51:50.84:   Getting TMDB metadata for rambofirstbloodpartii1985
-12/12/15 16:51:50.82:   Getting TMDB metadata for edgeofeternity1959
-12/12/15 16:51:50.81:   Getting TMDB metadata for thedayofthejackal1973
-12/12/15 16:51:50.82:   Getting TMDB metadata for dragonwars2007
-12/12/15 16:51:50.82:   Getting TMDB metadata for 2001aspaceodyssey1968
-12/12/15 16:51:50.84:   Getting TMDB metadata for exithumanity2011
-12/12/15 16:51:50.81:   Getting TMDB metadata for keithlemonthefilm2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for thebodysnatcher1945
-12/12/15 16:51:50.85:   Getting TMDB metadata for theelizabethsmartstory
-12/12/15 16:51:50.81:   Getting TMDB metadata for aninspectorcalls1954
-12/12/15 16:51:50.82:   Getting TMDB metadata for florencenightingale1985
-12/12/15 16:51:50.82:   Getting TMDB metadata for theoutsider
-12/12/15 16:51:50.82:   Getting TMDB metadata for princesskaiulani2009
-12/12/15 16:51:50.82:   Getting TMDB metadata for spring19412008
-12/12/15 16:51:50.82:   Getting TMDB metadata for goingforthegold
-12/12/15 16:51:50.81:   Getting TMDB metadata for thelongestday1962
-12/12/15 16:51:50.82:   Getting TMDB metadata for achristmasblessing
-12/12/15 16:51:50.79:   Getting TMDB metadata for overrun1970
-12/12/15 16:51:50.84:   Getting TMDB metadata for reasonabledoubt2014
-12/12/15 16:51:50.82:   Getting TMDB metadata for jennifersbody2009
-12/12/15 16:51:50.82:   Getting TMDB metadata for robinandmarian1976
-12/12/15 16:51:50.84:   Getting TMDB metadata for thebiggestfan2002
-12/12/15 16:51:50.84:   Getting TMDB metadata for christmaswishes2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for strangeronhorseback1955
-12/12/15 16:51:50.84:   Getting TMDB metadata for adangerousprofession1949
-12/12/15 16:51:50.84:   Getting TMDB metadata for crashpointzero2001
-12/12/15 16:51:50.79:   Getting TMDB metadata for thescorpionking2002
-12/12/15 16:51:50.82:   Getting TMDB metadata for knightandday2010
-12/12/15 16:51:50.79:   Getting TMDB metadata for meetthesantas2005
-12/12/15 16:51:50.78:   Getting TMDB metadata for onefromtheheart
-12/12/15 16:51:50.84:   Getting TMDB metadata for thechristmasshoes
-12/12/15 16:51:50.79:   Getting TMDB metadata for k9christmas2013
-12/12/15 16:51:50.82:   Getting TMDB metadata for verticallimit2000
-12/12/15 16:51:50.78:   Getting TMDB metadata for sniper32004
-12/12/15 16:51:50.85:   Getting TMDB metadata for thecovenant2006
-12/12/15 16:51:50.79:   Getting TMDB metadata for ahoboschristmas
-12/12/15 16:51:50.81:   Getting TMDB metadata for 3daychristmas2012
-12/12/15 16:51:50.82:   Getting TMDB metadata for mistakenidentity
-12/12/15 16:51:50.82:   Getting TMDB metadata for killermountain2011
-12/12/15 16:51:50.81:   Getting TMDB metadata for dreamhouse1998
-12/12/15 16:51:50.81:   Getting TMDB metadata for holidayhelp2014
-12/12/15 16:51:50.81:   Getting TMDB metadata for mrmiracle2014
-12/12/15 16:51:50.82:   Getting TMDB metadata for cannibalapocalypse1980
-12/12/15 16:51:50.82:   Getting TMDB metadata for angelinthefamily2004
-12/12/15 16:51:50.85:   Getting TMDB metadata for thebourneidentity2002
-12/12/15 16:51:50.84:   Getting TMDB metadata for americangraffiti1973
-12/12/15 16:51:50.79:   Getting TMDB metadata for thepickwickpapers1952
-12/12/15 16:51:50.82:   Getting TMDB metadata for panhandle1948
-12/12/15 16:51:50.82:   Getting TMDB metadata for agrandpaforchristmas
-12/12/15 16:51:50.79:   Getting TMDB metadata for annakarenina1985
-12/12/15 16:51:50.84:   Getting TMDB metadata for singlewhitefemale1992
-12/12/15 16:51:50.82:   Getting TMDB metadata for hancock2008
-12/12/15 16:51:50.82:   Getting TMDB metadata for velvetgoldmine1997
-12/12/15 16:51:50.78:   Getting TMDB metadata for theservant
-12/12/15 16:51:50.82:   Getting TMDB metadata for professorlayton2009
-12/12/15 16:51:50.82:   Getting TMDB metadata for bitethebullet1975
-12/12/15 16:51:50.79:   Getting TMDB metadata for kingandcountry1964
-12/12/15 16:51:50.82:   Getting TMDB metadata for thechristmascard2006
-12/12/15 16:51:50.81:   Getting TMDB metadata for thelazarusproject2008
-12/12/15 16:51:50.82:   Getting TMDB metadata for thelostmedallion2013
-12/12/15 16:51:50.84:   Getting TMDB metadata for holidayengagement2011
-12/12/15 16:51:50.79:   Getting TMDB metadata for ellaenchanted2004
-12/12/15 16:51:50.84:   Getting TMDB metadata for womanonthebeach1947
-12/12/15 16:51:50.84:   Getting TMDB metadata for kriskringle2004
-12/12/15 16:51:50.81:   Getting TMDB metadata for hanoverstreet1979
-12/12/15 16:51:50.79:   Getting TMDB metadata for cosmopolis2012
-12/12/15 16:51:50.81:   Getting TMDB metadata for killerelite2011
-12/12/15 16:51:50.81:   Getting TMDB metadata for motherlode1982
-12/12/15 16:51:50.85:   Getting TMDB metadata for theprophecy21998
-12/12/15 16:51:50.79:   Getting TMDB metadata for pompoko1994
-12/12/15 16:51:50.82:   Getting TMDB metadata for anunexpectedlove
-12/12/15 16:51:50.81:   Getting TMDB metadata for copycat1995
-12/12/15 16:51:50.82:   Getting TMDB metadata for thechristmasstallion
-12/12/15 16:51:50.82:   Getting TMDB metadata for daniellesteelsstar9021
-12/12/15 16:51:50.81:   Getting TMDB metadata for agrandpaforchristmas2007
-12/12/15 16:51:50.79:   Getting TMDB metadata for static2012
-12/12/15 16:51:50.82:   Getting TMDB metadata for deepwinter2008
-12/12/15 16:51:50.81:   Getting TMDB metadata for thepassenger1975
-12/12/15 16:51:50.82:   Getting TMDB metadata for bangkokdangerous2008
-12/12/15 16:51:50.79:   Getting TMDB metadata for thewinslowboy1999
-12/12/15 16:51:50.84:   Getting TMDB metadata for scarsofdracula1970
-12/12/15 16:51:50.81:   Getting TMDB metadata for quadrophenia1979
-12/12/15 16:51:50.84:   Getting TMDB metadata for gracieschoice2004
-12/12/15 16:51:50.81:   Getting TMDB metadata for meninblackii2002
-12/12/15 16:51:50.82:   Getting TMDB metadata for womenofvalour1986
-12/12/15 16:51:50.82:   Getting TMDB metadata for ghostrider1935
-12/12/15 16:51:50.85:   Getting TMDB metadata for theprophecy1995
-12/12/15 16:51:50.79:   Getting TMDB metadata for ageofheroes2011
-12/12/15 16:51:50.82:   Getting TMDB metadata for thejazzsinger1980
-12/12/15 16:51:50.79:   Getting TMDB metadata for roughair
-12/12/15 16:51:50.78:   Getting TMDB metadata for thedarkknight2008
-12/12/15 16:51:50.85:   Getting TMDB metadata for redsonja1985
-12/12/15 16:51:50.82:   Getting TMDB metadata for thelocket1946
-12/12/15 16:51:50.79:   Getting TMDB metadata for thekeep1983
-12/12/15 16:51:50.79:   Getting TMDB metadata for peterpan2003
-12/12/15 16:51:50.79:   Getting TMDB metadata for plenty
-12/12/15 16:51:50.85:   Getting TMDB metadata for survivor2014
-12/12/15 16:51:50.81:   Getting TMDB metadata for meninblack32012
-12/12/15 16:51:50.81:   Getting TMDB metadata for christmasinconnecticut
-12/12/15 16:51:50.81:   Getting TMDB metadata for alliwantforchristmas
-12/12/15 16:51:50.79:   Getting TMDB metadata for thenuttyprofessor1996
-12/12/15 16:51:50.84:   Getting TMDB metadata for therebel1961
-12/12/15 16:51:50.82:   Getting TMDB metadata for merryinlaws2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for helpforchristmas2012
-12/12/15 16:51:50.82:   Getting TMDB metadata for madron1970
-12/12/15 16:51:50.81:   Getting TMDB metadata for gungadin1939
-12/12/15 16:51:50.81:   Getting TMDB metadata for arachnoquake2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for basicinstinct1992
-12/12/15 16:51:50.84:   Getting TMDB metadata for reddawn2012
-12/12/15 16:51:50.79:   Getting TMDB metadata for rangersattack1970
-12/12/15 16:51:50.81:   Getting TMDB metadata for soldiersgirl
-12/12/15 16:51:50.79:   Getting TMDB metadata for deadlydescent2011
-12/12/15 16:51:50.82:   Getting TMDB metadata for everymanswar2009
-12/12/15 16:51:50.84:   Getting TMDB metadata for achristmasvisitor
-12/12/15 16:51:50.84:   Getting TMDB metadata for marineraiders1944
-12/12/15 16:51:50.85:   Getting TMDB metadata for playingforkeeps
-12/12/15 16:51:50.84:   Getting TMDB metadata for halfadozenbabies
-12/12/15 16:51:50.79:   Getting TMDB metadata for clouddancer1980
-12/12/15 16:51:50.82:   Getting TMDB metadata for jawsofjustice1933
-12/12/15 16:51:50.84:   Getting TMDB metadata for theelite2001
-12/12/15 16:51:50.84:   Getting TMDB metadata for alexcross2012
-12/12/15 16:51:50.84:   Getting TMDB metadata for thesetup1949
-12/12/15 16:51:50.78:   Getting TMDB metadata for thefallenidol
-12/12/15 16:51:50.82:   Getting TMDB metadata for lastcall
-12/12/15 16:51:50.82:   Getting TMDB metadata for 21over2013
-12/12/15 16:51:50.79:   Getting TMDB metadata for lipstick
-12/12/15 16:51:50.79:   Getting TMDB metadata for repomen2010
-12/12/15 16:51:50.81:   Getting TMDB metadata for thesentinel2006
-12/12/15 16:51:50.85:   Getting TMDB metadata for policeacademy1984
-12/12/15 16:51:50.81:   Getting TMDB metadata for gameofdeath2010
-12/12/15 16:51:50.82:   Getting TMDB metadata for loveactually2003
-12/12/15 16:51:50.84:   Getting TMDB metadata for irobot2004
-12/12/15 16:51:50.84:   Getting TMDB metadata for strawberrysummer
-12/12/15 16:51:50.82:   Getting TMDB metadata for stationwest1948
-12/12/15 16:51:50.84:   Getting TMDB metadata for hairspray2007
-12/12/15 16:51:50.84:   Getting TMDB metadata for hazardjack2014
-12/12/15 16:51:50.85:   Getting TMDB metadata for jungleboy1998
-12/12/15 16:51:50.85:   Getting TMDB metadata for wickedlove2010
-12/12/15 16:51:50.82:   Getting TMDB metadata for almosthuman2013
-12/12/15 16:51:50.85:   Getting TMDB metadata for killerbees2002
-12/12/15 16:51:50.81:   Getting TMDB metadata for aholidayforlove
-12/12/15 16:51:50.84:   Getting TMDB metadata for kickass2010
-12/12/15 16:51:50.78:   Getting TMDB metadata for desperaterescue
-12/12/15 16:51:50.81:   Getting TMDB metadata for basketcase1982
-12/12/15 16:51:50.84:   Getting TMDB metadata for bereavement2010
-12/12/15 16:51:50.81:   Getting TMDB metadata for timeofdeath2013
-12/12/15 16:51:50.79:   Getting TMDB metadata for badlieutenant
-12/12/15 16:51:50.79:   Getting TMDB metadata for thewiperstimes
-12/12/15 16:51:50.85:   Getting TMDB metadata for deserter2002
-12/12/15 16:51:50.84:   Getting TMDB metadata for daysofglory1944
-12/12/15 16:51:50.84:   Getting TMDB metadata for primalforce1999
-12/12/15 16:51:50.78:   Getting TMDB metadata for aladdin1992
-12/12/15 16:51:50.82:   Getting TMDB metadata for hightide1979
-12/12/15 16:51:50.82:   Getting TMDB metadata for goodfences1970
-12/12/15 16:51:50.81:   Getting TMDB metadata for suzanne2013
-12/12/15 16:51:50.81:   Getting TMDB metadata for theoutsiders
-12/12/15 16:51:50.78:   Getting TMDB metadata for thequest1996
-12/12/15 16:51:50.79:   Getting TMDB metadata for akindofloving
-12/12/15 16:51:50.84:   Getting TMDB metadata for conair1997
-12/12/15 16:51:50.82:   Getting TMDB metadata for theholiday2006
-12/12/15 16:51:50.79:   Getting TMDB metadata for ourgiftoflove
-12/12/15 16:51:50.85:   Getting TMDB metadata for somebodytolove
-12/12/15 16:51:50.76:   Getting TMDB metadata for unknown2011
-12/12/15 16:51:50.82:   Getting TMDB metadata for thejuror1996
-12/12/15 16:51:50.84:   Getting TMDB metadata for christmaseve
-12/12/15 16:51:50.79:   Getting TMDB metadata for toystory21999
-12/12/15 16:51:50.84:   Getting TMDB metadata for hush1998
-12/12/15 16:51:50.84:   Getting TMDB metadata for taken2008
-12/12/15 16:51:50.84:   Getting TMDB metadata for bondsoflove
-12/12/15 16:51:50.82:   Getting TMDB metadata for 6bullets2012
-12/12/15 16:51:50.79:   Getting TMDB metadata for twilight2008
-12/12/15 16:51:50.81:   Getting TMDB metadata for lawless2012
-12/12/15 16:51:50.78:   Getting TMDB metadata for mama2013
-12/12/15 16:51:50.82:   Getting TMDB metadata for krull1983
-12/12/15 16:51:50.96:   Removed [object Object] objects in collection
-12/12/15 16:51:51.54:   Film done 0 / 435
-12/12/15 16:51:51.54:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","page":1,"year":null}
-Error: null
-[object Object]
-Attempts left: 5
-12/12/15 16:51:52.32:   Film done 1 / 435
-12/12/15 16:51:52.35:   Film done 2 / 435
-12/12/15 16:51:53.10:   Film done 3 / 435
-12/12/15 16:51:53.12:   Film done 4 / 435
-12/12/15 16:51:53.90:   Film done 5 / 435
-12/12/15 16:51:53.96:   Film done 6 / 435
-12/12/15 16:51:54.85:   Film done 7 / 435
-12/12/15 16:51:54.88:   Film done 8 / 435
-12/12/15 16:51:55.05:   Inserted object into collection
-12/12/15 16:51:55.61:   Film done 9 / 435
-12/12/15 16:51:55.63:   Film done 10 / 435
-12/12/15 16:51:56.38:   Film done 11 / 435
-12/12/15 16:51:56.39:   Film done 12 / 435
-12/12/15 16:51:57.17:   Film done 14 / 435
-12/12/15 16:51:57.17:   Film done 13 / 435
-12/12/15 16:51:57.94:   Film done 15 / 435
-12/12/15 16:51:57.94:   No results for Disney's Santa Who? at 2000
-12/12/15 16:51:58.70:   Film done 16 / 435
-12/12/15 16:51:58.72:   No results for Once Upon A Christmas at 2015
-12/12/15 16:51:59.51:   Film done 17 / 435
-12/12/15 16:51:59.51:   Film done 18 / 435
-12/12/15 16:52:00.29:   Film done 19 / 435
-12/12/15 16:52:00.29:   Film done 20 / 435
-12/12/15 16:52:01.04:   Film done 21 / 435
-12/12/15 16:52:01.04:   Film done 22 / 435
-12/12/15 16:52:01.79:   Film done 23 / 435
-12/12/15 16:52:01.93:   Film done 24 / 435
-12/12/15 16:52:02.54:   Film done 25 / 435
-12/12/15 16:52:02.68:   Film done 26 / 435
-12/12/15 16:52:03.30:   Film done 27 / 435
-12/12/15 16:52:03.44:   Film done 28 / 435
-12/12/15 16:52:04.08:   Film done 29 / 435
-12/12/15 16:52:04.21:   Film done 30 / 435
-12/12/15 16:52:04.83:   Film done 31 / 435
-12/12/15 16:52:04.96:   Film done 32 / 435
-12/12/15 16:52:05.60:   Film done 33 / 435
-12/12/15 16:52:05.72:   Film done 34 / 435
-12/12/15 16:52:06.56:   Film done 35 / 435
-12/12/15 16:52:07.17:   Film done 36 / 435
-12/12/15 16:52:07.34:   Film done 37 / 435
-12/12/15 16:52:07.94:   Film done 38 / 435
-12/12/15 16:52:08.12:   Film done 39 / 435
-12/12/15 16:52:08.70:   Film done 40 / 435
-12/12/15 16:52:08.89:   Film done 41 / 435
-12/12/15 16:52:09.47:   Film done 42 / 435
-12/12/15 16:52:09.65:   No results for The City Under The Sea at 1903
-12/12/15 16:52:10.23:   Film done 43 / 435
-12/12/15 16:52:10.42:   Film done 44 / 435
-12/12/15 16:52:11.00:   Film done 45 / 435
-12/12/15 16:52:11.18:   Film done 46 / 435
-12/12/15 16:52:11.76:   No results for Must Be Santa at 1999
-12/12/15 16:52:11.96:   Film done 47 / 435
-12/12/15 16:52:12.54:   Film done 48 / 435
-12/12/15 16:52:12.73:   Film done 49 / 435
-12/12/15 16:52:13.31:   Film done 50 / 435
-12/12/15 16:52:13.52:   Film done 51 / 435
-12/12/15 16:52:14.09:   Film done 52 / 435
-12/12/15 16:52:14.30:   Film done 53 / 435
-12/12/15 16:52:14.83:   Film done 54 / 435
-12/12/15 16:52:15.05:   Film done 55 / 435
-12/12/15 16:52:15.58:   Film done 56 / 435
-12/12/15 16:52:15.80:   No results for The Day Time Ended at 1979
-12/12/15 16:52:16.35:   Film done 57 / 435
-12/12/15 16:52:16.55:   Film done 58 / 435
-12/12/15 16:52:17.13:   Film done 59 / 435
-12/12/15 16:52:17.30:   Film done 60 / 435
-12/12/15 16:52:17.91:   Film done 61 / 435
-12/12/15 16:52:18.05:   No results for A Taste of Killing at 1966
-12/12/15 16:52:18.67:   Film done 62 / 435
-12/12/15 16:52:18.81:   Film done 63 / 435
-12/12/15 16:52:19.44:   Film done 64 / 435
-12/12/15 16:52:19.59:   Film done 65 / 435
-12/12/15 16:52:20.31:   Film done 66 / 435
-12/12/15 16:52:20.34:   Film done 67 / 435
-12/12/15 16:52:21.08:   Film done 68 / 435
-12/12/15 16:52:21.11:   Film done 69 / 435
-12/12/15 16:52:21.84:   Film done 70 / 435
-12/12/15 16:52:21.87:   Film done 71 / 435
-12/12/15 16:52:22.60:   Film done 72 / 435
-12/12/15 16:52:22.64:   Film done 73 / 435
-12/12/15 16:52:23.38:   Film done 74 / 435
-12/12/15 16:52:23.40:   No results for A Fare To Remember At Christmas at 1999
-12/12/15 16:52:24.15:   Film done 75 / 435
-12/12/15 16:52:24.16:   Film done 76 / 435
-12/12/15 16:52:24.94:   Film done 77 / 435
-12/12/15 16:52:25.04:   Film done 78 / 435
-12/12/15 16:52:25.71:   Film done 79 / 435
-12/12/15 16:52:25.80:   Film done 80 / 435
-12/12/15 16:52:26.47:   Film done 81 / 435
-12/12/15 16:52:26.55:   Film done 82 / 435
-12/12/15 16:52:27.24:   Film done 83 / 435
-12/12/15 16:52:27.35:   Film done 84 / 435
-12/12/15 16:52:28.00:   Film done 85 / 435
-12/12/15 16:52:28.13:   Film done 86 / 435
-12/12/15 16:52:28.78:   Film done 87 / 435
-12/12/15 16:52:28.88:   Film done 88 / 435
-12/12/15 16:52:29.55:   Film done 89 / 435
-12/12/15 16:52:29.64:   Film done 90 / 435
-12/12/15 16:52:30.31:   Film done 91 / 435
-12/12/15 16:52:30.40:   Film done 92 / 435
-12/12/15 16:52:31.06:   Film done 93 / 435
-12/12/15 16:52:31.15:   Film done 94 / 435
-12/12/15 16:52:31.82:   Film done 95 / 435
-12/12/15 16:52:31.92:   Film done 96 / 435
-12/12/15 16:52:32.65:   Film done 97 / 435
-12/12/15 16:52:32.68:   Film done 98 / 435
-12/12/15 16:52:33.42:   Film done 99 / 435
-12/12/15 16:52:33.48:   Film done 100 / 435
-12/12/15 16:52:34.18:   Film done 101 / 435
-12/12/15 16:52:34.24:   Film done 102 / 435
-12/12/15 16:52:34.93:   Film done 103 / 435
-12/12/15 16:52:35.01:   Film done 104 / 435
-12/12/15 16:52:35.69:   Film done 105 / 435
-12/12/15 16:52:35.77:   Film done 106 / 435
-12/12/15 16:52:36.46:   Film done 107 / 435
-12/12/15 16:52:36.54:   Film done 108 / 435
-12/12/15 16:52:37.24:   Film done 109 / 435
-12/12/15 16:52:37.30:   Film done 110 / 435
-12/12/15 16:52:38.00:   Film done 111 / 435
-12/12/15 16:52:38.07:   Film done 112 / 435
-12/12/15 16:52:38.75:   Film done 113 / 435
-12/12/15 16:52:38.83:   Film done 114 / 435
-12/12/15 16:52:39.52:   Film done 115 / 435
-12/12/15 16:52:39.59:   Film done 116 / 435
-12/12/15 16:52:40.30:   Film done 117 / 435
-12/12/15 16:52:40.36:   Film done 118 / 435
-12/12/15 16:52:41.17:   Film done 119 / 435
-12/12/15 16:52:41.19:   Film done 120 / 435
-12/12/15 16:52:42.01:   Film done 121 / 435
-12/12/15 16:52:42.05:   Film done 122 / 435
-12/12/15 16:52:42.79:   No results for Columbo: Murder - a Self Portrait at 1989
-12/12/15 16:52:42.83:   No results for Columbo: Requiem for a... at 1973
-12/12/15 16:52:43.54:   No results for Columbo: An Exercise in Fatality at 1974
-12/12/15 16:52:43.59:   No results for Columbo: Ashes to Ashes at 1998
-12/12/15 16:52:44.31:   Film done 123 / 435
-12/12/15 16:52:44.37:   Film done 124 / 435
-12/12/15 16:52:45.09:   Film done 125 / 435
-12/12/15 16:52:45.13:   Film done 126 / 435
-12/12/15 16:52:45.85:   Film done 127 / 435
-12/12/15 16:52:45.90:   Film done 128 / 435
-12/12/15 16:52:46.62:   Film done 129 / 435
-12/12/15 16:52:46.66:   Film done 130 / 435
-12/12/15 16:52:47.38:   Film done 131 / 435
-12/12/15 16:52:47.43:   Film done 132 / 435
-12/12/15 16:52:48.16:   Film done 133 / 435
-12/12/15 16:52:48.19:   Error1 - no matches for: Our Gift Of Love
-12/12/15 16:52:48.19:   Film done 134 / 435
-12/12/15 16:52:48.93:   Error1 - no matches for: Christmas Lilies Of The Field
-12/12/15 16:52:48.93:   Film done 135 / 435
-12/12/15 16:52:48.96:   Film done 136 / 435
-12/12/15 16:52:49.69:   Film done 137 / 435
-12/12/15 16:52:49.75:   Film done 138 / 435
-12/12/15 16:52:50.45:   No results for Deadly Descent at 2011
-12/12/15 16:52:50.52:   Film done 139 / 435
-12/12/15 16:52:51.23:   Film done 140 / 435
-12/12/15 16:52:51.28:   Film done 141 / 435
-12/12/15 16:52:52.00:   No results for Rangers Attack at 1970
-12/12/15 16:52:52.05:   Film done 142 / 435
-12/12/15 16:52:52.76:   No results for Overrun at 1970
-12/12/15 16:52:52.81:   Film done 143 / 435
-12/12/15 16:52:53.53:   Film done 144 / 435
-12/12/15 16:52:53.59:   Film done 145 / 435
-12/12/15 16:52:54.29:   Film done 146 / 435
-12/12/15 16:52:54.37:   Film done 147 / 435
-12/12/15 16:52:55.06:   Film done 148 / 435
-12/12/15 16:52:55.15:   Film done 149 / 435
-12/12/15 16:52:55.82:   No results for One Bad Christmas at 2012
-12/12/15 16:52:55.90:   Film done 150 / 435
-12/12/15 16:52:56.59:   Film done 151 / 435
-12/12/15 16:52:56.66:   Film done 152 / 435
-12/12/15 16:52:57.35:   Film done 153 / 435
-12/12/15 16:52:57.43:   Film done 154 / 435
-12/12/15 16:52:58.18:   Film done 155 / 435
-12/12/15 16:52:58.24:   Film done 156 / 435
-12/12/15 16:52:58.94:   Film done 157 / 435
-12/12/15 16:52:59.00:   Film done 158 / 435
-12/12/15 16:52:59.71:   Film done 159 / 435
-12/12/15 16:52:59.77:   Film done 160 / 435
-12/12/15 16:53:00.47:   Film done 161 / 435
-12/12/15 16:53:00.53:   Film done 162 / 435
-12/12/15 16:53:01.25:   Film done 163 / 435
-12/12/15 16:53:01.28:   Film done 164 / 435
-12/12/15 16:53:02.01:   Film done 165 / 435
-12/12/15 16:53:02.05:   Film done 166 / 435
-12/12/15 16:53:02.78:   Film done 167 / 435
-12/12/15 16:53:02.81:   Film done 168 / 435
-12/12/15 16:53:03.56:   Film done 169 / 435
-12/12/15 16:53:03.57:   Film done 170 / 435
-12/12/15 16:53:04.34:   Film done 171 / 435
-12/12/15 16:53:04.35:   Film done 172 / 435
-12/12/15 16:53:05.10:   Film done 173 / 435
-12/12/15 16:53:05.13:   Film done 174 / 435
-12/12/15 16:53:05.87:   Film done 175 / 435
-12/12/15 16:53:05.89:   Film done 176 / 435
-12/12/15 16:53:06.63:   Film done 177 / 435
-12/12/15 16:53:06.65:   Film done 178 / 435
-12/12/15 16:53:07.40:   Film done 179 / 435
-12/12/15 16:53:07.41:   Film done 180 / 435
-12/12/15 16:53:08.16:   Film done 181 / 435
-12/12/15 16:53:08.18:   Film done 182 / 435
-12/12/15 16:53:08.93:   Film done 183 / 435
-12/12/15 16:53:09.07:   Film done 184 / 435
-12/12/15 16:53:09.69:   Film done 185 / 435
-12/12/15 16:53:09.85:   Film done 186 / 435
-12/12/15 16:53:10.45:   Film done 187 / 435
-12/12/15 16:53:10.61:   Film done 188 / 435
-12/12/15 16:53:11.22:   Film done 189 / 435
-12/12/15 16:53:11.39:   Film done 190 / 435
-12/12/15 16:53:11.98:   Film done 191 / 435
-12/12/15 16:53:12.17:   Film done 192 / 435
-12/12/15 16:53:12.75:   Film done 193 / 435
-12/12/15 16:53:12.92:   Film done 194 / 435
-12/12/15 16:53:13.53:   Film done 195 / 435
-12/12/15 16:53:13.70:   Film done 196 / 435
-12/12/15 16:53:14.33:   Film done 197 / 435
-12/12/15 16:53:14.47:   Film done 198 / 435
-12/12/15 16:53:15.09:   Film done 199 / 435
-12/12/15 16:53:15.23:   Film done 200 / 435
-12/12/15 16:53:15.85:   Film done 201 / 435
-12/12/15 16:53:16.01:   Film done 202 / 435
-12/12/15 16:53:16.63:   Film done 203 / 435
-12/12/15 16:53:16.77:   Film done 204 / 435
-12/12/15 16:53:17.40:   Film done 205 / 435
-12/12/15 16:53:17.54:   Film done 206 / 435
-12/12/15 16:53:18.16:   Film done 207 / 435
-12/12/15 16:53:18.30:   No results for Rusty Steel at 2014
-12/12/15 16:53:18.93:   No results for Crash Landing at 2005
-12/12/15 16:53:19.08:   No results for Where Sleeping Dogs Lie at 1992
-12/12/15 16:53:19.71:   Film done 208 / 435
-12/12/15 16:53:19.85:   Film done 209 / 435
-12/12/15 16:53:20.49:   Film done 210 / 435
-12/12/15 16:53:20.61:   Film done 211 / 435
-12/12/15 16:53:21.27:   Film done 212 / 435
-12/12/15 16:53:21.36:   Film done 213 / 435
-12/12/15 16:53:22.13:   Film done 214 / 435
-12/12/15 16:53:22.39:   Film done 215 / 435
-12/12/15 16:53:22.89:   Film done 216 / 435
-12/12/15 16:53:23.14:   Film done 217 / 435
-12/12/15 16:53:23.67:   No results for In The Line Of Duty: The Price... at 1992
-12/12/15 16:53:23.90:   Film done 218 / 435
-12/12/15 16:53:24.45:   Film done 219 / 435
-12/12/15 16:53:24.68:   Film done 220 / 435
-12/12/15 16:53:25.21:   Film done 221 / 435
-12/12/15 16:53:25.45:   Film done 222 / 435
-12/12/15 16:53:25.98:   Film done 223 / 435
-12/12/15 16:53:26.20:   Film done 224 / 435
-12/12/15 16:53:26.74:   Film done 225 / 435
-12/12/15 16:53:26.96:   Film done 226 / 435
-12/12/15 16:53:27.51:   Film done 227 / 435
-12/12/15 16:53:27.73:   Film done 228 / 435
-12/12/15 16:53:28.27:   Film done 229 / 435
-12/12/15 16:53:28.49:   Film done 230 / 435
-12/12/15 16:53:29.08:   Film done 231 / 435
-12/12/15 16:53:29.25:   Film done 232 / 435
-12/12/15 16:53:29.85:   Film done 233 / 435
-12/12/15 16:53:30.02:   Film done 234 / 435
-12/12/15 16:53:30.61:   No results for Columbo: Death Lends a Hand at 1975
-12/12/15 16:53:30.80:   Film done 235 / 435
-12/12/15 16:53:31.41:   Film done 236 / 435
-12/12/15 16:53:31.56:   Film done 237 / 435
-12/12/15 16:53:32.19:   No results for Crooks in Cloisters at 1963
-12/12/15 16:53:32.33:   Film done 238 / 435
-12/12/15 16:53:32.95:   Film done 239 / 435
-12/12/15 16:53:33.09:   Film done 240 / 435
-12/12/15 16:53:33.73:   Film done 241 / 435
-12/12/15 16:53:33.86:   Film done 242 / 435
-12/12/15 16:53:34.51:   Error1 - no matches for: A Christmas Blessing
-12/12/15 16:53:34.51:   Film done 243 / 435
-12/12/15 16:53:34.62:   Film done 244 / 435
-12/12/15 16:53:35.28:   Film done 245 / 435
-12/12/15 16:53:35.42:   No results for A Wind At My Back Christmas at 1938
-12/12/15 16:53:36.04:   Film done 246 / 435
-12/12/15 16:53:36.18:   Film done 247 / 435
-12/12/15 16:53:36.85:   Film done 248 / 435
-12/12/15 16:53:36.99:   Film done 249 / 435
-12/12/15 16:53:37.63:   Film done 250 / 435
-12/12/15 16:53:37.76:   Film done 251 / 435
-12/12/15 16:53:38.52:   Film done 252 / 435
-12/12/15 16:53:38.57:   Film done 253 / 435
-12/12/15 16:53:39.29:   Film done 254 / 435
-12/12/15 16:53:39.35:   Film done 255 / 435
-12/12/15 16:53:40.08:   Film done 256 / 435
-12/12/15 16:53:40.13:   Film done 257 / 435
-12/12/15 16:53:40.86:   No results for 12 Dogs Of Christmas: The Great... at 2012
-12/12/15 16:53:40.89:   Film done 258 / 435
-12/12/15 16:53:41.63:   Film done 259 / 435
-12/12/15 16:53:41.66:   Film done 260 / 435
-12/12/15 16:53:42.41:   Film done 261 / 435
-12/12/15 16:53:42.44:   Film done 262 / 435
-12/12/15 16:53:43.17:   Film done 263 / 435
-12/12/15 16:53:43.19:   No results for Good Fences at 1970
-12/12/15 16:53:43.94:   Film done 264 / 435
-12/12/15 16:53:43.97:   Film done 265 / 435
-12/12/15 16:53:44.72:   Film done 266 / 435
-12/12/15 16:53:44.73:   No results for Danielle Steel's Star at 9021
-12/12/15 16:53:45.58:   Film done 267 / 435
-12/12/15 16:53:45.59:   Film done 268 / 435
-12/12/15 16:53:46.36:   Film done 269 / 435
-12/12/15 16:53:46.36:   Film done 270 / 435
-12/12/15 16:53:47.12:   Film done 271 / 435
-12/12/15 16:53:47.48:   No results for Velvet Goldmine at 1997
-12/12/15 16:53:48.26:   Film done 272 / 435
-12/12/15 16:53:48.26:   Film done 273 / 435
-12/12/15 16:53:49.02:   Film done 274 / 435
-12/12/15 16:53:49.02:   Film done 275 / 435
-12/12/15 16:53:49.79:   Film done 276 / 435
-12/12/15 16:53:49.80:   Film done 277 / 435
-12/12/15 16:53:50.57:   Film done 278 / 435
-12/12/15 16:53:50.57:   Film done 279 / 435
-12/12/15 16:53:51.35:   Film done 280 / 435
-12/12/15 16:53:51.36:   Film done 281 / 435
-12/12/15 16:53:52.16:   Film done 282 / 435
-12/12/15 16:53:52.19:   Film done 283 / 435
-12/12/15 16:53:52.92:   Film done 284 / 435
-12/12/15 16:53:52.96:   Film done 285 / 435
-12/12/15 16:53:53.69:   Film done 286 / 435
-12/12/15 16:53:53.72:   Film done 287 / 435
-12/12/15 16:53:54.44:   Film done 288 / 435
-12/12/15 16:53:54.47:   Film done 289 / 435
-12/12/15 16:53:55.20:   Film done 290 / 435
-12/12/15 16:53:55.25:   Film done 291 / 435
-12/12/15 16:53:55.97:   Film done 292 / 435
-12/12/15 16:53:56.01:   Film done 293 / 435
-12/12/15 16:53:56.73:   Film done 294 / 435
-12/12/15 16:53:56.78:   No results for High Tide at 1979
-12/12/15 16:53:57.48:   Film done 295 / 435
-12/12/15 16:53:57.54:   Film done 296 / 435
-12/12/15 16:53:58.26:   Film done 297 / 435
-12/12/15 16:53:58.29:   No results for Women Of Valour at 1986
-12/12/15 16:53:59.01:   No results for Deep Winter at 2008
-12/12/15 16:53:59.05:   Film done 298 / 435
-12/12/15 16:53:59.79:   Film done 299 / 435
-12/12/15 16:53:59.82:   No results for Princess Kaiulani at 2009
-12/12/15 16:54:00.55:   Film done 300 / 435
-12/12/15 16:54:00.58:   Film done 301 / 435
-12/12/15 16:54:01.33:   Film done 302 / 435
-12/12/15 16:54:01.35:   Error1 - no matches for: Returning Lily
-12/12/15 16:54:01.35:   Film done 303 / 435
-12/12/15 16:54:02.14:   Film done 304 / 435
-12/12/15 16:54:02.14:   Film done 305 / 435
-12/12/15 16:54:02.97:   Film done 306 / 435
-12/12/15 16:54:03.03:   Film done 307 / 435
-12/12/15 16:54:03.73:   Film done 308 / 435
-12/12/15 16:54:03.80:   Film done 309 / 435
-12/12/15 16:54:04.51:   Film done 310 / 435
-12/12/15 16:54:04.56:   Film done 311 / 435
-12/12/15 16:54:05.26:   Film done 312 / 435
-12/12/15 16:54:05.33:   Film done 313 / 435
-12/12/15 16:54:06.03:   Film done 314 / 435
-12/12/15 16:54:06.09:   Film done 315 / 435
-12/12/15 16:54:06.81:   Film done 316 / 435
-12/12/15 16:54:06.85:   No results for The Wackiest Ship in the Army at 1961
-12/12/15 16:54:07.59:   Film done 317 / 435
-12/12/15 16:54:07.62:   Film done 318 / 435
-12/12/15 16:54:08.34:   Film done 319 / 435
-12/12/15 16:54:08.37:   Film done 320 / 435
-12/12/15 16:54:09.10:   No results for I Saw Mommy Kissing Santa Claus at 2001
-12/12/15 16:54:13.53:   Film done 321 / 435
-12/12/15 16:54:14.50:   Film done 322 / 435
-12/12/15 16:54:14.50:   No results for A Fairytale Christmas at 2013
-12/12/15 16:54:15.58:   Film done 323 / 435
-12/12/15 16:54:16.34:   Film done 324 / 435
-12/12/15 16:54:16.81:   Film done 325 / 435
-12/12/15 16:54:17.12:   Film done 326 / 435
-12/12/15 16:54:17.57:   Film done 327 / 435
-12/12/15 16:54:17.86:   No results for Kris Kringle at 2004
-12/12/15 16:54:18.40:   Film done 328 / 435
-12/12/15 16:54:18.68:   Film done 329 / 435
-12/12/15 16:54:19.16:   Film done 330 / 435
-12/12/15 16:54:19.44:   Film done 331 / 435
-12/12/15 16:54:20.05:   Film done 332 / 435
-12/12/15 16:54:20.17:   No results for The John Sullivan Story at 1939
-12/12/15 16:54:20.81:   Film done 333 / 435
-12/12/15 16:54:20.92:   Film done 334 / 435
-12/12/15 16:54:21.56:   Film done 335 / 435
-12/12/15 16:54:21.69:   Film done 336 / 435
-12/12/15 16:54:22.31:   Film done 337 / 435
-12/12/15 16:54:22.44:   Film done 338 / 435
-12/12/15 16:54:23.06:   Film done 339 / 435
-12/12/15 16:54:23.19:   Film done 340 / 435
-12/12/15 16:54:23.81:   Film done 341 / 435
-12/12/15 16:54:23.92:   Film done 342 / 435
-12/12/15 16:54:24.56:   Film done 343 / 435
-12/12/15 16:54:24.67:   Film done 344 / 435
-12/12/15 16:54:25.35:   Film done 345 / 435
-12/12/15 16:54:25.42:   Error1 - no matches for: Danielle Steel's Full Circle
-12/12/15 16:54:25.42:   Film done 346 / 435
-12/12/15 16:54:26.10:   Error1 - no matches for: Half A Dozen Babies
-12/12/15 16:54:26.10:   Film done 347 / 435
-12/12/15 16:54:26.18:   Film done 348 / 435
-12/12/15 16:54:26.87:   Film done 349 / 435
-12/12/15 16:54:26.93:   Film done 350 / 435
-12/12/15 16:54:27.63:   Film done 351 / 435
-12/12/15 16:54:27.69:   Film done 352 / 435
-12/12/15 16:54:28.38:   Film done 353 / 435
-12/12/15 16:54:28.44:   Film done 354 / 435
-12/12/15 16:54:29.14:   Film done 355 / 435
-12/12/15 16:54:29.22:   Film done 356 / 435
-12/12/15 16:54:29.89:   Film done 357 / 435
-12/12/15 16:54:29.97:   Film done 358 / 435
-12/12/15 16:54:30.66:   Film done 359 / 435
-12/12/15 16:54:30.72:   Film done 360 / 435
-12/12/15 16:54:31.41:   Film done 361 / 435
-12/12/15 16:54:31.45:   Film done 362 / 435
-12/12/15 16:54:32.16:   Film done 363 / 435
-12/12/15 16:54:32.22:   Film done 364 / 435
-12/12/15 16:54:32.92:   Film done 365 / 435
-12/12/15 16:54:32.97:   Film done 366 / 435
-12/12/15 16:54:33.67:   Film done 367 / 435
-12/12/15 16:54:33.72:   Film done 368 / 435
-12/12/15 16:54:34.43:   Film done 369 / 435
-12/12/15 16:54:34.47:   Film done 370 / 435
-12/12/15 16:54:35.34:   Film done 371 / 435
-12/12/15 16:54:35.35:   Film done 372 / 435
-12/12/15 16:54:36.09:   Film done 373 / 435
-12/12/15 16:54:36.10:   Film done 374 / 435
-12/12/15 16:54:36.84:   Film done 375 / 435
-12/12/15 16:54:36.85:   Film done 376 / 435
-12/12/15 16:54:37.59:   Film done 377 / 435
-12/12/15 16:54:37.60:   No results for Dark Storm at 2007
-12/12/15 16:54:38.33:   Film done 378 / 435
-12/12/15 16:54:38.33:   No results for Crash Point Zero at 2001
-12/12/15 16:54:39.10:   Film done 379 / 435
-12/12/15 16:54:39.10:   Film done 380 / 435
-12/12/15 16:54:39.85:   No results for Jungle Boy at 1998
-12/12/15 16:54:39.86:   No results for The Caine Mutiny Court-Martial at 1945
-12/12/15 16:54:40.61:   Film done 381 / 435
-12/12/15 16:54:40.61:   Film done 382 / 435
-12/12/15 16:54:41.37:   Film done 383 / 435
-12/12/15 16:54:41.38:   Film done 384 / 435
-12/12/15 16:54:42.29:   Film done 385 / 435
-12/12/15 16:54:42.31:   Film done 386 / 435
-12/12/15 16:54:43.05:   Film done 387 / 435
-12/12/15 16:54:43.07:   Film done 388 / 435
-12/12/15 16:54:43.79:   Error1 - no matches for: Danielle Steel's Changes
-12/12/15 16:54:43.79:   Film done 389 / 435
-12/12/15 16:54:43.85:   Film done 390 / 435
-12/12/15 16:54:44.56:   Film done 391 / 435
-12/12/15 16:54:44.59:   Film done 392 / 435
-12/12/15 16:54:45.34:   Film done 393 / 435
-12/12/15 16:54:45.41:   Film done 394 / 435
-12/12/15 16:54:46.09:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","page":1,"year":null}
-Error: null
-[object Object]
-Attempts left: 4
-12/12/15 16:54:46.16:   Error1 - no matches for: Disney's Santa Who?
-12/12/15 16:54:46.18:   Film done 395 / 435
-12/12/15 16:54:46.88:   Film done 396 / 435
-12/12/15 16:54:46.93:   Film done 397 / 435
-12/12/15 16:54:47.63:   Error1 - no matches for: Must Be Santa
-12/12/15 16:54:47.63:   Film done 398 / 435
-12/12/15 16:54:47.68:   Film done 399 / 435
-12/12/15 16:54:48.38:   Film done 400 / 435
-12/12/15 16:54:48.44:   Error1 - no matches for: A Fare To Remember At Christmas
-12/12/15 16:54:48.44:   Film done 401 / 435
-12/12/15 16:54:49.15:   Error1 - no matches for: Columbo: Murder - a Self Portrait
-12/12/15 16:54:49.15:   Film done 402 / 435
-12/12/15 16:54:49.19:   Error1 - no matches for: Columbo: Requiem for a...
-12/12/15 16:54:49.19:   Film done 403 / 435
-12/12/15 16:54:49.91:   Error1 - no matches for: Columbo: An Exercise in Fatality
-12/12/15 16:54:49.91:   Film done 404 / 435
-12/12/15 16:54:49.94:   Error1 - no matches for: Columbo: Ashes to Ashes
-12/12/15 16:54:49.94:   Film done 405 / 435
-12/12/15 16:54:50.67:   Film done 406 / 435
-12/12/15 16:54:50.69:   Error1 - no matches for: Rangers Attack
-12/12/15 16:54:50.69:   Film done 407 / 435
-12/12/15 16:54:51.45:   Error1 - no matches for: One Bad Christmas
-12/12/15 16:54:51.45:   Film done 408 / 435
-12/12/15 16:54:51.56:   Film done 409 / 435
-12/12/15 16:54:52.22:   Error1 - no matches for: Rusty Steel
-12/12/15 16:54:52.22:   Film done 410 / 435
-12/12/15 16:54:52.34:   Film done 411 / 435
-12/12/15 16:54:52.97:   Film done 412 / 435
-12/12/15 16:54:53.12:   Error1 - no matches for: In The Line Of Duty: The Price...
-12/12/15 16:54:53.12:   Film done 413 / 435
-12/12/15 16:54:53.81:   Error1 - no matches for: Columbo: Death Lends a Hand
-12/12/15 16:54:53.81:   Film done 414 / 435
-12/12/15 16:54:53.90:   Film done 415 / 435
-12/12/15 16:54:54.59:   Film done 416 / 435
-12/12/15 16:54:54.65:   Error1 - no matches for: 12 Dogs Of Christmas: The Great...
-12/12/15 16:54:54.65:   Film done 417 / 435
-12/12/15 16:54:55.34:   Film done 418 / 435
-12/12/15 16:54:55.42:   Film done 419 / 435
-12/12/15 16:54:56.09:   Film done 420 / 435
-12/12/15 16:54:56.18:   Film done 421 / 435
-12/12/15 16:54:56.84:   Error1 - no matches for: Women Of Valour
-12/12/15 16:54:56.85:   Film done 422 / 435
-12/12/15 16:54:56.95:   Film done 423 / 435
-12/12/15 16:54:57.60:   Film done 424 / 435
-12/12/15 16:54:57.69:   Film done 425 / 435
-12/12/15 16:54:58.37:   Film done 426 / 435
-12/12/15 16:54:58.44:   Film done 427 / 435
-12/12/15 16:54:59.11:   Error1 - no matches for: Kris Kringle
-12/12/15 16:54:59.11:   Film done 428 / 435
-12/12/15 16:54:59.21:   Error1 - no matches for: The John Sullivan Story
-12/12/15 16:54:59.21:   Film done 429 / 435
-12/12/15 16:54:59.88:   Film done 430 / 435
-12/12/15 16:54:59.96:   Film done 431 / 435
-12/12/15 16:55:00.64:   Film done 432 / 435
-12/12/15 16:55:00.72:   Film done 433 / 435
-12/12/15 16:55:01.39:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","page":1,"year":null}
-Error: null
-[object Object]
-Attempts left: 3
-12/12/15 16:55:02.14:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","page":1,"year":null}
-Error: null
-[object Object]
-Attempts left: 2
-12/12/15 16:55:02.89:   ERROR fetching http://api.themoviedb.org/3/search/movie
-{"api_key":"4ee6a6462853a06d1df79d91c177dfea","page":1,"year":null}
-Error: null
-[object Object]
-Attempts left: 1
-12/12/15 16:55:03.40:   Ran out of attempts fetching http://api.themoviedb.org/3/search/movie
-12/12/15 16:55:03.40:   Error2 - no matches for: undefined
-12/12/15 16:55:03.40:   Cleaning up showings
-12/12/15 16:55:03.40:   Film done 434 / 435
-12/12/15 16:55:03.58:   Removed [object Object] objects in collection
-12/12/15 16:55:07.96:   Inserted object into collection
+20/12/20 10:05:11.68:   Get current data
+20/12/20 10:05:12.39:   Found: 
+20/12/20 10:05:12.76:   Remove old data
+20/12/20 10:05:12.78:   Deleted a past showing for forrestgump1994
+20/12/20 10:05:12.78:   Deleted a past showing for forrestgump1994
+20/12/20 10:05:12.78:   Deleted a past showing for forrestgump1994
+20/12/20 10:05:12.78:   Deleted a past showing for happydeathday2017
+20/12/20 10:05:12.78:   Deleted a past showing for happydeathday2017
+20/12/20 10:05:12.79:   Deleted a past showing for educatingrita1983
+20/12/20 10:05:12.79:   Deleted a past showing for educatingrita1983
+20/12/20 10:05:12.79:   Deleted a past showing for educatingrita1983
+20/12/20 10:05:12.79:   Deleted a past showing for educatingrita1983
+20/12/20 10:05:12.79:   Deleted a past showing for singlewhitefemale1992
+20/12/20 10:05:12.79:   Deleted a past showing for theevildead1981
+20/12/20 10:05:12.80:   Deleted a past showing for gunfighters1947
+20/12/20 10:05:12.81:   Deleted a past showing for dejavu2006
+20/12/20 10:05:12.81:   Deleted a past showing for theunforgiven1960
+20/12/20 10:05:12.81:   Deleted a past showing for panicroom2002
+20/12/20 10:05:12.81:   Deleted a past showing for redlights2012
+20/12/20 10:05:12.81:   Deleted a past showing for thehobbitthebattleofthefivearmies2014
+20/12/20 10:05:12.82:   Deleted a past showing for safehouse
+20/12/20 10:05:12.91:   Get films from sky
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 0 / 7
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 1 / 7
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 2 / 7
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 3 / 7
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 4 / 7
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 5 / 7
+20/12/20 10:05:12.91:   Already have this day
+20/12/20 10:05:12.91:   Finished getting day 6 / 7
+20/12/20 10:05:12.91:   Got all films from Sky
+20/12/20 10:05:12.91:   Add metadata
+20/12/20 10:05:12.91:   Film done 0 / 518
+20/12/20 10:05:12.91:   Film done 1 / 518
+20/12/20 10:05:12.91:   Film done 2 / 518
+20/12/20 10:05:12.91:   Film done 3 / 518
+20/12/20 10:05:12.91:   Film done 4 / 518
+20/12/20 10:05:12.91:   Film done 6 / 518
+20/12/20 10:05:12.91:   Film done 5 / 518
+20/12/20 10:05:12.91:   Film done 7 / 518
+20/12/20 10:05:12.92:   Film done 8 / 518
+20/12/20 10:05:12.92:   Film done 9 / 518
+20/12/20 10:05:12.92:   Film done 10 / 518
+20/12/20 10:05:12.92:   Film done 11 / 518
+20/12/20 10:05:12.92:   Film done 12 / 518
+20/12/20 10:05:12.92:   Film done 13 / 518
+20/12/20 10:05:12.92:   Film done 14 / 518
+20/12/20 10:05:12.92:   Film done 15 / 518
+20/12/20 10:05:12.92:   Film done 16 / 518
+20/12/20 10:05:12.92:   Film done 17 / 518
+20/12/20 10:05:12.92:   Film done 18 / 518
+20/12/20 10:05:12.92:   Film done 19 / 518
+20/12/20 10:05:12.92:   Film done 20 / 518
+20/12/20 10:05:12.92:   Film done 21 / 518
+20/12/20 10:05:12.92:   Film done 22 / 518
+20/12/20 10:05:12.92:   Film done 23 / 518
+20/12/20 10:05:12.92:   Film done 24 / 518
+20/12/20 10:05:12.92:   Film done 25 / 518
+20/12/20 10:05:12.92:   Film done 26 / 518
+20/12/20 10:05:12.92:   Film done 27 / 518
+20/12/20 10:05:12.92:   Film done 28 / 518
+20/12/20 10:05:12.92:   Film done 29 / 518
+20/12/20 10:05:12.92:   Film done 30 / 518
+20/12/20 10:05:12.92:   Film done 31 / 518
+20/12/20 10:05:12.92:   Film done 32 / 518
+20/12/20 10:05:12.92:   Film done 33 / 518
+20/12/20 10:05:12.92:   Film done 34 / 518
+20/12/20 10:05:12.92:   Film done 35 / 518
+20/12/20 10:05:12.92:   Film done 36 / 518
+20/12/20 10:05:12.92:   Film done 37 / 518
+20/12/20 10:05:12.92:   Film done 38 / 518
+20/12/20 10:05:12.92:   Film done 39 / 518
+20/12/20 10:05:12.92:   Film done 40 / 518
+20/12/20 10:05:12.92:   Film done 41 / 518
+20/12/20 10:05:12.92:   Film done 42 / 518
+20/12/20 10:05:12.92:   Film done 43 / 518
+20/12/20 10:05:12.92:   Film done 44 / 518
+20/12/20 10:05:12.92:   Film done 45 / 518
+20/12/20 10:05:12.92:   Film done 46 / 518
+20/12/20 10:05:12.92:   Film done 49 / 518
+20/12/20 10:05:12.92:   Film done 48 / 518
+20/12/20 10:05:12.92:   Film done 47 / 518
+20/12/20 10:05:12.92:   Film done 50 / 518
+20/12/20 10:05:12.92:   Film done 51 / 518
+20/12/20 10:05:12.92:   Film done 52 / 518
+20/12/20 10:05:12.92:   Film done 53 / 518
+20/12/20 10:05:12.92:   Film done 54 / 518
+20/12/20 10:05:12.92:   Film done 55 / 518
+20/12/20 10:05:12.92:   Film done 56 / 518
+20/12/20 10:05:12.92:   Film done 57 / 518
+20/12/20 10:05:12.92:   Film done 58 / 518
+20/12/20 10:05:12.92:   Film done 59 / 518
+20/12/20 10:05:12.92:   Film done 60 / 518
+20/12/20 10:05:12.92:   Film done 61 / 518
+20/12/20 10:05:12.92:   Film done 62 / 518
+20/12/20 10:05:12.92:   Film done 63 / 518
+20/12/20 10:05:12.92:   Film done 64 / 518
+20/12/20 10:05:12.93:   Film done 65 / 518
+20/12/20 10:05:12.93:   Film done 66 / 518
+20/12/20 10:05:12.93:   Film done 67 / 518
+20/12/20 10:05:12.93:   Film done 68 / 518
+20/12/20 10:05:12.93:   Film done 69 / 518
+20/12/20 10:05:12.93:   Film done 70 / 518
+20/12/20 10:05:12.93:   Film done 71 / 518
+20/12/20 10:05:12.93:   Film done 72 / 518
+20/12/20 10:05:12.93:   Film done 73 / 518
+20/12/20 10:05:12.93:   Film done 74 / 518
+20/12/20 10:05:12.93:   Film done 75 / 518
+20/12/20 10:05:12.93:   Film done 76 / 518
+20/12/20 10:05:12.93:   Film done 77 / 518
+20/12/20 10:05:12.93:   Film done 78 / 518
+20/12/20 10:05:12.93:   Film done 79 / 518
+20/12/20 10:05:12.93:   Film done 80 / 518
+20/12/20 10:05:12.93:   Film done 81 / 518
+20/12/20 10:05:12.93:   Film done 82 / 518
+20/12/20 10:05:12.93:   Film done 83 / 518
+20/12/20 10:05:12.93:   Film done 84 / 518
+20/12/20 10:05:12.93:   Film done 85 / 518
+20/12/20 10:05:12.93:   Film done 86 / 518
+20/12/20 10:05:12.93:   Film done 87 / 518
+20/12/20 10:05:12.93:   Film done 88 / 518
+20/12/20 10:05:12.93:   Film done 89 / 518
+20/12/20 10:05:12.93:   Film done 90 / 518
+20/12/20 10:05:12.93:   Film done 91 / 518
+20/12/20 10:05:12.93:   Film done 92 / 518
+20/12/20 10:05:12.93:   Film done 93 / 518
+20/12/20 10:05:12.93:   Film done 94 / 518
+20/12/20 10:05:12.93:   Film done 95 / 518
+20/12/20 10:05:12.93:   Film done 96 / 518
+20/12/20 10:05:12.93:   Film done 97 / 518
+20/12/20 10:05:12.93:   Film done 98 / 518
+20/12/20 10:05:12.93:   Film done 99 / 518
+20/12/20 10:05:12.93:   Film done 100 / 518
+20/12/20 10:05:12.93:   Film done 101 / 518
+20/12/20 10:05:12.94:   Film done 102 / 518
+20/12/20 10:05:12.94:   Film done 103 / 518
+20/12/20 10:05:12.94:   Film done 104 / 518
+20/12/20 10:05:12.94:   Film done 105 / 518
+20/12/20 10:05:12.94:   Film done 106 / 518
+20/12/20 10:05:12.94:   Film done 107 / 518
+20/12/20 10:05:12.94:   Film done 108 / 518
+20/12/20 10:05:12.94:   Film done 109 / 518
+20/12/20 10:05:12.94:   Film done 110 / 518
+20/12/20 10:05:12.94:   Film done 111 / 518
+20/12/20 10:05:12.94:   Film done 112 / 518
+20/12/20 10:05:12.94:   Film done 113 / 518
+20/12/20 10:05:12.94:   Film done 114 / 518
+20/12/20 10:05:12.94:   Film done 115 / 518
+20/12/20 10:05:12.94:   Film done 116 / 518
+20/12/20 10:05:12.94:   Film done 117 / 518
+20/12/20 10:05:12.94:   Film done 118 / 518
+20/12/20 10:05:12.94:   Film done 119 / 518
+20/12/20 10:05:12.94:   Film done 120 / 518
+20/12/20 10:05:12.94:   Film done 121 / 518
+20/12/20 10:05:12.94:   Film done 122 / 518
+20/12/20 10:05:12.94:   Film done 123 / 518
+20/12/20 10:05:12.94:   Film done 124 / 518
+20/12/20 10:05:12.94:   Film done 125 / 518
+20/12/20 10:05:12.94:   Film done 126 / 518
+20/12/20 10:05:12.94:   Film done 127 / 518
+20/12/20 10:05:12.94:   Film done 128 / 518
+20/12/20 10:05:12.94:   Film done 129 / 518
+20/12/20 10:05:12.94:   Film done 130 / 518
+20/12/20 10:05:12.94:   Film done 131 / 518
+20/12/20 10:05:12.94:   Film done 132 / 518
+20/12/20 10:05:12.94:   Film done 133 / 518
+20/12/20 10:05:12.94:   Film done 134 / 518
+20/12/20 10:05:12.94:   Film done 135 / 518
+20/12/20 10:05:12.94:   Film done 136 / 518
+20/12/20 10:05:12.94:   Film done 137 / 518
+20/12/20 10:05:12.94:   Film done 138 / 518
+20/12/20 10:05:12.94:   Film done 139 / 518
+20/12/20 10:05:12.94:   Film done 140 / 518
+20/12/20 10:05:12.94:   Film done 141 / 518
+20/12/20 10:05:12.94:   Film done 142 / 518
+20/12/20 10:05:12.94:   Film done 143 / 518
+20/12/20 10:05:12.94:   Film done 144 / 518
+20/12/20 10:05:12.94:   Film done 145 / 518
+20/12/20 10:05:12.94:   Film done 146 / 518
+20/12/20 10:05:12.94:   Film done 147 / 518
+20/12/20 10:05:12.94:   Film done 148 / 518
+20/12/20 10:05:12.94:   Film done 149 / 518
+20/12/20 10:05:12.94:   Film done 150 / 518
+20/12/20 10:05:12.94:   Film done 151 / 518
+20/12/20 10:05:12.94:   Film done 152 / 518
+20/12/20 10:05:12.95:   Film done 153 / 518
+20/12/20 10:05:12.95:   Film done 154 / 518
+20/12/20 10:05:12.95:   Film done 155 / 518
+20/12/20 10:05:12.95:   Film done 156 / 518
+20/12/20 10:05:12.95:   Film done 157 / 518
+20/12/20 10:05:12.95:   Film done 158 / 518
+20/12/20 10:05:12.95:   Film done 159 / 518
+20/12/20 10:05:12.95:   Film done 160 / 518
+20/12/20 10:05:12.95:   Film done 161 / 518
+20/12/20 10:05:12.95:   Film done 162 / 518
+20/12/20 10:05:12.95:   Film done 163 / 518
+20/12/20 10:05:12.95:   Film done 164 / 518
+20/12/20 10:05:12.95:   Film done 165 / 518
+20/12/20 10:05:12.95:   Film done 166 / 518
+20/12/20 10:05:12.95:   Film done 167 / 518
+20/12/20 10:05:12.95:   Film done 169 / 518
+20/12/20 10:05:12.95:   Film done 168 / 518
+20/12/20 10:05:12.95:   Film done 170 / 518
+20/12/20 10:05:12.95:   Film done 171 / 518
+20/12/20 10:05:12.95:   Film done 172 / 518
+20/12/20 10:05:12.95:   Film done 173 / 518
+20/12/20 10:05:12.95:   Film done 174 / 518
+20/12/20 10:05:12.95:   Film done 175 / 518
+20/12/20 10:05:12.95:   Film done 176 / 518
+20/12/20 10:05:12.95:   Film done 177 / 518
+20/12/20 10:05:12.95:   Film done 178 / 518
+20/12/20 10:05:12.95:   Film done 179 / 518
+20/12/20 10:05:12.95:   Film done 180 / 518
+20/12/20 10:05:12.95:   Film done 181 / 518
+20/12/20 10:05:12.95:   Film done 182 / 518
+20/12/20 10:05:12.95:   Film done 183 / 518
+20/12/20 10:05:12.95:   Film done 185 / 518
+20/12/20 10:05:12.95:   Film done 184 / 518
+20/12/20 10:05:12.95:   Film done 186 / 518
+20/12/20 10:05:12.95:   Film done 187 / 518
+20/12/20 10:05:12.95:   Film done 188 / 518
+20/12/20 10:05:12.95:   Film done 189 / 518
+20/12/20 10:05:12.95:   Film done 190 / 518
+20/12/20 10:05:12.95:   Film done 191 / 518
+20/12/20 10:05:12.95:   Film done 192 / 518
+20/12/20 10:05:12.95:   Film done 193 / 518
+20/12/20 10:05:12.95:   Film done 194 / 518
+20/12/20 10:05:12.95:   Film done 195 / 518
+20/12/20 10:05:12.95:   Film done 196 / 518
+20/12/20 10:05:12.95:   Film done 197 / 518
+20/12/20 10:05:12.95:   Film done 198 / 518
+20/12/20 10:05:12.95:   Film done 199 / 518
+20/12/20 10:05:12.96:   Film done 200 / 518
+20/12/20 10:05:12.96:   Film done 201 / 518
+20/12/20 10:05:12.96:   Film done 202 / 518
+20/12/20 10:05:12.96:   Film done 203 / 518
+20/12/20 10:05:12.96:   Film done 204 / 518
+20/12/20 10:05:12.96:   Film done 205 / 518
+20/12/20 10:05:12.96:   Film done 206 / 518
+20/12/20 10:05:12.96:   Film done 207 / 518
+20/12/20 10:05:12.96:   Film done 208 / 518
+20/12/20 10:05:12.96:   Film done 209 / 518
+20/12/20 10:05:12.96:   Film done 210 / 518
+20/12/20 10:05:12.96:   Film done 211 / 518
+20/12/20 10:05:12.96:   Film done 212 / 518
+20/12/20 10:05:12.96:   Film done 213 / 518
+20/12/20 10:05:12.96:   Film done 214 / 518
+20/12/20 10:05:12.96:   Film done 215 / 518
+20/12/20 10:05:12.96:   Film done 216 / 518
+20/12/20 10:05:12.96:   Film done 217 / 518
+20/12/20 10:05:12.96:   Film done 218 / 518
+20/12/20 10:05:12.96:   Film done 219 / 518
+20/12/20 10:05:12.96:   Film done 220 / 518
+20/12/20 10:05:12.96:   Film done 221 / 518
+20/12/20 10:05:12.96:   Film done 222 / 518
+20/12/20 10:05:12.96:   Film done 223 / 518
+20/12/20 10:05:12.96:   Film done 224 / 518
+20/12/20 10:05:12.96:   Film done 225 / 518
+20/12/20 10:05:12.96:   Film done 226 / 518
+20/12/20 10:05:12.96:   Film done 227 / 518
+20/12/20 10:05:12.96:   Film done 228 / 518
+20/12/20 10:05:12.96:   Film done 229 / 518
+20/12/20 10:05:12.96:   Film done 230 / 518
+20/12/20 10:05:12.96:   Film done 231 / 518
+20/12/20 10:05:12.96:   Film done 232 / 518
+20/12/20 10:05:12.96:   Film done 233 / 518
+20/12/20 10:05:12.96:   Film done 234 / 518
+20/12/20 10:05:12.96:   Film done 237 / 518
+20/12/20 10:05:12.96:   Film done 236 / 518
+20/12/20 10:05:12.96:   Film done 235 / 518
+20/12/20 10:05:12.96:   Film done 239 / 518
+20/12/20 10:05:12.96:   Film done 240 / 518
+20/12/20 10:05:12.96:   Film done 238 / 518
+20/12/20 10:05:12.96:   Film done 241 / 518
+20/12/20 10:05:12.96:   Film done 242 / 518
+20/12/20 10:05:12.96:   Film done 243 / 518
+20/12/20 10:05:12.96:   Film done 244 / 518
+20/12/20 10:05:12.96:   Film done 245 / 518
+20/12/20 10:05:12.96:   Film done 246 / 518
+20/12/20 10:05:12.96:   Film done 247 / 518
+20/12/20 10:05:12.96:   Film done 248 / 518
+20/12/20 10:05:12.96:   Film done 249 / 518
+20/12/20 10:05:12.96:   Film done 250 / 518
+20/12/20 10:05:12.96:   Film done 251 / 518
+20/12/20 10:05:12.96:   Film done 252 / 518
+20/12/20 10:05:12.97:   Film done 253 / 518
+20/12/20 10:05:12.97:   Film done 254 / 518
+20/12/20 10:05:12.97:   Film done 255 / 518
+20/12/20 10:05:12.97:   Film done 256 / 518
+20/12/20 10:05:12.97:   Film done 257 / 518
+20/12/20 10:05:12.97:   Film done 258 / 518
+20/12/20 10:05:12.97:   Film done 259 / 518
+20/12/20 10:05:12.97:   Film done 260 / 518
+20/12/20 10:05:12.97:   Film done 261 / 518
+20/12/20 10:05:12.97:   Film done 262 / 518
+20/12/20 10:05:12.97:   Film done 263 / 518
+20/12/20 10:05:12.97:   Film done 264 / 518
+20/12/20 10:05:12.97:   Film done 265 / 518
+20/12/20 10:05:12.97:   Film done 266 / 518
+20/12/20 10:05:12.97:   Film done 267 / 518
+20/12/20 10:05:12.97:   Film done 268 / 518
+20/12/20 10:05:12.97:   Film done 269 / 518
+20/12/20 10:05:12.97:   Film done 270 / 518
+20/12/20 10:05:12.97:   Film done 271 / 518
+20/12/20 10:05:12.97:   Film done 272 / 518
+20/12/20 10:05:12.97:   Film done 273 / 518
+20/12/20 10:05:12.97:   Film done 274 / 518
+20/12/20 10:05:12.97:   Film done 275 / 518
+20/12/20 10:05:12.97:   Film done 276 / 518
+20/12/20 10:05:12.97:   Film done 277 / 518
+20/12/20 10:05:12.97:   Film done 278 / 518
+20/12/20 10:05:12.97:   Film done 279 / 518
+20/12/20 10:05:12.97:   Film done 280 / 518
+20/12/20 10:05:12.97:   Film done 281 / 518
+20/12/20 10:05:12.97:   Film done 282 / 518
+20/12/20 10:05:12.97:   Film done 283 / 518
+20/12/20 10:05:12.97:   Film done 284 / 518
+20/12/20 10:05:12.97:   Film done 285 / 518
+20/12/20 10:05:12.97:   Film done 286 / 518
+20/12/20 10:05:12.97:   Film done 287 / 518
+20/12/20 10:05:12.97:   Film done 288 / 518
+20/12/20 10:05:12.97:   Film done 289 / 518
+20/12/20 10:05:12.97:   Film done 290 / 518
+20/12/20 10:05:12.97:   Film done 291 / 518
+20/12/20 10:05:12.97:   Film done 292 / 518
+20/12/20 10:05:12.97:   Film done 293 / 518
+20/12/20 10:05:12.97:   Film done 294 / 518
+20/12/20 10:05:12.97:   Film done 295 / 518
+20/12/20 10:05:12.98:   Film done 296 / 518
+20/12/20 10:05:12.98:   Film done 297 / 518
+20/12/20 10:05:12.98:   Film done 298 / 518
+20/12/20 10:05:12.98:   Film done 299 / 518
+20/12/20 10:05:12.98:   Film done 300 / 518
+20/12/20 10:05:12.98:   Film done 301 / 518
+20/12/20 10:05:12.98:   Film done 302 / 518
+20/12/20 10:05:12.98:   Film done 303 / 518
+20/12/20 10:05:12.98:   Film done 304 / 518
+20/12/20 10:05:12.98:   Film done 305 / 518
+20/12/20 10:05:12.98:   Film done 306 / 518
+20/12/20 10:05:12.98:   Film done 307 / 518
+20/12/20 10:05:12.98:   Film done 308 / 518
+20/12/20 10:05:12.99:   Film done 309 / 518
+20/12/20 10:05:12.99:   Film done 310 / 518
+20/12/20 10:05:12.99:   Film done 311 / 518
+20/12/20 10:05:12.99:   Film done 312 / 518
+20/12/20 10:05:12.99:   Film done 313 / 518
+20/12/20 10:05:12.99:   Film done 314 / 518
+20/12/20 10:05:12.99:   Film done 315 / 518
+20/12/20 10:05:12.99:   Film done 316 / 518
+20/12/20 10:05:12.99:   Film done 317 / 518
+20/12/20 10:05:12.99:   Film done 318 / 518
+20/12/20 10:05:12.99:   Film done 319 / 518
+20/12/20 10:05:12.99:   Film done 320 / 518
+20/12/20 10:05:12.99:   Film done 321 / 518
+20/12/20 10:05:12.99:   Film done 322 / 518
+20/12/20 10:05:12.99:   Film done 323 / 518
+20/12/20 10:05:12.99:   Film done 324 / 518
+20/12/20 10:05:12.99:   Film done 325 / 518
+20/12/20 10:05:12.99:   Film done 326 / 518
+20/12/20 10:05:12.99:   Film done 327 / 518
+20/12/20 10:05:12.99:   Film done 328 / 518
+20/12/20 10:05:12.99:   Film done 331 / 518
+20/12/20 10:05:12.99:   Film done 330 / 518
+20/12/20 10:05:12.99:   Film done 329 / 518
+20/12/20 10:05:12.99:   Film done 332 / 518
+20/12/20 10:05:12.99:   Film done 333 / 518
+20/12/20 10:05:12.99:   Film done 334 / 518
+20/12/20 10:05:12.99:   Film done 335 / 518
+20/12/20 10:05:12.99:   Film done 336 / 518
+20/12/20 10:05:12.99:   Film done 337 / 518
+20/12/20 10:05:12.99:   Film done 338 / 518
+20/12/20 10:05:12.99:   Film done 339 / 518
+20/12/20 10:05:12.99:   Film done 340 / 518
+20/12/20 10:05:12.99:   Film done 341 / 518
+20/12/20 10:05:12.99:   Film done 342 / 518
+20/12/20 10:05:12.99:   Film done 343 / 518
+20/12/20 10:05:12.99:   Film done 344 / 518
+20/12/20 10:05:12.99:   Film done 345 / 518
+20/12/20 10:05:12.99:   Film done 346 / 518
+20/12/20 10:05:12.99:   Film done 347 / 518
+20/12/20 10:05:12.99:   Film done 348 / 518
+20/12/20 10:05:12.99:   Film done 349 / 518
+20/12/20 10:05:12.99:   Film done 350 / 518
+20/12/20 10:05:12.99:   Film done 351 / 518
+20/12/20 10:05:12.99:   Film done 352 / 518
+20/12/20 10:05:12.99:   Film done 353 / 518
+20/12/20 10:05:12.99:   Film done 354 / 518
+20/12/20 10:05:12.99:   Film done 355 / 518
+20/12/20 10:05:12.99:   Film done 356 / 518
+20/12/20 10:05:13.00:   Film done 357 / 518
+20/12/20 10:05:13.00:   Film done 358 / 518
+20/12/20 10:05:13.00:   Film done 359 / 518
+20/12/20 10:05:13.00:   Film done 360 / 518
+20/12/20 10:05:13.00:   Film done 361 / 518
+20/12/20 10:05:13.00:   Film done 362 / 518
+20/12/20 10:05:13.00:   Film done 363 / 518
+20/12/20 10:05:13.00:   Film done 364 / 518
+20/12/20 10:05:13.00:   Film done 365 / 518
+20/12/20 10:05:13.00:   Film done 366 / 518
+20/12/20 10:05:13.00:   Film done 367 / 518
+20/12/20 10:05:13.00:   Film done 368 / 518
+20/12/20 10:05:13.00:   Film done 369 / 518
+20/12/20 10:05:13.00:   Film done 370 / 518
+20/12/20 10:05:13.00:   Film done 371 / 518
+20/12/20 10:05:13.00:   Film done 372 / 518
+20/12/20 10:05:13.00:   Film done 373 / 518
+20/12/20 10:05:13.00:   Film done 374 / 518
+20/12/20 10:05:13.00:   Film done 375 / 518
+20/12/20 10:05:13.00:   Film done 376 / 518
+20/12/20 10:05:13.00:   Film done 377 / 518
+20/12/20 10:05:13.00:   Film done 378 / 518
+20/12/20 10:05:13.00:   Film done 379 / 518
+20/12/20 10:05:13.00:   Film done 380 / 518
+20/12/20 10:05:13.00:   Film done 381 / 518
+20/12/20 10:05:13.00:   Film done 382 / 518
+20/12/20 10:05:13.00:   Film done 383 / 518
+20/12/20 10:05:13.00:   Film done 384 / 518
+20/12/20 10:05:13.00:   Film done 385 / 518
+20/12/20 10:05:13.00:   Film done 386 / 518
+20/12/20 10:05:13.00:   Film done 387 / 518
+20/12/20 10:05:13.00:   Film done 388 / 518
+20/12/20 10:05:13.00:   Film done 389 / 518
+20/12/20 10:05:13.00:   Film done 390 / 518
+20/12/20 10:05:13.00:   Film done 391 / 518
+20/12/20 10:05:13.00:   Film done 392 / 518
+20/12/20 10:05:13.00:   Film done 393 / 518
+20/12/20 10:05:13.00:   Film done 394 / 518
+20/12/20 10:05:13.00:   Film done 395 / 518
+20/12/20 10:05:13.00:   Film done 396 / 518
+20/12/20 10:05:13.00:   Film done 397 / 518
+20/12/20 10:05:13.00:   Film done 398 / 518
+20/12/20 10:05:13.00:   Film done 399 / 518
+20/12/20 10:05:13.00:   Film done 400 / 518
+20/12/20 10:05:13.00:   Film done 401 / 518
+20/12/20 10:05:13.00:   Film done 402 / 518
+20/12/20 10:05:13.00:   Film done 403 / 518
+20/12/20 10:05:13.00:   Film done 404 / 518
+20/12/20 10:05:13.00:   Film done 405 / 518
+20/12/20 10:05:13.00:   Film done 406 / 518
+20/12/20 10:05:13.00:   Film done 407 / 518
+20/12/20 10:05:13.01:   Film done 408 / 518
+20/12/20 10:05:13.01:   Film done 409 / 518
+20/12/20 10:05:13.01:   Film done 410 / 518
+20/12/20 10:05:13.01:   Film done 411 / 518
+20/12/20 10:05:13.01:   Film done 412 / 518
+20/12/20 10:05:13.01:   Film done 413 / 518
+20/12/20 10:05:13.01:   Film done 414 / 518
+20/12/20 10:05:13.01:   Film done 415 / 518
+20/12/20 10:05:13.01:   Film done 416 / 518
+20/12/20 10:05:13.01:   Film done 417 / 518
+20/12/20 10:05:13.01:   Film done 418 / 518
+20/12/20 10:05:13.01:   Film done 419 / 518
+20/12/20 10:05:13.01:   Film done 420 / 518
+20/12/20 10:05:13.01:   Film done 421 / 518
+20/12/20 10:05:13.01:   Film done 423 / 518
+20/12/20 10:05:13.01:   Film done 425 / 518
+20/12/20 10:05:13.01:   Film done 424 / 518
+20/12/20 10:05:13.01:   Film done 422 / 518
+20/12/20 10:05:13.01:   Film done 426 / 518
+20/12/20 10:05:13.01:   Film done 427 / 518
+20/12/20 10:05:13.01:   Film done 428 / 518
+20/12/20 10:05:13.01:   Film done 429 / 518
+20/12/20 10:05:13.01:   Film done 430 / 518
+20/12/20 10:05:13.01:   Film done 431 / 518
+20/12/20 10:05:13.01:   Film done 432 / 518
+20/12/20 10:05:13.01:   Film done 433 / 518
+20/12/20 10:05:13.01:   Film done 434 / 518
+20/12/20 10:05:13.01:   Film done 435 / 518
+20/12/20 10:05:13.01:   Film done 436 / 518
+20/12/20 10:05:13.01:   Film done 437 / 518
+20/12/20 10:05:13.01:   Film done 438 / 518
+20/12/20 10:05:13.01:   Film done 439 / 518
+20/12/20 10:05:13.01:   Film done 440 / 518
+20/12/20 10:05:13.01:   Film done 441 / 518
+20/12/20 10:05:13.01:   Film done 442 / 518
+20/12/20 10:05:13.01:   Film done 443 / 518
+20/12/20 10:05:13.01:   Film done 444 / 518
+20/12/20 10:05:13.01:   Film done 445 / 518
+20/12/20 10:05:13.01:   Film done 446 / 518
+20/12/20 10:05:13.01:   Film done 447 / 518
+20/12/20 10:05:13.01:   Film done 448 / 518
+20/12/20 10:05:13.01:   Film done 449 / 518
+20/12/20 10:05:13.01:   Film done 450 / 518
+20/12/20 10:05:13.01:   Film done 451 / 518
+20/12/20 10:05:13.01:   Film done 452 / 518
+20/12/20 10:05:13.01:   Film done 453 / 518
+20/12/20 10:05:13.01:   Film done 454 / 518
+20/12/20 10:05:13.01:   Film done 455 / 518
+20/12/20 10:05:13.01:   Film done 456 / 518
+20/12/20 10:05:13.02:   Film done 457 / 518
+20/12/20 10:05:13.02:   Film done 458 / 518
+20/12/20 10:05:13.02:   Film done 459 / 518
+20/12/20 10:05:13.02:   Film done 460 / 518
+20/12/20 10:05:13.02:   Film done 461 / 518
+20/12/20 10:05:13.02:   Film done 462 / 518
+20/12/20 10:05:13.02:   Film done 463 / 518
+20/12/20 10:05:13.02:   Film done 464 / 518
+20/12/20 10:05:13.02:   Film done 465 / 518
+20/12/20 10:05:13.02:   Film done 466 / 518
+20/12/20 10:05:13.02:   Film done 467 / 518
+20/12/20 10:05:13.02:   Film done 468 / 518
+20/12/20 10:05:13.02:   Film done 469 / 518
+20/12/20 10:05:13.02:   Film done 470 / 518
+20/12/20 10:05:13.02:   Film done 471 / 518
+20/12/20 10:05:13.02:   Film done 472 / 518
+20/12/20 10:05:13.02:   Film done 473 / 518
+20/12/20 10:05:13.02:   Film done 474 / 518
+20/12/20 10:05:13.02:   Film done 475 / 518
+20/12/20 10:05:13.02:   Film done 476 / 518
+20/12/20 10:05:13.02:   Film done 477 / 518
+20/12/20 10:05:13.02:   Film done 478 / 518
+20/12/20 10:05:13.02:   Film done 479 / 518
+20/12/20 10:05:13.02:   Film done 480 / 518
+20/12/20 10:05:13.02:   Film done 481 / 518
+20/12/20 10:05:13.02:   Film done 482 / 518
+20/12/20 10:05:13.02:   Film done 483 / 518
+20/12/20 10:05:13.02:   Film done 484 / 518
+20/12/20 10:05:13.02:   Film done 485 / 518
+20/12/20 10:05:13.02:   Film done 486 / 518
+20/12/20 10:05:13.02:   Film done 487 / 518
+20/12/20 10:05:13.02:   Film done 488 / 518
+20/12/20 10:05:13.02:   Film done 489 / 518
+20/12/20 10:05:13.02:   Film done 490 / 518
+20/12/20 10:05:13.02:   Film done 491 / 518
+20/12/20 10:05:13.02:   Film done 492 / 518
+20/12/20 10:05:13.02:   Film done 493 / 518
+20/12/20 10:05:13.02:   Film done 494 / 518
+20/12/20 10:05:13.02:   Film done 495 / 518
+20/12/20 10:05:13.02:   Film done 496 / 518
+20/12/20 10:05:13.03:   Film done 497 / 518
+20/12/20 10:05:13.03:   Film done 498 / 518
+20/12/20 10:05:13.03:   Film done 499 / 518
+20/12/20 10:05:13.03:   Film done 500 / 518
+20/12/20 10:05:13.03:   Film done 501 / 518
+20/12/20 10:05:13.03:   Film done 502 / 518
+20/12/20 10:05:13.03:   Film done 503 / 518
+20/12/20 10:05:13.03:   Film done 504 / 518
+20/12/20 10:05:13.03:   Film done 505 / 518
+20/12/20 10:05:13.03:   Film done 506 / 518
+20/12/20 10:05:13.03:   Film done 507 / 518
+20/12/20 10:05:13.03:   Film done 508 / 518
+20/12/20 10:05:13.03:   Film done 509 / 518
+20/12/20 10:05:13.03:   Film done 510 / 518
+20/12/20 10:05:13.03:   Film done 511 / 518
+20/12/20 10:05:13.03:   Film done 512 / 518
+20/12/20 10:05:13.03:   Film done 513 / 518
+20/12/20 10:05:13.03:   Film done 514 / 518
+20/12/20 10:05:13.03:   Film done 515 / 518
+20/12/20 10:05:13.04:   Cleaning up showings
+20/12/20 10:05:13.03:   Film done 516 / 518
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for snoopyandcharliebrownthe2015
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for snoopyandcharliebrownthe2015
+20/12/20 10:05:13.04:   Film done 517 / 518
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for monstertrucks2016
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for monstertrucks2016
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thehitmansbodyguard2017
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thehitmansbodyguard2017
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thehitmansbodyguard2017
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for warrior2011
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for ferngullythelastrainforest1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for ferngullythelastrainforest1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for nativity3dudewheresmy2012
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for nativity3dudewheresmy2012
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thekaratekid1984
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thekaratekid1984
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thekaratekid1984
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thedeathofstalin1953
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for singlewhitefemale1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for singlewhitefemale1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for singlewhitefemale1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for runawaybride1999
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thebodyguard1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for thebodyguard1992
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for reddragon2002
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for reddragon2002
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for christmasjoy2018
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for christmascrush2019
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for annihilationearth2009
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for annihilationearth2009
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for witchesinthewoods2019
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for witchesinthewoods2019
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for snowmen2010
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for snowmen2010
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for snowmen2010
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for snowmen2010
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for aloneforchristmas2013
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for aloneforchristmas2013
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for allgoodthings2019
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for allgoodthings2019
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.04:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for ifyoubelieveinchristmas1999
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for magicstocking2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for luckychristmas2011
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for beverlyhillschristmas22018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for beverlyhillschristmas22018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for merryexmas2014
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for merryexmas2014
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for thechristmascabin2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for thechristmascabin2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for thechristmascabin2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for thechristmascabin2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for thechristmascabin2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for thechristmascabin2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for merrykissmas2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for merrykissmas2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for merrykissmas2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for merrykissmas2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for achristmasreunion2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for achristmasreunion2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for achristmasreunion2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for achristmasreunion2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for achristmasreunion2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for achristmasreunion2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for christmaseve2015
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for illbenextdoorforchristmas2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for illbenextdoorforchristmas2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for illbenextdoorforchristmas2018
+20/12/20 10:05:13.05:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for saintsandsoldiersbattleof2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for gunfighters1947
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for saintsandsoldiersbattleof2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for marineraiders1944
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for marineraiders1944
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thebambooprison1954
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for hellriver1974
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for hellriver1974
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for decisionbeforedawn1951
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for decisionbeforedawn1951
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for decisionbeforedawn1951
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for decisionbeforedawn1951
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for decisionbeforedawn1951
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for decisionbeforedawn1951
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for sinkthebismarck1960
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for sinkthebismarck1960
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for sinkthebismarck1960
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for sinkthebismarck1960
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for sinkthebismarck1960
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for sinkthebismarck1960
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thedesertrats1953
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thedesertrats1953
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thedesertrats1953
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thedesertrats1953
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thedesertrats1953
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thedesertrats1953
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thegreatwar2019
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for thegreatwar2019
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for toendallwars2001
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for toendallwars2001
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for dejavu2006
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for momentum2015
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for momentum2015
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinwonderland2007
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinwonderland2007
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinwonderland2007
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinwonderland2007
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinwonderland2007
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinwonderland2007
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.06:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for christmasinpalmsprings2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for seabiscuit2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for seabiscuit2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for seabiscuit2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for seabiscuit2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for seabiscuit2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for seabiscuit2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for thetheoryofeverything2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for thetheoryofeverything2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for thetheoryofeverything2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for thetheoryofeverything2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for thetheoryofeverything2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for thetheoryofeverything2014
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for masterandcommanderthefar2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for masterandcommanderthefar2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for masterandcommanderthefar2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for masterandcommanderthefar2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for masterandcommanderthefar2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for masterandcommanderthefar2003
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.07:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for braveheart1995
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for beethovenschristmasadventure2012
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for beethovenschristmasadventure2012
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for beethovenschristmasadventure2012
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for beethovenschristmasadventure2012
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for beethovenschristmasadventure2012
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for beethovenschristmasadventure2012
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for jackfrost1998
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for jackfrost1998
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for jackfrost1998
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for jackfrost1998
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for jackfrost1998
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for jackfrost1998
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for thegrinch2018
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for thegrinch2018
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for thegrinch2018
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for thegrinch2018
+20/12/20 10:05:13.08:   Removed a duplicate/split showing for thegrinch2018
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unclebuck1989
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unclebuck1989
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for thegrinch2018
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unclebuck1989
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unclebuck1989
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unclebuck1989
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unclebuck1989
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for safehouse
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for safehouse
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for safehouse
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for safehouse
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for safehouse
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for safehouse
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for thehorsesoldiers1959
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for thehorsesoldiers1959
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for nationallampoonseuropeanvacation1985
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for teenagemutantninjaturtles2014
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for teenagemutantninjaturtles2014
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for kungfupanda22011
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for kungfupanda22011
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for fantasticfourriseofthe2007
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for fantasticfourriseofthe2007
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for kingsmanthesecretservice2014
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for unbroken2014
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for danceswithwolves1990
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for missionimpossible1996
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for missionimpossible1996
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for missionimpossible1996
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for missionimpossible1996
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for filmmissionimpossible1996
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for therevenant2015
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for therevenant2015
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for therevenant2015
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for jessestonebenefitofthedoubt2012
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for jessestonebenefitofthedoubt2012
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for jessestonedeathinparadise2006
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for jessestonedeathinparadise2006
+20/12/20 10:05:13.09:   Removed a duplicate/split showing for themask1994
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for themask1994
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for themask1994
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for hannibal2001
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for switchedatchristmas2017
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for zodiacsignsoftheapocalypse2014
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for zodiacsignsoftheapocalypse2014
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for hannibal2001
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for icesharks2016
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for christmasbythebook2018
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for icesharks2016
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for christine1983
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for badmatch2017
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for ohchristmastree2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for secretsanta1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for secretsanta1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmaswife1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmaswife1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmaswife1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmaswife1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmaswife1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmaswife1998
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for silverbells2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmasshepherd2014
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thechristmasshepherd2014
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for christmaslodge2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for christmaslodge2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for defendingsanta2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for defendingsanta2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for defendingsanta2013
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaptivecity1952
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaseforchristmas2011
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaptivecity1952
+20/12/20 10:05:13.10:   Removed a duplicate/split showing for thecaptivecity1952
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for thecaptivecity1952
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for santafe1951
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for paratroopcommand1959
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for paratroopcommand1959
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for ivanhoe1982
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for ivanhoe1982
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for asteroidvsearth2014
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for asteroidvsearth2014
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for assassinx2016
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for assassinx2016
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for assassinx2016
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for theartofwariibetrayal2008
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for seraphimfalls2007
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for seraphimfalls2007
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for faster2010
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for faster2010
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for faster2010
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for faster2010
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for christmasmix2014
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for christmasmix2014
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for runawaychristmasbride2017
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for runawaychristmasbride2017
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for runawaychristmasbride2017
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for runawaychristmasbride2017
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for thelittlevampire2000
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for thelittlevampire2000
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for thelittlevampire2000
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for thelittlevampire2000
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for buster1988
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for buster1988
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for younggunsii1990
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for younggunsii1990
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for tracker1903
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for tracker1903
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for tracker1903
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for tracker1903
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for tracker1903
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for tracker1903
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for enemyatthegates2001
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for alphadog2007
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for alphadog2007
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for alphadog2007
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for sharktale
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for sharktale
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for happyfeet2006
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for happyfeet2006
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for happyfeet2006
+20/12/20 10:05:13.11:   Removed a duplicate/split showing for happyfeet2006
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for happyfeet2006
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for happyfeet2006
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for charlieandthechocolatefactory2005
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for charlieandthechocolatefactory2005
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for charlieandthechocolatefactory2005
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for charlieandthechocolatefactory2005
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for charlieandthechocolatefactory2005
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for charlieandthechocolatefactory2005
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for onthebuses
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for onthebuses
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for onthebuses
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for onthebuses
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for onthebuses
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for theworldsend2013
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for theworldsend2013
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for theworldsend2013
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for officechristmasparty2016
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for officechristmasparty2016
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for officechristmasparty2016
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for thegreatwall2017
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for cowboysaliens2011
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for anchorman2thelegendcontinues2013
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for matilda1996
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for christmasinthehighlands2019
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for collateral2004
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for collateral2004
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for collateral2004
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for collateral2004
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for collateral2004
+20/12/20 10:05:13.12:   Removed a duplicate/split showing for collateral2004
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for jessestoneinnocentslost2011
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for jessestoneinnocentslost2011
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for jessestonelostinparadise2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for jessestonelostinparadise2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for bodyofevidence
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for charliesangels2000
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasintheair2017
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for bodyofevidence
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for misschristmas2017
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for mindblown2016
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for mindblown2016
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for afterdeath2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for afterdeath2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for amiracleonchristmaslake2016
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for amiracleonchristmaslake2016
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thetownthatbannedchristmas2006
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thetownthatbannedchristmas2006
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for abeautythebeastchristmas2019
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for abeautythebeastchristmas2019
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thespiritofchristmas2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thespiritofchristmas2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasinthesmokies2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasinthesmokies2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasinthesmokies2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for astarforchristmas2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for astarforchristmas2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for marryingfatherchristmas2018
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for marryingfatherchristmas2018
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for underthemistletoe2006
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for underthemistletoe2006
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for underthemistletoe2006
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmasmiracle2012
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thehappythieves1961
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thehappythieves1961
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for theadmirablecrichton1957
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for theadmirablecrichton1957
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thehellfighters1968
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thehellfighters1968
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmastruce2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for christmastruce2015
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for globalmeltdown2018
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for globalmeltdown2018
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thetakingofpelhamonetwothree1974
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thetakingofpelhamonetwothree1974
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thetakingofpelhamonetwothree1974
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thetakingofpelhamonetwothree1974
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for starshiptroopers32008
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thedriftlessarea2016
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for starshiptroopers32008
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for starshiptroopers32008
+20/12/20 10:05:13.13:   Removed a duplicate/split showing for thedriftlessarea2016
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for rvrunawayvacation2006
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for rvrunawayvacation2006
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for americassweethearts2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for americassweethearts2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for nicknorahsinfiniteplaylist2008
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for nicknorahsinfiniteplaylist2008
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for rickiandtheflash2015
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for rickiandtheflash2015
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for rickiandtheflash2015
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for rickiandtheflash2015
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for heist2001
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for amostviolentyear2014
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for americanpie1999
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for americanpie1999
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for alvinandthechipmunkstheroadchip
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for alvinandthechipmunkstheroadchip
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for happyfeettwo2011
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for happyfeettwo2011
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for misscongeniality
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for misscongeniality
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for bridesmaids2011
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for bridesmaids2011
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for bridesmaids2011
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for holidayonthebuses1973
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for holidayonthebuses1973
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for holidayonthebuses1973
+20/12/20 10:05:13.14:   Removed a duplicate/split showing for holidayonthebuses1973
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thewolfofwallstreet
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thewolfofwallstreet
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thewolfofwallstreet
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thewolfofwallstreet
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for daddyshome22017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for findingyourfeet2017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for midnightrun1988
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for scroogeachristmascarol1951
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for allcreaturesgreatandsmall1975
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for calendargirls2003
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for calendargirls2003
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for merrymadagascar2009
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for jessestonenightpassage2006
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for jessestonenightpassage2006
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for jessestonenoremorse2009
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for jessestonenoremorse2009
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for murdershewrotesouthbysouthwest
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for murdershewrotesouthbysouthwest
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for charliesangelsfullthrottle2003
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for dirtydancing2havananights1958
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for londonhasfallen2016
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for minglealltheway2018
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for roadtochristmas2018
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for scanners1981
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for scanners1981
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for christmasangel2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for christmasangel2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for achristmasweddingdate2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for achristmasweddingdate2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for themarchsistersatchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for themarchsistersatchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for christmasatmaxwells2006
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for christmasatmaxwells2006
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for averycoolchristmas2004
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for christmascomeshome2011
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for averycoolchristmas2004
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for christmascomeshome2011
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for aroyalchristmasball2017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for aroyalchristmasball2017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for alliwantforchristmas2013
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for alliwantforchristmas2013
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for loveforchristmas2012
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for achristmascruise2017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for achristmascruise2017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for achristmascruise2017
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thewindandthelion1975
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thebigsteal1949
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thewindandthelion1975
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thedesperadoes1943
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thedesperadoes1943
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thebigsteal1949
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thedesperadoes1943
+20/12/20 10:05:13.15:   Removed a duplicate/split showing for thedesperadoes1943
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thedesperadoes1943
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thedesperadoes1943
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for gunsatbatasi1964
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for gunsatbatasi1964
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for totheshoresoftripoli1942
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for totheshoresoftripoli1942
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thephiladelphiaexperiment2012
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thephiladelphiaexperiment2012
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thehuntersprayer2017
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thehuntersprayer2017
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for assassinscode2011
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for southernfury2017
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for assassinscode2011
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for southernfury2017
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thechristmascandle2013
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for theninelivesofchristmas2014
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for theninelivesofchristmas2014
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for goldenwinter2012
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for goldenwinter2012
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for magicinthewater1995
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for magicinthewater1995
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for marieantoinette2006
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for marieantoinette2006
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for paulblartmallcop22015
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for paulblartmallcop22015
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for salt2010
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for salt2010
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for salt2010
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for knockedup2007
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for americanpie22000
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for americanpie22000
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for spykids2theislandoflostdreams
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for spykids2theislandoflostdreams
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for nannymcpheeandthebigbang2010
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for nannymcpheeandthebigbang2010
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thelegendoftarzan2016
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for thelegendoftarzan2016
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for fastandfurious72015
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for mutinyonthebuses1972
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for fastandfurious72015
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for mutinyonthebuses1972
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for mutinyonthebuses1972
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for battleship
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for fastandfurious72015
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for mutinyonthebuses1972
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for valerianandthecityofa2017
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for battleship
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for valerianandthecityofa2017
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for battleship
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for sevenbridesforsevenbrothers1954
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for shirleyvalentine1989
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for annie1982
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for benhur2016
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for jessestoneseachange2007
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for jessestoneseachange2007
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for jessestonestonecold2005
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for jessestonestonecold2005
+20/12/20 10:05:13.16:   Removed a duplicate/split showing for shirleyvalentine1989
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for murdershewroteastorytodiefor
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for murdershewroteastorytodiefor
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for catsanddogs2001
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for beethoven1992
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for thedevilwearsprada
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for thelmaandlouise1991
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for christmasnextdoor2017
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for maggieschristmasmiracle2017
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for theinnkeepers2011
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for theinnkeepers2011
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for elfman2012
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for elfman2012
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for correctingchristmas2014
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for correctingchristmas2014
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for mandieandtheforgottenchristmas2011
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for mandieandtheforgottenchristmas2011
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for christmasonthebayou2013
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for christmasonthebayou2013
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for christmasalloveragain2016
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for christmasalloveragain2016
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for achristmasevemiracle2015
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for achristmasevemiracle2015
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for alawlessstreet1955
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for alawlessstreet1955
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for cowboysindians2011
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for cowboysindians2011
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for thenebraskan1953
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thenebraskan1953
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thenebraskan1953
+20/12/20 10:05:13.17:   Removed a duplicate/split showing for thenebraskan1953
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thenebraskan1953
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thenebraskan1953
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for cripplecreek1952
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for cripplecreek1952
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for cripplecreek1952
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for cripplecreek1952
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for cripplecreek1952
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for cripplecreek1952
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for massacreatbuffalovalley2013
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for massacreatbuffalovalley2013
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for mackennasgold1969
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for mackennasgold1969
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for mackennasgold1969
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for mackennasgold1969
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for mackennasgold1969
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for mackennasgold1969
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thebravados1958
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thebravados1958
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for duelatdiablo1966
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for duelatdiablo1966
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for duelatdiablo1966
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for vincentnroxxy2016
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for vincentnroxxy2016
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for bicentennialman1999
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for bicentennialman1999
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for santasdog2012
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for santasdog2012
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for whatseatinggilbertgrape1993
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for whatseatinggilbertgrape1993
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for itcouldhappentoyou1994
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for itcouldhappentoyou1994
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for strangerthanfiction2006
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for strangerthanfiction2006
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thedayaftertomorrow2004
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for theholiday2006
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for theholiday2006
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for policeacademy6cityundersiege
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for policeacademy6cityundersiege
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thewarwagon1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thewarwagon1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thewarwagon1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thewarwagon1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thewarwagon1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for thewarwagon1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for tobruk1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for tobruk1967
+20/12/20 10:05:13.18:   Removed a duplicate/split showing for tobruk1967
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for tobruk1967
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for tobruk1967
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for tobruk1967
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for force10fromnavarone1978
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for force10fromnavarone1978
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for rolemodels2008
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for rolemodels2008
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for rolemodels2008
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for themountainbetweenus2017
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thegrandbudapesthotel2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for jasonbourne2016
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for oliver1968
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for chittychittybangbang1968
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for lalaland
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for lalaland
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for lalaland
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for lalaland
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for florencefosterjenkins1940
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for florencefosterjenkins1940
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for murdershewrotethecelticriddle
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for murdershewrotethecelticriddle
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for godzilla1998
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for dantespeak1997
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for outbreak1995
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for afewgoodmen1992
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for rainman1988
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for rainman1988
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for reunitedatchristmas2018
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for homeforchristmasday2017
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for the7thvoyageofsinbad1958
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for the7thvoyageofsinbad1958
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for drterrorshouseofhorrors1965
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for drterrorshouseofhorrors1965
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for christmasonchestnutstreet2006
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for christmasonchestnutstreet2006
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thechristmasswitch2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thechristmasswitch2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thechristmasswitch2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thechristmasswitch2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thechristmasswitch2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thechristmasswitch2014
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thenationaltree2009
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thenationaltree2009
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thenationaltree2009
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for strangeronhorseback1955
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for strangeronhorseback1955
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thetallt1957
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thetallt1957
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thecolditzstory1955
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for thecolditzstory1955
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for icecoldinalex1958
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for icecoldinalex1958
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for midway1942
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for midway1942
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for ageofheroes2011
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for ageofheroes2011
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for ageofheroes2011
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for ageofheroes2011
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for preciouscargo2016
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for preciouscargo2016
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for littlewomen1994
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for littlewomen1994
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for theremainsoftheday1993
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for theremainsoftheday1993
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for lesmiserables1998
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for lesmiserables1998
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for nannymcphee2005
+20/12/20 10:05:13.19:   Removed a duplicate/split showing for nannymcphee2005
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for peterpan2003
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for peterpan2003
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for chickenrun2000
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for chickenrun2000
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for jurassicworldfallenkingdom
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for jurassicworldfallenkingdom
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for spectre2015
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for spectre2015
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for carryoncamping1969
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for carryoncamping1969
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for carryongirls1973
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for carryongirls1973
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for shalako
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for shalako
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for spartacus1960
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for spartacus1960
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for thepinkpanther1963
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for thepinkpanther1963
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for nationallampoonschristmasvacation1989
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for nationallampoonschristmasvacation1989
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for nationallampoonschristmasvacation1989
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for nationallampoonschristmasvacation1989
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for thekaratekidpart21986
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for practicalmagic1998
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for mybigfatgreekwedding22016
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for mybestfriendswedding1997
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for runawaybride
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for anofficerandagentleman1982
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for amurdererupstairs2017
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for impact2009
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for impact2009
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for amissionforchristmas2015
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for amissionforchristmas2015
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for amissionforchristmas2015
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for amissionforchristmas2015
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for christmasintheclouds2001
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for christmasintheclouds2001
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for holidaywishes2006
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for holidaywishes2006
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for theyrodewest1954
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for theyrodewest1954
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for theredbaron2008
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for theredbaron2008
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for waterloo1971
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for waterloo1971
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for flyawayhome1996
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for flyawayhome1996
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for alvinandthechipmunkschipwrecked
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for alvinandthechipmunkschipwrecked
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for mammamiaherewegoagain2018
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for mammamiaherewegoagain2018
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for despicableme32017
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for despicableme32017
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for fastandfurious82017
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for fastandfurious82017
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for benhur1959
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for benhur1959
+20/12/20 10:05:13.20:   Removed a duplicate/split showing for themagnificentsevenride1972
+20/12/20 10:05:13.21:   Removed a duplicate/split showing for themagnificentsevenride1972
+20/12/20 10:05:13.21:   Removed a duplicate/split showing for usmarshals
+20/12/20 10:05:13.21:   Removed a duplicate/split showing for usmarshals
+20/12/20 10:05:13.21:   All done!
+20/12/20 10:05:13.80:   Removed {"n":1,"opTime":{"ts":"6908277569301250049","t":5},"electionId":"7fffffff0000000000000005","ok":1,"$clusterTime":{"clusterTime":"6908277569301250049","signature":{"hash":"TVZTvZrpw+7ZPRKr2m0CDD5PtsM=","keyId":"6902815612146286595"}},"operationTime":"6908277569301250049"} objects in collection
+20/12/20 10:05:14.72:   Removed {"n":0,"opTime":{"ts":"6908277569301250049","t":5},"electionId":"7fffffff0000000000000005","ok":1,"$clusterTime":{"clusterTime":"6908277569301250049","signature":{"hash":"TVZTvZrpw+7ZPRKr2m0CDD5PtsM=","keyId":"6902815612146286595"}},"operationTime":"6908277569301250049"} objects in collection
+20/12/20 10:05:14.74:   Removed {"n":0,"opTime":{"ts":"6908277569301250049","t":5},"electionId":"7fffffff0000000000000005","ok":1,"$clusterTime":{"clusterTime":"6908277569301250049","signature":{"hash":"TVZTvZrpw+7ZPRKr2m0CDD5PtsM=","keyId":"6902815612146286595"}},"operationTime":"6908277569301250049"} objects in collection
+20/12/20 10:05:14.77:   Removed {"n":0,"opTime":{"ts":"6908277569301250049","t":5},"electionId":"7fffffff0000000000000005","ok":1,"$clusterTime":{"clusterTime":"6908277569301250049","signature":{"hash":"TVZTvZrpw+7ZPRKr2m0CDD5PtsM=","keyId":"6902815612146286595"}},"operationTime":"6908277569301250049"} objects in collection
+20/12/20 10:05:15.83:   Inserted object into collection
+20/12/20 10:05:15.96:   MongoError: E11000 duplicate key error collection: heroku_7qhfvjll.moviesonfreeview_films index: _id_ dup key: { _id: ObjectId('5fdf21d94f110c1dd0f4d7a5') }
+20/12/20 10:05:16.54:   MongoError: E11000 duplicate key error collection: heroku_7qhfvjll.moviesonfreeview_films index: _id_ dup key: { _id: ObjectId('5fdf21d94f110c1dd0f4d7a5') }
+20/12/20 10:05:16.61:   MongoError: E11000 duplicate key error collection: heroku_7qhfvjll.moviesonfreeview_films index: _id_ dup key: { _id: ObjectId('5fdf21d94f110c1dd0f4d7a5') }
+20/12/20 10:05:19.41:   Found: 
+20/12/20 10:15:25.12:   Web server running on http://localhost:5000
+20/12/20 10:25:03.38:   Web server running on http://localhost:5000
+20/12/20 10:25:11.29:   Found: 
+20/12/20 10:26:35.85:   Web server running on http://localhost:5000

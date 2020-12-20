@@ -14,17 +14,17 @@
 		"nedb": "1.8.0",
 		"cron": "1.1.0",
 		"q": "1.4.1",
-		"mongojs": "2.4.0"
+		"mongodb": "3.0.10"
 	},
 	"subdomain": "movies-on-freeview",
 	"scripts": {
-		"start": "node start.js"
+		"start": "node --harmony start.js"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/davidpanik/MoviesOnFreeview/"
 	},
 	"engines": {
-		"node": "0.10.x"
+		"node": "10.0.0"
 	}
 }
